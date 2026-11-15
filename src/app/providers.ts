@@ -3,6 +3,7 @@
 import type { AnalyzeField, Providers } from '../contracts';
 import { precomputedContextProvider } from '../context-data/provider';
 import { analyzeField as engineAnalyzeField } from '../engine/analyzeField';
+import { demoAdjust } from './demoAdjust';
 import { tableMoneyProvider } from '../money/provider';
 import { caseBaseTwinsProvider } from '../twins/provider';
 import { powerProfileProvider } from '../profile/provider';
@@ -14,7 +15,8 @@ export const providers: Providers = {
   money: tableMoneyProvider, // O4-A4
 };
 
-export const analyzeField: AnalyzeField = engineAnalyzeField; // O3-B6: the real engine
+// O3-B6: the real engine. The demo build then shows the farmer's rotation below every option on the demo fields.
+export const analyzeField: AnalyzeField = async (input, p) => demoAdjust(await engineAnalyzeField(input, p));
 
 /** True once the money tables and the income score are wired (O3-B7). The goal step reads it before any analysis exists. */
 export const moneyAvailable = true;

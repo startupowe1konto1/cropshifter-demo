@@ -2,6 +2,7 @@
 // small tiles; the picked one opens as a full card below, one card at a time. The sources are folded at the end. The
 // goal is changed on its own step, not here (HANDOFF-frontend step 5).
 import { useEffect, useState } from 'react';
+import { DEMO_FIELD_IDS } from '../../app/demoAdjust';
 import { t } from '../../app/i18n';
 import { liveSoilData } from '../../app/providers';
 import { useAppStore } from '../../app/store';
@@ -53,6 +54,11 @@ export function RotationsStep() {
   return (
     <div className="grid gap-5">
       <FieldSummary analysis={data} />
+      {DEMO_FIELD_IDS.includes(data.field.id) ? (
+        <p className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-snug text-amber-950">
+          {t('steps.money.demoNote')}
+        </p>
+      ) : null}
 
       {data.rotations.length === 0 ? (
         <StateBoundary state="no-data" reason={t('steps.rotations.noCrops')}>
