@@ -55,7 +55,7 @@ export function App() {
   return (
     <div className="flex min-h-screen flex-col bg-zinc-100 text-zinc-950">
       <header className="sticky top-0 z-20 border-b border-zinc-200 bg-white/90 backdrop-blur print:hidden">
-        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-2 px-4 py-3 sm:px-6">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-x-3 gap-y-2 px-4 py-3 sm:gap-x-6 sm:px-6">
           <div className="flex items-center gap-2.5">
             <span aria-hidden="true" className="grid h-8 w-8 place-items-center rounded-lg bg-zinc-900 text-white">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round">
@@ -93,12 +93,12 @@ export function App() {
               })}
             </ol>
           ) : null}
-          <div className="ml-auto flex items-center gap-3">
+          <div className="ml-auto flex shrink-0 items-center gap-1.5 sm:gap-3">
             <button
               ref={glossaryButton}
               type="button"
               aria-expanded={glossaryOpen}
-              className={`h-9 rounded-full border px-4 text-sm font-medium transition-colors duration-200 ease-out focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2 ${
+              className={`h-8 rounded-full border px-2.5 text-xs font-medium sm:h-9 sm:px-4 sm:text-sm transition-colors duration-200 ease-out focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2 ${
                 glossaryOpen
                   ? 'border-zinc-900 bg-zinc-900 text-white'
                   : 'border-zinc-300 bg-white text-zinc-900 hover:border-zinc-900 hover:bg-lime-100'
@@ -108,7 +108,7 @@ export function App() {
               {t('app.glossary')}
             </button>
             {/* A two-way switch: the green thumb slides under the chosen language. */}
-            <div role="group" aria-label={t('app.language')} className="relative grid h-9 grid-cols-2 rounded-full bg-zinc-100 p-1">
+            <div role="group" aria-label={t('app.language')} className="relative grid h-8 grid-cols-2 rounded-full bg-zinc-100 p-1 sm:h-9">
               <span
                 aria-hidden="true"
                 className={`absolute inset-y-1 left-1 w-[calc(50%-0.25rem)] rounded-full bg-zinc-900 transition-transform duration-200 ease-out motion-reduce:transition-none ${
@@ -121,12 +121,14 @@ export function App() {
                   type="button"
                   lang={code}
                   aria-pressed={lang === code}
-                  className={`relative z-10 rounded-full px-3 text-sm font-medium transition-colors duration-200 ease-out focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 ${
+                  aria-label={t(`app.lang.${code}`)}
+                  className={`relative z-10 rounded-full px-2 text-xs font-medium sm:px-3 sm:text-sm transition-colors duration-200 ease-out focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 ${
                     lang === code ? 'text-white' : 'text-zinc-700 hover:text-zinc-900'
                   }`}
                   onClick={() => setLang(code)}
                 >
-                  {t(`app.lang.${code}`)}
+                  <span aria-hidden="true" className="sm:hidden">{code.toUpperCase()}</span>
+                  <span aria-hidden="true" className="hidden sm:inline">{t(`app.lang.${code}`)}</span>
                 </button>
               ))}
             </div>

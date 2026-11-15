@@ -161,6 +161,9 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
         />
       </p>
 
+      <h3 id="switch-compare-title" className="mt-4 border-t border-zinc-200 pt-5 text-lg font-semibold text-zinc-950">
+        {t('steps.money.compareTitle')}
+      </h3>
       <div className="overflow-hidden rounded-[20px] border border-zinc-200 bg-white">
         <table aria-label={t('steps.money.compare')} className="w-full table-fixed border-collapse">
           <colgroup>

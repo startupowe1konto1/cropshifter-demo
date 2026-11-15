@@ -11,7 +11,7 @@ const DEMOS = [
 ] as const;
 
 const BUTTON =
-  'min-h-11 rounded-lg border px-4 text-base font-medium focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2';
+  'focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2';
 
 /** `?demo=poznan` or `?demo=iowa` in the address, so a link opens straight on a demo field. */
 export function demoFromUrl(search: string): (typeof DEMOS)[number]['field'] | null {
@@ -41,7 +41,7 @@ export function DemoPicker() {
         {t('demo.title')}
       </h2>
       <p className="mt-1 text-sm text-zinc-600">{t('demo.hint')}</p>
-      <div className="mt-2 flex flex-wrap gap-2">
+      <div className="mt-3 grid gap-3 sm:grid-cols-2">
         {DEMOS.map(({ key, field }) => {
           const active = selectedFieldId === field.id;
           return (
@@ -49,10 +49,17 @@ export function DemoPicker() {
               key={key}
               type="button"
               aria-pressed={active}
-              className={`${BUTTON} ${active ? 'border-zinc-900 bg-zinc-900 text-white' : 'border-zinc-300 bg-white text-zinc-900 hover:bg-zinc-100'}`}
+              aria-label={t(`demo.${key}`)}
+              aria-describedby={`demo-sub-${key}`}
+              className={`${BUTTON} grid min-h-20 content-center gap-1 rounded-xl border-2 px-4 py-3 text-left shadow-sm ${
+                active ? 'border-zinc-900 bg-zinc-900 text-white' : 'border-zinc-300 bg-white text-zinc-900 hover:border-zinc-500'
+              }`}
               onClick={() => pick(field)}
             >
-              {t(`demo.${key}`)}
+              <span className="text-base font-semibold">{t(`demo.${key}`)}</span>
+              <span id={`demo-sub-${key}`} className={`text-sm font-normal ${active ? 'text-zinc-200' : 'text-zinc-600'}`}>
+                {t(`demo.${key}.sub`)} · {field.areaHa} ha
+              </span>
             </button>
           );
         })}

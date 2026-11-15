@@ -1,6 +1,9 @@
 {
   "demo.title": "Demo locations",
-  "demo.hint": "Pick one of the two fields from our presentation. You can still search for any address below.",
+  "demo.hint": "Data for this demo are prepared for these two fields.",
   "demo.poznan": "Uzarzewo near Poznań, Poland",
-  "demo.iowa": "Story County, Iowa"
+  "demo.iowa": "Story County, Iowa",
+  "demo.off": "Off in this demo: other fields are not available.",
+  "demo.poznan.sub": "Poland · land-register parcel 302116_5.0015.28/1",
+  "demo.iowa.sub": "USA · corn and soybean field between Ames and Nevada"
 }

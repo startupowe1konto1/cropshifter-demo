@@ -1,5 +1,5 @@
 {
-  "map.intro": "Wpisz adres swojego pola albo dotknij go na mapie.",
+  "map.intro": "Wybierz jedno z dwóch pól z naszej prezentacji.",
   "map.label": "Mapa. Dotknij miejsca, żeby dodać tam pole.",
   "map.hint": "W Polsce, gdy dotkniesz mapy, dodasz działkę ewidencyjną z tego miejsca. W pobliżu pola przykładowego w Iowa dodasz jego obrys, a w innych miejscach kwadrat 200 na 200 m (4 ha). Dotknij dodanego już pola, żeby je zaznaczyć.",
   "map.field.atPoint": "Pole w punkcie {lat}, {lon}",

@@ -12,7 +12,6 @@ import { createLeafletMap, type MapController } from './leafletMap';
 import { ParcelSearch } from './parcels/ParcelSearch';
 import { cutField } from './parcels/editFields';
 import { addFieldAt, useParcelTap } from './parcels/tap';
-import { SearchBox } from './search/SearchBox';
 
 const BUTTON =
   'min-h-11 rounded-lg border border-zinc-300 bg-white px-4 text-base font-medium text-zinc-900 hover:bg-zinc-50 focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2 active:bg-zinc-100';
@@ -114,12 +113,6 @@ export function MapStep() {
 
       <DemoPicker />
 
-      <SearchBox
-        onPick={(place) => {
-          mapRef.current?.showPlace(place.lat, place.lon, place.label);
-          void addFieldAt(place.lat, place.lon); // the same outline a tap there would give
-        }}
-      />
 
       {tilesFailed ? (
         <StateBoundary state="error" source={t('map.tiles.source')} reason={t('map.tiles.reason')} onRetry={retryTiles}>
@@ -186,7 +179,13 @@ export function MapStep() {
         </div>
       </div>
 
-      <ParcelSearch />
+      {/* The demo opens on the two fields from the presentation; finding another parcel by number stays visible but off. */}
+      <fieldset disabled aria-describedby="demo-off" className="grid gap-1 rounded-lg border border-dashed border-zinc-300 bg-zinc-50 p-3 opacity-60">
+        <p id="demo-off" className="text-sm font-medium text-zinc-700">
+          {t('demo.off')}
+        </p>
+        <ParcelSearch />
+      </fieldset>
 
       <FieldList />
     </div>

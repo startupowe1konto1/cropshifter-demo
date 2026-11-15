@@ -211,15 +211,15 @@ describe('glossary link', () => {
     expect(link).toHaveAttribute('aria-expanded', 'true');
     expect(screen.queryByRole('button', { name: 'Next' })).not.toBeInTheDocument();
     // The step stays mounted but hidden, so its local state (the map view) survives.
-    const searchBox = { name: t('search.label') };
-    expect(screen.queryByRole('searchbox', searchBox)).not.toBeInTheDocument();
-    expect(screen.getByRole('searchbox', { ...searchBox, hidden: true })).not.toBeVisible();
+    const demoButton = { name: t('demo.poznan') };
+    expect(screen.queryByRole('button', demoButton)).not.toBeInTheDocument();
+    expect(screen.getByRole('button', { ...demoButton, hidden: true })).not.toBeVisible();
 
     await user.click(screen.getByRole('button', { name: 'Back to step 1' }));
     expect(await screen.findByRole('button', { name: 'Next' })).toBeInTheDocument();
     expect(screen.queryByText('Words used in this tool')).not.toBeInTheDocument();
     expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(`Step 1 of ${STEP_COUNT}`);
-    expect(screen.getByRole('searchbox', searchBox)).toBeVisible();
+    expect(screen.getByRole('button', demoButton)).toBeVisible();
     expect(link).toHaveFocus();
   });
 
