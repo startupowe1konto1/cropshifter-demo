@@ -17,7 +17,7 @@ You can still search for any address or tap the map, but soil, slope and crop-hi
 
 ## Pitch deck
 
-The 7-slide pitch deck: https://cropshifter-demo.vercel.app/pitch/deck.pdf (PDF) and https://cropshifter-demo.vercel.app/pitch/ (animated, on a laptop; right arrow or space to advance).
+The 7-slide pitch deck (PDF) lives in the main repository: https://github.com/startupowe1konto1/NASA-Space-Apps-Hackathon/blob/main/pitch/out/deck.pdf. The old links under `/pitch/` on this site redirect there.
 
 ## NASA data
 
@@ -55,7 +55,7 @@ npm run build      # output in dist/
 
 ## Deploy on Vercel
 
-Import this repository in Vercel. `vercel.json` sets the framework (Vite), the build command and the output folder (`dist`). The build command runs `vite build`, installs the pitch deck's dependencies and runs `scripts/build-pitch.mjs`, which copies the deck in `pitch/deck/` to `/pitch/` and its PDF (`pitch/out/deck.pdf`) to `/pitch/deck.pdf`. No environment variables are needed. `api/cropscape.ts` becomes a serverless function that forwards one request type to USDA CropScape.
+Import this repository in Vercel. `vercel.json` sets the framework (Vite), the build command and the output folder (`dist`). The build command runs `vite build`. `/pitch/` and `/pitch/deck.pdf` redirect to the deck PDF in the main repository. No environment variables are needed. `api/cropscape.ts` becomes a serverless function that forwards one request type to USDA CropScape.
 
 ## Notes
 
