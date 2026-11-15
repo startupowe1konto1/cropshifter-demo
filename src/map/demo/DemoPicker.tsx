@@ -3,9 +3,10 @@ import { useEffect } from 'react';
 import { t } from '../../app/i18n';
 import { useAppStore } from '../../app/store';
 import { demoFields } from '../../fixtures';
+import { pitchPoznanField } from './pitchField';
 
 const DEMOS = [
-  { key: 'poznan', field: demoFields.poznan },
+  { key: 'poznan', field: pitchPoznanField },
   { key: 'iowa', field: demoFields.iowa },
 ] as const;
 

@@ -8,7 +8,7 @@ This repository holds only the web app, ready to deploy on Vercel.
 
 Step 1 has two buttons for the fields from our presentation:
 
-- **Poznań, Poland**: an 8 ha field near Poznań, with its land-register parcel.
+- **Uzarzewo near Poznań, Poland**: land-register parcel 302116_5.0015.28/1 (about 22 ha), the field shown in the presentation.
 - **Story County, Iowa**: a 24 ha field between Ames and Nevada.
 
 A link can open straight on a demo field: `/?demo=poznan` or `/?demo=iowa` (add `&lang=pl` for Polish).
