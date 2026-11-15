@@ -1,11 +1,21 @@
 {
   "framework": "vite",
-  "buildCommand": "npm run build && npm ci --prefix pitch/deck --omit=dev --ignore-scripts && node scripts/build-pitch.mjs",
+  "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "redirects": [
     {
       "source": "/pitch",
-      "destination": "/pitch/",
+      "destination": "https://github.com/startupowe1konto1/NASA-Space-Apps-Hackathon/blob/main/pitch/out/deck.pdf",
+      "permanent": false
+    },
+    {
+      "source": "/pitch/",
+      "destination": "https://github.com/startupowe1konto1/NASA-Space-Apps-Hackathon/blob/main/pitch/out/deck.pdf",
+      "permanent": false
+    },
+    {
+      "source": "/pitch/:path*",
+      "destination": "https://github.com/startupowe1konto1/NASA-Space-Apps-Hackathon/blob/main/pitch/out/deck.pdf",
       "permanent": false
     }
   ]
