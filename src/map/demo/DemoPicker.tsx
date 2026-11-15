@@ -14,6 +14,11 @@ const BUTTON =
   'focus:outline-none focus-visible:ring-2 focus-visible:ring-zinc-900 focus-visible:ring-offset-2';
 
 /** `?demo=poznan` or `?demo=iowa` in the address, so a link opens straight on a demo field. */
+/** True when the selected field is one of the demo fields: the free search is then off. */
+export function isDemoField(id: string | null): boolean {
+  return DEMOS.some((d) => d.field.id === id);
+}
+
 export function demoFromUrl(search: string): (typeof DEMOS)[number]['field'] | null {
   const key = new URLSearchParams(search).get('demo');
   return DEMOS.find((d) => d.key === key)?.field ?? null;

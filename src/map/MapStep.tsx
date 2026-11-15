@@ -7,7 +7,8 @@ import type { Field } from '../contracts';
 import { StateBoundary } from '../ui-kit/StateBoundary';
 import { FieldList } from './draw/FieldList';
 import { drawnField, reshapedField } from './draw/drawnField';
-import { DemoPicker } from './demo/DemoPicker';
+import { DemoPicker, isDemoField } from './demo/DemoPicker';
+import { SearchBox } from './search/SearchBox';
 import { createLeafletMap, type MapController } from './leafletMap';
 import { ParcelSearch } from './parcels/ParcelSearch';
 import { cutField } from './parcels/editFields';
@@ -19,6 +20,8 @@ const BUTTON =
 export function MapStep() {
   const fields = useAppStore((s) => s.fields);
   const selectedFieldId = useAppStore((s) => s.selectedFieldId);
+  // A demo field is selected: the free search and the parcel number stay visible but greyed out and off.
+  const demoSelected = isDemoField(selectedFieldId);
   const canUndo = useAppStore((s) => s.fieldHistory.length > 0);
   // While ULDK answers, the newest edit is not in the store yet; an undo then would take back the one before it.
   const tapPending = useParcelTap((s) => s.tap.status === 'loading');
@@ -113,6 +116,24 @@ export function MapStep() {
 
       <DemoPicker />
 
+      <fieldset
+        disabled={demoSelected}
+        aria-describedby={demoSelected ? 'demo-off' : undefined}
+        className={`grid gap-2 ${demoSelected ? 'rounded-lg border border-dashed border-zinc-300 bg-zinc-50 p-3 opacity-60' : ''}`}
+      >
+        {demoSelected ? (
+          <p id="demo-off" className="text-sm font-medium text-zinc-700">
+            {t('demo.off')}
+          </p>
+        ) : null}
+        <SearchBox
+          onPick={(place) => {
+            mapRef.current?.showPlace(place.lat, place.lon, place.label);
+            void addFieldAt(place.lat, place.lon); // the same outline a tap there would give
+          }}
+        />
+      </fieldset>
+
 
       {tilesFailed ? (
         <StateBoundary state="error" source={t('map.tiles.source')} reason={t('map.tiles.reason')} onRetry={retryTiles}>
@@ -179,11 +200,10 @@ export function MapStep() {
         </div>
       </div>
 
-      {/* The demo opens on the two fields from the presentation; finding another parcel by number stays visible but off. */}
-      <fieldset disabled aria-describedby="demo-off" className="grid gap-1 rounded-lg border border-dashed border-zinc-300 bg-zinc-50 p-3 opacity-60">
-        <p id="demo-off" className="text-sm font-medium text-zinc-700">
-          {t('demo.off')}
-        </p>
+      <fieldset
+        disabled={demoSelected}
+        className={demoSelected ? 'rounded-lg border border-dashed border-zinc-300 bg-zinc-50 p-3 opacity-60' : ''}
+      >
         <ParcelSearch />
       </fieldset>
 

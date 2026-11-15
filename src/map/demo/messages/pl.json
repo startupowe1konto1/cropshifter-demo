@@ -3,7 +3,7 @@
   "demo.hint": "Dane w tym demo są przygotowane dla tych dwóch pól.",
   "demo.poznan": "Uzarzewo pod Poznaniem",
   "demo.iowa": "Hrabstwo Story, Iowa",
-  "demo.off": "Wyłączone w tym demo: inne pola nie są dostępne.",
+  "demo.off": "Wyszukiwanie jest wyłączone, gdy wybrane jest pole demo. Usuń je z listy pól poniżej, żeby wyszukać inne miejsce.",
   "demo.poznan.sub": "Polska · działka ewidencyjna 302116_5.0015.28/1",
   "demo.iowa.sub": "USA · pole kukurydzy i soi między Ames a Nevadą"
 }

@@ -1,4 +1,5 @@
-import { act, render, screen, waitFor } from '@testing-library/react';
+import { readFileSync } from 'node:fs';
+import { act, render, screen, waitFor, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { t } from '../app/i18n';
 import { canContinue, useAppStore } from '../app/store';
@@ -8,6 +9,7 @@ import { areaHa } from './area';
 import type { MapHandlers } from './leafletMap';
 import { useParcelTap } from './parcels/tap';
 import { getParcelByPoint } from './parcels/uldk';
+import { parseNominatim } from './search/nominatim';
 
 // Leaflet does not render in jsdom; the wrapper is replaced and its handlers are captured.
 const leaflet = vi.hoisted(() => ({
@@ -51,27 +53,78 @@ afterEach(() => {
   useAppStore.setState({ addField: realAddField });
 });
 
+/** A Nominatim answer with these places, in the shape of data/samples/geocoders/nominatim-ames-iowa.json. */
+const nominatim = (...places: { lat: number; lon: number; label: string }[]) =>
+  JSON.stringify(places.map((p) => ({ lat: String(p.lat), lon: String(p.lon), display_name: p.label })));
+
+async function search(user: ReturnType<typeof userEvent.setup>, query: string, body: string) {
+  vi.stubGlobal('fetch', vi.fn(async () => new Response(body, { status: 200 })));
+  await user.type(screen.getByLabelText(t('search.label')), query);
+  await user.click(screen.getByRole('button', { name: t('search.button') }));
+}
+
 describe('MapStep', () => {
   afterEach(() => vi.unstubAllGlobals());
 
-  it('offers the two demo fields, no address search, and the parcel number search switched off', async () => {
+  it('shows the address search next to the demo buttons', () => {
     render(<MapStep />);
-    expect(await screen.findByRole('button', { name: t('demo.poznan') })).toBeEnabled();
-    expect(screen.getByRole('button', { name: t('demo.iowa') })).toBeEnabled();
-    expect(screen.queryByRole('searchbox')).not.toBeInTheDocument();
-    expect(screen.getByRole('textbox', { name: t('parcels.search.label') })).toBeDisabled();
-    expect(screen.getByText(t('demo.off'))).toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: demoFields.iowa.name })).not.toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: demoFields.poznan.name })).not.toBeInTheDocument();
+    expect(screen.getByLabelText(t('search.label'))).toBeInTheDocument();
   });
 
-  it('shows the tile error and retries the tiles', async () => {
+  it('outlines the field at a single search result, moves the map there and enables next', async () => {
+    const body = readFileSync('data/samples/geocoders/nominatim-ames-iowa.json', 'utf8');
     const user = userEvent.setup();
     render(<MapStep />);
-    await waitFor(() => expect(leaflet.handlers).not.toBeNull());
-    act(() => leaflet.handlers!.onTileError());
-    expect(await screen.findByRole('alert')).toHaveTextContent(/map tiles did not answer/);
-    await user.click(screen.getByRole('button', { name: 'Try again' }));
-    expect(leaflet.controller.retryTiles).toHaveBeenCalled();
-    await waitFor(() => expect(screen.queryByRole('alert')).not.toBeInTheDocument());
+    expect(canContinue(useAppStore.getState())).toBe(false);
+
+    await search(user, 'Ames', body);
+
+    const [place] = parseNominatim(body);
+    await screen.findByText(t('search.moved', { label: place!.label }));
+    expect(leaflet.controller.showPlace).toHaveBeenCalledWith(place!.lat, place!.lon, place!.label);
+    await waitFor(() => expect(useAppStore.getState().fields).toHaveLength(1));
+    expect(useAppStore.getState().fields[0]).toEqual(expect.objectContaining({ country: 'US' }));
+    expect(canContinue(useAppStore.getState())).toBe(true);
+  });
+
+  it('takes the Iowa demo outline for a search hit near the demo field', async () => {
+    const { lat, lon } = demoFields.iowa.centroid;
+    const user = userEvent.setup();
+    render(<MapStep />);
+
+    await search(user, 'Iowa demo', nominatim({ lat, lon, label: 'Story County, Iowa' }));
+
+    const fields = screen.getByRole('list', { name: 'Your fields' });
+    await within(fields).findByText(`${demoFields.iowa.name}, ${demoFields.iowa.areaHa.toFixed(1)} ha`);
+    await waitFor(() => expect(leaflet.controller.flyTo).toHaveBeenCalledWith(expect.objectContaining({ id: demoFields.iowa.id })));
+  });
+
+  it('lists several results and adds no field until the farmer picks one', async () => {
+    const user = userEvent.setup();
+    render(<MapStep />);
+
+    await search(user, 'Ames', nominatim({ lat: 42.03, lon: -93.62, label: 'Ames, Iowa' }, { lat: 41.6, lon: -93.6, label: 'Des Moines, Iowa' }));
+
+    const pick = await screen.findByRole('button', { name: /Des Moines, Iowa/ });
+    expect(useAppStore.getState().fields).toHaveLength(0);
+    await user.click(pick);
+    await screen.findByText(t('search.moved', { label: 'Des Moines, Iowa' }));
+    await waitFor(() => expect(useAppStore.getState().fields).toHaveLength(1));
+  });
+
+  it('greys out and turns off the address and parcel search while a demo field is selected', async () => {
+    const user = userEvent.setup();
+    render(<MapStep />);
+    const searchBox = await screen.findByLabelText(t('search.label'));
+    expect(searchBox).toBeEnabled();
+    expect(screen.queryByText(t('demo.off'))).not.toBeInTheDocument();
+
+    await user.click(screen.getByRole('button', { name: t('demo.iowa') }));
+    await waitFor(() => expect(screen.getByLabelText(t('search.label'))).toBeDisabled());
+    expect(screen.getByRole('textbox', { name: t('parcels.search.label') })).toBeDisabled();
+    expect(screen.getByText(t('demo.off'))).toBeInTheDocument();
   });
 
   it('adds a 4 ha field where the map is tapped', async () => {
@@ -84,6 +137,24 @@ describe('MapStep', () => {
     const state = useAppStore.getState();
     expect(state.fields[0]?.country).toBe('PL');
     expect(canContinue(state)).toBe(true);
+  });
+
+  it('shows the tile error and keeps the search working', async () => {
+    const user = userEvent.setup();
+    render(<MapStep />);
+    await waitFor(() => expect(leaflet.handlers).not.toBeNull());
+
+    act(() => leaflet.handlers!.onTileError());
+
+    const alert = await screen.findByRole('alert');
+    expect(alert).toHaveTextContent(/map tiles did not answer/);
+    const { lat, lon } = demoFields.iowa.centroid;
+    await search(user, 'Iowa demo', nominatim({ lat, lon, label: 'Story County, Iowa' }));
+    await screen.findByText(`${demoFields.iowa.name}, ${demoFields.iowa.areaHa.toFixed(1)} ha`);
+
+    await user.click(screen.getByRole('button', { name: 'Try again' }));
+    expect(leaflet.controller.retryTiles).toHaveBeenCalled();
+    await waitFor(() => expect(screen.queryByRole('alert')).not.toBeInTheDocument());
   });
 
   it('says so when there are no fields yet', async () => {

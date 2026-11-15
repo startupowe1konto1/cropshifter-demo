@@ -1,5 +1,5 @@
 {
-  "map.intro": "Pick one of the two fields from our presentation.",
+  "map.intro": "Pick one of the two fields from our presentation, or search for another place.",
   "map.label": "Map. Tap a spot to add a field there.",
   "map.hint": "In Poland a tap adds the land register parcel at that spot. Near the Iowa demo field it adds that field's outline, elsewhere a 200 m by 200 m square (4 ha). Tap a field you already added to select it.",
   "map.field.atPoint": "Field at {lat}, {lon}",
