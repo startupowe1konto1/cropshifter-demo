@@ -1,0 +1,19 @@
+Title: Wyniki ekologicznych doświadczeń odmianowych (WEDO) nr 218. Zboża ozime. Lata zbioru 2024, 2023
+Author/publisher: COBORU (Centralny Ośrodek Badania Odmian Roślin Uprawnych), Słupia Wielka
+Year: 2025
+URL: https://coboru.gov.pl/Publikacje_COBORU/Wyniki_PDO/WEDO_218_Zboza_ozime_2024.pdf
+Date opened: 14 Nov 2026
+Locator: PDF p. 27, Tabela 3 "PSZENICA ZWYCZAJNA OZIMA. Warunki prowadzenia doświadczeń", rok zbioru 2024, column "Śrem" (7th site column); PDF p. 48, Tabela 3 "ŻYTO OZIME. Warunki prowadzenia doświadczeń", rok zbioru 2024, column "Śrem" (5th site column). Dates are dzień/miesiąc. Śrem is in Wielkopolska. Organic trials, single year.
+
+Quoted rows (PDF text extraction, values in site-column order):
+PSZENICA ZWYCZAJNA OZIMA 2024. Columns: Szepietowo | Grabów | Osiny | Tarnów | Węgrzce | Radostowo | Śrem | Cicibór Duży | Przecław
+"Strzelanie w źdźbło |18.04 |24.04 |18.04 |13.03 |18.04 |15.04 |5.04 |21.04 |10.04"
+"Kłoszenie |18.05 |20.05 |21.05 |19.05 |27.05 |28.05 |20.05 |24.05 |24.05"
+"Dojrzałość woskowa |16.07 |24.06 |26.06 |23.06 |2.07 |1.07 |10.07 |1.07 |23.06"
+-> Śrem 2024: jointing 5.04, heading 20.05, soft-dough (woskowa) 10.07.
+
+ŻYTO OZIME 2024. Columns: Szepietowo | Grabów | Osiny | Krzyżewo | Śrem | Lućmierz | Białogard | Pawłowice
+"Strzelanie w źdźbło |4.04 |25.04 |11.04 |9.04 |20.03 |12.04 |9.04 |29.03"
+"Kłoszenie |10.05 |14.05 |6.05 |2.05 |30.04 |9.05 |4.05 |2.05"
+"Dojrzałość woskowa |12.07 |18.06 |18.06 |29.06 |12.07 |24.06 |20.06 |21.06"
+-> Śrem 2024: jointing 20.03, heading 30.04, soft-dough 12.07.

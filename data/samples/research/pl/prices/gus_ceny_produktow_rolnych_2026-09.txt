@@ -1,0 +1,42 @@
+Source: GUS (Statistics Poland), "Ceny produktów rolnych we wrześniu 2026 r." (Tablice.xlsx), published 22.10.2026
+Page: https://publikacje.new.stat.gov.pl/portal-publikacje/ceny-produktow-rolnych-we-wrzesniu-2026-r
+File: https://publikacje.new.stat.gov.pl/sites/default/files/2026-10/Ceny%20produkt%C3%B3w%20rolnych%20we%20wrze%C5%9Bniu%202026%20r.%20Tablice.xlsx
+Retrieved: 2026-11-14 (curl). Locator: sheets Tabl_1 (national) and Tabl_2 (by voivodeship, rows POLAND and Wielkopolskie), Tabl_3 (marketplace prices).
+Units: zł per 1 dt (100 kg), excluding VAT. Procurement prices (ceny skupu) = purchases by legal persons/organisational units, excluding seed grain.
+Rows copied verbatim from the xlsx (empty cells removed):
+== sheet Tabl_1
+('Tablica 1. Ceny produktów rolnych (bez VAT) we wrześniu 2026 r.',)
+('WYSZCZEGÓLNIENIE', 'Ceny skupu', 'Ceny targowiskowe')
+('w złotych', '08 2026=100', '09 2025=100', 'w złotych', '08 2026=100', '09 2025=100')
+('Ziarno zbóża – za 1 dt',)
+('Pszenica', 89.8, 108.4, 119.9, 106.11, 104.4, 98.3)
+('Żyto', 65.73, 106.4, 109.7, 81.23, 104.8, 93.9)
+('Jęczmień', 76.07, 110.3, 101.8, 100.36, 103.2, 97.5)
+('Pszenżyto', 75.66, 107.7, 109.3, 91.42, 103.6, 97)
+('Owies', 56.54, 112.6, 96, 86.26, 103.2, 92.1)
+('Kukurydza', 84.88, 92.8, 97.8, 122.19, 101.7, 95)
+('Ziemniakib – za 1 dt', 44.41, 70.6, 80.5, 188.19, 94.1, 97.9)
+('Żywiec rzeźny – za 1 kg',)
+('Bydło (bez cieląt)c', 13.59, 98, 84.7, 12.14, 99.8, 101.8)
+('Trzoda chlewna ', 5.28, 91.5, 81.7, '.', '.', '.')
+('Drób', 5.8, 95.1, 86.7, '.', '.', '.')
+('Mleko – za 1 hl', 187.11, 106, 83.7, '.', '.', '.')
+('a Ceny skupu – bez ziarna siewnego.  b Ceny skupu – ogółem (jadalne wczesne; sadzeniaki; jadalne późne; przemysłowe, w tym skrobiowe). Ceny targowiskowe – jadalne bez wczesnych. c Ceny targowiskowe – średnia ważona cena bydła rzeźnego obliczona przy przyjęciu struktury ilości skupu młodego bydła i krów rzeźnych.',)
+('Wskaźniki cen skupu oraz cen uzyskiwanych przez rolników na targowiskach obliczono na podstawie danych bezwzględnych wyrażonych z większą dokładnością niż podano w tablicach.',)
+== sheet Tabl_2
+('Tablica 2. Przeciętne ceny skupu produktów rolnych według województw (bez VAT)  we wrześniu 2026 r.',)
+('WOJEWÓDZTWA', 'Ziarno zbóż (bez siewnego)', 'Ziemniaki ', 'Żywiec rzeźny', 'Mleko    krowie')
+('pszenica', 'żyto', 'jęczmień', 'pszenżyto', 'owies', 'kukurydza', 'bydło (bez cieląt)', 'trzoda    chlewna', 'drób')
+('w zł/1dt ', 'w zł/1kg wagi żywej', 'w zł/1hl')
+('POLAND', 89.8, 65.73, 76.07, 75.66, 56.54, 84.88, 44.41, 13.59, 5.28, 5.8, 187.11)
+('Wielkopolskie', 88.74, 64.98, 79.24, 78.58, 55.88, 93.85, 50.1, 'c', 13.54, 5.12, 5.44, 181.15)
+('a Jadalne późne w przeważającej części. b Jadalne wczesne w przeważającej części. c Przemysłowe w przeważającej części. d Wysoka jakość.',)
+('Przeciętne ceny skupu obliczono na podstawie informacji o wartości i ilości skupu realizowanego przez osoby prawne i samodzielne jednostki organizacyjne niemające osobowości prawnej (bez osób fizycznych).',)
+== sheet Tabl_3
+('Tablica 3. Przeciętne ceny targowiskowe produktów roślinnych według województw (bez VAT)  we wrześniu 2026 r.',)
+('WOJEWÓDZTWA', 'Ziarno zbóż ', 'Ziemniaki jadalnea ')
+('pszenica', 'żyto', 'jęczmień', 'pszenżyto', 'owies', 'kukurydza')
+('w zł/1dt ',)
+('POLSKA', 106.11, 81.23, 100.36, 91.42, 86.26, 122.19, 188.19, 88.6)
+('Wielkopolskie', 103.4, 80.06, 92.11, 89.05, 85.31, 108.33, 203.69, 93.8)
+('a Bez wczesnych.',)

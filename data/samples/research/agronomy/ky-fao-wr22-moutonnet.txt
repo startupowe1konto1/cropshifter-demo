@@ -1,0 +1,26 @@
+Title: Yield response factors of field crops to deficit irrigation (chapter in: Deficit Irrigation Practices, FAO Water Reports 22)
+Authors: P. Moutonnet (IAEA, Joint FAO/IAEA Division, Vienna)
+Year: 2002
+URL: https://www.fao.org/4/y3655e/y3655e04.htm
+Date opened: 14 Nov 2026
+Locator: Materials and methods (treatment codes); Table 1 "FAO yield response factors"; Table 2 "CPR yield response factors"
+Note: HTML table flattened to text; cells separated by " | ". Empty cells shown as blank.
+
+Treatment codes (quote):
+"(a) initial (planting to 10 percent ground cover); (b) crop development (10 percent ground cover to effective full cover and initiation of flowering); (c) mid-season (effective soil cover to onset of maturity); (d) late season (onset of maturity to harvest). The deficit irrigation was applied only during one specific growth stage to be assessed for water sensitivity. The codes for these treatments were Tr.0111, Tr.1011, Tr.1101 and Tr.1110 (i.e.0 and 1 correspond to the stages during which irrigation water was or was not restricted, respectively)."
+
+Table 1 FAO yield response factors
+Crop | Tr.0000* | Tr.0111 | Tr.1011 | Tr.1101 | Tr.1110
+Potato | 1.10 | 0.60 |   | 0.70 | 0.20
+Sugar beet | 0.80 |   |   |   |
+Sugar beet | 0.90 |   |   |   |
+Winter wheat | 1.00 | 0.20 | 0.60 | 0.50 |
+"* Corresponds to continuous deficit irrigation, whereas Tr.0111 to Tr.1110 correspond to restricted water supplies imposed at specific growth stages."
+
+Table 2 CPR yield response factors (IAEA coordinated research project, field-measured)
+Crop, country | Tr.0000* | Tr.0111 | Tr.1011 | Tr.1101 | Tr.1110
+Potato, Pakistan |   | 0.40 | 0.33 | 0.46 |
+Sugar beet, Morocco | 0.95 |   |   |   |
+Sugar beet, Morocco | 1.07 |   |   |   |
+
+(No rows for pea, alfalfa, oats, barley, rye or rapeseed in either table.)

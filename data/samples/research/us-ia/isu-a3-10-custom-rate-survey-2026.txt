@@ -1,0 +1,13 @@
+# Excerpt of https://www.extension.iastate.edu/agdm/crops/pdf/a3-10.pdf
+# ISU Ag Decision Maker File A3-10 "2026 Iowa Farm Custom Rate Survey". PDF Last-Modified: Mon, 16 Mar 2026.
+# Opened Sat 14 Nov 2026 in the in-app browser. Text rebuilt from the PDF's text operators.
+# Columns: Operation / unit / Average charge / Median charge / Range / Responses
+
+"This rate schedule is intended only as a guide."
+Planting, Drilling, and Seeding
+Drilling small grain / acre 19.45 20.00 10.00 - 27.00 30
+Aerial seeding of cover crop / acre 14.70 15.00 10.00 - 18.00 25
+Drilling cover crop seed / acre 19.05 19.25 9.00 - 25.00 (responses value not captured)
+(next table on page 2; its heading was not captured by the text extraction, rows look like chemical application)
+Ground, broadcast, not incorporated, self-propelled / acre 9.35 9.00 5.00 - 18.00 121
+Aerial / acre 12.00 11.60 9.00 - 18.00 54

@@ -1,0 +1,5 @@
+{
+  "context.no-crop-history": "No crop history is available for this field. Enter your last crops by hand.",
+  "context.crop-history-demo-only": "USDA CropScape crop history loads for the demo field only in this version. Enter your last crops by hand.",
+  "context.crop-history-error": "USDA CropScape did not answer, so there is no crop history yet. Enter your last crops by hand or try again later."
+}

@@ -1,0 +1,4 @@
+# Excerpt of https://www.nrcs.usda.gov/state-offices/iowa/financial-assistance-iowa (NRCS Iowa, Financial Assistance - Iowa)
+# Fetched with curl Sat 14 Nov 2026; HTML tags stripped.
+
+ace compensation for opportunity costs that may arise (e.g. conversion of productive land). If necessary, the amount of financial assistance is adjusted to keep pace with actual costs. Note: &nbsp;Environmental Quality Incentives Program Conservation Incentives Contract (EQIP-CIC) is a new enrollment option created by section 2304 of the 2018 Farm Bill and will be implemented in fiscal year 2021. The updated payment schedule is released in the first quarter each Fiscal Year (Oct-Dec). All NRCS state payment schedules

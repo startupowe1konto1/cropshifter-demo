@@ -1,0 +1,83 @@
+Source: WODR Poznań (Wielkopolski Ośrodek Doradztwa Rolniczego), crop calculation sheet dated "2025 Październik" (model calculation, not a survey)
+PDF: https://www.wodr.poznan.pl/images/2025/doradztwo/ekonomika/pazdziernik/kukurydza_na_ziarno.pdf
+Landing page: not located (PDF opened directly; the URL was found via web search for the wheat file, other crops share the folder)
+Retrieved: 2026-11-14 16:59 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+
+----- extracted text -----
+--- page 1 ---
+  |  Kukurydza na ziarno -
+  |  Uprawa:  |  plon:  |  85  |  dt/ha
+  |  dt/ha
+  |  2025  |  Październik
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Kukurydza na ziarno  |  Materiał bazowy "C1"  |  j.s.  |  1,80  |  491,46  |  884,63
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+Mocznik  |  N  |  2/04  |  160  |  5,14  |  822,85
+Superfosfat wzbogacony  |  P  |  2/04  |  80  |  6,41  |  512,48
+Sól potasowa  |  K  |  2/04  |  150  |  2,99  |  448,85
+Insol K  |  dolistny  |  1/06  |  2  |  18,00  |  36,00
+Razem  |  1820,18
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Maister Power 42,5 OD  |  Herbicyd  |  1/05  |  0,75  |  212,86  |  159,65
+Maister Power 42,5 OD  |  Herbicyd  |  2/05  |  0,75  |  212,86  |  159,65
+Innovate 240 SC  |  Herbicyd  |  2/05  |  0,2  |  236,00  |  47,20
+Atpolan 80 EC  |  Adiuwant  |  2/05  |  1,5  |  56,18  |  84,27
+Razem  |  450,76
+  |  Termin  |  Czas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+brona talerzowa 2,1 m  |  Talerzowanie  |  2/10  |  1,00  |  60,83  |  60,83
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  68,71  |  137,42
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  2/04  |  1,50  |  59,27  |  88,90
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/04  |  1,00  |  73,66  |  73,66
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty 3 x  |  1/05  |  1,20  |  61,87  |  74,25
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Dokarmianie dolistne  |  1/06  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  2/10  |  0,50  |  67,38  |  33,69
+Razem  |  6,80  |  493,51
+  |  Termin  |  Czas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+siewnik pneumatyczny  |  Siew  |  3/04  |  1,00  |  223,13  |  223,13
+Kombajn Bizon Rekord Z 058/8  |  Zbiór  |  2/10  |  2,00  |  519,09  |  1038,18
+Razem  |  3,00  |  1261,31
+  |  Cena  |  Wartość
+  Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Dosuszenie ziarna z 30% na 14%  |  Suszenie  |  %  |  85  |  25  |  2125,00
+Razem  |  2125,00
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Ziarno kukurydzy  |  dt  |  85  |  74,29  |  6314,65
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  6980,04
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  7035,39
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  -55,35
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  82,77
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  -0,65

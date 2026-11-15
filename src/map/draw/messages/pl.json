@@ -1,0 +1,7 @@
+{
+  "draw.field.defaultName": "Narysowane pole {n}",
+  "draw.hint": "Żeby narysować prawdziwy kształt pola, dotknij przycisku z kształtem w lewym górnym rogu mapy, potem kolejno każdego narożnika pola, a na koniec przycisku Finish. Ołówkiem przesuniesz narożniki, a koszem usuniesz pole.",
+  "draw.fields.select": "Pole do analizy",
+  "draw.fields.name": "Nazwa pola",
+  "draw.fields.delete": "Usuń"
+}

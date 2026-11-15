@@ -1,0 +1,20 @@
+{
+  "steps.crops.noField": "Najpierw wybierz pole.",
+  "steps.crops.loadingSource": "Historia upraw",
+  "steps.crops.cropsSource": "Lista upraw",
+  "steps.crops.proposed": "Satelitarne mapy upraw podpowiadają taką historię pola. Czy się zgadza?",
+  "steps.crops.listLabel": "Uprawy na tym polu w kolejnych latach",
+  "steps.crops.change": "Zmień rok {year}",
+  "steps.crops.changeShort": "Zmień",
+  "steps.crops.done": "Gotowe",
+  "steps.crops.confirm": "Tak, przyjmij te uprawy",
+  "steps.crops.byFarmer": "twoja odpowiedź",
+  "steps.crops.pickTitle": "Co rosło tu w trzech ostatnich sezonach?",
+  "steps.crops.pickHint": "Wybierz główną uprawę z każdego sezonu. Twoja odpowiedź zawsze ma pierwszeństwo przed mapami satelitarnymi.",
+  "steps.crops.pickerLabel": "Główna uprawa w roku {year}",
+  "steps.crops.needTwo": "Wybierz co najmniej dwa lata, żeby przejść dalej.",
+  "steps.crops.saved": "Zapisano uprawy z {n} lat.",
+  "steps.crops.otherCountry": "Listy upraw mamy tylko dla USA i Polski, więc tutaj nie ma z czego wybierać.",
+  "steps.crops.saved.one": "Zapisano uprawę z 1 roku.",
+  "steps.crops.showEarlier": "Pokaż wcześniejsze lata ({n})"
+}

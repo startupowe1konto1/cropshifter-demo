@@ -1,0 +1,83 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/groch_jadalny.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa:  |  Groch jadalny  |  plon:  |  30  |  dt/ha
+  |  2026  |  Luty
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Groch  |  Materiał bazowy "C1"  |  kg  |  260,00  |  3,16  |  821,60
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  3/03  |  15  |  4,81  |  72,09
+Polifoska 6:20:30  |  P  |  3/03  |  50  |  8,12  |  406,05
+  |  K  |  3/03  |  75  |  2,77  |  207,55
+  |  N  |  3/03  |  20  |  5,14  |  102,85
+Saletra amonowa
+
+Wapno nawozowe  |  CaO (1/4 dawki)  |  2/08  |  750  |  0,30  |  78,30
+Razem  |  866,85
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Wing P 462,5 EC  |  Herbicyd  |  3/03  |  3,50  |  233,00  |  815,50
+Fusilade Forte 150 EC  |  Herbicyd  |  3/04  |  0,80  |  110,25  |  88,20
+Amistar 250 S.C.  |  Fungicyd  |  1/06  |  0,80  |  235,76  |  188,61
+Mospilan 20 SP  |  Insektycyd  |  1/06  |  0,10  |  322,88  |  32,29
+Razem  |  1124,60
+  |  Termin  |  Cas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  67,69  |  135,39
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  3/03  |  0,50  |  58,40  |  29,20
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  3/03  |  0,30  |  58,40  |  17,52
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/03  |  1,00  |  72,64  |  72,64
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  3/03  |  1,20  |  76,24  |  91,49
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  3/03  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  3/04  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem + fungicydem  |  1/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  3/07  |  0,50  |  66,52  |  33,26
+Razem  |  452,71
+  |  Termin  |  Cas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+rozsiewacz wapna RCW-3  |  Wapnowanie (1/4 kosztu)  |  2/08  |  1,00  |  157,33  |  157,33
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  3/07  |  1,00  |  510,21  |  510,21
+Razem  |  1,00  |  667,54
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Nasiona grochu  |  dt  |  30  |  85,38  |  2561,48
+Dopłaty, subwencje  |  Dopłata do roślin strączkowych  |  ha  |  1  |  879,96  |  879,96
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  4106,83
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  3933,30
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  173,53
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  131,11
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  5,78

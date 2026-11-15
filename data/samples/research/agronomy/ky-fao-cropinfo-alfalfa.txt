@@ -1,0 +1,14 @@
+Title: Alfalfa (FAO Land & Water, Crop Information / crop water information page)
+Authors: FAO Land and Water Division (page text based on Doorenbos & Kassam 1979, FAO Irrigation and Drainage Paper 33)
+Year: page undated; snapshot 28 Nov 2025
+URL: https://www.fao.org/land-water/databases-and-software/crop-information/alfalfa/en/
+     (live URL returned 404 on 14 Nov 2026; text read from Internet Archive snapshot
+      http://web.archive.org/web/20251128082439/https://www.fao.org/land-water/databases-and-software/crop-information/alfalfa/en/)
+Date opened: 14 Nov 2026
+Locator: crop-stage table under "Stages of Development"; section "Water Supply And Crop Yield"
+
+Columns: Crop characteristic | Initial | Crop Development | Mid-season | Late | Total
+Yield Response Factor, Ky | - | - | - | - | 1.1
+=> no stage-wise Ky on this page; seasonal only.
+
+Quote: "Within a certain range of relative evapotranspiration deficit (0 to 0.4), the yield response factor (ky) for both fresh and dry yield is smaller than one."

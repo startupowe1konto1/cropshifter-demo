@@ -1,0 +1,24 @@
+Title: Spring Freeze Injury to Kansas Wheat (C646)
+Author/publisher: James P. Shroyer, Merrel E. Mikesell, Gary M. Paulsen; Kansas State University Agricultural Experiment Station and Cooperative Extension Service
+Year: March 1995 (revision; first published 1982)
+URL: https://bookstore.ksre.ksu.edu/pubs/C646.PDF
+Date opened: 14 Nov 2026
+Locator: p. 2 Table 1 "Temperatures that cause freeze injury to wheat at spring growth stages and symptoms and yield effect of spring freeze injury"; p. 3 (two-hour exposure note); p. 5-6 (stage months in Kansas)
+
+Quoted text (PDF text extraction; table columns were extracted column by column and are re-paired here in row order):
+Table 1. Temperatures that cause freeze injury to wheat at spring growth stages and symptoms and yield effect of spring freeze injury.
+Growth stage | Approximate injurious temperature (two hours) | Yield effect
+Tillering  | 12 F (-11 C) | Slight to moderate
+Jointing   | 24 F (-4 C)  | Moderate to severe
+Boot       | 28 F (-2 C)  | Moderate to severe
+Heading    | 30 F (-1 C)  | Severe
+Flowering  | 30 F (-1 C)  | Severe
+Milk       | 28 F (-2 C)  | Moderate to severe
+Dough      | 28 F (-2 C)  | Slight to moderate
+
+p. 3: "Wheat is most sensitive to freeze injury during reproductive growth, which begins with pollination during late boot or heading stages."
+p. 3: "Temperatures at which injury can be expected, shown in Figure 1 and Table 1, are for two hours of exposure to each temperature."
+p. 5: "Spring tillering of wheat in Kansas usually begins during late February and continues through March."
+p. 5: "The jointing stage of wheat usually occurs from late March through April."
+p. 6: "Wheat spikes usually emerge from the boots during the first three weeks of May."
+Note: months are for Kansas, not Iowa or Poland.

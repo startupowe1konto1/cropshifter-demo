@@ -1,0 +1,523 @@
+[
+  {
+    "id": "maize",
+    "family": "Poaceae",
+    "legume": false,
+    "kind": "cash",
+    "sowMonth": 5,
+    "harvestMonth": 10,
+    "sensitive": [
+      {
+        "hazard": "drought",
+        "months": [
+          7,
+          8
+        ],
+        "threshold": 20,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "heat",
+        "months": [
+          7,
+          8
+        ],
+        "threshold": 35,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "frost",
+        "months": [
+          5
+        ],
+        "threshold": 1,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "frost",
+        "months": [
+          9
+        ],
+        "threshold": 1,
+        "lossShare": 0.12
+      }
+    ],
+    "waterNeed": "high",
+    "yieldResponseFactor": 1.25,
+    "forage": true,
+    "residueCover": "high",
+    "sources": [
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Corn for grain\": most active planting Apr 25 - May 18 (midpoint in May), most active harvest Oct 5 - Nov 9 (midpoint in October); \"Corn for silage\" row gives the forage use"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 56, Crop evapotranspiration, chapter 6",
+        "url": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+        "locator": "Table 11, Maize (grain), Idaho USA, April planting: 30/40/50/50 days; mid-season (flowering and yield formation) starts 70 days after the May sowing midpoint, about 15 July, so drought-sensitive months are July and August"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Table 1 \"Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33\", printed page 7: Maize 1.25"
+      },
+      {
+        "title": "FAO Irrigation Water Management Training Manual 3, Irrigation water needs, chapter 3",
+        "url": "https://www.fao.org/4/s2022e/s2022e07.htm",
+        "locator": "Table 14 \"Indicative values of crop water needs\": Maize 500-800 mm per growing period; our class from the upper bound: up to 600 mm low, 601-750 medium, above 750 high, so high"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 3, \"High Residue Crop List\": Field Corn; high residue list maps to residueCover high"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "team rule of thumb",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+        "locator": "SPEC section 7: drought threshold 20 = 20th percentile of the field's own root-zone wetness; lossShare 0.2 (drought, and heat or frost where no loss share is cited) has no source and is a team rule of thumb"
+      },
+      {
+        "title": "Hatfield and Prueger (2015), Temperature extremes: Effect on plant growth and development, Weather and Climate Extremes 10: 4-10 (open access)",
+        "url": "https://pages.uoregon.edu/chendon/coffee_literature/old_literature/2015%20Weather%20Clim.%20Extremes,%20Temperature%20extremes%20on%20plant%20growth.pdf",
+        "locator": "page 5, section 1.2: maize pollen viability decreases above 35 °C, and kernel growth rate falls as temperature rises from 30 to 35 °C; heat threshold 35 °C compared with the monthly maximum of NASA POWER T2M_MAX in the pollination and kernel-filling months"
+      },
+      {
+        "title": "Licht (2020), Cold temperatures on the way; what will it mean for corn and soybean seedlings?, Iowa State University Extension, Integrated Crop Management",
+        "url": "https://crops.extension.iastate.edu/post/cold-temperatures-way-what-will-it-mean-corn-and-soybean-seedlings",
+        "locator": "paragraphs 8-9: \"Temperature 28 oF or lower for a couple of hours will be lethal to growing tissue that has emerged\" (-2 °C); emerged seedlings are in the field in May (NASS planting midpoint in May); frost row for May, threshold 1 on NASA POWER FROST_DAYS in that month, the same rule as the other frost rows in data/crops (monthly data cannot show how far below 0 °C the air went); lossShare 0.2 is the team rule of thumb (no loss share given). Excerpt: data/samples/research/agronomy/hf-isu-spring-cold-seedlings.txt"
+      },
+      {
+        "title": "Licht and Hurburgh (2019), Harvest consideration for frost killed corn, Iowa State University Extension, Integrated Crop Management",
+        "url": "https://crops.extension.iastate.edu/post/harvest-consideration-frost-killed-corn",
+        "locator": "paragraphs 7 and 9: \"A freeze of 28 oF or less for a couple hours will result in whole plant death\" (-2 °C) before black layer; yield loss \"ranges from 12% in late dent up to 41% at beginning dent stage\", lossShare 0.12 is the low end. Frost row for September, the month before the NASS harvest midpoint (October); October itself is left out because the corn is usually mature by then, and the NASA POWER sample for Ames (data/samples/power/point-monthly-1981-2025-ag.json) has more than 1 frost day in October in 39 of 45 years against 2 of 45 in September. threshold 1 on NASA POWER FROST_DAYS in that month, the same rule as the other frost rows in data/crops (monthly data cannot show how far below 0 °C the air went). Excerpt: data/samples/research/agronomy/hf-isu-corn-fall-frost.txt"
+      },
+      {
+        "title": "Licht and Archontoulis (2020), What impact will the heat and dry weather have on pollination 2020?, Iowa State University Extension, Integrated Crop Management",
+        "url": "https://crops.extension.iastate.edu/post/what-impact-will-heat-and-dry-weather-have-pollination-2020",
+        "locator": "paragraphs 7-8: heat stress \"typically requires temperature of greater than 95 oF\" (35 °C) in the 2 weeks before or after pollination; a second source for the 35 °C heat threshold. Excerpt: data/samples/research/agronomy/hf-isu-corn-pollination-heat.txt"
+      },
+      {
+        "title": "team conversion of the frost limit to NASA POWER frost days",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/data/crops/SOURCES.md",
+        "locator": "The sources give frost damage at about -1 to -2 °C for a couple of hours (FAO-66 potato: 1 °C and less). NASA POWER FROST_DAYS counts any day with frost at or below 0 °C, so one frost day does not show damaging cold. Threshold 1 means more than one, i.e. two or more frost days in the month (the engine counts FROST_DAYS > threshold). This conversion is ours, not the sources'."
+      }
+    ]
+  },
+  {
+    "id": "soybean",
+    "family": "Fabaceae",
+    "legume": true,
+    "kind": "cash",
+    "sowMonth": 5,
+    "harvestMonth": 10,
+    "sensitive": [
+      {
+        "hazard": "drought",
+        "months": [
+          7,
+          8
+        ],
+        "threshold": 20,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "heat",
+        "months": [
+          7,
+          8
+        ],
+        "threshold": 35,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "frost",
+        "months": [
+          5,
+          8,
+          9
+        ],
+        "threshold": 1,
+        "lossShare": 0.2
+      }
+    ],
+    "waterNeed": "medium",
+    "yieldResponseFactor": 0.85,
+    "forage": false,
+    "residueCover": "low",
+    "sources": [
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Soybeans\": most active planting May 8 - Jun 2 (midpoint in May), most active harvest Sep 28 - Oct 20 (midpoint in October)"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 56, Crop evapotranspiration, chapter 6",
+        "url": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+        "locator": "Table 11, Soybeans, Central USA, May planting: 20/30-35/60/25 days; mid-season starts about 52 days after the sowing midpoint (20 May), about 12 July, so drought-sensitive months are July and August"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Table 1 \"Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33\", printed page 7: Soybean 0.85"
+      },
+      {
+        "title": "FAO Irrigation Water Management Training Manual 3, Irrigation water needs, chapter 3",
+        "url": "https://www.fao.org/4/s2022e/s2022e07.htm",
+        "locator": "Table 14 \"Indicative values of crop water needs\": Soybean 450-700 mm per growing period; our class from the upper bound: up to 600 mm low, 601-750 medium, above 750 high, so medium"
+      },
+      {
+        "title": "USDA NRCS Nebraska Conservation Planning Sheet No. 4, Crop Residue Management (rev. December 2006)",
+        "url": "https://www.mssoy.org/sites/default/files/documents/residue-mgmt-nrcs-2006.pdf",
+        "locator": "section \"Residue type\": soybeans are a low residue crop; maps to residueCover low"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "team rule of thumb",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+        "locator": "SPEC section 7: drought threshold 20 = 20th percentile of the field's own root-zone wetness; lossShare 0.2 (drought, and heat or frost where no loss share is cited) has no source and is a team rule of thumb"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Soybean chapter, page 129: abortion of flowers and newly set fruit at 35 °C; heat threshold 35 °C compared with the monthly maximum of NASA POWER T2M_MAX in the flowering and pod-setting months"
+      },
+      {
+        "title": "Hatfield and Prueger (2015), Temperature extremes: Effect on plant growth and development, Weather and Climate Extremes 10: 4-10 (open access)",
+        "url": "https://pages.uoregon.edu/chendon/coffee_literature/old_literature/2015%20Weather%20Clim.%20Extremes,%20Temperature%20extremes%20on%20plant%20growth.pdf",
+        "locator": "page 5: soybean seed set decreased as daytime temperature rose from 30 to 35 °C and sterility was complete above 35 °C"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Soybean chapter, page 128: soybean is very sensitive to frost at seed emergence and pod filling; threshold 1 = two or more frost days (the engine counts a month when FROST_DAYS > threshold) (NASA POWER FROST_DAYS) in those months; emergence month May (FAO-56 Table 11 initial stage from the 20 May sowing midpoint), pod filling August and September (second half of the FAO-56 mid-season stage)"
+      },
+      {
+        "title": "Licht (2020), Cold temperatures on the way; what will it mean for corn and soybean seedlings?, Iowa State University Extension, Integrated Crop Management",
+        "url": "https://crops.extension.iastate.edu/post/cold-temperatures-way-what-will-it-mean-corn-and-soybean-seedlings",
+        "locator": "paragraph 10: soybean cotyledons survive \"unless there were several hours of temperatures below 30 oF\"; growing point not killed \"down to 28 oF\" (-1 to -2 °C); confirms the May (emergence) month of the frost row. Excerpt: data/samples/research/agronomy/hf-isu-spring-cold-seedlings.txt"
+      },
+      {
+        "title": "Hurburgh, Vittetoe and Anderson (2019), Frost Damage to Soybeans, Iowa State University Extension, Integrated Crop Management",
+        "url": "https://crops.extension.iastate.edu/post/frost-damage-soybeans",
+        "locator": "paragraphs 1-3: \"Temperatures below 32°F can damage soybean leaves ... A killing freeze is considered to be 28°F\"; plants with green pods (before R7) are hurt most; confirms the pod-filling months (August, September) of the frost row. Excerpt: data/samples/research/agronomy/hf-isu-soybean-fall-frost.txt"
+      },
+      {
+        "title": "team conversion of the frost limit to NASA POWER frost days",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/data/crops/SOURCES.md",
+        "locator": "The sources give frost damage at about -1 to -2 °C for a couple of hours (FAO-66 potato: 1 °C and less). NASA POWER FROST_DAYS counts any day with frost at or below 0 °C, so one frost day does not show damaging cold. Threshold 1 means more than one, i.e. two or more frost days in the month (the engine counts FROST_DAYS > threshold). This conversion is ours, not the sources'."
+      }
+    ]
+  },
+  {
+    "id": "winter-wheat",
+    "family": "Poaceae",
+    "legume": false,
+    "kind": "cash",
+    "sowMonth": 10,
+    "harvestMonth": 7,
+    "sensitive": [
+      {
+        "hazard": "drought",
+        "months": [
+          5,
+          6
+        ],
+        "threshold": 20,
+        "lossShare": 0.2
+      },
+      {
+        "hazard": "heat",
+        "months": [
+          5,
+          6
+        ],
+        "threshold": 34,
+        "lossShare": 0.17
+      },
+      {
+        "hazard": "frost",
+        "months": [
+          5,
+          6
+        ],
+        "threshold": 1,
+        "lossShare": 0.2
+      }
+    ],
+    "waterNeed": "medium",
+    "yieldResponseFactor": 1.05,
+    "forage": false,
+    "residueCover": "high",
+    "sources": [
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Wheat, winter\": most active planting Sep 26 - Oct 15 (midpoint in October), most active harvest Jul 6 - Jul 22 (July)"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 56, Crop evapotranspiration, chapter 6",
+        "url": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+        "locator": "Table 11, Winter Wheat, Idaho USA, October planting: 160/75/75/25 days; mid-season starts 235 days after the sowing midpoint (5 October), about 28 May, so drought-sensitive months are May and June"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Table 1 \"Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33\", printed page 7: Winter wheat 1.05"
+      },
+      {
+        "title": "FAO Irrigation Water Management Training Manual 3, Irrigation water needs, chapter 3",
+        "url": "https://www.fao.org/4/s2022e/s2022e07.htm",
+        "locator": "Table 14 \"Indicative values of crop water needs\": Barley/Oats/Wheat 450-650 mm per growing period; our class from the upper bound: up to 600 mm low, 601-750 medium, above 750 high, so medium"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 3, \"High Residue Crop List\": Spring & Winter Wheat; high residue list maps to residueCover high"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "team rule of thumb",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+        "locator": "SPEC section 7: drought threshold 20 = 20th percentile of the field's own root-zone wetness; lossShare 0.2 (drought, and heat or frost where no loss share is cited) has no source and is a team rule of thumb"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Wheat chapter, page 98: temperatures above 34 °C during grain filling reduce grain size and yield; heat threshold 34 °C compared with the monthly maximum of NASA POWER T2M_MAX in the heading and grain-filling months"
+      },
+      {
+        "title": "Barlow et al. (2013), Simulating the impact of extreme heat and frost events on wheat production: the first steps, MODSIM 2013",
+        "url": "https://mssanz.org.au/modsim2013/B2/barlow2.pdf",
+        "locator": "Abstract and Introduction, page 1: heat shock (>35 °C) and frost do most damage at ear emergence and around anthesis; heat events cause yield losses of 17-35 percent, heat lossShare 0.17 is the low end"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Wheat chapter, page 93: during head development and flowering frost may lead to loss of spikelets; threshold 1 = two or more frost days (the engine counts a month when FROST_DAYS > threshold) (NASA POWER FROST_DAYS) in those months (heading and grain-filling months)"
+      },
+      {
+        "title": "Shroyer, Mikesell and Paulsen (1995), Spring Freeze Injury to Kansas Wheat, C646, Kansas State University",
+        "url": "https://bookstore.ksre.ksu.edu/pubs/C646.PDF",
+        "locator": "p. 2, Table 1 (two hours of exposure): heading and flowering 30 F (-1 C), yield effect \"Severe\"; milk and dough 28 F (-2 C); confirms the frost row in the heading and grain-filling months (May, June). Excerpt: data/samples/research/agronomy/hf-ksu-c646-wheat-freeze.txt"
+      },
+      {
+        "title": "team conversion of the frost limit to NASA POWER frost days",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/data/crops/SOURCES.md",
+        "locator": "The sources give frost damage at about -1 to -2 °C for a couple of hours (FAO-66 potato: 1 °C and less). NASA POWER FROST_DAYS counts any day with frost at or below 0 °C, so one frost day does not show damaging cold. Threshold 1 means more than one, i.e. two or more frost days in the month (the engine counts FROST_DAYS > threshold). This conversion is ours, not the sources'."
+      }
+    ]
+  },
+  {
+    "id": "oats",
+    "family": "Poaceae",
+    "legume": false,
+    "kind": "cash",
+    "sowMonth": 4,
+    "harvestMonth": 7,
+    "sensitive": [
+      {
+        "hazard": "drought",
+        "months": [
+          6,
+          7
+        ],
+        "threshold": 20,
+        "lossShare": 0.2
+      }
+    ],
+    "waterNeed": "medium",
+    "yieldResponseFactor": 1.15,
+    "yieldResponseFactorFrom": "Spring wheat",
+    "forage": false,
+    "residueCover": "high",
+    "sources": [
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Oats, spring\": most active planting Apr 2 - May 2 (midpoint 17 April, so April), most active harvest Jul 17 - Aug 5 (midpoint 27 July, so July); the table lists no silage or hay use for oats, so forage is false"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 56, Crop evapotranspiration, chapter 6",
+        "url": "https://www.fao.org/4/x0490e/x0490e0b.htm",
+        "locator": "Table 11, Barley/Oats/Wheat, 35-45 °L, March/Apr planting: 20/25/60/30 days; mid-season starts 45 days after sowing (17 April), about 1 June, so drought-sensitive months are June and July"
+      },
+      {
+        "title": "FAO Irrigation Water Management Training Manual 3, Irrigation water needs, chapter 3",
+        "url": "https://www.fao.org/4/s2022e/s2022e07.htm",
+        "locator": "Table 14 \"Indicative values of crop water needs\": Barley/Oats/Wheat 450-650 mm per growing period; our class from the upper bound: up to 600 mm low, 601-750 medium, above 750 high, so medium"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 3, \"High Residue Crop List\", cool season: Oats; high residue list maps to residueCover high"
+      },
+      {
+        "title": "borrowed from FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012): Spring wheat",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Table 1 \"Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33\", printed page 7: Spring wheat 1.15. The table has no oats row and no other opened document gives one, so the spring wheat value is borrowed (D53, the user's decision; it replaces D29 for this crop). The card names the borrowed value in its gaps. Excerpt in data/samples/research/agronomy/ky-fao66-tables-1-2.txt"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "team rule of thumb",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+        "locator": "SPEC section 7: drought threshold 20 = 20th percentile of the field's own root-zone wetness; lossShare 0.2 (drought, and heat or frost where no loss share is cited) has no source and is a team rule of thumb"
+      }
+    ]
+  },
+  {
+    "id": "alfalfa",
+    "family": "Fabaceae",
+    "legume": true,
+    "kind": "perennial",
+    "sowMonth": 4,
+    "harvestMonth": 9,
+    "sensitive": [
+      {
+        "hazard": "drought",
+        "months": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "threshold": 20,
+        "lossShare": 0.2
+      }
+    ],
+    "waterNeed": "high",
+    "yieldResponseFactor": 1.1,
+    "forage": true,
+    "residueCover": "medium",
+    "sources": [
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Hay, alfalfa\": planting dates (NA); most active harvest May 30 - Sep 15, so harvestMonth is the end of that window (September) and the drought-sensitive months are the months with 10 or more days inside it (June to September), since each cut is a harvest"
+      },
+      {
+        "title": "Iowa State University Extension, Integrated Crop Management News: Alfalfa Seeding Recommendations (17 April 2024)",
+        "url": "https://crops.extension.iastate.edu/post/alfalfa-seeding-recommendations",
+        "locator": "section \"Companion Crop or Herbicide\": alfalfa is commonly spring-planted with a nurse cereal such as oats"
+      },
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Oats, spring\": most active planting Apr 2 - May 2, midpoint in April; used as the spring sowing month of alfalfa planted with an oat companion crop"
+      },
+      {
+        "title": "FAO Irrigation and Drainage Paper 66, Crop yield response to water (2012)",
+        "url": "https://www.fao.org/4/i2800e/i2800e.pdf",
+        "locator": "Table 1 \"Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33\", printed page 7: Alfalfa 1.1"
+      },
+      {
+        "title": "FAO Irrigation Water Management Training Manual 3, Irrigation water needs, chapter 3",
+        "url": "https://www.fao.org/4/s2022e/s2022e07.htm",
+        "locator": "Table 14 \"Indicative values of crop water needs\": Alfalfa 800-1600 mm per growing period; our class from the upper bound: up to 600 mm low, 601-750 medium, above 750 high, so high"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 4, \"High Residue Crops with Residue Removed\": Alfalfa (hay or silage) is a low residue crop, page 5 lists alfalfa hay as non-fragile; low but non-fragile maps to residueCover medium"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "team rule of thumb",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+        "locator": "SPEC section 7: drought threshold 20 = 20th percentile of the field's own root-zone wetness; lossShare 0.2 (drought, and heat or frost where no loss share is cited) has no source and is a team rule of thumb"
+      }
+    ]
+  },
+  {
+    "id": "cereal-rye",
+    "family": "Poaceae",
+    "legume": false,
+    "kind": "cover",
+    "sowMonth": 9,
+    "harvestMonth": 4,
+    "sensitive": [],
+    "forage": true,
+    "residueCover": "high",
+    "sources": [
+      {
+        "title": "USDA NRCS and Iowa State University, Cereal Rye Cover Crop Fact Sheet for Iowa (May 2024)",
+        "url": "https://www.nrcs.usda.gov/sites/default/files/2024-04/Cereal%20Rye%20Cover%20Crop%20Fact%20Sheet.pdf",
+        "locator": "page 1, \"Cultural Traits\": seeding date mid August to late October (Midwest Cover Crop Council), midpoint in September; page 2, \"Performance Ratings\": grazing quality excellent (forage use), lasting residue excellent"
+      },
+      {
+        "title": "Iowa State University Extension, Integrated Crop Management News: Terminating cover crops ahead of corn (22 April 2026)",
+        "url": "https://crops.extension.iastate.edu/post/terminating-cover-crops-ahead-corn",
+        "locator": "terminate the cover crop at least 10 days before planting corn; with the NASS Iowa corn planting midpoint (6 May) termination falls in late April, so harvestMonth (termination) is April"
+      },
+      {
+        "title": "USDA NASS, Field Crops Usual Planting and Harvesting Dates (Agricultural Handbook 628), October 2010",
+        "url": "https://esmis.nal.usda.gov/sites/default/release-files/vm40xr56k/dv13zw65p/w9505297d/planting-10-29-2010.pdf",
+        "locator": "Iowa table, page 39, \"Corn for grain\": most active planting Apr 25 - May 18"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 3, \"High Residue Crop List\": any cover crop where the residue is not removed; page 5 lists rye as non-fragile, so residueCover high"
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      },
+      {
+        "title": "Licht and Clemens (2021), Considerations when overseeding cover crops, Iowa State University Extension, Integrated Crop Management News",
+        "url": "https://crops.extension.iastate.edu/cropnews/2021/07/considerations-when-overseeding-cover-crops",
+        "locator": "article body: overseeding into standing corn or soybean is \"usually the last week of August through that first week of September\"; supports sowMonth September. Excerpt: data/samples/research/agronomy/cover-isu-overseeding-2021.txt"
+      }
+    ]
+  },
+  {
+    "id": "red-clover",
+    "family": "Fabaceae",
+    "legume": true,
+    "kind": "cover",
+    "sowMonth": 8,
+    "harvestMonth": 5,
+    "sensitive": [],
+    "forage": true,
+    "residueCover": "medium",
+    "sources": [
+      {
+        "title": "USDA NRCS and Iowa State University, Red Clover Cover Crop Fact Sheet for Iowa (May 2024)",
+        "url": "https://www.nrcs.usda.gov/sites/default/files/2024-05/Red%20Clover%20Crop%20Fact%20Sheet.pdf",
+        "locator": "page 1, \"Cultural Traits\": winter red clover seeding date early August to mid September (Midwest Cover Crop Council), midpoint in August; page 2: grazing quality very good (forage use), lasting residue fair, and \"to produce measurable nitrogen for a cash crop, allow red clover to grow until at least mid-May\", so harvestMonth (termination) is May"
+      },
+      {
+        "title": "USDA NRCS Washington, Technical Note Agronomy 22: high vs low residue and fragile vs non-fragile crop residue (2025)",
+        "url": "https://nrcs.usda.gov/plantmaterials/wapmctn15062.pdf",
+        "locator": "page 3, \"High Residue Crop List\": any cover crop where the residue is not removed; page 5 lists fall seeded cover crops as fragile; high but fragile maps to residueCover medium, which matches the fact sheet rating \"lasting residue: fair\""
+      },
+      {
+        "title": "Field Shift plan: crop ids and families are fixed by the fixture",
+        "url": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/PLAN.md",
+        "locator": "task O4-A2; family and legume flag copied from src/fixtures/crops.ts"
+      }
+    ]
+  }
+]

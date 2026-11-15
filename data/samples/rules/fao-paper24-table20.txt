@@ -1,0 +1,30 @@
+# Excerpt of https://www.fao.org/3/s8376e/s8376e.pdf
+# FAO Irrigation and Drainage Paper 24, Crop water requirements (Doorenbos and Pruitt, revised 1977)
+# Downloaded Sat 14 Nov 2026 by O1 for data/rules/water.json (rye, winter rapeseed, class low).
+# The PDF is a scan. The lines below are its OCR text layer as stored in the file (pdftotext -raw),
+# so OCR errors are kept ("Ranize", "Toniatoes", "-350"). Each line is one printed table row of two columns.
+# Pages: PDF 45 (printed 35, lead-in sentence) and PDF 46 (printed 36, Table 20).
+
+=== PDF page 45 (printed page 35) ===
+For ease of reference, approximate ranges of seasonal ETcrop for different crops are
+given in Table 20. The magnitudes shown will change according to the factors discussed, i.e. mainly
+climate, crop characteristics, length of growing season and time of planting.
+
+=== PDF page 46 (printed page 36) ===
+Table 20 Approximate Ranize of Seasonal ETcrop in mm
+Seasonal ETcrop mm Min
+Alfalfa 600 - 1 500 Onions 350 - 600
+Avocado 650 - 1 000 Orange 600 - 950
+Bananas 700 - 1 700 Potatoes -350 - 625
+Beans 250 - 500 Rice 500 - 950
+Cocoa 800 - 1 200 Sisal 550 - 800
+Coffee 800 - 1 200 Sorghum 300 -650
+Cotton 550 - 950 Soybeans 450 - 825
+Dates 900 - 1 300 Sugarbeets 450 - 850
+Deciduous trees 700 - 1 050 Sugarcane 1 000 - 1 500
+Flax 450 - 900 Sweet potatoes 400 - 675
+Grains (small) 300 - 450 Tobacco 300 - 500
+Grapefruit 650 - 1 000 Toniatoes 300 - 600
+Maize 400 - 750 Vegetables 250 - 500
+Oil seeds 300 - 600 Vineyards 450 - 900
+Walnuts 700 - 1 000

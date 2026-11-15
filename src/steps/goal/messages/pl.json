@@ -1,0 +1,10 @@
+{
+  "steps.goal.question": "Na czym ci najbardziej zależy?",
+  "steps.goal.keepSoil": "Chronić glebę",
+  "steps.goal.keepSoil.hint": "Uprawiaj podobnie jak teraz i nie wyjaławiaj gleby.",
+  "steps.goal.improveSoil": "Poprawić glebę",
+  "steps.goal.improveSoil.hint": "Zwiększ ilość materii organicznej, zatrzymaj azot w glebie i ogranicz erozję.",
+  "steps.goal.income": "Dochód",
+  "steps.goal.income.hint": "Ułóż płodozmiany według dochodu, jaki przyniosłyby na tym polu w minionych latach, bez wyjaławiania gleby.",
+  "steps.goal.income.noMoney": "Ceny nie są jeszcze wczytane. Do tego czasu płodozmiany są ułożone pod kątem ochrony gleby."
+}

@@ -1,0 +1,89 @@
+Source: GUS (Statistics Poland), "Skup i ceny produktów rolnych w 2025 r." (publication 28.05.2026), Excel enclosure "Tablice skup_i_ceny_produktow_rolnych_2025_korekta_2.xls" (corrected, saved 10.06.2026)
+Page: https://publikacje.new.stat.gov.pl/portal-publikacje/skup-i-ceny-produktow-rolnych-w-2025-r
+File: https://publikacje.new.stat.gov.pl/sites/default/files/2026-06/Tablice%20skup_i_ceny_produktow_rolnych_2025_korekta_2.xls
+Retrieved: 2026-11-14 (curl; read with xlrd 2.0.1). Rows below copied cell-by-cell (empty cells dropped, ' | ' separates cells, rNN = sheet row number).
+Period: calendar year averages (2024, 2025). Unit: zł per 1 dt (100 kg) unless stated. Prices exclude VAT (procurement prices, ceny skupu).
+
+== Sheet "Tab1(26)" - TABL. 1(26). PRZECIĘTNE CENY SKUPU WAŻNIEJSZYCH PRODUKTÓW ROLNYCH (Poland)
+r1 DZIAŁ II. CENY
+r2 SECTION II. PRICES
+r4 TABL. 1(26). PRZECIĘTNE CENY SKUPU WAŻNIEJSZYCH PRODUKTÓW ROLNYCH
+r5 AVERAGE PROCUREMENT PRICES OF MAJOR AGRICULTURAL PRODUCTS
+r6 Powrót do spisu tablic
+Return to list of tables
+r7 WYSZCZEGÓLNIENIE | 2010 | 2015.0 | 2024.0 | 2025.0
+r8 SPECIFICATION | w złotych   in PLN
+r10 Ziarno zbóż (bez siewnego) - za 1dt:
+r11 Cereal grains (excluding sowing seed) - per dt
+r12 pszenica | 59.84 | 66.83 | 82.62 | 81.72
+r13 wheat
+r14 żyto | 42.12 | 51.42 | 59.35 | 64.79
+r15 rye
+r16 jęczmień | 48.98 | 61.04 | 74.44 | 75.9
+r17 barley
+r18 owies i mieszanki zbożowe | 34.3 | 48.35 | 80.53 | 66.88
+r19 oats and cereal mixed
+r20 pszenżyto | 46.65 | 56.23 | 70.2 | 73.58
+r21 triticale
+r22 gryka | 161.91 | 164.15 | 139.14 | 153.7
+r23 buckwheat
+r24 proso | 78.48 | 110.26 | 113.07 | 123.58
+r25 millet
+r26 kukurydza | 58.98 | 56.58 | 66.54 | 64.67
+r27 maize
+r28 Ziarno siewne - za 1 dt:
+r29 Sowing seed - per dt:
+r30 pszenica | 83.45 | 80.99 | 118.68 | 99.57
+r31 wheat
+r32 żyto | 62.05 | 57.94 | 91.21 | 102.0
+r33 rye
+r34 jęczmień | 62.97 | 68.59 | 103.41 | 90.96
+r35 barley
+r36 owies i mieszanki zbożowe | 43.78 | 61.16 | 99.32 | 85.15
+r37 oats and cereal mixed
+r38 pszenżyto | 82.26 | 70.0 | 90.78 | 85.63
+r39 triticale
+r40 gryka | 191.95 | 200.35 | 261.66 | 234.62
+r41 buckwheat
+r42 proso | 82.08 | . | . | .
+r43 millet
+r44 kukurydza | 98.01 | 106.79 | 273.28 | 276.05
+r45 maize
+r46 Strączkowe jadalne (bez ziarna siewnego) - za 1dt:
+r47 Edible pulses - per dt
+r48 groch | 111.1 | 105.64 | 143.21 | 114.01
+r49 pea
+r50 fasola | 344.62 | 382.93 | 506.04 | 432.97
+r51 bean
+r52 Ziemniaki - za 1 dt: | 36.53 | 39.92 | 86.84 | 70.65
+r53 Potatoes
+r54 wczesne | 53.58 | 49.51 | 105.51 | 94.97
+r55 early
+r56 późne | 35.42 | 38.03 | 81.09 | 64.78
+r57 late
+r58 jadalne | 50.86 | 51.15 | 118.95 | 92.26
+r59 edible
+r60 sadzeniaki | 81.77 | 96.27 | 212.5 | 253.08
+r61 seed
+r62 przemysłowe | 16.28 | 23.37 | 45.42 | 41.39
+r63 industrial
+r64 Buraki cukrowe - za 1 dt | 11.31 | 11.95 | 17.64 | 13.57
+r65 Sugar beet - per dt
+r66 Rzepak i rzepik przemysłowy - za 1 dt : | 127.76 | 150.51 | 201.68 | 208.0
+r67 Rape and turnip rape (industrial) - per dt
+r68 Len - za 1 dt :
+
+== Sheet "Tabl.3(28)" - TABL. 3(28). PRZECIĘTNE CENY SKUPU ... WEDŁUG REGIONÓW I WOJEWÓDZTW (header, Poland, Wielkopolskie rows). Regional rows refer to 2025 (the Poland row gives 2024 and 2025).
+r1 TABL. 3(28).  PRZECIĘTNE CENY SKUPU WAŻNIEJSZYCH PRODUKTÓW ROLNYCH WEDŁUG REGIONÓW I WOJEWÓDZTW
+r2 AVERAGE PROCUREMENT PRICES OF MAJOR AGRICULTURAL PRODUCTS BY REGIONS AND VOIVODSHIPS | Powrót do spisu tablic
+r4 Lp. | WOJEWÓDZTWA                                                      VOIVODSHIPS | Ziarno zbóż (bez siewnego) Cereal grains (excluding sowing seed) | Ziemniaki jadalne  (bez wczesnych) | Buraki cukrowe Sugar beets | Żywiec rzeźny Animals for slaughter | Mleko krowie
+r5 pszenica | żyto | jęczmień | owiesa | pszenżyto | Edible potatoes (excluding early) | bydło (bez cieląt) | cielęta | trzoda chlewna | owce | konie | drób
+r6 wheat | rye | barley | oats | triticale | cattle (excluding calves) | calves | pigs | sheep | horses | poultry
+r7 w złotych za 1 dt | in PLN for dt | w złotych za 1 kg wagi żywej in PLN per 1 kg of live weight | w złotych za 1 hl
+r8 in PLN for 1 hl
+r10 1.0 | P O L S K A | 2024.0 | 82.62 | 59.35 | 74.44 | 80.53 | 70.2 | 118.95 | 17.64 | 10.62 | 12.02 | 7.1 | 11.18 | 11.55 | 5.34 | 210.79 | 1.0
+r11 2025.0 | 81.72 | 64.79 | 75.9 | 66.88 | 73.58 | 92.26 | 13.57 | 13.54 | 15.72 | 6.31 | 12.35 | 12.03 | 6.26 | 222.07
+r16 5.0 | Makroregion północno-zachodni | 82.48 | 64.12 | 72.65 | 66.18 | 74.04 | 102.89 | 13.84 | 14.16 | 10.25 | 6.22 | 14.35 | 11.52 | 6.32 | 217.86 | 5.0
+r18 7.0 | Wielkopolskie | 82.46 | 64.52 | 75.26 | 65.83 | 72.72 | 105.12 | 13.85 | 14.13 | 10.72 | 6.22 | 14.33 | 11.53 | 6.22 | 217.64 | 7.0
+r39 a Łącznie z mieszankami zbożowymi.
+r40 a Including cereal mixed.

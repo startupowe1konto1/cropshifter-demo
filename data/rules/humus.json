@@ -1,0 +1,424 @@
+[
+  {
+    "id": "humus.coef.potato.pl",
+    "value": {
+      "light": -1.26,
+      "medium": -1.4,
+      "heavy": -1.54,
+      "blackEarth": -1.02
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of potato grown as a main crop (group 'Okopowe'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Okopowe': light -1.26, medium -1.4, heavy -1.54, black earth -1.02",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.sugar-beet.pl",
+    "value": {
+      "light": -1.26,
+      "medium": -1.4,
+      "heavy": -1.54,
+      "blackEarth": -1.02
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of sugar-beet grown as a main crop (group 'Okopowe'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Okopowe': light -1.26, medium -1.4, heavy -1.54, black earth -1.02",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.maize.pl",
+    "value": {
+      "light": -1.12,
+      "medium": -1.15,
+      "heavy": -1.22,
+      "blackEarth": -0.91
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of maize grown as a main crop (group 'Kukurydza'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Kukurydza': light -1.12, medium -1.15, heavy -1.22, black earth -0.91",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.winter-wheat.pl",
+    "value": {
+      "light": -0.49,
+      "medium": -0.53,
+      "heavy": -0.56,
+      "blackEarth": -0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of winter-wheat grown as a main crop (group 'Zboża, oleiste'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Zboża, oleiste': light -0.49, medium -0.53, heavy -0.56, black earth -0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.spring-barley.pl",
+    "value": {
+      "light": -0.49,
+      "medium": -0.53,
+      "heavy": -0.56,
+      "blackEarth": -0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of spring-barley grown as a main crop (group 'Zboża, oleiste'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Zboża, oleiste': light -0.49, medium -0.53, heavy -0.56, black earth -0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.rye.pl",
+    "value": {
+      "light": -0.49,
+      "medium": -0.53,
+      "heavy": -0.56,
+      "blackEarth": -0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of rye grown as a main crop (group 'Zboża, oleiste'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Zboża, oleiste': light -0.49, medium -0.53, heavy -0.56, black earth -0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.oats.pl",
+    "value": {
+      "light": -0.49,
+      "medium": -0.53,
+      "heavy": -0.56,
+      "blackEarth": -0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of oats grown as a main crop (group 'Zboża, oleiste'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "borrowed from IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Zboża, oleiste': light -0.49, medium -0.53, heavy -0.56, black earth -0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.winter-rapeseed.pl",
+    "value": {
+      "light": -0.49,
+      "medium": -0.53,
+      "heavy": -0.56,
+      "blackEarth": -0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of winter-rapeseed grown as a main crop (group 'Zboża, oleiste'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Zboża, oleiste': light -0.49, medium -0.53, heavy -0.56, black earth -0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.field-pea.pl",
+    "value": {
+      "light": 0.32,
+      "medium": 0.35,
+      "heavy": 0.38,
+      "blackEarth": 0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of field-pea grown as a main crop (group 'Strączkowe'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Strączkowe': light 0.32, medium 0.35, heavy 0.38, black earth 0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.soybean.pl",
+    "value": {
+      "light": 0.32,
+      "medium": 0.35,
+      "heavy": 0.38,
+      "blackEarth": 0.38
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of soybean grown as a main crop (group 'Strączkowe'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "borrowed from IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Strączkowe': light 0.32, medium 0.35, heavy 0.38, black earth 0.38",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.alfalfa.pl",
+    "value": {
+      "light": 1.89,
+      "medium": 1.96,
+      "heavy": 2.1,
+      "blackEarth": 2.1
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of alfalfa grown as a main crop (group 'Motylkowe, mieszanki'); Polish coefficients, for a field outside Poland they are a borrowed value",
+    "sourceTitle": "borrowed from IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Motylkowe, mieszanki': light 1.89, medium 1.96, heavy 2.1, black earth 2.1",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.red-clover.pl",
+    "value": {
+      "light": 1.89,
+      "medium": 1.96,
+      "heavy": 2.1,
+      "blackEarth": 2.1
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one crop-year of red-clover grown as a main crop (group 'Motylkowe, mieszanki'); Polish coefficients, for a field outside Poland they are a borrowed value. Main-crop value; red clover is only an Iowa cover crop in this app and the engine reads Polish humus rows only, so this row is not used",
+    "sourceTitle": "borrowed from IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Motylkowe, mieszanki': light 1.89, medium 1.96, heavy 2.1, black earth 2.1",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.fieldGrasses.pl",
+    "value": {
+      "light": 0.95,
+      "medium": 1.05,
+      "heavy": 1.16,
+      "blackEarth": 1.16
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy, blackEarth (czarne ziemie); negative = degradation, positive = reproduction. The slide prints the unit column as '1ha'; tonnes is how the Code of Good Agricultural Practice states these coefficients, a mentor should confirm",
+    "appliesTo": "humus balance, one year of grasses grown on arable land (no grass crop in the demo lists yet)",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Trawy w polu': light 0.95, medium 1.05, heavy 1.16, black earth 1.16",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.manure.pl",
+    "value": 0.7,
+    "unit": "tonnes of soil organic matter per 10 t of the material applied, any soil class",
+    "appliesTo": "humus balance credit when manure is applied or (for straw) ploughed in",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Obornik', unit '10 t': +0,70",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.slurry.pl",
+    "value": 0.28,
+    "unit": "tonnes of soil organic matter per 10 t of the material applied, any soil class",
+    "appliesTo": "humus balance credit when slurry is applied or (for straw) ploughed in",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Gnojowica', unit '10 t': +0,28",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.straw.pl",
+    "value": 1.8,
+    "unit": "tonnes of soil organic matter per 10 t of the material applied, any soil class",
+    "appliesTo": "humus balance credit when straw is applied or (for straw) ploughed in",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Współczynniki reprodukcji i degradacji glebowej substancji organicznej [Kodeks Dobrej Praktyki Rolniczej, 2004]'",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 4 (PDF page 4), table row 'Słoma', unit '10 t': +1,80",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.beets",
+    "value": {
+      "low": -1300,
+      "high": -700
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): sugar-beet",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Buraki pastewne i cukrowe': -1300 to -700",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.potato",
+    "value": {
+      "low": -1000,
+      "high": -760
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): potato",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Ziemniaki i 1 grupa warzyw': -1000 to -760",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.maize",
+    "value": {
+      "low": -800,
+      "high": -560
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): maize",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Kukurydza na ziarno i silos': -800 to -560",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.cerealsOilseeds",
+    "value": {
+      "low": -400,
+      "high": -280
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): winter-wheat, spring-barley, rye, oats, winter-rapeseed",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Zboża łącznie z roślinami oleistymi i włóknistymi': -400 to -280",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grainLegumes",
+    "value": {
+      "low": 160,
+      "high": 240
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): field-pea, soybean",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Strączkowe na ziarno': +160 to +240",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grassLegume.mainYear",
+    "value": {
+      "low": 600,
+      "high": 800
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): alfalfa or clover in its main year of use",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Trawy w uprawie polowej, motylkowate w czystym siewie lub z trawami: w głównym roku użytkowania': +600 to +800",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grassLegume.springSown",
+    "value": {
+      "low": 400,
+      "high": 500
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): alfalfa or clover in the spring it is sown",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row '... przy wysiewie wiosennym': +400 to +500",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grassLegume.catchCrop",
+    "value": {
+      "low": 300,
+      "high": 400
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): clover or grass grown as a catch crop (e.g. red-clover cover)",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row '... jako poplon': +300 to +400",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grassLegume.undersown",
+    "value": {
+      "low": 200,
+      "high": 300
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): clover or grass undersown in a cereal",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row '... jako wsiewka': +200 to +300",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.grassLegume.summerSown",
+    "value": {
+      "low": 100,
+      "high": 150
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): clover or grass sown in summer",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row '... przy wysiewie letnim': +100 to +150",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.winterCatchCrops",
+    "value": {
+      "low": 120,
+      "high": 160
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): winter catch crops (e.g. cereal-rye cover)",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Rośliny poplonowe: Poplony ozime': +120 to +160",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.stubbleCatchCrops",
+    "value": {
+      "low": 80,
+      "high": 120
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): stubble catch crops sown after a cereal harvest (e.g. phacelia, white mustard). The IUNG slide labels this row 'Mieszanki jare'; the VDLUFA 2004 original it reproduces calls it 'Stoppelfrüchte' (Körschens et al. 2005, Tabelle 1, 80/120; excerpt in data/samples/rules/korschens-2005-vdlufa-table1.txt)",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'Mieszanki jare': +80 to +120",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.vdlufa.undersownCatchCrops",
+    "value": {
+      "low": 200,
+      "high": 300
+    },
+    "unit": "kg of humus carbon per ha per year; low and high are the 'Dolne' and 'Górne' values of the VDLUFA table ordered numerically (negative = loss)",
+    "appliesTo": "humus balance range (source of the low/high spread): catch crops undersown in the main crop. The IUNG slide labels this row 'ugory' (fallow); the VDLUFA 2004 original it reproduces calls it 'Untersaaten' under 'Zwischenfrüchte' (Körschens et al. 2005, Tabelle 1, 200/300; excerpt in data/samples/rules/korschens-2005-vdlufa-table1.txt)",
+    "sourceTitle": "IUNG-PIB (Siebielec G., 2014), slide 'Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla różnych upraw wg VDLUFA' (after Pikuła 2013, SiR IUNG-PIB z. 34: 91-106)",
+    "sourceUrl": "https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf",
+    "sourceLocator": "slide 5 (PDF page 5), row 'ugory': +200 to +300",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "humus.coef.phacelia.pl",
+    "value": {
+      "light": 0.63,
+      "medium": 0.7,
+      "heavy": 0.77
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy; the slide has no black earth column, so blackEarth is left out; negative = degradation, positive = reproduction",
+    "appliesTo": "humus balance, one catch crop of phacelia (facelia błękitna) (crop id phacelia) sown after harvest and ploughed in as green manure, from the row 'Międzyplony na zielony nawóz' (catch crops for green manure); slide 22 lists facelia błękitna among 'Międzyplony ścierniskowe'; Polish coefficients",
+    "sourceTitle": "Podleśny J., Leszczyńska D. (IUNG-PIB, 2025), slides 'Międzyplony i ich znaczenie w produkcji rolniczej. Doskonalenie uprawy międzyplonów jako praktyki rolnictwa węglowego', slide 'Współczynniki reprodukcji (+) i degradacji (-) glebowej substancji organicznej (t/ha)' (source given on the slide: Kundler 1981)",
+    "sourceUrl": "https://www.iung.pl/wp-content/uploads/2026/03/Prezentacja-miedzyplony-2025.pdf",
+    "sourceLocator": "slide 19 (PDF page 19), row 'Międzyplony na zielony nawóz – 1 ha': light +0,63, medium +0,70, heavy +0,77; slide 22 (PDF page 22) 'Międzyplony ścierniskowe' lists gorczyca biała and facelia błękitna; excerpt in data/samples/rules/iung-podlesny-2025-miedzyplony.txt",
+    "checkedBy": "O4, source opened Sun 15 Nov 2026"
+  },
+  {
+    "id": "humus.coef.white-mustard.pl",
+    "value": {
+      "light": 0.63,
+      "medium": 0.7,
+      "heavy": 0.77
+    },
+    "unit": "change in soil organic matter (humus) per hectare per crop-year, in tonnes, by soil class: light, medium, heavy; the slide has no black earth column, so blackEarth is left out; negative = degradation, positive = reproduction",
+    "appliesTo": "humus balance, one catch crop of white mustard (gorczyca biała) (crop id white-mustard) sown after harvest and ploughed in as green manure, from the row 'Międzyplony na zielony nawóz' (catch crops for green manure); slide 22 lists gorczyca biała among 'Międzyplony ścierniskowe'; Polish coefficients",
+    "sourceTitle": "Podleśny J., Leszczyńska D. (IUNG-PIB, 2025), slides 'Międzyplony i ich znaczenie w produkcji rolniczej. Doskonalenie uprawy międzyplonów jako praktyki rolnictwa węglowego', slide 'Współczynniki reprodukcji (+) i degradacji (-) glebowej substancji organicznej (t/ha)' (source given on the slide: Kundler 1981)",
+    "sourceUrl": "https://www.iung.pl/wp-content/uploads/2026/03/Prezentacja-miedzyplony-2025.pdf",
+    "sourceLocator": "slide 19 (PDF page 19), row 'Międzyplony na zielony nawóz – 1 ha': light +0,63, medium +0,70, heavy +0,77; slide 22 (PDF page 22) 'Międzyplony ścierniskowe' lists gorczyca biała and facelia błękitna; excerpt in data/samples/rules/iung-podlesny-2025-miedzyplony.txt",
+    "checkedBy": "O4, source opened Sun 15 Nov 2026"
+  }
+]

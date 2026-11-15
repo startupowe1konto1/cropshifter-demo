@@ -1,0 +1,122 @@
+# Excerpt (pdftotext -layout) of https://www.agronext.iastate.edu/soilfertility/info/highfertilizerprices04icm.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 3 10
+
+=== PDF page 3 ===
+                               2004 Integrated Crop Management Conference - Iowa State University — 165
+
+is not large unless N prices are high (Table 4). One should carefully consider the prices used in
+these evaluations – the price now may not be what it is in the future or at harvest.
+Using the approach outlined in Nafziger et al. (2004) for analyzing economic optimum return to
+N from many individual site-years of data, the highest return to N for Iowa response data occurs
+at 120 lb N/acre for corn following soybean (Figure 4). Return to N does not change appreciably
+around the highest return, with a range that is approximately 20 to 30 lb N/acre above and
+below the highest return or from 100 to 150 lb N/acre (assuming within approximately $1.00/
+acre of the maximum return, and using a 0.10 N:corn price ratio, which has been a common
+price ratio over the years). This N rate range coincides with the suggested range in Voss and
+Schrader (1984) and Blackmer et al. (1997) for corn following soybean. Figure 4 also indicates
+that N applied at the top end of this range would supply optimal N at 90% predicted sufﬁciency,
+while N applied at the low end of this range would supply optimal N at 45% sufﬁciency. This
+analysis also indicates there is little to be gained from applying N above 150 lb N/acre when corn
+follows soybean. Decreasing or increasing the price ratio affects the return level, the range of
+greatest return to N, and the range for N sufﬁciency (Figure 4). At a N:corn price ratio of 0.05,
+highest return shifts to 150 lb N/acre and at a N:corn price ratio of 0.15 highest return shifts to
+100 lb N/acre. This data analysis should help producer decisions regarding N applications as
+their expectation for corn pricing and N cost ﬂuctuates, and should help with risk management
+and understanding ﬁnancial beneﬁt or penalty if applied N is not optimal in a given season.
+As mentioned earlier, the price ratio has held fairly constant over time, and changes in N rates
+should be weighed carefully in regard to corn prices for grain sold or expected sales. There are
+three main impacts of changing price ratios: one, the economic penalty for over-application
+increases signiﬁcantly when N price becomes relatively high (this penalty is almost non-existent
+at low relative N price); two, the range of greatest economic return to N becomes smaller and
+the rate sufﬁciency moves to lower N rates when N price becomes relatively high; and three, the
+range in greatest return to N and rate sufﬁciency move to higher N rates when corn price is high
+relative to N. Currently, N prices are getting high, but this must be weighed relatively to the
+price received for corn grain. This type of response data analysis data can also be used to help
+judge use of differently priced N products.
+For continuous corn, return to N is greater compared to corn following soybean due to
+larger yield increase from N application and the highest return to N occurs at 170 lb N/acre,
+which is 50 lb N/acre higher. Also, a constant range in highest return to N rate occurs from
+approximately 150 to 200 lb N/acre (Figure 5), which coincides with the suggested N rate range
+of 150 to 200 lb N/acre in Voss and Shrader (1984) and Blackmer et al. (1997) for continuous
+corn. At a N:corn price ratio of 0.05, highest return shifts to 200 lb N/acre and at a N:corn price
+ratio of 0.15 highest return shifts to 140 lb N/acre.
+Manure is an excellent source of crop available N. Multiple studies in Iowa show both high
+corn yield and high nutrient availability from manure application. In some instances corn yields
+with applied manure are higher than with fertilizer alone. Appropriately utilizing manure N is
+another opportunity to lower fertilizer N use.
+                                            Soil Testing
+Decisions regarding P and K fertilization are based on information derived from soil test results.
+
+=== PDF page 10 ===
+172 — 2004 Integrated Crop Management Conference - Iowa State University
+
+Figure 5. Average economic return to N and N rate optima for 28 site-years (1992-2003) in
+          Iowa for continuous corn. Nitrogen to corn price ratios are 0.05, N at $0.11 and corn
+          at $2.20; 0.10, N at $0.22 and corn at $2.20; and 0.15, N at $0.33 and corn at $2.20.
+
+                                        Corn-Corn Rotation - Iowa                                                          100
+                       140                                                                                                          90         0.05
+
+
+
+
+                                                                                                  Percent Chance of N Sufficiency
+                                 0.05                                                                                                          0.10
+                       120                                                                                                          80
+                                 0.10                                                                                                          0.15
+                                 0.15                                                                                               70
+                       100
+ Return to N, $/acre
+
+
+
+
+                                                                                                                                    60
+                        80
+                                                                                                                                    50
+                        60                                                                                                          40
+
+                        40                                                                                                          30
+                                                                                                                                    20
+                        20
+                                                                                                                                    10
+                         0
+                                                                                                                                     0
+                             0     50           100           150            200           250
+                                                                                                                                         0       50       100        150       200   250
+                                                N Rate, lb N/acre                                                                                         N Rate, lb/acre
+
+
+
+Table 1. Effect of N application timing on corn grain yield in a wet and dry year. Adapted from
+         Baker et al. (1995).
+
+                                                                                                                                                      Split   Split
+                                  Year       Fall     4/1      4/15       5/1      5/15       6/1                                    6/15      7/1     E.      L.        CK
+
+                                                    - - - - - - - - - - - - - - - - - - - - - - bu/acre - - - - - - - - - - - - - - - - - - - -
+
+                                  1989       151      144      149       151        151       138                                    131       128    143      142        59
+                                  (Dry)
+                                  1990       114      126      128       128        140       145                                    143       137    130      136       68
+                                  (Wet)
+                                 N applied at 112 lb N/acre as liquid fertilizer. Split early was at first cultivation, split
+                                 late was at second cultivation (half – half rate split). Continuous corn. Baker et al.,
+                                 1995, Ames, IA.
+
+
+
+
+Table 2. Inﬂuence of previous forage legume on subsequent corn N fertilization need.
+
+                                 First Year Corn N Need Following Forage Legum e
+                                                                                               Site                                          Responsive       Optimum
+                                 State                                                        Years                                            Sites           N Rate
+                                                                                                                                                                lb/acre
+                                 Iowa (Voss and Shrader, 1981)                                   11                                              0                   0
+                                 Iowa (Morris et al., 1993)                                      29                                              6                 25
+                                 Wisconsin (Bundy and Andraski, 1993)                            24                                              0                   0
+                                 Minnesota (Schm itt and Randall, 1994)                          5                                               1                 42
+                                 Illinois (Brown and Hoeft, 1997)                                4                                               0                   0
+                                 Pennsylvania (Fox and Piekielek, 1998)                          2                                               0                   0
+

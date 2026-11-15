@@ -1,0 +1,58 @@
+{
+  "evapotranspiration": {
+    "label": "evapotranspiration",
+    "explanation": "Water that leaves the field as vapour, from the soil surface and through the leaves of the plants."
+  },
+  "anomaly": {
+    "label": "anomaly",
+    "explanation": "How far this year or month is above or below what is usual for this field at that time of year."
+  },
+  "ndvi": {
+    "label": "NDVI",
+    "explanation": "A satellite reading of how green and dense the plants on a field are: low over bare soil, close to 1 over a thick crop."
+  },
+  "soil-moisture": {
+    "label": "soil moisture (m³/m³)",
+    "explanation": "How much water the soil holds, as water volume per soil volume, so 0.30 means water fills 30% of the soil."
+  },
+  "root-zone": {
+    "label": "root zone",
+    "explanation": "The layer of soil that crop roots reach and take water from, which in our data is the top metre of soil."
+  },
+  "soil-wetness-index": {
+    "label": "soil wetness index",
+    "explanation": "How wet the top metre of soil is, from 0 when completely dry to 1 when full of water, as estimated by NASA POWER."
+  },
+  "suitability-class": {
+    "label": "suitability class",
+    "explanation": "A rating from an FAO crop model of how well a crop suits the local climate, soil and land, from very high to not suitable."
+  },
+  "cover-crop": {
+    "label": "cover crop",
+    "explanation": "A crop grown to cover and protect the soil between main crops, not to sell, for example clover or rye over winter."
+  },
+  "catch-crop": {
+    "label": "catch crop",
+    "explanation": "A fast-growing crop sown right after harvest to take up leftover nitrogen before rain washes it away and to cover bare soil."
+  },
+  "humus-balance": {
+    "label": "humus balance",
+    "explanation": "Our estimate of whether a rotation builds up the soil's organic matter or runs it down, from the crops, soil type and weather."
+  },
+  "percentile-range": {
+    "label": "percentile range",
+    "explanation": "A low and a high value that most years or soil samples fall between, leaving out the few most extreme cases at each end."
+  },
+  "model-estimate": {
+    "label": "model estimate",
+    "explanation": "A value worked out by a computer model from satellite and weather data, not measured on your field, so the real value may differ."
+  },
+  "margin": {
+    "label": "margin",
+    "explanation": "Crop sales per hectare minus direct costs such as seed, fertiliser, sprays and fuel, before land, labour, machinery ownership and payments."
+  },
+  "government-support": {
+    "label": "government support",
+    "explanation": "Money a government agency pays per hectare each year, if you apply, for practices that protect soil and water, such as cover crops."
+  }
+}

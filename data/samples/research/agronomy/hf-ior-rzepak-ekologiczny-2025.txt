@@ -1,0 +1,16 @@
+Title: Instrukcja uprawy rzepaku ozimego ze szczególnym uwzględnieniem ochrony w systemie ekologicznym
+Author/publisher: prof. dr hab. Jolanta Kowalska, dr hab. Józef Tyburski (UWM), dr inż. Małgorzata Antkowiak; Instytut Ochrony Roślin – PIB, Poznań
+Year: 2025 (prepared under IOR-PIB 2025 grant, MRiRW)
+URL: https://www.ior.poznan.pl/plik,4965,instrukcja-uprawy-rzepaku-ozimego-ze-szczegolnym-uwzglednieniem-ochrony-w-systemie-ekologicznym-pdf.pdf
+Date opened: 14 Nov 2026
+Locator: PDF page 5 (section 1, Wprowadzenie / climate requirements); PDF page 13 (sowing date)
+
+--- PDF page 5 ---
+"Optymalna temperatura dla wzrostu rzepaku waha się między 15 a 20°C w okresie
+wegetacji, zimą znosi spadki temperatur do -15°C, ale niebezpieczne mogą być długotrwałe
+mrozy bez pokrywy śnieżnej."
+EN gloss: optimum growth 15-20 °C; in winter tolerates drops to -15 °C; long frosts without snow cover are dangerous.
+
+--- PDF page 13 ---
+"Rzepak ozimy potrzebuje ok. 75-80 dni jesiennej wegetacji, przy średniej dobowej temperaturze powyżej 5°C."
+EN gloss: winter rapeseed needs about 75-80 days of autumn growth with mean daily temperature above 5 °C.

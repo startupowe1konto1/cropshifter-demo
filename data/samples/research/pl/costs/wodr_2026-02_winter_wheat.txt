@@ -1,0 +1,90 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/pszenica_ozima.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa: Pszenica ozima - dt/ha  |  plon:  |  60  |  dt/ha
+  |  2026  |  Luty
+  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość  |  Cena (zł/j.m.)
+  |  (zł/ha)
+Pszenica  |  Materiał bazowy "B"  |  kg  |  200,00  |  2,61  |  522,50
+  |  Termin  |  Cena
+  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  zabiegu  |  składnika
+  |  (kg/ha)  |  (zł/ha)
+  |  (dekada/m-c)  |  (zł/kg)
+  |  N  |  2/09  |  18  |  4,81  |  86,51
+Polifoska 6:20:30  |  P  |  2/09  |  60  |  8,12  |  487,26
+  |  K  |  2/09  |  90  |  2,77  |  249,06
+  |  N  |  2/03  |  60  |  5,14  |  308,56
+Saletra amonowa
+  |  N  |  3/04  |  40  |  5,14  |  205,70
+Wapno nawozowe  |  CaO (1/4 dawki)  |  2/08  |  750  |  0,30  |  225,00
+Razem  |  1562,10
+  |  Termin
+  |  Rodzaj środka (herbicydy, fungicydy,  |  Dawka  |  Cena środka  |  Wartość
+  |  Środki ochrony roślin  |  zabiegu
+  |  insektycydy, regulatory wzrostu)  |  (l,kg/ha)  |  (zł/l,kg)  |  (zł/ha)
+  |  (dekada/m-c)
+Komplet 560 S.C.  |  Herbicyd  |  1/10  |  0,45  |  340,89  |  153,40
+Medax Top 350 S.C.  |  Regulator wzrostu  |  2/04  |  1,00  |  163,81  |  163,81
+Delaro 325 S.C.  |  Fungicyd  |  3/04  |  0,60  |  216,48  |  129,89
+Kier 450 EC  |  Fungicyd  |  1/06  |  1,00  |  162,93  |  162,93
+Cyperkil Max 500 EC  |  Insektycyd  |  1/06  |  0,05  |  217,15  |  10,86
+Razem  |  620,89
+  |  Czas
+  |  Termin  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu  |  zabiegu
+  |  własnych  |  zabiegu  |  (zł/ha)
+  |  (dekada/m-c)  |  (zł/godz)
+  |  (godz/ha)
+Ciągnik 80KM+pług 5-skibowy+brona 3-pol.  |  Podorywka z bronowaniem  |  2/08  |  1,50  |  70,59  |  105,89
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  2/09  |  0,50  |  58,40  |  29,20
+Ciągnik 80KM+pług 4-skibowy  |  Orka siewna  |  2/09  |  2,00  |  67,69  |  135,39
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/09  |  0,70  |  72,64  |  50,85
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  1/10  |  1,20  |  76,24  |  91,49
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/10  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  2/03  |  0,30  |  58,40  |  17,52
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk - skracanie źdźbła  |  2/04  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  3/04  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 2 dawka  |  3/04  |  0,30  |  58,40  |  17,52
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicyd+insektycyd  |  1/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  2/08  |  0,50  |  66,52  |  33,26
+Ciągnik 60KM+prasa zwijająca  |  Prasowanie słomy  |  2/08  |  1,20  |  104,20  |  125,04
+Ciągnik 60KM+ładowacz czołowy  |  Załadunek słomy  |  2/08  |  2,00  |  59,41  |  118,82
+Ciągnik 60KM+przyczepa 7t  |  Zwożenie słomy  |  2/08  |  2,00  |  66,52  |  133,03
+Razem  |  13,80  |  955,62
+  |  Czas
+  |  Termin  |  Koszt
+  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu  |  zabiegu
+  |  zabiegu  |  (zł/ha)
+  |  (dekada/m-c)  |  (zł/godz)
+  |  (godz/ha)
+Ciągnik 60KM+rozsiewacz wapna RCW-3  |  Wapnowanie (1/4 kosztu)  |  2/08  |  1,00  |  39,33  |  39,33
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  2/08  |  1,20  |  510,21  |  612,25
+Razem  |  1,20  |  651,58
+  |  Wartość
+ Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość  |  Cena (zł/j.m.)
+  |  (zł/ha)
+Prasowanie słomy  |  Sznurek  |  szt  |  1  |  54,81  |  54,81
+Razem  |  54,81
+
+  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość  |  Cena (zł/j.m.)
+  |  (zł/ha)
+Produkt główny  |  Ziarno pszenicy  |  dt  |  60  |  71,23  |  4274,03
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  4939,42
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  4367,49
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  571,93
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  72,79
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  9,53

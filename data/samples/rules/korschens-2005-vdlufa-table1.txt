@@ -1,0 +1,41 @@
+# Excerpt (pdftotext -layout) of https://literatur.thuenen.de/digbib_extern/bitv/zi036604.pdf
+# Körschens M., Rogasik J., Schulz E. (2005). Bilanzierung und Richtwerte organischer Bodensubstanz. Landbauforschung Völkenrode 55(1): 1-10. Tabelle 1 reprints the VDLUFA (2004) values (Körschens et al., 2004).
+# Downloaded Sun 15 Nov 2026 by O4 to check the row labels of the humus.vdlufa.* rows. Page: PDF page 6 (journal page 4).
+
+Tabelle 1:
+Richtwerte für die anbauspezifische Veränderung der Humusvorräte von Böden in Humusäquivalenten (kg Humus-C) ha-1.a-1 (Körschens et al
+(Negative Werte kennzeichnen den erforderlichen Humusbedarf).
+                                                                                     kg Humus-C ha-1.a-1
+                                                                                     Verlust (-) oder Gewinn (+)
+ Hauptfruchtarten                                                                    untere Werte              obere Werte
+ Zucker- und Futterrübe, einschließlich Samenträger                                   - 760                       - 1300
+ Kartoffeln und 1. Gruppe Gemüse/Gewürz- und Heilpflanzen                             - 760                       - 1000
+ Silomais, Körnermais und 2. Gruppe Gemüse/Gewürz/Heilpflanzen                        - 560                         - 800
+ Getreide einschließlich Öl- und Faserpflanzen, Sonnenblumen                          - 280                         - 400
+ sowie 3. Gruppe Gemüse/Gewürz- und Heilpflanzen
+ Körnerleguminosen                                                                     160                           240
+ Bedarfsfaktoren für Zucker- und Futterrüben, Getreide einschließlich Körnermais und Ölfrüchten ohne Koppelprodukte; bei den rest­
+ lichen Fruchtarten ist die Humusersatzleistung der Koppelprodukte im Humusbedarf berücksichtigt.
+ Mehrjähriges Feldfutter
+ Ackergras, Leguminosen, Leguminosen-Gras-Gemenge,
+ Vermehrung und 4. Gruppe Gemüse/Gewürz/Heilpflanzen
+ • je Hauptnutzungsjahr                                                                600                           800
+ • im Ansaatjahr
+     als Frühjahrsblanksaat                                                            400                           500
+     bei Gründeckfrucht                                                                300                           400
+     als Untersaat                                                                     200                           300
+     als Sommerblanksaat                                                               100                           150
+ Zwischenfrüchte
+ Winterzwischenfrüchte                                                                 120                           160
+ Stoppelfrüchte                                                                         80                           120
+ Untersaaten                                                                           200                           300
+ Brache
+ Selbstbegrünung
+ • ab Herbst                                                                                        180
+ • ab Frühjahr des Brachejahres                                                                      80
+ Gezielte Begrünung
+ • ab Sommer der Brachlegung
+   incl. dem folgenden Brachejahr **                                                                700
+ • ab Frühjahr des Brachejahres                                                                     400
+ ** gilt auch für nachfolgende Jahre
+ * Umrechnungsfaktoren:           1 t ROS ≈ ca. 200 kg Humus-C         1 HE ≈ ca. 580 kg Humus-C

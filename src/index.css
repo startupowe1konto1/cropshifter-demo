@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet's panes (z-index 400) and controls (1000) stay inside the map, so the sticky header and footer draw over it. */
+.leaflet-container { isolation: isolate; }
+
+/* Start page drawing: the field outline draws itself once, the pin pulses. Off when the user asks for less motion. */
+.intro-field { stroke-dasharray: 760; stroke-dashoffset: 760; animation: intro-draw 1.6s 0.2s cubic-bezier(0.6, 0, 0.2, 1) forwards; }
+.intro-pulse { transform-origin: 279px 200px; animation: intro-pulse 2.2s ease-out infinite; }
+@keyframes intro-draw { to { stroke-dashoffset: 0; } }
+@keyframes intro-pulse { from { opacity: 0.8; transform: scale(0.6); } to { opacity: 0; transform: scale(2.2); } }
+@media (prefers-reduced-motion: reduce) {
+  .intro-field { animation: none; stroke-dashoffset: 0; }
+  .intro-pulse { animation: none; opacity: 0; }
+}

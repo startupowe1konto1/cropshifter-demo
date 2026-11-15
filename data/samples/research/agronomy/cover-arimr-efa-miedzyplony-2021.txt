@@ -1,0 +1,17 @@
+Title: Międzyplony i okrywa zielona (Płatność za zazielenienie, obszary proekologiczne EFA) - ARiMR web page
+Author/publisher: Agencja Restrukturyzacji i Modernizacji Rolnictwa (gov.pl)
+Year: 2021 (archived section "Płatności bezpośrednie w roku 2021" / "do roku 2022") - HISTORICAL greening rule, superseded by PS WPR 2023-2027
+URL: https://www.gov.pl/web/arimr/miedzyplony-i-okrywa-zielona-21
+Date opened: 14 Nov 2026
+Locator: section "Międzyplony i okrywa zielona", list "Istnieją dwie możliwości realizacji wymogu w zakresie międzyplonu ścierniskowego"
+
+"Istnieją dwie możliwości realizacji wymogu w zakresie międzyplonu ścierniskowego."
+"Stały termin wysiewu i utrzymania:"
+"wysiew od dnia 1 lipca do dnia 20 sierpnia danego roku,"
+"utrzymanie na polu co najmniej do dnia 15 października."
+[Indywidualny termin:] "wysiew w okresie od dnia 1 lipca do dnia 20 sierpnia,"
+"utrzymanie przez co najmniej 8 tygodni od dnia wysiewu mieszanki."
+"Przy indywidualnym podejściu należy w ciągu 7 dni od daty wysiewu a najpóźniej do dnia 27 sierpnia, złożyć oświadczenie ze wskazaniem terminu wysiewu."
+"Realizacja międzyplonu ozimego:" "wysiew od dnia 1 lipca do dnia 1 października," "utrzymanie na polu co najmniej do dnia 15 lutego."
+"Mieszanki złożone z samych gatunków zbóż nie będą uznawane jako obszar proekologiczny."
+EN gloss: 2021 EFA rule: stubble catch crop sown 1 Jul-20 Aug, kept to at least 15 Oct (fixed variant) or >= 8 weeks from sowing (individual variant, declaration within 7 days and by 27 Aug); winter catch crop sown 1 Jul-1 Oct, kept to 15 Feb. Same dates as the 2025 IUNG slide, but this page is the old greening scheme.

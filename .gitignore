@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Confidential organizer / partner data (never commit)
+data/private/
+
+# Dependencies and builds
+node_modules/
+dist/
+build/
+.next/
+.vercel/
+.wrangler/
+coverage/
+__pycache__/
+.venv/
+*.pyc
+
+# Test artifacts
+playwright-report/
+test-results/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Temporary files (e.g. branch protection JSON)
+protection.json

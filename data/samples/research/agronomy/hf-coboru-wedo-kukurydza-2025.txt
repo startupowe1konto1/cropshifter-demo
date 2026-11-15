@@ -1,0 +1,14 @@
+Title: Wyniki ekologicznych doświadczeń odmianowych (WEDO) nr 227. Kukurydza (na ziarno), rok zbioru 2025
+Author/publisher: COBORU, Słupia Wielka
+Year: 2026
+URL: https://coboru.gov.pl/Publikacje_COBORU/Wyniki_PDO/WEDO_227_Kukurydza_2025.pdf
+Date opened: 14 Nov 2026
+Locator: PDF p. 8, Tabela 3 "KUKURYDZA NA ZIARNO - uprawa ekologiczna. Warunki polowe doświadczeń. Rok zbioru 2025", column "Śrem" (5th column). Dates dzień/miesiąc. Śrem is in Wielkopolska. Organic trials, single year.
+
+Quoted rows (columns: Krzyżewo | Pawłowice | Przecław | Radostowo | Śrem):
+"Siew |2.05 |24.04 |14.04 |29.04 |6.05"
+"Wschody |24.05 |7.05 |28.04 |25.05 |19.05"
+"Pojawienie się znamion |30.07 |26.07 |11.07 |- |26.07"
+"Dojrzałość pełna |7.10 |3.10 |23.09 |- |1.10"
+"Zbiór |20.10 |15.10 |30.10 |- |30.10"
+-> Śrem 2025: sowing 6.05, emergence 19.05, silking 26.07, full maturity 1.10, harvest 30.10.

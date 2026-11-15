@@ -1,0 +1,29 @@
+Title: Crop yield response to water. FAO Irrigation and Drainage Paper 66
+Authors: Steduto, P., Hsiao, T.C., Fereres, E. & Raes, D.
+Publisher/year: FAO, Rome, 2012
+URL: https://www.fao.org/4/i2800e/i2800e.pdf
+Opened: 14 Nov 2026 (downloaded with curl, text extracted with PyMuPDF; the page image of Table 2 was checked by eye)
+Locators: Table 1, book page 7 (PDF page 22); Table 2, book page 12 (PDF page 27)
+
+--- Book page 7 (PDF 22), text above Table 1 ---
+"The Ky values are crop specific and vary over the growing season according to growth stages"
+"Typically flowering and yield formation stages are sensitive to stress, while stress
+occurring during the ripening phases has a limited impact, as in the vegetative phase, provided
+the crop is able to recover from stress in subsequent stages."
+
+--- Table 1. Seasonal Ky values from FAO Irrigation and Drainage Paper No. 33 (rows relevant to us) ---
+Alfalfa 1.1 | Maize 1.25 | Peas 1,15 | Potato 1.1 | Soybean 0.85 | Spring wheat 1.15 | Sugarbeet 1.0 | Winter wheat 1.05
+(No row for oats, barley, rye or rapeseed.)
+
+--- Table 2. Comparison of Ky values between FAO I&D Paper No. 33 and IAEA investigations (FAO, 2002)
+at different stages of crop development. Tr-0000 = water deficit during the whole season; Tr-0111 = during
+initial crop stage; Tr-1011 = during crop development; Tr-1101 = during midseason; Tr-1110 = during late season.
+Columns per stage: FAO | IAEA | (%) difference. Blank = no value in the table. ---
+Crop          Tr-0000           Tr-0111            Tr-1011           Tr-1101            Tr-1110
+Maize         1.25 1.33 6       0.40               1.50              0.50               0.20
+Potato        1.10              0.60 0.40 -33      -    0.33         0.70 0.46 -34      0.20
+Soybean       0.85              0.20 0.56 180      0.80 1.13 41      1.00 1.76 76       -
+Spring wheat  1.15 1.32 15      0.20 0.55 175      0.65 0.90 38      0.55 0.44 -20      -    0.25
+Winter wheat  1.00 0.87 -13     0.20 2.54 1170     0.60 0.81 35      0.50 0.48 -4       -    0.62
+(No rows for alfalfa, sugar beet, peas, barley, oats, rye or rapeseed.)
+Note: Table 2 gives 1.00 for winter wheat over the whole season; Table 1 gives 1.05.

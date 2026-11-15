@@ -1,0 +1,11 @@
+Title: Effects of Late Spring Frost on Alfalfa
+Author/publisher: Sara Bauder (former SDSU Extension Forage Field Specialist); SDSU Extension, South Dakota State University
+Year: page "Updated May 06, 2026" (original publication date not shown)
+URL: https://extension.sdstate.edu/effects-late-spring-frost-alfalfa
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: first two body paragraphs ([5], [6] in oc numbering)
+
+Quoted text:
+"minor frost damage may occur when plants are exposed to air temperatures slightly below freezing for several hours, and more severe damage will be seen when temperatures drop below 25°F for four or more hours."
+"Newly seeded alfalfa tends to be more frost-tolerant than well-established stands, but once plants surpass the second trifoliate leaf stage, seedlings become more susceptible to cold injury."
+"When temperatures stay near or below 25°F for several hours, alfalfa leaf tissue, buds, and growing points are susceptible to frost damage. If temperatures remain in the upper 20s, damage to exposed trifoliate leaves near the top of the canopy could occur but will not likely affect yield."

@@ -1,0 +1,39 @@
+# GUS, 'Produkcja upraw rolnych i ogrodniczych w <rok>' (final estimates, XLSX tables by voivodeship). Retrieved 2026-11-14.
+# Columns as in GUS sheet: excel_row | Wyszczególnienie | Powierzchnia (ha; 2020 edition: tys. ha) | Plony z 1 ha w dt | Zbiory (dt; 2020: tys. t) | ... ; t/ha = dt/ha / 10
+# Rows: first occurrence (section 'OGÓŁEM / TOTAL') of 'P o l s k a' and 'Wielkopolskie'.
+
+## 2020 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2020-roku,9,19.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/19/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2020produkcja_upraw_rolnych_i_ogrodniczych_w_2020.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+2	Wyszczególnienie	Powierzchnia  w tys. ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	968.9	32	30966637	114.3	117.2	133.69999999999999
+20	Wielkopolskie 	89.9	33.700000000000003	3029904	109.4	132.19999999999999	144.5
+
+## 2021 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2021-roku,9,20.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/20/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2021_r.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	975718	32.299999999999997	31474302	100.9	100.9	101.8
+20	Wielkopolskie 	91353	32.799999999999997	2996378	101.7	97.3	98.9
+
+## 2022 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2022-roku,9,21.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/21/1/publikacja_2022_2.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	1055898	34	35918762	108.2	105.3	114.1
+20	Wielkopolskie 	102485	34.5	3537445	112.2	105.2	118.1
+
+## 2023 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2023-roku,9,22.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/22/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2023_2.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	1086131	34.1	36984426	102.9	100.3	103
+22	Wielkopolskie 	107357	35.299999999999997	3789330	104.8	102.3	107.1
+
+## 2024 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2024-r-,9,23.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/23/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2024.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	995497	32.5	32308864	91.7	95.3	87.4
+22	Wielkopolskie 	95930	34.299999999999997	3294621	89.4	97.2	86.9
+
+## 2025 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2025-r-,9,24.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/24/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2025.xlsx | sheet 'Tabl. 26'
+1	TABL. 26. POWIERZCHNIA, PLONY I ZBIORY RZEPAKU I RZEPIKU OZIMEGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	1089016	33.200000000000003	36100949	109.4	102.2	111.7
+22	Wielkopolskie 	105710	33.299999999999997	3523239	110.2	97.1	106.9

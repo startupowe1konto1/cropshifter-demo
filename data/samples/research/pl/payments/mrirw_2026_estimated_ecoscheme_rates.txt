@@ -1,0 +1,79 @@
+SOURCE: MRiRW, 'Zaliczki dopłat dla rolników już od 8 września' (19.08.2026) + attachment 'Tabela 2 - Szacunkowe stawki ekoschematów obszarowych' (.docx)
+URL: https://www.gov.pl/web/rolnictwo/zaliczki-doplat-dla-rolnikow-juz-od-8-wrzesnia
+ATTACHMENT URL (Tabela 2): https://www.gov.pl/attachment/5b8e988c-33e8-4d41-bda7-82157d073500
+ATTACHMENT URL (Tabela 1): https://www.gov.pl/attachment/3b2ddf5e-7b62-4b5f-bca1-200ad469f659
+RETRIEVED: 2026-11-14
+STATUS: ESTIMATED (stawki szacunkowe) for campaign 2026, used for advances. NOT final rates.
+LOCATOR: page section 'Dlaczego stawki są szacunkowe?'; Tabela 2 rows under 'Rolnictwo węglowe...'; Tabela 1 row 'Płatność do roślin strączkowych na nasiona'
+
+--- page excerpt ---
+Dlaczego stawki są szacunkowe?
+Wypłata zaliczek rozpocznie się przed ustaleniem kursu wymiany euro na złote właściwego dla kampanii 2026 r. Dlatego ich wysokość będzie obliczana na podstawie szacunkowych stawek płatności.
+Do ich wyliczenia przyjęto kurs z 31 lipca 2026 r. wynoszący 4,3135 PLN/EUR. Ze względu na wahania kursu od początku roku szacunkowe stawki zostały dodatkowo pomniejszone o 3 proc. Pozwoli to ograniczyć ryzyko przekroczenia maksymalnego poziomu zaliczek w przypadku spadku kursu euro wobec złotego.
+Ostateczne stawki płatności zostaną określone w odrębnych rozporządzeniach przed rozpoczęciem wypłaty płatności końcowych, z uwzględnieniem kursu właściwego dla kampanii 2026 r.
+Szacunkowe stawki płatności bezpośrednich, przejściowego wsparcia krajowego oraz ekoschematów obszarowych znajdują się w załącznikach do komunikatu.
+
+--- Tabela 2 (verbatim cells, ' | ' = cell break) ---
+
+Tabela. 2. Szacunkowe stawki ekoschematów obszarowych
+Rodzaj płatności w ramach ekoschematów obszarowych z uwzględnieniem praktyk i wariantów ekoschematów
+ | Liczba punktów na ha powierzchni obszaru zatwierdzonego do wsparcia
+ | Stawka szacunkowa płatności w ramach ekoschematów obszarowych
+Szacunkowa stawka za 1 pkt, to ok.:92,76 PLN/pkt
+ | 
+ | [pkt/ha]
+ | [PLN//ha]
+ | Rolnictwo węglowe i zarządzanie składnikami odżywczymi, w tym praktyki:
+ | Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt 
+ | 5
+ | 463,80
+ | 
+ | Międzyplony ozime lub wsiewki śródplonowe
+ | 5
+ | 463,80
+ | 
+ | Opracowanie i przestrzeganie planu nawożenia - wariant podstawowy
+ | 1
+ | 92,76
+ | 
+ | Opracowanie i przestrzeganie planu nawożenia - wariant z wapnowaniem
+ | 3
+ | 278,28
+ | 
+ | Zróżnicowana struktura upraw 
+ | 3
+ | 278,28
+ | 
+ | Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji 
+ | 2
+ | 185,52
+ | 
+ | Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+ | 3
+ | 278,28
+ | 
+ | Uproszczone systemy uprawy
+ | 3
+ | 278,28
+ | 
+ | Wymieszanie słomy z glebą
+ | 1
+ | 92,76
+
+--- Tabela 2: materiał siewny rows ---
+ | Materiał siewny kategorii elitarny lub materiał siewny kategorii kwalifikowany,
+w tym:
+ | zboża
+ | 
+ | 110,38
+ | 
+ | rośliny strączkowe 
+ | 
+ | 179,04
+ | 
+ | ziemniaki
+ | 
+ | 462,89
+
+--- Tabela 1 excerpt ---
+Tabela. 1. Szacunkowe stawki płatności bezpośrednich i przejściowego wsparcia krajowego Rodzaj płatności | Stawka szacunkowa [PLN/ha/szt./kg] | Podstawowe wsparcie dochodów | 436,23 | Płatność redystrybucyjna | 179,12 | Płatność dla młodych rolników | 248,70 | Płatność dla małych gospodarstw | 941,42 | Płatność do roślin strączkowych na nasiona | 878,45 | Płatność do roślin pastewnych

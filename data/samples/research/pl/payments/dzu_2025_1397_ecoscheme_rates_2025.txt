@@ -1,0 +1,18 @@
+SOURCE: Rozporządzenie MRiRW z dnia 14 października 2025 r. w sprawie stawek płatności w ramach schematów na rzecz klimatu i środowiska za 2025 r. (Dz.U. 2025 poz. 1397)
+URL: https://dziennikustaw.gov.pl/D2025000139701.pdf (also isap: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001397)
+RETRIEVED: 2026-11-14
+LOCATOR: § 1 (scope), § 3 ust. 1-2 (carbon farming point value and crop-diversification coefficient), § 8 pkt 2 (seed of legumes)
+
+§ 3. 1. Stawka płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi wynosi 87,52 zł za jeden 
+punkt przyznany za realizację danej praktyki służącej zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania 
+składnikami odżywczymi na obszarze zatwierdzonym do tej płatności. 
+2. Współczynnik zmiany liczby punktów uzyskiwanych za realizację praktyki Zróżnicowana struktura upraw służącej 
+zwiększeniu sekwestracji węgla w glebie i poprawie zarządzania składnikami odżywczymi stosowany przy ustalaniu wyso-
+kości płatności do rolnictwa węglowego i zarządzania składnikami odżywczymi wynosi 0,887902. 
+§ 8. Stawka płatności do materiału siewnego kategorii elitarny lub materiału siewnego kategorii kwalifikowany: 
+1) 
+zbóż – wynosi 104,15 zł, 
+2) 
+roślin strączkowych – wynosi 168,93 zł, 
+3) 
+ziemniaków – wynosi 436,76 zł 

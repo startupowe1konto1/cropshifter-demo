@@ -1,0 +1,16 @@
+Source: MRiRW / ZSRIR, "Biuletyn informacyjny - rynek roślin oleistych" NR 45/2026, file "oleiste 45_2026.xlsx", published 2026-11-12T10:45 (portal metadata)
+Notowania za okres: 02.11.2026 - 08.11.2026 (weekly), Poland
+Listing API: https://zsrir.minrol.gov.pl/api/ZsrirData/GetReportFileList?id=3  (file id 5313)
+File URL: https://zsrir.minrol.gov.pl/api/ZsrirData/DownloadReportFile?id=5313
+Retrieved: 2026-11-14 (curl; openpyxl). Locator: sheet "ZAKUP RZEPAKU, SPRZEDAŻ " rows r2-r11. Unit zł/t, excluding VAT. No regional breakdown in this sheet.
+Rows copied cell by cell:
+== sheet ZAKUP RZEPAKU, SPRZEDAŻ 
+r2 ŚREDNIE CENY ZAKUPU NASION RZEPAKU ORAZ ŚREDNIE CENY SPRZEDAŻY
+r3 OLEJU RZEPAKOWEGO RAFINOWANEGO, OLEJU SUROWEGO, ŚRUTY RZEPAKOWEJ W POLSCE (zł/t)
+r4 Notowania 02.11 - 08.11.2026 / Tydzień 45
+r6 TOWAR | 08.11.2026 | 01.11.2026 | 09.11.2025 | Zmiana ceny (%)
+r7 tygodniowa | roczna
+r8 ZAKUP | Nasiona rzepaku | 2510.12 | 2508.28 | 2094.41 | 0.1 | 19.8
+r9 SPRZEDAŻ | Olej rzepakowy rafinowany | 5423.18 | 5428.61 | 4798.18 | -0.1 | 13
+r10 Olej surowy | 5641.9 | 5465.26 | 4814.66 | 3.2 | 17.2
+r11 Śruta rzepakowa | 1169.11 | 1114.37 | 897.7 | 4.9 | 30.2

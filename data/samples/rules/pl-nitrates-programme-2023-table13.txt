@@ -1,0 +1,156 @@
+# Excerpt (pdftotext -layout) of https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 1 114 121
+
+=== PDF page 1 ===
+                          DZIENNIK USTAW
+                          RZECZYPOSPOLITEJ POLSKIEJ
+                                            Warszawa, dnia 7 lutego 2023 r.
+
+                                                              Poz. 244
+
+                                                      ROZPORZĄDZENIE
+                                                      RADY MINISTRÓW
+
+                                                       z dnia 31 stycznia 2023 r.
+
+             w sprawie „Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami
+                  pochodzącymi ze źródeł rolniczych oraz zapobieganie dalszemu zanieczyszczeniu”1)
+
+    Na podstawie art. 106 ust. 4 ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2022 r. poz. 2625 i 2687) zarządza się,
+co następuje:
+
+    § 1. Przyjmuje się „Program działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze
+źródeł rolniczych oraz zapobieganie dalszemu zanieczyszczeniu”, który stanowi załącznik do rozporządzenia.
+
+    § 2. 1. W przypadku zbiorników do przechowywania nawozów naturalnych płynnych lub płyt do gromadzenia i prze-
+chowywania nawozów naturalnych stałych, których budowę lub przebudowę rozpoczęto lub które nabyto przed dniem
+wejścia w życie rozporządzenia, obliczenia wymaganej pojemności lub powierzchni miejsc do przechowywania nawozów
+naturalnych wykonane na podstawie przepisów dotychczasowych uznaje się za spełniające wymagania określone w roz-
+dziale 1.4 w ust. 4‒6 załącznika do rozporządzenia.
+
+   2. Plany nawożenia azotem albo obliczenia maksymalnych dawek azotu opracowane albo wykonane przed dniem wejścia
+w życie rozporządzenia na podstawie przepisów dotychczasowych zachowują ważność do dnia 31 grudnia 2023 r.
+
+    § 3. Traci moc rozporządzenie Rady Ministrów z dnia 12 lutego 2020 r. w sprawie przyjęcia „Programu działań mających
+na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych oraz zapobieganie dalszemu za-
+nieczyszczeniu” (Dz. U. poz. 243).
+
+     § 4. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+
+                                                                                             Prezes Rady Ministrów: M. Morawiecki
+
+
+
+
+1)
+     Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady 91/676/EWG z dnia 12 grudnia 1991 r. dotyczącą
+     ochrony wód przed zanieczyszczeniami powodowanymi przez azotany pochodzenia rolniczego (Dz. Urz. WE L 375 z 31.12.1991,
+     str. 1 ‒ Dz. Urz. UE Polskie wydanie specjalne, rozdz. 15, t. 2, str. 68, Dz. Urz. UE L 284 z 31.10.2003, str. 1 ‒ Dz. Urz. UE Polskie
+     wydanie specjalne, rozdz. 1, t. 4, str. 447 oraz Dz. Urz. UE L 311 z 21.11.2008, str. 1).
+
+=== PDF page 114 ===
+﻿
+Dziennik Ustaw                             – 114 –                                  Poz. 244
+
+
+                                                                       Załącznik nr 8
+
+    Sposób obliczania dawki nawozów azotowych mineralnych – uproszczony bilans azotu
+    Dawka Nmin. = [plon osiągalny w gospodarstwie rolnym *t/ha+ x pobranie jednostkowe
+    azotu *kg N/t+ (według tabeli 10) – ∑ N z innych źródeł x równoważnik nawozowy –
+    korekta dla roślin uprawianych po przedplonach lub międzyplonach bobowatych
+    (według tabeli 13)]/0,7 (współczynnik wykorzystania N z nawozów azotowych
+    mineralnych).
+    Współczynnik wykorzystania azotu z nawozów azotowych mineralnych dla użytków
+    zielonych wynosi 0,8.
+    Na słomę pozostawioną do zaorania można zastosowad dodatkowo nie więcej niż 30 kg
+    N/ha, jeżeli stanowisko przeznaczone jest pod zasiew ozimin.
+    Metodyka obliczania ilości azotu w komunalnym osadzie ściekowym na podstawie
+    wyników badao oraz dawek ścieków określonych w pozwoleniu wodnoprawnym lub
+    pozwoleniu zintegrowanym na wykorzystanie rolnicze ścieków
+    Obliczenie zawartości azotu w komunalnym osadzie ściekowym:
+
+
+
+    gdzie:
+    N% – procentowa zawartośd azotu w komunalnym osadzie ściekowym,
+    SM – udział procentowy suchej masy w osadzie,
+    Nsm – udział procentowy azotu w suchej masie.
+    Obliczenie ilości azotu w t:
+
+
+    gdzie:
+    Nt – zawartośd azotu w t komunalnych osadów ściekowych kg/t,
+    N% – procentowa zawartośd azotu w komunalnym osadzie ściekowym.
+    Ilości azotu w komunalnym osadzie ściekowym:
+
+
+
+    gdzie:
+    N – masa azotu w planowanym do zastosowania komunalnym osadzie ściekowym w kg,
+    m – masa planowanego do wykorzystania komunalnego osadu ściekowego w kg.
+
+
+
+                                            113
+
+=== PDF page 121 ===
+﻿
+Dziennik Ustaw                                           – 121 –                                                     Poz. 244
+
+
+    Tabela 12. Zasoby azotu mineralnego wiosną w warstwie gleby
+                                                      60 cm (kg N/ha)1)
+    Zasoby azotu mineralnego wiosną w warstwie gleby 0
+
+    bardzo lekka                  lekka                        średnia                       ciężka
+
+                            49                           59                             62                            66
+    Zasoby azotu mineralnego wiosną w warstwie 0–30 cm gleb mineralnych użytków zielonych w zależności od
+    ich kategorii agronomicznej (kg N/ha)1)
+
+    bardzo lekkie                 lekkie                       średnie                       ciężkie
+
+                            86                           91                             73                            66
+
+    Zasoby azotu mineralnego wiosną w warstwie 0 30 cm gleb mineralno-organicznych użytków zielonych
+    w zależności od poziomu zawartości w niej materii organicznej (kg N/ha)
+
+
+    całkowicie
+                                                                                             gleby mineralno-
+    zmineralizowane gleby         gleby murszaste – II         gleby murszowate  III
+                                                                                             murszowe  IV
+    torfowo-murszowe  I
+
+                            ≤3                       (3-10>                     (10-20>                              >20
+
+              dane jak dla gleb
+                                                         135                        158                              117
+               mineralnych UZ
+
+    1)
+         Do obliczeo podane w tabeli wartości można zastąpid wynikami badania wiosną N min. dla działki rolnej
+         i zastosowad sposób obliczania podany w metodyce stacji chemiczno-rolniczej.
+
+
+    Tabela 13. Ilośd azotu działającego pozostającego po uprawie roślin bobowatych
+                                                               Bobowate w mieszankach
+                         Bobowate w czystym siewie                                                 Przyorane
+     Rodzaj                                                    z trawami lub zbożami
+                                                                                                   liście roślin
+     przedplonu                                                plon
+                         plon główny        międzyplon                        międzyplon           korzeniowych
+                                                               główny
+     Przyorane
+     resztki                       25 kg            15 kg            15 kg              10 kg                25 kg
+     pożniwne
+     Przyorane całe
+     rośliny na                    50 kg            20 kg            30 kg              15 kg            ‒
+     zielony nawóz
+
+
+
+
+                                                            120
+

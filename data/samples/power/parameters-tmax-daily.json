@@ -1,0 +1,1 @@
+{"T2M_MAX":{"type":"METEOROLOGY","temporal":"DAILY","source":"POWER","community":"AG","calculated":false,"inputs":null,"units":"C","name":"Temperature at 2 Meters Maximum","definition":"The maximum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest."}}

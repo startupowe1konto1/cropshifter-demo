@@ -1,0 +1,20 @@
+{
+  "steps.priorities.intro": "Włącz to, co jeszcze jest ważne na tym polu. Możesz ten krok pominąć.",
+  "steps.priorities.soilAlways": "Zdrowie gleby liczy się zawsze, a to, co tu włączysz, dodajemy do niego.",
+  "steps.priorities.water": "Oszczędzaj wodę",
+  "steps.priorities.water.hint": "Stawiaj na uprawy, które w suchych latach potrzebują mniej opadów lub nawadniania.",
+  "steps.priorities.forage": "Uprawiaj rośliny na paszę",
+  "steps.priorities.forage.hint": "Daj większą wagę uprawom, które możesz spasać albo kosić dla zwierząt.",
+  "steps.priorities.nitrogen": "Wiąż i zatrzymuj azot",
+  "steps.priorities.nitrogen.hint": "Stawiaj na rośliny bobowate, które zostawiają azot następnej uprawie i potrzebują mniej nawozów.",
+  "steps.priorities.erosion": "Powstrzymaj erozję",
+  "steps.priorities.erosion.hint": "Nie zostawiaj odkrytej gleby, żeby deszcz i wiatr zabierały jej mniej.",
+  "steps.priorities.organicMatter": "Zwiększaj materię organiczną",
+  "steps.priorities.organicMatter.hint": "Zostawiaj co roku w glebie więcej korzeni i resztek pożniwnych.",
+  "steps.priorities.exclude.title": "Rośliny, których nie będziesz uprawiać",
+  "steps.priorities.exclude.hint": "Zaznacz roślinę, żeby ją pominąć, na przykład gdy nie masz do niej maszyn albo odbiorcy.",
+  "steps.priorities.exclude.count": "Pominięte: {n}",
+  "steps.priorities.exclude.noField": "Najpierw wybierz pole, żeby zobaczyć jego uprawy.",
+  "steps.priorities.exclude.otherCountry": "Listy upraw mamy tylko dla USA i Polski, więc tutaj nie ma czego pomijać.",
+  "steps.priorities.exclude.source": "lista upraw"
+}

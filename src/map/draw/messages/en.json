@@ -1,0 +1,7 @@
+{
+  "draw.field.defaultName": "Drawn field {n}",
+  "draw.hint": "To draw the real outline, tap the shape button at the top left of the map, tap each corner of the field, then tap Finish. The pencil button moves corners and the bin button deletes a field.",
+  "draw.fields.select": "Field to analyse",
+  "draw.fields.name": "Field name",
+  "draw.fields.delete": "Delete"
+}

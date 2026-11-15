@@ -1,0 +1,20 @@
+{
+  "steps.priorities.intro": "Switch on what else matters on this field. You can skip this.",
+  "steps.priorities.soilAlways": "Soil health always counts. These add to it.",
+  "steps.priorities.water": "Use less water",
+  "steps.priorities.water.hint": "Prefer crops that need less rain or irrigation in dry years.",
+  "steps.priorities.forage": "Grow forage",
+  "steps.priorities.forage.hint": "Give weight to crops you can graze or cut for animals.",
+  "steps.priorities.nitrogen": "Fix and keep nitrogen",
+  "steps.priorities.nitrogen.hint": "Prefer legumes that feed the next crop and need less fertilizer.",
+  "steps.priorities.erosion": "Stop erosion",
+  "steps.priorities.erosion.hint": "Keep the ground covered so rain and wind take less soil.",
+  "steps.priorities.organicMatter": "Build organic matter",
+  "steps.priorities.organicMatter.hint": "Leave more roots and residue in the soil each year.",
+  "steps.priorities.exclude.title": "Crops you will not grow",
+  "steps.priorities.exclude.hint": "Tick a crop to leave it out, for example if you lack the machines or a buyer.",
+  "steps.priorities.exclude.count": "{n} left out",
+  "steps.priorities.exclude.noField": "Pick a field first to see its crops.",
+  "steps.priorities.exclude.otherCountry": "Crop lists exist for the USA and Poland only, so there is nothing to leave out here.",
+  "steps.priorities.exclude.source": "crop list"
+}

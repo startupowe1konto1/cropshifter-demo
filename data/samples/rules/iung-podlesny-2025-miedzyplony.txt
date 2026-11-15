@@ -1,0 +1,42 @@
+# Excerpt (pdftotext -layout) of https://www.iung.pl/wp-content/uploads/2026/03/Prezentacja-miedzyplony-2025.pdf
+# Podleśny J., Leszczyńska D. (IUNG-PIB), 'Międzyplony i ich znaczenie w produkcji rolniczej. Doskonalenie uprawy międzyplonów jako praktyki rolnictwa węglowego', slide deck, PDF created 6 Nov 2025.
+# Downloaded Sun 15 Nov 2026 by O4 for data/rules (humus.coef.phacelia.pl, humus.coef.white-mustard.pl). Pages: 19, 22.
+
+=== PDF page 19 ===
+ Współczynniki reprodukcji (+) i degradacji (-)
+   glebowej substancji organicznej (t/ha)
+  Roślina lub nawóz organiczny                Lekkich   Średnich                 Ciężkich
+Kukurydza, warzywa liściowe – 1 ha             - 1,12    - 1,15                     - 1,22
+Zboża, oleiste, włókniste – 1 ha               - 0,49    - 0,53                     - 0,56
+Strączkowe – 1 ha                             + 0,32     + 0,35                    + 0,38
+Trawy – 1 ha                                  + 0,95     + 1,05                    + 1,16
+Motylkowe, mieszanki – 1 ha                   + 1,89     + 1,96                    + 2,10
+Międzyplony na zielony nawóz – 1
+                                              + 0,63     + 0,70                    + 0,77
+ha
+Obornik - 1 t s.m.*                                      + 0,35
+Gnojowica 1 t s.m. **                                    + 0,28
+   Rys.2. Udział
+Przyorana  słomazbóż  w strukturze zasiewów
+                  1 t s.m.***                            + 0,21
+Przyorane liście buraka 1 t s.m                          + 0,14
+
+                                                                  (źródło: Kundler 1981)     19
+
+=== PDF page 22 ===
+                   Międzyplony ścieniskowe
+
+                   ▪ rośliny kapustne: gorczyca biała, gorczyca
+                     czarna, rzepak, rzodkiew oleista, rzepa
+                     ścierniskowa,
+
+                   ▪ rośliny strączkowe: bobik, łubin żółty, łubin
+Facelia błękitna
+                     wąskolistny, groch siewny, peluszka, wyka siewna,
+
+                   ▪ inne gatunki: facelia błękitna, słonecznik, owies)
+                     oraz mieszanki roślin strączkowych i mieszanki
+                     zbożowo- strączkowe.
+
+
+    Bobik

@@ -1,0 +1,11 @@
+{
+  "search.title": "Find an address or place",
+  "search.label": "Address or place",
+  "search.button": "Search",
+  "search.results": "Places found",
+  "search.none": "No place matches this text. Add the town or the postcode, or check the spelling.",
+  "search.moved": "Found {label}. The field there appears on the map; check its outline before you go on.",
+  "search.error.format": "{source} sent an answer that could not be read.",
+  "search.error.http": "{source} answered with HTTP {status}.",
+  "search.attribution": "Search by OpenStreetMap Nominatim"
+}

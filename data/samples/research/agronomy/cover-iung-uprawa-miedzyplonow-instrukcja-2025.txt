@@ -1,0 +1,38 @@
+Title: Uprawa międzyplonów. Instrukcja upowszechnieniowa
+Author/publisher: Alicja Sułek, Janusz Podleśny, Grażyna Hołubowicz-Kliza; Wydawnictwo IUNG-PIB, Puławy
+Year: 2025 ("© Copyright by Wydawnictwo IUNG, Puławy 2025")
+URL: https://www.iung.pl/wp-content/uploads/2026/03/instrukcja.pdf
+Date opened: 14 Nov 2026
+Locator: PDF p.13 (międzyplony ścierniskowe); p.14 (temperature in Sep-Oct); p.22 (GORCZYCA BIAŁA); p.24 (FACELIA BŁĘKITNA); p.26 (ZBIÓR I WYKORZYSTANIE); p.34 (wsiewki, autumn frost dates)
+Note: this is the "Uprawa międzyplonów (2025)" document the caller already had for sowing dates (15 Aug mustard). Lines below add termination/frost content.
+
+--- p.13 ---
+"Ich wysiew przypada najczęściej w lipcu lub pierwszej połowie sierpnia, a wegetacja trwa 2-3 miesiące."
+"Międzyplony ścierniskowe można pozostawić na polu w formie mulczu na okres zimy i przyorać wiosną, co zapewni ochronę
+gleby przed wymywaniem składników pokarmowych, erozją i ograniczy utratę wody w wyniku parowania."
+EN gloss: sown mostly July / first half of August, 2-3 months of growth; can be left as mulch over winter and ploughed in spring.
+
+--- p.14 ---
+"Ważna jest także temperatura występująca we wrześniu i październiku. Przy temperaturze poniżej 5oC ustaje wegetacja
+i następuje zahamowanie przyrostu biomasy."
+EN gloss: below 5 °C growth stops and biomass accumulation halts (Sep-Oct temperatures matter).
+
+--- p.22 GORCZYCA BIAŁA (Sinapis alba) ---
+"zalety. Odznacza się ona wytrzymałością na suszę i przymrozki."
+EN gloss: white mustard tolerates drought and light frosts (no °C given).
+
+--- p.24 FACELIA BŁĘKITNA ---
+"Facelia błękitna dość dobrze znosi jesienne przymrozki dochodzące nawet do minus 7-10oC."
+EN gloss: phacelia tolerates autumn frosts down to -7 to -10 °C.
+
+--- p.26 ZBIÓR I WYKORZYSTANIE ---
+"Zbiór na zielonkę wykonuje się w zależności od przebiegu pogody, najpóźniej pod koniec października."
+"W ostatnich latach międzyplony przeznacza się w większości na przyoranie jako zielony nawóz. W takim przypadku biomasa
+międzyplonu powinna być rozdrobniona i równomiernie rozrzucona na powierzchni pola. Zbiór można wykonać wówczas w trzeciej
+dekadzie października lub nawet na początku listopada. Międzyplon można również pozostawić nieskoszony przez okres zimy, a wiosną
+wymieszać biomasę z glebą i wykonać siew rośliny następczej w mulcz."
+EN gloss: forage cut by end of October at the latest; for green manure chop and spread in the 3rd dekad of October or early November; or leave uncut over winter and mix into soil in spring, sowing the next crop into mulch.
+
+--- p.34 ---
+"W naszym kraju, gdzie pierwsze przymrozki jesienne zdarzają się zwykle już w końcu września lub na początku października [...]"
+EN gloss: first autumn frosts in Poland usually at end of September / early October.

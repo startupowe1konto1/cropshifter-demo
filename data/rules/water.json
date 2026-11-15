@@ -1,0 +1,142 @@
+[
+  {
+    "id": "water.needMm.winter-wheat",
+    "value": 550.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a winter-wheat crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Barley/Oats/Wheat': 450-650 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (450+650)/2 = 550 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.oats",
+    "value": 550.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a oats crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Barley/Oats/Wheat': 450-650 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (450+650)/2 = 550 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.spring-barley",
+    "value": 550.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a spring-barley crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Barley/Oats/Wheat': 450-650 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (450+650)/2 = 550 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.maize",
+    "value": 650.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a maize crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Maize': 500-800 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (500+800)/2 = 650 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.alfalfa",
+    "value": 1200.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a alfalfa crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Alfalfa': 800-1600 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (800+1600)/2 = 1200 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.field-pea",
+    "value": 425.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a field-pea crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Pea': 350-500 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (350+500)/2 = 425 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.potato",
+    "value": 600.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a potato crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Potato': 500-700 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (500+700)/2 = 600 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.soybean",
+    "value": 575.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a soybean crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Soybean': 450-700 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (450+700)/2 = 575 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.sugar-beet",
+    "value": 650.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a sugar-beet crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation Water Management Training Manual No. 3, Irrigation Water Needs, chapter 3, Table 14",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "Table 14 row 'Sugarbeet': 550-750 mm/total growing period. FAO: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (550+750)/2 = 650 mm",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.rye",
+    "value": 375.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a rye crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation and Drainage Paper 24, Crop water requirements (Doorenbos and Pruitt, revised 1977)",
+    "sourceUrl": "https://www.fao.org/3/s8376e/s8376e.pdf",
+    "sourceLocator": "Table 20, page 36 (PDF page 46), row 'Grains (small)': seasonal ETcrop 300-450 mm (no Table 14 row for this crop); page 35: the ranges 'will change according to ... length of growing season'. The midpoint rule is from FAO Training Manual 3, above Table 14: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (300+450)/2 = 375 mm. Excerpts: data/samples/rules/fao-paper24-table20.txt and data/samples/rules/fao-manual3-table14-crop-water-needs.txt",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026; O1 saved the Paper 24 excerpt Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.winter-rapeseed",
+    "value": 450.0,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority: a winter-rapeseed crop-year counts as covered when growing-season rain at the field (NASA POWER) reaches this need, or the season's evapotranspiration if larger; the crop's own row wins over its class row",
+    "sourceTitle": "team calculation from FAO Irrigation and Drainage Paper 24, Crop water requirements (Doorenbos and Pruitt, revised 1977)",
+    "sourceUrl": "https://www.fao.org/3/s8376e/s8376e.pdf",
+    "sourceLocator": "Table 20, page 36 (PDF page 46), row 'Oil seeds': seasonal ETcrop 300-600 mm (no Table 14 row for this crop); page 35: the ranges 'will change according to ... length of growing season'. The midpoint rule is from FAO Training Manual 3, above Table 14: 'the maximum value should be used in the case of a long total growing period ... the minimum value ... when the total growing period is short. An average value is to be used with a medium total growing period.' The value here is that average (midpoint), our calculation: (300+600)/2 = 450 mm. Excerpts: data/samples/rules/fao-paper24-table20.txt and data/samples/rules/fao-manual3-table14-crop-water-needs.txt",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026; O1 saved the Paper 24 excerpt Sat 14 Nov 2026"
+  },
+  {
+    "id": "water.needMm.low",
+    "value": 417,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority fallback for a crop with water need class 'low' and no crop row of its own",
+    "sourceTitle": "team calculation from FAO Training Manual 3 Table 14 and FAO Paper 24 Table 20",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "mean of the water.needMm.<crop> midpoints of the crops in class 'low' in data/crops (field-pea 425, rye 375, winter-rapeseed 450) = 417 mm; the class itself comes from the upper bound of each crop's FAO range (data/crops/SOURCES.md). Field pea is from Training Manual 3 Table 14 (this row's URL); rye and winter rapeseed are from FAO Irrigation and Drainage Paper 24, Table 20, page 36, https://www.fao.org/3/s8376e/s8376e.pdf (excerpt data/samples/rules/fao-paper24-table20.txt)",
+    "checkedBy": "O4, team calculation"
+  },
+  {
+    "id": "water.needMm.medium",
+    "value": 579,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority fallback for a crop with water need class 'medium' and no crop row of its own",
+    "sourceTitle": "team calculation from FAO Training Manual 3 Table 14 and FAO Paper 24 Table 20",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "mean of the water.needMm.<crop> midpoints of the crops in class 'medium' in data/crops (winter-wheat 550, oats 550, spring-barley 550, soybean 575, potato 600, sugar-beet 650) = 579 mm; the class itself comes from the upper bound of each crop's FAO range (data/crops/SOURCES.md)",
+    "checkedBy": "O4, team calculation"
+  },
+  {
+    "id": "water.needMm.high",
+    "value": 925,
+    "unit": "mm per growing period (seasonal crop water need)",
+    "appliesTo": "water priority fallback for a crop with water need class 'high' and no crop row of its own",
+    "sourceTitle": "team calculation from FAO Training Manual 3 Table 14 and FAO Paper 24 Table 20",
+    "sourceUrl": "https://www.fao.org/4/s2022e/s2022e07.htm",
+    "sourceLocator": "mean of the water.needMm.<crop> midpoints of the crops in class 'high' in data/crops (maize 650, alfalfa 1200) = 925 mm; the class itself comes from the upper bound of each crop's FAO range (data/crops/SOURCES.md)",
+    "checkedBy": "O4, team calculation"
+  }
+]

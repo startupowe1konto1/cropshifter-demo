@@ -1,0 +1,70 @@
+# Excerpt (pdftotext -layout) of https://www.nrcs.usda.gov/sites/default/files/2022-09/Conservation_Crop_Rotation_328_CPS.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 3
+
+=== PDF page 3 ===
+                                                                                              328 - 3
+
+
+•   A four-crop sequence that contains two           The effects of this practice can be enhanced
+    different crop types, neither should occupy      by utilizing animal wastes, green manure crops
+    more than half of the sequence;                  (cover crops), or applying non-synthetic
+                                                     mulches to supplement the biomass produced
+•   Longer crop sequences (four or more
+                                                     by crops in the rotation.
+    years) are more effective with no more
+    than two consecutive years with the same         Other considerations for soil health/organic
+    crop;                                            matter management include:
+•   In tropical regions or regions with distinct         •   For at least one-third of the crop
+    wet and dry seasons (Mediterranean                       sequence (time basis) include high-
+    climate), grass crops should alternate with              biomass annual or perennial crops.
+    broadleaf crops.
+                                                         •   Utilize cover crops and high residue
+Additional Considerations to Reduce Sheet                    production crops comprising at least
+and Rill or Wind Erosion.                                    one-half of the rotation sequence.
+When used in combination with NRCS CPSs                  •   For rotations dominated by low-
+for Residue and Tillage Management (Codes                    residue crops, such as vegetables,
+329 and 345), selection of high-residue                      include sufficient cover crops and high
+producing crops and varieties, use of cover                  residue crops for one-half the rotation.
+crops and adjustment of plant density and row
+spacing can enhance production of the kind,          Additional Considerations to Reduce Plant
+amount, and distribution of residue needed.          Pest Pressures
+
+When used in combination with NRCS CPSs              Consider lengthening the rotation to include
+Stripcropping (Code 585) or Contour Buffer           several years of perennial cover to break pest
+Strips (Code 332) on steeper slopes, the             life cycles.
+effectiveness of each practice is significantly      Use a mix of crops from at least three different
+enhanced by inclusion of the other practice(s)       plant families, and allow three years or longer
+in the conservation system.                          between successive plantings of production
+Crop damage by wind erosion can be reduced           crops within the same family.
+with this practice by selecting crops that are       Enhance biological pest control by designing
+tolerant to abrasion from windblown soil or          the crop rotation to:
+tolerant to high wind velocity.
+                                                     •   Include flowering annuals or perennials
+If crops sensitive to wind erosion damage are            that provide food and habitat for beneficial
+grown, the potential for plant damage can be             insects, such as buckwheat, clovers, or
+reduced by crop residue management, field                Phacelia.
+windbreaks, herbaceous wind barriers,
+                                                     •   Include plant species that release into the
+intercropping, or other methods of wind
+                                                         soil natural substances that suppress plant
+erosion control.
+                                                         pathogens, nematodes or pests
+Additional Considerations to Improve Soil                (biofumigation).
+Health
+                                                     •   Include crops in the rotation that provide
+Consider including perennial sod crops with              habitat for natural enemies of pests.
+deep or extensive fibrous root systems to build
+organic matter throughout the soil profile.          •   Retain bolting or flowering crops after
+                                                         harvest to provide food for beneficial
+In semiarid regions, where seasonal fallow is            insects.
+often used to store moisture in the soil for a
+subsequent crop, consider leaving sufficient         Additional Considerations to Provide Food
+residues to protect the soil surface during          and Cover Habitat for Wildlife, Including
+fallow, or growing a shallow-rooted cover crop       Pollinator Forage, and Nesting
+that allows deep moisture storage. Reduce            Crop residues may be a valuable food source
+the intensity of tillage and increase soil surface   for wintering wildlife where winter browse is
+coverage with vegetation and crop residues.          sparse. Leaving several rows unharvested
+
+                                                                                    NRCS, NHCP
+                                                                                September 2014
+

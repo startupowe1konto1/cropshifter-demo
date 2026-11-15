@@ -1,0 +1,103 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/ziemniaki_przemysłowe.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa:  |  Ziemniaki przemysłowe  |  plon:  350  dt/ha
+  |  2026  |  Luty
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopien kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+  |  Ziemniak przemysłowy  |  Materiał bazowy "C1"  |  dt  |  25,00  |  220,00  |  5500,00
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  1/04  |  15  |  4,81  |  72,09
+Polifoska 6:20:30  |  P  |  1/04  |  50  |  8,12  |  406,05
+  |  K  |  1/04  |  75  |  2,77  |  207,55
+  |  N  |  1/04  |  60  |  5,14  |  308,56
+Saletra amonowa
+  |  N  |  2/04  |  40  |  5,14  |  205,70
+Wapno nawozowe  |  CaO (1/4 dawki)  |  2/08  |  750  |  0,30  |  78,30
+Razem  |  1278,26
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy)  |  (dekada/m- (l,g,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Plateen 41,5 WG  |  Herbicyd  |  2/05  |  2,00  |  185,64  |  371,28
+Acrobat MZ 69 WG  |  Fungicyd  |  3/05  |  2,00  |  84,27  |  168,54
+Decis Mega 50 EW  |  Insektycyd  |  2/06  |  0,15  |  166,02  |  24,90
+Polyram 70 WG  |  Fungicyd  |  1/06  |  1,65  |  56,42  |  93,09
+Acrobat MZ 69 WG  |  Fungicyd  |  3/06  |  2,00  |  84,27  |  168,54
+Polyram 70 WG  |  Fungicyd  |  1/07  |  1,65  |  56,42  |  93,09
+Kestrel 200 SL  |  Insektycyd  |  2/07  |  0,15  |  289,60  |  43,44
+Razem  |  962,89
+  |  Termin  |  Cas
+  |  Koszt
+  Zmienne koszty maszynowe- praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+rozsiewacz nawozów 300 kg  |  Wapnowanie  |  2/09  |  0,30  |  58,40  |  17,52
+Ciągnik 80KM+pług 5-skibowy+brona zębowa 3 poloPodorywka  |  2/09  |  1,50  |  70,59  |  105,89
+Ciągnik 60KM+roztrząsacz obornika 3,5t  |  Obornikowanie  |  2/10  |  5,00  |  74,75  |  373,75
+Ciągnik 60KM+ładowacz Cyklop  |  Załadunek obornika  |  1/10  |  3,00  |  64,14  |  192,41
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  1/10  |  2,00  |  67,69  |  135,39
+Ciągnik 60KM+włóka 4-metrowa  |  Włókowanie  |  3/03  |  2,00  |  56,52  |  113,05
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  1/04  |  0,30  |  58,40  |  17,52
+Ciągnik 80KM+kultywator zawieszany U444/3  |  Kultywatorowanie  |  1/04  |  1,00  |  66,04  |  66,04
+Ciągnik 80KM+sadzarka 2-rzędowa  |  Sadzenie  |  2/04  |  4,00  |  69,53  |  278,10
+Ciągnik 60KM+brona zębowa 3-polowa  |  Bronowanie redlin  |  2/04  |  1,50  |  56,52  |  84,79
+Ciągnik 60KM+obsypnik 6-rzędowy  |  Obsypywanie  |  1/05  |  1,00  |  61,07  |  61,07
+Ciągnik 60KM+obsypnik 6-rzędowy  |  Obsypywanie  |  2/05  |  1,00  |  61,07  |  61,07
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  2/05  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N  |  2/05  |  0,30  |  58,40  |  17,52
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  3/05  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  1/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  2/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  3/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  1/07  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  1/07  |  0,40  |  61,01  |  24,17
+Ciągnik 60KM+przyczepa 7t  |  Transport bulw do gospodarstwa  |  1/09  |  4,00  |  66,52  |  266,06
+Razem  |  1960,76
+  |  Termin  |  Czas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj zabiegu  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+  |  Ciągnik 60KM+rozsiewacz wapna RCW-3  |  Wapnowanie (1/4 kosztu)  |  2/08  |  1  |  157,33  |  40,28
+Kombajn Anna Z644  |  Zbiór  |  1/09  |  6,00  |  477,50  |  2865,00
+Razem  |  2905,28
+  |  Cena  |  Wartość
+  Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Praca najemna  |  Praca najemna  |  godz.  |  7  |  34,91  |  244,34
+Razem  |  244,34
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Ziemniaki  |  dt  |  350  |  28,00  |  9800,00
+Dopłaty, subwencje  |  Dopłata do ziemniaków skrobiowych  |  ha  |  1  |  1 580,89  |  1580,89
+  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  1875,71
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  13256,60
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  12851,53
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  405,07
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  36,72
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  1,16

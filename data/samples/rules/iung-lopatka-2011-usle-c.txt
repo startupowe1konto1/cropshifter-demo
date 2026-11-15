@@ -1,0 +1,32 @@
+# Excerpt (pdftotext -layout) of https://iung.pl/sir/zeszyt27_13.pdf
+# Łopatka A., Koza P., Jadczyszyn J., Stuczyński T. (2011). Ocena ryzyka zagrożenia erozją wodną w Polsce na podstawie modelu USLE. Studia i Raporty IUNG-PIB 27(1): 151-..., doi:10.26114/sir.iung.2011.27.13
+# Downloaded Sun 15 Nov 2026 by O4 for data/rules (erosion.cAnnual.*.pl). Page: PDF page 5 (printed page 155), Tabela 1.
+
+                              Ocena ryzyka zagrożenia erozją wodną w Polsce na podstawie modelu USLE          155
+
+                     4) Ochronne działanie pokrywy roślinnej
+
+                   Czynnik C to współczynnik wyrażający stosunek pomiędzy wielkością strat ero-
+                zyjnych z gleby uprawianej i identycznej gleby odsłoniętej, niepoddanej uprawie i za-
+                biegom agrotechnicznym (tab. 1).
+                   Wartości C obliczono na podstawie danych o strukturze zasiewów w obrębach
+                (uzyskanych metodą dezagregacji na podstawie danych GUS i ARiMR) jako średnią
+                ważoną, gdzie wagami były udziały poszczególnych grup upraw (rys. 5).
+                                                                                                        Tabela 1
+
+                                                     Przyjęte wartości współczynnika C
+
+                                                    Rodzaj uprawy                                        C
+                 Zboża ozime, rzepak ozimy                                                             0,15
+                 Zboża jare, rzepak jary, len, konopie, słonecznik, soja                               0,18
+                 Kukurydza, warzywa liściaste, tytoń, chmiel                                           0,22
+                 Okopowe, warzywa korzeniowe, truskawki                                                0,22
+                 Strączkowe                                                                            0,15
+                 Motylkowate i ich mieszanki                                                            0,1
+                 Trawy na GO i TUZ, odłogi *                                                           0,01
+                 Drzewa i krzewy owocowe **                                                            0,05
+                 Źródło: * Roose 1996 (10); ** Stone, Hilborn, 2000 (11).
+
+
+
+

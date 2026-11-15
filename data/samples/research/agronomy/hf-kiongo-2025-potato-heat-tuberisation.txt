@@ -1,0 +1,16 @@
+Title: Elevated Carbon Dioxide only Partly Alleviates the Negative Effects of Elevated Temperature on Potato Growth and Tuber Yield
+Author/publisher: Kiongo S.C., Taylor N.J., Franke A.C., Steyn J.M.; Potato Research 68:855-875 (Springer, open access), via University of Pretoria repository
+Year: 2025 (published online 20 Jul 2024)
+URL: https://repository.up.ac.za/bitstreams/e6d9c3ec-456a-4d05-9a80-cbeff9687e39/download
+Date opened: 14 Nov 2026
+Locator: PDF page 2, Introduction, first paragraph
+Note: literature summary (Van Dam 1996; Dahal 2019; Tang 2018; Lafta & Lorenzen 1995; Rykaczewska 2015 [IHAR]).
+
+"Potato [...] is regarded as a temperate crop with optimal above-ground growth at 20 to 25 ℃ and optimal
+below-ground growth at 15 to 20 ℃ (Van Dam et al. 1996; Hastilestari et al. 2018)."
+"Temperatures above 25 ℃ have been found to delay tuberisation in potato (Dahal et al. 2019) and higher
+temperatures (35 ℃ day and 28 ℃ night) may completely inhibit tuberisation in some cultivars (Tang et al. 2018)."
+"Lafta and Lorenzen (1995) found that at 31/29 ℃ day/night temperature, more dry matter was allocated to the
+shoots at the expense of tuber growth."
+"[...] the sensitivity of potato to high temperatures also depends on the duration of exposure (Ahn et al. 2004)
+and the growth stage, with the tuberisation stage being the most sensitive (Rykaczewska 2015; Tang et al. 2018)."

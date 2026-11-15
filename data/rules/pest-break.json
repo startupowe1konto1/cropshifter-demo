@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pestBreak.returnYears.anyFamily",
+    "value": 3,
+    "unit": "years between successive plantings of production crops of the same plant family",
+    "appliesTo": "default minimum return interval for every crop family without its own row; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "USDA NRCS Conservation Practice Standard, Conservation Crop Rotation, Code 328 (September 2014)",
+    "sourceUrl": "https://www.nrcs.usda.gov/sites/default/files/2022-09/Conservation_Crop_Rotation_328_CPS.pdf",
+    "sourceLocator": "p. 328-3, 'Additional Considerations to Reduce Plant Pest Pressures': 'allow three years or longer between successive plantings of production crops within the same family'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.minFamilies",
+    "value": 3,
+    "unit": "number of plant families in the rotation",
+    "appliesTo": "rotation diversity check; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "USDA NRCS Conservation Practice Standard, Conservation Crop Rotation, Code 328 (September 2014)",
+    "sourceUrl": "https://www.nrcs.usda.gov/sites/default/files/2022-09/Conservation_Crop_Rotation_328_CPS.pdf",
+    "sourceLocator": "p. 328-3, same section: 'Use a mix of crops from at least three different plant families'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.soilborneGeneral",
+    "value": {
+      "low": 4,
+      "high": 5
+    },
+    "unit": "years before a crop returns to the same field",
+    "appliesTo": "general rule that prevents most soilborne diseases; grass family crops (Poaceae) may return sooner if different grass species alternate; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Sidebar 5.4 'Minimum Return Time', p. 70: 'A minimum return time of four to five years will prevent most soilborne diseases'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.Brassicaceae",
+    "value": {
+      "low": 4,
+      "high": 7
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Brassicaceae (winter-rapeseed, white-mustard): blackleg (Phoma lingam) 4 years, clubroot (Plasmodiophora brassicae) 7 years; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3 'Sources of Inoculum for Crop Diseases in the Northeastern United States', section 'Cabbage, broccoli, cauliflower, and Brussels sprouts', rows 'Black leg, seed decay' Y (4) and 'Clubroot' Y (7), p. 125",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.sugar-beet",
+    "value": {
+      "low": 4,
+      "high": 5
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Amaranthaceae (sugar-beet): sugar beet cyst nematode (Heterodera schachtii); recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Beet', row 'Sugar beet cyst nematode' Y (4-5), p. 125",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.potato",
+    "value": {
+      "low": 3,
+      "high": 4
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Solanaceae (potato): common scab (Streptomyces spp.) and canker / black scurf (Rhizoctonia solani); golden nematode, where present, needs 5-9 years; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Potato', rows 'Common scab' Y (3-4), 'Canker and black scurf' Y (3-4), 'Golden nematode' Y (5-9), p. 131",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.field-pea",
+    "value": {
+      "low": 3,
+      "high": 4
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Fabaceae (field-pea): Ascochyta leaf spot 3 years, seed decay and root rot (Pythium ultimum) 3-4 years; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Pea', rows 'Ascochyta leaf spot' Y (3) and 'Seed decay and root rot' Y (3-4), p. 130",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.soybean",
+    "value": 3,
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Fabaceae (soybean): soybean cyst nematode Y (3+), sudden death syndrome Y (3); recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Soybean', rows 'Soybean cyst nematode' Y (3+) and 'Sudden death syndrome' Y (3), p. 136",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.wheat",
+    "value": {
+      "low": 2,
+      "high": 3
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Poaceae (winter-wheat; nearest row for rye, spring-barley, oats): take-all, tan spot, Fusarium head blight, foot rot, all Y (2-3); take-all: avoid barley; recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Wheat', rows 'Take-all' Y (2-3) avoid barley, 'Tan spot' Y (2-3), 'Fusarium scab, head blight' Y (2-3), p. 136",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "pestBreak.returnYears.maize",
+    "value": {
+      "low": 2,
+      "high": 3
+    },
+    "unit": "years between two plantings of the crop (family) in the same field; low-high = range of the minimum return times the source lists for the named diseases",
+    "appliesTo": "Poaceae (maize): Diplodia ear and stalk rot, Gibberella stalk and ear rot, northern corn leaf blight, all Y (2-3); recommendation, not a hard limit (the source does not say 'never'); score penalty only",
+    "sourceTitle": "Mohler, C.L. and Johnson, S.E., eds. (2009). Crop Rotation on Organic Farms: A Planning Manual. SARE / NRAES-177",
+    "sourceUrl": "https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf",
+    "sourceLocator": "Appendix 3, section 'Corn', rows 'Diplodia ear rot, stalk rot' Y (2-3) (p. 134), 'Gibberella stalk and ear rot' Y (2-3) and 'Northern corn leaf blight' Y (2-3) (p. 135)",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  }
+]

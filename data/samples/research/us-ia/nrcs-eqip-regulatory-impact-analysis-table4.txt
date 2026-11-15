@@ -1,0 +1,101 @@
+# Excerpt of https://www.nrcs.usda.gov/sites/default/files/2023-03/Regulatory_Impact_Analysis_for_the_Environmental_Quality_Incentives_Program.pdf (USDA NRCS, Regulatory Impact Analysis for EQIP)
+# Downloaded Sat 14 Nov 2026 for R9 (O1 lane). Text rebuilt from PDF word positions with PyMuPDF. Pages: 1 10 11
+
+=== PDF page 1 ===
+United States Department of Agriculture
+Regulatory Impact Analysis
+for the
+Environmental Quality Incentives Program
+(EQIP)
+The Food Security Act of 1985
+Title XII – Conservation
+Subtitle D—Agricultural Resources Conservation Program
+Chapter 4—Environmental Quality Incentives Program
+As
+Amended by the Agriculture Improvement Act of 2018
+Natural Resources Conservation Service
+September 25, 2020
+
+=== PDF page 10 ===
+Table 2. EQIP Performance – Benefits to the Environment
+Key Performance Indicator 2014 2015 2016 2017 2018
+Tons of sediment prevented from leaving cropland
+(Million tons) 3.4 3.4 3.2 4.8 4.4
+Soil carbon retained on cropland (Thousand tons) 56.5 59.9 50.3 64.9 77.3
+Cropland with conservation to improve soil quality
+(Million acres) 3.1 3.0 2.7 3.0 4.8
+Source: Internal NRCS analysis, 2018
+Participation
+EQIP participation depends to a very large extent on available funding. As shown in Table 3, the
+$9.175 billion in authorized funding under the 2018 Farm Bill is higher than the $8.0 billion
+authorized under the 2014 Farm Bill.
+Table 3. EQIP Authorized Funding under the 2014 Farm Bill and
+the 2018 Farm Billa
+2014 Farm Bill 2018 Farm Bill
+Fiscal
+Fiscal Year EQIP Year Total
+FY 2014 1,350,000,000 FY 2019 1,750,000,000
+FY 2015 1,600,000,000 FY 2020 1,750,000,000
+FY 2016 1,650,000,000 FY 2021 1,800,000,000
+FY 2017 1,650,000,000 FY 2022 1,850,000,000
+FY 2018 1,750,000,000 FY 2023 2,025,000,000
+Totals: 8,000,000,000 9,175,000,000
+Average Annual 1,600,000,000 1,835,000,000
+a Amounts shown are authorized amounts in the 2014 and 2018 Farm Bills;
+actual amounts available for obligation differ based on sequestration and obligation
+caps imposed by Congress in annual appropriations bills.
+Further, as shown in Table 4, EQIP has historically received enough applications to obligate all
+available funds. Since FY 2009, there have been 3 times more applications than funded
+contracts. The analysis contained in this document assumes that funding allocations for EQIP
+will be fully utilized every year through FY 2023.
+10
+
+=== PDF page 11 ===
+Table 4. Historical Funding and Participation in EQIP
+Applications
+with Contracted
+Obligated
+Percent of
+Fiscal Applications Funds
+Fundsa
+Year ($ billion) Received Obligated Applications
+2009 1.05 103,542 32,009 30.91
+2010 1.17
+97,998 36,702 37.45
+2011 1.23 103,186 38,597 37.41
+2012 1.37
+128,896 45,098 34.99
+2013 1.37 135,477 45,056 33.26
+2014 1.30 133,842 37,261 27.84
+2015 1.24
+136,918 33,068 24.15
+2016 1.44 136,732 36,500 26.69
+2017 1.66
+132,482 38,840 29.32
+2018 1.86 93,778 43,009 45.86
+Total 13.69
+1,202,851 386,140 32.10
+Sources: NRCS Budget Data, May 2019, RCA-- Natural Resources Conservation Service,
+Washington D.C., and NRCS Protracts FY 2018 EOY database, 2019.
+aIncludes both financial and technical assistance.
+2018 Farm Bill Changes to EQIP
+Revisions to EQIP in the 2018 Farm Bill include expanding eligibility to water management
+entities, creating conservation incentive contracts, and increasing the share of funds that must be
+spent on wildlife to 10 percent. More specifically, the 2018 Farm Bill:
+•
+Expands the EQIP purpose to include identified new or expected resource concerns, and
+adapting to and mitigating against, increasing weather volatility, and drought resiliency
+measures.
+•
+Adds environmentally sensitive areas to the list of eligible lands.
+• Adds soil testing and soil remediation as land enhancement practices or activities.
+•
+Expands the list of conservation activity plan types to include resource-conserving crop
+rotation, soil health, conservation planning assessment, and precision conservation
+management.
+• Defines a priority resource concern as a significant concern in an identified state or
+region.
+•
+Adds the term “soil testing” to mean the evaluation of soil health for organic matter,
+nutrients, contaminants, and proper biological and physical function.
+11

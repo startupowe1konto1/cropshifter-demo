@@ -1,0 +1,220 @@
+{
+  "campaign": "prices 2025 marketing year (USDA NASS), costs ISU 2026, NRCS Iowa payment rates FY2026",
+  "currency": "USD",
+  "economics": [
+    {
+      "crop": "maize",
+      "referenceYieldTPerHa": 13.046,
+      "pricePerT": 161.41,
+      "directCostsPerHa": 1195.0,
+      "yieldPeriod": "2021–2025 mean",
+      "pricePeriod": "2025 marketing year",
+      "costsPeriod": "2026 budget",
+      "sources": [
+        {
+          "title": "USDA NASS Quick Stats: CORN, GRAIN - YIELD, MEASURED IN BU / ACRE, Story County, Iowa (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/B10D2BC2-6EB2-3FF4-8FE2-293E48D94415",
+          "locator": "yield: Story County, bu/acre, 56 lb/bu: mean of 2021-2025 yields 201.2, 207.1, 211.4, 215.5, 204 = 207.84; converted with 1 acre = 0.40468564 ha, 1 lb = 0.45359237 kg; conversion checked against USDA NASS, Crop Production 2025 Summary (January 2026), https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf, pp. 95 and 97: US 2025 corn 186.5 bu/acre = 11.71 t/ha"
+        },
+        {
+          "title": "USDA NASS Quick Stats: CORN, GRAIN - PRICE RECEIVED, MEASURED IN $ / BU, Iowa, marketing year (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/845CBCD7-E35C-3B90-B6CB-07A626A7DE73",
+          "locator": "price: Iowa, 2025 marketing year (Sep 2025 to Aug 2026), $4.10/bu, preliminary (NASS Crop Values 2025 Summary, Feb 2026, p. 16, footnote 1); converted with 56 lb/bu and 0.45359237 kg/lb"
+        },
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker File A1-20: Estimated Costs of Crop Production in Iowa - 2026 (FM 1712, revised January 2026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/pdf/a1-20.pdf",
+          "locator": "direct costs: page 3, Corn Following Soybeans, 211 bushels per acre column, \"Total fixed, variable, Per acre\", variable part $483.60/acre (seed, fertilizer, chemicals, crop insurance, interest, fuel and repairs, drying; land, labor and machinery ownership left out); divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "crop": "soybean",
+      "referenceYieldTPerHa": 4.23,
+      "pricePerT": 385.81,
+      "directCostsPerHa": 717.12,
+      "yieldPeriod": "2021–2025 mean",
+      "pricePeriod": "2025 marketing year",
+      "costsPeriod": "2026 budget",
+      "sources": [
+        {
+          "title": "USDA NASS Quick Stats: SOYBEANS - YIELD, MEASURED IN BU / ACRE, Story County, Iowa (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/4905117F-A885-3E1F-92FF-3F21092FA5F7",
+          "locator": "yield: Story County, bu/acre, 60 lb/bu: mean of 2021-2025 yields 63.6, 60, 64.1, 63.2, 63.6 = 62.9; converted with 1 acre = 0.40468564 ha, 1 lb = 0.45359237 kg; conversion checked against USDA NASS, Crop Production 2025 Summary (January 2026), https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf, pp. 95 and 97: US 2025 soybeans 53.0 bu/acre = 3.56 t/ha"
+        },
+        {
+          "title": "USDA NASS Quick Stats: SOYBEANS - PRICE RECEIVED, MEASURED IN $ / BU, Iowa, marketing year (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/182971BF-6F05-3D02-9FE3-AFFFA95AF98A",
+          "locator": "price: Iowa, 2025 marketing year, $10.50/bu (NASS Agricultural Prices, Sep 29 2026, p. 27); converted with 60 lb/bu and 0.45359237 kg/lb"
+        },
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker File A1-20: Estimated Costs of Crop Production in Iowa - 2026 (FM 1712, revised January 2026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/pdf/a1-20.pdf",
+          "locator": "direct costs: page 5, Herbicide Tolerant Soybeans Following Corn, 61 bushels per acre column, \"Total fixed, variable, Per acre\", variable part $290.21/acre (land, labor and machinery ownership left out); divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "crop": "oats",
+      "referenceYieldTPerHa": 2.963,
+      "pricePerT": 244.58,
+      "directCostsPerHa": 582.25,
+      "yieldPeriod": "2021–2025 mean",
+      "pricePeriod": "2025 marketing year",
+      "costsPeriod": "2026 budget",
+      "sources": [
+        {
+          "title": "USDA NASS Quick Stats: OATS - YIELD, MEASURED IN BU / ACRE, Iowa, state (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/E36EBCF7-51E6-3EBD-9FFA-64E1D30FC097",
+          "locator": "yield: Iowa state yield (within 2021-2025 Story County has a published oat yield only for 2023), bu/acre, 32 lb/bu: mean of 2021-2025 yields 77, 82, 80, 82, 92 = 82.6; converted with 1 acre = 0.40468564 ha, 1 lb = 0.45359237 kg; conversion checked against USDA NASS, Crop Production 2025 Summary (January 2026), https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf, pp. 95 and 97: US 2025 oats 73.8 bu/acre = 2.65 t/ha"
+        },
+        {
+          "title": "USDA NASS Quick Stats: OATS - PRICE RECEIVED, MEASURED IN $ / BU, Iowa, marketing year (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/8780D23F-962D-3A0C-986D-8DCE1912C389",
+          "locator": "price: Iowa, 2025 marketing year (Jul 2025 to Jun 2026), $3.55/bu (same value in NASS Agricultural Prices, Aug 31 2026, p. 29); converted with 32 lb/bu and 0.45359237 kg/lb"
+        },
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker worksheet \"Production Costs for Oat Crop or Other Small Grain\" (A1-20, version 2.0_12026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/xls/a1-15-20oatsmallgrainbudget.xlsx",
+          "locator": "direct costs: sheet 1, example oats 80 bu/acre plus 1 ton of straw per acre, \"Total fixed, variable and all costs, Per acre\", variable part $235.63/acre. It includes baling and hauling the straw, while the price counts grain only, so the margin is on the low side; divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "crop": "winter-wheat",
+      "referenceYieldTPerHa": 4.207,
+      "pricePerT": 174.53,
+      "directCostsPerHa": 582.25,
+      "yieldPeriod": "2022 (Census of Agriculture)",
+      "pricePeriod": "2025 marketing year (United States)",
+      "costsPeriod": "2026 budget",
+      "sources": [
+        {
+          "title": "USDA NASS Quick Stats: WHEAT, WINTER - PRODUCTION and ACRES HARVESTED, Iowa, state (Census of Agriculture 2022)",
+          "url": "https://quickstats.nass.usda.gov/results/21D7199D-356E-3285-B2EF-EF14DD18CEC1",
+          "locator": "yield: 2022 Census, Iowa winter wheat 934,915 bu from 14,944 acres harvested = 62.56 bu/acre, our calculation; converted with 60 lb/bu, 1 lb = 0.45359237 kg, 1 acre = 0.40468564 ha. The NASS survey has no Iowa wheat yield after 2018 (2015-2018: 52, 63, 68, 58 bu/acre), so the Census is the newest published figure; excerpts in data/samples/research/us-ia/nass-quickstats-iowa-winter-wheat-census.csv and nass-quickstats-iowa-winter-wheat-survey.csv"
+        },
+        {
+          "title": "USDA NASS, Crop Values 2025 Summary (February 2026)",
+          "url": "https://esmis.nal.usda.gov/sites/default/release-files/795791/cpvl0226.pdf",
+          "locator": "price: p. 8, \"Field and Miscellaneous Crops Price – United States: 2023-2025\", row \"Winter\" under \"Wheat, all\", 2025: $4.75/bu (marketing year). NASS publishes no Iowa wheat price, so this is the US value; converted with 60 lb/bu and 0.45359237 kg/lb; excerpt in data/samples/research/us-ia/nass-crop-values-2025-summary-feb2026.txt"
+        },
+        {
+          "title": "borrowed from Iowa State University Extension, Ag Decision Maker worksheet \"Production Costs for Oat Crop or Other Small Grain\" (A1-20, version 2.0_12026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/xls/a1-15-20oatsmallgrainbudget.xlsx",
+          "locator": "direct costs: ISU has no winter wheat budget; its oat budget is titled for \"Oat Crop or Other Small Grain\", so the oats row's variable costs are used: sheet 1, example oats 80 bu/acre plus 1 ton of straw per acre, variable part $235.63/acre, divided by 0.40468564 ha/acre. Winter wheat usually takes more nitrogen and seed than oats, so the margin is on the high side; excerpt in data/samples/research/us-ia/isu-a1-20-oat-budget-2026.txt"
+        }
+      ]
+    },
+    {
+      "crop": "alfalfa",
+      "referenceYieldTPerHa": 8.249,
+      "pricePerT": 119.05,
+      "directCostsPerHa": 599.38,
+      "yieldPeriod": "2021–2025 mean",
+      "pricePeriod": "2025 marketing year",
+      "costsPeriod": "2026 budget",
+      "sources": [
+        {
+          "title": "USDA NASS Quick Stats: HAY, ALFALFA - YIELD, MEASURED IN TONS / ACRE, Iowa, state (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/E36EBCF7-51E6-3EBD-9FFA-64E1D30FC097",
+          "locator": "yield: Iowa state yield of dry alfalfa hay (Story County last published in 2013), short tons/acre: mean of 2021-2025 yields 3.5, 3.7, 3.2, 3.8, 4.2 = 3.68; converted with 1 acre = 0.40468564 ha, 1 lb = 0.45359237 kg; conversion checked against USDA NASS, Crop Production 2025 Summary (January 2026), https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf, pp. 95 and 97: US 2025 alfalfa 3.42 tons/acre = 7.67 t/ha"
+        },
+        {
+          "title": "USDA NASS Quick Stats: HAY, ALFALFA - PRICE RECEIVED, MEASURED IN $ / TON, Iowa, marketing year (survey)",
+          "url": "https://quickstats.nass.usda.gov/results/8780D23F-962D-3A0C-986D-8DCE1912C389",
+          "locator": "price: Iowa, 2025 marketing year (Jun 2025 to May 2026), $108.00 per short ton (same value in NASS Agricultural Prices, Aug 31 2026, p. 33); converted with 1 short ton = 0.90718474 t"
+        },
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker File A1-20: Estimated Costs of Crop Production in Iowa - 2026 (FM 1712, revised January 2026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/pdf/a1-20.pdf",
+          "locator": "direct costs: page 10, Annual Production Costs for Established Alfalfa or Alfalfa-Grass Hay, 4 tons per acre column, \"Total fixed and variable cost using large round bales per acre\", variable part $242.56/acre. The page has two columns, 4 and 6 tons per acre; the 4-ton column is the closest to the Iowa mean of 3.68 short tons/acre (0.32 t away, the 6-ton column 2.32 t). We do not scale it down to 3.68: the page gives no budget below 4 tons, and stretching the 4-to-6-ton slope below its range would be our estimate, not ISU's. Fertiliser and harvest costs grow with tonnage, so the cost is a little high for 3.68 tons and the margin a little low. Establishment costs (page 9) are not included; divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "crop": "cereal-rye",
+      "kind": "cover",
+      "directCostsPerHa": 70.18,
+      "costsPeriod": "2026 survey",
+      "sources": [
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker File A3-10: 2026 Iowa Farm Custom Rate Survey (PDF of March 2026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/pdf/a3-10.pdf",
+          "locator": "direct costs: operations only, seed not included (no ISU/USDA seed price found, R9 Missing). p. 1, \"Planting, Drilling, and Seeding\", row \"Drilling cover crop seed\", Average $19.05/acre (sowing in late summer or fall); p. 2, row \"Ground, broadcast, not incorporated, self-propelled\", Average $9.35/acre (one spraying pass to end the cover crop in spring; the herbicide itself is not included); $28.40/acre divided by 0.40468564 ha/acre = 70.18 USD/ha (our calculation; 47.07 + 23.10 USD/ha). Custom rates are what a farmer pays a contractor, so they include machinery, fuel and labour"
+        }
+      ]
+    },
+    {
+      "crop": "red-clover",
+      "kind": "cover",
+      "directCostsPerHa": 70.18,
+      "costsPeriod": "2026 survey",
+      "sources": [
+        {
+          "title": "Iowa State University Extension, Ag Decision Maker File A3-10: 2026 Iowa Farm Custom Rate Survey (PDF of March 2026)",
+          "url": "https://www.extension.iastate.edu/agdm/crops/pdf/a3-10.pdf",
+          "locator": "direct costs: operations only, seed not included (no ISU/USDA seed price found, R9 Missing). p. 1, \"Planting, Drilling, and Seeding\", row \"Drilling cover crop seed\", Average $19.05/acre (sowing in late summer or fall); p. 2, row \"Ground, broadcast, not incorporated, self-propelled\", Average $9.35/acre (one spraying pass to end the cover crop in spring; the herbicide itself is not included); $28.40/acre divided by 0.40468564 ha/acre = 70.18 USD/ha (our calculation; 47.07 + 23.10 USD/ha). Custom rates are what a farmer pays a contractor, so they include machinery, fuel and labour"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "id": "us-nrcs-340-cover-crop",
+      "programme": "NRCS EQIP practice 340, Cover Crop, single species (Iowa, FY2026)",
+      "amountPerHa": 183.7,
+      "condition": "money.condition.us-340",
+      "confirmed": true,
+      "sources": [
+        {
+          "title": "USDA NRCS Iowa, Iowa Financial Assistance Program Scenario Booklet: List of Eligible Practices, Limitations and Payment Scenario Guidance, FY2026 (April 28, 2026)",
+          "url": "https://www.nrcs.usda.gov/sites/default/files/2026-04/FY26%20FA%20Program%20Scenario%20Booklet_April%2028%202026.pdf",
+          "locator": "p. 38, practice 340, scenario 340-1 Single Species, EQIP; limitations on p. 38: one-year management practice, may be scheduled for up to 5 years on the same land unit, no full-width tillage after the cover crop until the next cash crop, regular rate $74.34 per acre (not the HU rate); divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "id": "us-nrcs-328-basic",
+      "programme": "NRCS EQIP practice 328, Conservation Crop Rotation, basic (Iowa, FY2026)",
+      "amountPerHa": 28.49,
+      "condition": "money.condition.us-328-basic",
+      "confirmed": true,
+      "sources": [
+        {
+          "title": "USDA NRCS Iowa, Iowa Financial Assistance Program Scenario Booklet: List of Eligible Practices, Limitations and Payment Scenario Guidance, FY2026 (April 28, 2026)",
+          "url": "https://www.nrcs.usda.gov/sites/default/files/2026-04/FY26%20FA%20Program%20Scenario%20Booklet_April%2028%202026.pdf",
+          "locator": "p. 32, practice 328, scenario 328-1 Basic, Two Crop Types: \"Minimum two different crop types are required\"; \"may be paid annually for up to 5 consecutive years\", regular rate $11.53 per acre (not the HU rate); divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "id": "us-nrcs-328-small-grain",
+      "programme": "NRCS EQIP practice 328, Conservation Crop Rotation, winter or spring annual (Iowa, FY2026)",
+      "amountPerHa": 112.04,
+      "condition": "money.condition.us-328-small-grain",
+      "confirmed": true,
+      "sources": [
+        {
+          "title": "USDA NRCS Iowa, Iowa Financial Assistance Program Scenario Booklet: List of Eligible Practices, Limitations and Payment Scenario Guidance, FY2026 (April 28, 2026)",
+          "url": "https://www.nrcs.usda.gov/sites/default/files/2026-04/FY26%20FA%20Program%20Scenario%20Booklet_April%2028%202026.pdf",
+          "locator": "p. 33, scenario 328-139 Winter or Spring Annual: \"Addition of a winter annual or small grain to a crop rotation that includes at least two different crop types\"; p. 32: paid annually for up to 5 consecutive years, regular rate $45.34 per acre (not the HU rate); divided by 0.40468564 ha/acre"
+        }
+      ]
+    },
+    {
+      "id": "us-nrcs-328-perennial",
+      "programme": "NRCS EQIP practice 328, Conservation Crop Rotation, short-term perennial (Iowa, FY2026)",
+      "amountPerHa": 127.01,
+      "condition": "money.condition.us-328-perennial",
+      "confirmed": true,
+      "sources": [
+        {
+          "title": "USDA NRCS Iowa, Iowa Financial Assistance Program Scenario Booklet: List of Eligible Practices, Limitations and Payment Scenario Guidance, FY2026 (April 28, 2026)",
+          "url": "https://www.nrcs.usda.gov/sites/default/files/2026-04/FY26%20FA%20Program%20Scenario%20Booklet_April%2028%202026.pdf",
+          "locator": "p. 33, scenario 328-138 Perennial, Short-Term: \"Addition of a short-term perennial (e.g. alfalfa ...) into a crop rotation that currently includes a minimum of two different crops\", \"must be grown for a minimum of two years after planting\"; p. 32: paid annually for up to 5 consecutive years, regular rate $51.40 per acre (not the HU rate); divided by 0.40468564 ha/acre"
+        }
+      ]
+    }
+  ]
+}

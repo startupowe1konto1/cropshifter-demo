@@ -1,0 +1,104 @@
+SOURCE: ARiMR, 'Rolnictwo węglowe i zarządzanie składnikami odżywczymi' (campaign 2026 page)
+URL: https://www.gov.pl/web/arimr/rolnictwo-weglowe-i-zarzadzanie-skladnikami-odzywczymi-2026
+RETRIEVED: 2026-11-14
+LOCATOR: table 'Praktyki w ramach ekoschematu ... | Przyznana liczba pkt'; minimum-points paragraph
+NOTE: the PLN value in the table header is approximate ('ok.'), not a rate.
+
+
+Rolnictwo węglowe i zarządzanie składnikami odżywczymi
+Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt
+Międzyplony ozime lub wsiewki śródplonowe
+Opracowanie i przestrzeganie planu nawożenia - wariant podstawowy i wariant z wapnowaniem
+Zróżnicowana struktura upraw
+Wymieszanie obornika na gruntach ornych w ciągu 12 godzin od jego aplikacji
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+Uproszczone systemy uprawy
+Wymieszanie słomy z glebą
+Ekoschemat Rolnictwo węglowe i zarządzanie składnikami odżywczymi oparty jest o system punktów przypisanych do poszczególnych praktyk.
+Ekoschemat Rolnictwo węglowe i zarządzanie składnikami odżywczymi, mogą realizować tylko te gospodarstwa, które spełniają warunek uzyskania minimalnej liczby punktów, która stanowi równowartość punktów, które rolnik otrzymałby w sytuacji realizacji na co najmniej 25% powierzchni użytków rolnych, nie większej niż 300 ha, najwyżej punktowanej praktyki (5 pkt/ha).
+Przykład:
+Gospodarstwo o powierzchni 10 ha użytków rolnych 
+25% * 10 ha =2,5 ha => 2,5 ha * 5 pkt/ha = 12,5 pkt.
+- minimalna liczba punktów do realizacji: to 12,5 pkt.  
+W gospodarstwie o powierzchni 10 ha aby uzyskać co najmniej minimalną liczbę punktów rolnik może zrealizować:
+ | 
+Wymieszanie słomy z glebą
+ | 
+3,15 ha * 1 pkt/ha = 3,15 pkt
+ | 
+ | 
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+ | 
+3,15 ha * 3 pkt/ha = 9,45 pkt
+ | 
+LUB
+ | 
+ | 
+ | 
+ | 
+Uproszczone systemy uprawy
+ | 
+12,5 pkt/3 pkt = 4,17 ha
+ | 
+LUB
+ | 
+ | 
+ | 
+ | 
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+ | 
+12,5 pkt/3 pkt = 4,17 ha
+ | 
+LUB
+ | 
+ | 
+ | 
+ | 
+Międzyplony lub wsiewki śródplonowe
+ | 
+12,5 pkt/5 pkt = 2,5 ha
+ | 
+Istnieje możliwość łączenia wybranych praktyk na tej samej działce.
+Praktyki w ramach ekoschematu 
+Rolnictwo węglowe i zarządzanie składnikami odżywczymi
+ | 
+Przyznana liczba pkt
+(1 pkt = ok. 22,47 EUR, tj. ok. 100 PLN)
+ | 
+Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt
+ | 
+ 5
+ | 
+Międzyplony ozime lub wsiewki śródplonowe
+ | 
+ 5
+ | 
+Opracowanie i przestrzeganie planu nawożenia – wariant podstawowy
+ | 
+ 1
+ | 
+Opracowanie i przestrzeganie planu nawożenia – wariant z wapnowaniem
+ | 
+ 3
+ | 
+Zróżnicowana struktura upraw
+ | 
+ 3
+ | 
+Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji
+ | 
+ 2
+ | 
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+ | 
+ 3
+ | 
+Uproszczone systemy uprawy
+ | 
+ 3
+ | 
+Wymieszanie słomy z glebą
+ | 
+ 1
+ | 
+

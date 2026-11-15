@@ -1,0 +1,5 @@
+USPS	GEOID	ANSICODE	NAME	ALAND	AWATER	ALAND_SQMI	AWATER_SQMI	INTPTLAT	INTPTLONG                                                                                                               
+AL	01001	00161526	Autauga County	1539631459	25677536	594.455	9.914	32.532237	-86.64644                                                                                                                  
+IA	19167	00465272	Sioux County	1988881470	2802041	767.911	1.082	43.082618	-96.17798                                                                                                                     
+IA	19169	00465273	Story County	1482882548	2862354	572.544	1.105	42.037538	-93.466093                                                                                                                    
+IL	17019	00424211	Champaign County	2579898012	6110542	996.104	2.359	40.138985	-88.196975                                                                                                                

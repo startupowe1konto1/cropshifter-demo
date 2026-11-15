@@ -1,0 +1,21 @@
+Title: Ocena stanu zasiewów zbóż ozimych i rzepaku wykonana w III dekadzie marca 2017 roku
+Author/publisher: dr hab. Jerzy Grabiński, IUNG-PIB Puławy
+Year: 2017
+URL: https://iung.pl/wp-content/uploads/2017/04/Ocena-stanu-przezimowania-2017-zboza-i-rzepak.pdf
+Date opened: 14 Nov 2026
+Locator: PDF page 1 (weather of winter 2016/17); PDF page 3 (Wielkopolska damage)
+Note: event report, not a threshold table. Useful as a western-Poland case: snow left first in the west, then frosts below -10 °C.
+
+--- PDF page 1 ---
+"W zimie w szczególności w I-szej dekadzie grudnia miały miejsce duże, nawet więcej niż 20 stopniowe mrozy,
+ale były one krótkotrwałe, a poza tym pokrywa śniegowa [...] ochroniła nawet najmniej odporne na mróz
+odmiany rzepaku i jęczmienia przed większymi uszkodzeniami."
+"Najwcześniej okrywa śniegowa ustąpiła w rejonach zachodnich, co miało zresztą pewien negatywny wpływ na
+zasiewy ozimin w związku z dość dużymi spadkami temperatur poniżej -10 °C w drugiej połowie stycznia i w lutym."
+EN gloss: frosts beyond -20 °C in early December did little harm under snow; in the west snow melted first and drops below -10 °C in late Jan/Feb hurt winter crops.
+
+--- PDF page 3 ---
+"Nieco więcej tych strat miało miejsce w województwie wielkopolskim, co wynikało z [...] wcześniejszego niż w
+innych rejonach kraju zniknięcia okrywy śniegowej. Doprowadziło to do powstania uszkodzeń mrozowych na
+plantacjach ze słabiej rozwiniętymi roślinami, na gorszych stanowiskach."
+EN gloss: more losses in Wielkopolska because snow disappeared earlier; frost damage on weaker-developed plants on poorer sites.

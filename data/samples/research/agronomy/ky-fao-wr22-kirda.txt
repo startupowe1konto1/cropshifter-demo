@@ -1,0 +1,20 @@
+Title: Deficit irrigation scheduling based on plant growth stages showing water stress tolerance (chapter in: Deficit Irrigation Practices, FAO Water Reports 22)
+Authors: C. Kirda (Cukurova University, Adana, Turkey)
+Year: 2002
+URL: https://www.fao.org/4/y3655e/y3655e03.htm
+Date opened: 14 Nov 2026
+Locator: Table 1 "Crop response factors where yield reduction is proportionally less than relative evapotranspiration deficit"; Table 2
+Note: HTML table flattened to text; multi-value cells keep the order of the stage list.
+
+Table 1 (columns: Crop | Specific growth stage | ky | Irrigation method | Reference)
+Sugar beet | Whole season; Yield formation and ripening; Vegetative and yield formation | 0.86 0.74 0.64 | Furrow Furrow | Bazza and Tayaa (1999)
+Potato | Vegetative; Flowering; Tuber formation | 0.40 0.33 0.46 | Furrow | Iqbal et al. (1999)
+       | Whole season | 0.83 | Drip | Kovacs et al. (1999)
+
+Table 2 Expected relative yield and relative water use efficiency, for a planned evapotraspiration deficit of 25 percent
+(columns: Crop | Stage when ET deficit occurred | ky | Irrigation method | Expected relative yield | Relative water use efficiency)
+Potato | Whole season; Vegetative | 0.83 0.40 | Drip  Furrow | 0.79 0.90 | 1.06 1.20
+Sugar beet | Whole season; Mid-season | 0.86 0.64 | Furrow | 0.79 0.84 | 1.05 1.12
+
+Context quote: "ky is a crop yield response factor that varies depending on species, variety, irrigation method and management, and growth stage when deficit evapotraspiration is imposed."
+(The potato values 0.40 0.33 0.46 equal the "Potato, Pakistan" row in Moutonnet, same report, Table 2. No rows for pea, alfalfa, oats, barley, rye or rapeseed.)

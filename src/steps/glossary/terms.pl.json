@@ -1,0 +1,58 @@
+{
+  "evapotranspiration": {
+    "label": "ewapotranspiracja",
+    "explanation": "Woda, która paruje z pola: z powierzchni gleby i przez liście roślin."
+  },
+  "anomaly": {
+    "label": "anomalia",
+    "explanation": "O ile ten rok lub miesiąc odbiega w górę albo w dół od tego, co zwykle bywa na tym polu o tej porze roku."
+  },
+  "ndvi": {
+    "label": "NDVI",
+    "explanation": "Odczyt z satelity, który pokazuje, jak zielone i gęste są rośliny na polu: niski nad odkrytą glebą, bliski 1 nad gęstym łanem."
+  },
+  "soil-moisture": {
+    "label": "wilgotność gleby (m³/m³)",
+    "explanation": "Ile wody jest w glebie, jako objętość wody na objętość gleby, więc 0,30 oznacza, że woda wypełnia 30% gleby."
+  },
+  "root-zone": {
+    "label": "strefa korzeniowa",
+    "explanation": "Warstwa gleby, do której sięgają korzenie roślin i z której pobierają wodę; w naszych danych to górny metr gleby."
+  },
+  "soil-wetness-index": {
+    "label": "wskaźnik wilgotności gleby",
+    "explanation": "Jak wilgotny jest górny metr gleby: od 0, gdy gleba jest zupełnie sucha, do 1, gdy jest nasycona wodą, według szacunku NASA POWER."
+  },
+  "suitability-class": {
+    "label": "klasa przydatności",
+    "explanation": "Ocena z modelu upraw FAO, jak dobrze roślina pasuje do miejscowego klimatu, gleby i terenu, w skali od „bardzo wysoka” do „nieprzydatna”."
+  },
+  "cover-crop": {
+    "label": "międzyplon",
+    "explanation": "Roślina siana między uprawami głównymi nie na sprzedaż, tylko żeby okryć i chronić glebę, na przykład koniczyna albo żyto na zimę."
+  },
+  "catch-crop": {
+    "label": "poplon",
+    "explanation": "Szybko rosnąca roślina siana zaraz po zbiorze, żeby pobrała resztki azotu, zanim deszcz je wypłucze, i okryła glebę."
+  },
+  "humus-balance": {
+    "label": "bilans próchnicy",
+    "explanation": "Nasz szacunek, czy płodozmian zwiększa ilość materii organicznej w glebie, czy ją zmniejsza, na podstawie upraw, rodzaju gleby i pogody."
+  },
+  "percentile-range": {
+    "label": "przedział percentylowy",
+    "explanation": "Dolna i górna wartość, między którymi mieści się większość lat albo próbek gleby, bez kilku najbardziej skrajnych przypadków z każdej strony."
+  },
+  "model-estimate": {
+    "label": "szacunek modelowy",
+    "explanation": "Wartość wyliczona przez model komputerowy z danych satelitarnych i pogodowych, a nie zmierzona na twoim polu, więc prawdziwa wartość może być inna."
+  },
+  "margin": {
+    "label": "nadwyżka bezpośrednia",
+    "explanation": "Przychód ze sprzedaży plonu z hektara minus koszty bezpośrednie (nasiona, nawozy, środki ochrony roślin, paliwo), bez kosztów ziemi, pracy, posiadania maszyn i bez dopłat."
+  },
+  "government-support": {
+    "label": "wsparcie z programów rolnych",
+    "explanation": "Pieniądze, które państwowa agencja płaci co roku za hektar, po złożeniu wniosku, za praktyki chroniące glebę i wodę, na przykład poplony."
+  }
+}

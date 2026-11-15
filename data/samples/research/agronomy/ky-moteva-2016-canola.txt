@@ -1,0 +1,13 @@
+Title: Water use efficiency and yield-dependences for canola (Brassica napus, L.) under irrigation
+Authors: Milena Moteva, Velibor Spalevic, Antoaneta Gigova, Vjekoslav Tanaskovik
+Year: 2016 (Agriculture & Forestry, Vol. 62 Issue 1: 403-413, Podgorica; DOI 10.17707/AgricultForest.62.1.42)
+URL: https://repository.ukim.mk/bitstream/20.500.12188/28014/1/20160330-42%20Moteva%20et%20al.pdf
+Date opened: 14 Nov 2026
+Locator: Summary (p. 403); Materials and methods (p. 405); Results, Fig. 4 text (p. 408); Conclusions point 4 (p. 411)
+
+Site (p. 405): "A field experiment with irrigation of winter canola was carried out in Sofia region, Bulgaria (42.6o N, 550 m a.s.l.) during three growing seasons 2010-2011, 2011-2012 and 2012-2013. The climate of the region is temperate-continental."
+Treatments (Summary): "Three levels of soil moisture conditions in a chromic luvisols were tested: rain-fed; deficit moisture, managed by 50% deficit irrigation; and normal moisture conditions, managed by full irrigation at a refill point 80% of field capacity."
+Summary: "The yield response factor Ky of FAO linear function was established as 1.52."
+Results (p. 408): "As a result of a regression analysis, the value of the crop factor was established as Ky=1.52, with a high coefficient of determination R2=0.73."
+Conclusions: "4. The yield response factor in FAO linear function is Ky=1.52. It indicates canola high sensitivity to water."
+(Seasonal value only; no stage-wise Ky.)

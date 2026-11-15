@@ -1,0 +1,12 @@
+SOURCE: Sejm ELI API (official index of Dziennik Ustaw), title search
+URL: https://api.sejm.gov.pl/eli/acts/search?publisher=DU&year=2026&title=stawek%20p%C5%82atno%C5%9Bci&limit=50
+RETRIEVED: 2026-11-14
+LOCATOR: full result. Purpose: check whether a rates regulation for eco-schemes for 2026 has been published. Index contains MRiRW acts up to at least DU/2026/1415 (23 Oct 2026).
+
+count: 1
+DU/2026/560 2026-04-22 Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 kwietnia 2026 r. w sprawie stawek płatności w ramach schematów na rzecz dobrostanu zwierząt za 2025 r.
+
+Latest MRiRW-titled DU 2026 acts in index (title search 'Rolnictwa'):
+DU/2026/1356 2026-10-12 Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 12 października 2026 r. zmieniające rozporządzenie w sprawie obniżenia opłat pobieranych przez Państwową 
+DU/2026/1402 2026-10-22 Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 października 2026 r. zmieniające rozporządzenie w sprawie szczegółowych warunków przyznawania i wypłat
+DU/2026/1415 2026-10-23 Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 października 2026 r. w sprawie procentowej stawki stosowanej do ustalenia wysokości rekompensaty w odn

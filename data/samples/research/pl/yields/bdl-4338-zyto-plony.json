@@ -1,0 +1,90 @@
+{
+ "_source": "GUS Bank Danych Lokalnych (BDL) API",
+ "_dataset": "subject P1423, variable 4338: żyto | plony z 1 ha | ogółem",
+ "_unit": "dt/ha (decytony z 1 ha); t/ha = dt/ha / 10",
+ "_retrieved": "2026-11-14",
+ "_urls": [
+  "https://bdl.stat.gov.pl/api/v1/data/by-variable/4338?unit-level=0&year=2020..2025&format=json",
+  "https://bdl.stat.gov.pl/api/v1/data/by-variable/4338?unit-level=2&year=2020..2025&format=json"
+ ],
+ "_api_self_links": [
+  "",
+  ""
+ ],
+ "_variable_meta": "https://bdl.stat.gov.pl/api/v1/variables/4338?format=json",
+ "_note": "Trimmed to POLSKA (000000000000) and WIELKOPOLSKIE (023000000000). attrId 1 = 'wartość' (plain value, no flag).",
+ "results": [
+  {
+   "id": "000000000000",
+   "name": "POLSKA",
+   "values": [
+    {
+     "year": "2020",
+     "val": 35.1,
+     "attrId": 1
+    },
+    {
+     "year": "2021",
+     "val": 33.1,
+     "attrId": 1
+    },
+    {
+     "year": "2022",
+     "val": 36.0,
+     "attrId": 1
+    },
+    {
+     "year": "2023",
+     "val": 35.5,
+     "attrId": 1
+    },
+    {
+     "year": "2024",
+     "val": 35.7,
+     "attrId": 1
+    },
+    {
+     "year": "2025",
+     "val": 38.2,
+     "attrId": 1
+    }
+   ]
+  },
+  {
+   "id": "023000000000",
+   "name": "WIELKOPOLSKIE",
+   "values": [
+    {
+     "year": "2020",
+     "val": 35.9,
+     "attrId": 1
+    },
+    {
+     "year": "2021",
+     "val": 34.8,
+     "attrId": 1
+    },
+    {
+     "year": "2022",
+     "val": 38.1,
+     "attrId": 1
+    },
+    {
+     "year": "2023",
+     "val": 39.1,
+     "attrId": 1
+    },
+    {
+     "year": "2024",
+     "val": 39.1,
+     "attrId": 1
+    },
+    {
+     "year": "2025",
+     "val": 41.8,
+     "attrId": 1
+    }
+   ]
+  }
+ ]
+}

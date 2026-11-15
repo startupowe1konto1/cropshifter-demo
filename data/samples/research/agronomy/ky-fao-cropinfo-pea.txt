@@ -1,0 +1,19 @@
+Title: Pea (FAO Land & Water, Crop Information / crop water information page)
+Authors: FAO Land and Water Division (page text based on Doorenbos & Kassam 1979, FAO Irrigation and Drainage Paper 33)
+Year: page undated; snapshot 7 Sep 2025
+URL: https://www.fao.org/land-water/databases-and-software/crop-information/pea/en/
+     (live URL returned 404 on 14 Nov 2026; text read from Internet Archive snapshot
+      http://web.archive.org/web/20250907125315/https://www.fao.org/land-water/databases-and-software/crop-information/pea/en/)
+Date opened: 14 Nov 2026
+Locator: crop-stage table under "Stages of Development" (rows Pea-dry and Pea-fresh); section "Water Supply And Crop Yield"
+Note: HTML table flattened; one cell per value, in column order.
+
+Columns: Crop characteristic | Initial | Crop Development | Mid-season | Late | Total
+Pea-dry
+Crop Coefficient, Kc | 0.5 | >> | 1.15 | 0.3 | -
+Yield Response Factor, Ky | 0.2 | 0.9 | 0.7 | 0.2 | 1.15
+Pea-fresh
+Crop Coefficient, Kc | 0.5 | >> | 1.15 | 1.1 | -
+Yield Response Factor, Ky | 0.2 | 0.9 | 0.7 | 0.2 | 1.15
+
+Stage quote: "The sensitive periods for water deficits are flowering (2) and yield formation (3)."

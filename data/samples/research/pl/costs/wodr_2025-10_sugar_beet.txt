@@ -1,0 +1,98 @@
+Source: WODR Poznań (Wielkopolski Ośrodek Doradztwa Rolniczego), crop calculation sheet dated "2025 Październik" (model calculation, not a survey)
+PDF: https://www.wodr.poznan.pl/images/2025/doradztwo/ekonomika/pazdziernik/buraki_cukrowe.pdf
+Landing page: not located (PDF opened directly; the URL was found via web search for the wheat file, other crops share the folder)
+Retrieved: 2026-11-14 16:59 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa: Buraki cukrowe - dt/ha  |  plon:  510  dt/ha
+  |  2025  |  Październik
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Buraki cukrowe - nasiona buraka  |  Materiał bazowy "C1"  |  j.s.  |  1,20  |  528,00  |  633,60
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+Superfosfat wzbogacony  |  P  |  3/10  |  75  |  6,41  |  480,45
+Kamex  |  K  |  3/10  |  150  |  4,00  |  600,00
+Saletrzak  |  N  |  1/04  |  60  |  5,66  |  339,84
+Saletra amonowa  |  N  |  3/05  |  70  |  5,09  |  355,95
+Razem  |  1776,24
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  |  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Goltix-S 700 S.C.  |  Herbicyd  |  1/05  |  2,20  |  105,77  |  232,69
+
+Burakomitrion 700 SC (dawki dzielone, oprysk 3x) Herbicyd  |  1/05  |  5,00  |  364,00
+  |  1820,00
+Safari 50 WG+ Trend 90 EC  |  Herbicyd  |  1/05  |  30,00  |  6,86  |  205,80
+Fusilade Forte 150 EC  |  Herbicyd  |  2/05  |  1,30  |  108,46  |  141,00
+Decis Mega 50 EW  |  Insektycyd  |  3/05  |  0,15  |  171,27  |  25,69
+Duett Ultra 497 S.C.  |  Fungicyd  |  1/06  |  1,00  |  222,06  |  222,06
+Razem  |  2647,24
+  |  Termin  |  Cas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew PK  |  3/10  |  1,00  |  59,27  |  59,27
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  68,71  |  137,42
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  1/04  |  0,30  |  59,27  |  17,78
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  1/04  |  2,00  |  73,66  |  147,32
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  1/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  2/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  3/05  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 2 dawka  |  3/05  |  0,30  |  59,27  |  17,78
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  1/06  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+brona talerzowa 2,1 m  |  Talerzowanie  |  2/10  |  1,00  |  60,83  |  60,83
+Razem  |  638,41
+  |  Termin  |  Cas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60 KM + siewnik punktowy  |  Siew  |  1/04  |  1,00  |  223,13  |  223,13
+Zbiór  |  Zbiór  |  1/10  |  2,00  |  1 033,54  |  2067,08
+Transport, czyszczenie, załadunek  |  usługa cukrowni 0,50 zł/dt  |  1/10  |  86,70
+Transport wysłodków  |  usługa cukrowni 0,20 zł/dt  |  1/10  |  91,80
+Razem  |  2468,71
+  |  Cena  |  Wartość
+  Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+
+Razem
+
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny:  |  Buraki cukrowe  |  dt  |  510  |  14,27  |  7276,33
+  |  Wysłodki buraczane mokre  |  dt  |  240  |  4,00  |  960,00
+  |  JPO+ dodatkowa + płatność do buraków
+Dopłaty, subwencje  |  ha  |  1  |  1949,53  |  1949,53
+  |  cukrowych
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  10185,86
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  8164,19
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  2021,67
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  16,01
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  3,96

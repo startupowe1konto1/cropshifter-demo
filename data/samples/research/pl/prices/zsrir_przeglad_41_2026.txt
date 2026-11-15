@@ -1,0 +1,24 @@
+Source: MRiRW, Zintegrowany System Rolniczej Informacji Rynkowej (ZSRIR), "Przegląd rynków rolnych - informacja syntetyczna" NR 41/2026, dated 16.10.2026
+Notowania za okres: 05.10 - 11.10.2026 r. (weekly). Geography: Poland (national average of reporting entities).
+URL: https://www.gov.pl/attachment/a0fefde2-a021-42c5-9d81-30369838c9a9  (file Syntetyczna_informacja_ZSRIR_41_2026.pdf)
+Listed on: https://www.gov.pl/web/rolnictwo/informacje---2026-r2 (newest entry on 2026-11-14)
+Retrieved: 2026-11-14 (curl + PyMuPDF text extraction). Locator: page 7 "RYNEK ZBÓŻ - Średnie ceny zakupu zbóż [zł/t]"; page 8 "RYNEK ROŚLIN OLEISTYCH - Średnie ceny skupu nasion rzepaku ... (zł/t)".
+Column order in the PDF table: TOWAR | Rodzaj | 11.10.2026 | 04.10.2026 | 12.10.2025 | Zmiana ceny (%) tygodniowa | roczna
+The PDF text extraction emits cells one per line; reconstructed rows (values copied verbatim):
+
+PAGE 7 - RYNEK ZBÓŻ, Średnie ceny zakupu zbóż [zł/t]
+Pszenica   Konsumpcyjna  947,79 | 936,13 | 780,40 | 1,2 | 21,4
+Pszenica   Paszowa       907,49 | 898,15 | 741,58 | 1,0 | 22,4
+Żyto       Konsumpcyjne  678,49 | 662,22 | 617,46 | 2,5 | 9,9
+Żyto       Paszowe       686,80 | 668,32 | 608,94 | 2,8 | 12,8
+Jęczmień   Paszowy       796,92 | 778,59 | 706,29 | 2,4 | 12,8
+Kukurydza  Paszowa       971,55 | 965,14 | 791,19 | 0,7 | 22,8
+Pszenżyto  Paszowe       770,81 | 769,08 | 684,99 | 0,2 | 12,5
+(No malting/brewing barley row in this report.)
+
+PAGE 8 - RYNEK ROŚLIN OLEISTYCH, Średnie ceny skupu nasion rzepaku, sprzedaży oleju rzepakowego oraz śruty rzepakowej (zł/t)
+ZAKUP    Nasiona rzepaku            2 500,63 | 2 464,51 | 2 043,80 | 1,5 | 22,4
+SPRZEDAŻ Olej rzepakowy rafinowany  5 285,82 | 5 326,37 | 4 985,85 | -0,8 | 6,0
+SPRZEDAŻ Śruta rzepakowa            1 068,14 | 1 045,04 | 901,04 | 2,2 | 18,5
+
+(Values checked against a rendered image of PDF page 7; raw text dump omitted for size.)

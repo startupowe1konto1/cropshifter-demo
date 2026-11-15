@@ -1,0 +1,118 @@
+# Excerpt (pdftotext -layout) of https://www.agronext.iastate.edu/soilfertility/currenttopics/NitrogenFertilizationRates_10-14-2014.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 1 2
+
+=== PDF page 1 ===
+Soil Fertility: Current Topic                                                    October 14, 2014
+
+
+NITROGEN FERTILIZATION RATES FOR CORN PRODUCTION
+John Sawyer, Professor, Department of Agronomy, Iowa State University
+
+There has been a large change in corn grain prices this fall. How might that affect recommended
+nitrogen (N) fertilizer or manure-N application rates, and planning for the 2015 crop? The
+answer depends on more than just the price of corn, but also the price of nitrogen. It is the ratio
+of these prices (price ratio, where the $/lb actual N is divided by the $/bu corn; example, $0.50/lb
+N and $3.50/bu corn is a 0.14 price ratio). Both prices are important and influence recommended
+N rates as the ratio reflects the last unit of N that can be paid for by the yield increase from that
+N application. In Iowa, recommended rates (Maximum Return to N, MRTN) come from the
+Corn Nitrogen Rate Calculator (CNRC), which is the on-line tool providing rate
+recommendations for corn following corn and corn following soybean. The rates derived from
+the CNRC are adjusted for user specified N and grain prices. While a significant change in grain
+price may be troublesome, it may or may not affect recommended rates because of current N
+price.
+
+Nitrogen rates determined from the on-line CNRC are directly the total fertilization amounts for
+each rotation, with no need to further adjust rate for previous crop. That is, for the soybean-corn
+rotation, there is no need to subtract a “soybean credit” as the rotation effect is already accounted
+for by the N rate trials that the database is derived from.
+
+Tables 1 and 2 give example N rates for two different corn grain prices, along with four N prices.
+The N prices were kept constant between tables, but the corn price used in Table 1 was $5.00/bu
+and was $3.50/bu in Table 2. Therefore, the price ratios are not the same in both tables. For corn
+following soybean, the reduction in the MRTN rate with the lower priced corn ranged from 10 to
+17 lb N/acre. For corn following corn, the reduction was from 12 to 23 lb N/acre. These are not
+large N rate changes, but sizeable enough to be considered for determining N rates as corn prices
+change. Of course potential N rate changes depend on specific N and corn prices.
+
+The CNRC allows users to input whatever corn and N prices are applicable to their situation. In
+addition, besides the MRTN rate, a range of rates is provided that gives flexibility in decision
+making about N applications and allows for rate adjustments based on factors such as uncertainty
+in corn selling price and issues such as water quality impacts from N application.
+
+The MRTN rates provided by the CNRC are based on many sites and years of N rate trials
+conducted across Iowa, and provide a reasonable estimate of N rate required for optimal corn
+production. Actual need in any given year, of course, can be influenced by many factors, most
+uncontrollable. However, across time the MRTN rates provide adequate N in the majority of
+trials that have been conducted. When MRTN rates tend to be too low, that typically occurs with
+above normal springtime rainfall, which is not predictable either.
+
+
+
+
+                                                                                                    1
+             Copyright © 2014 Agronomy Extension Soil Fertility Web Site
+                       http://www.agronext.iastate.edu/soilfertility/
+
+=== PDF page 2 ===
+Soil Fertility: Current Topic                                                                            October 14, 2014
+
+
+
+
+Table 1. Nitrogen rates derived for different N prices with corn grain set at $5.00/bu.
+                Nitrogen Rate Guidelines in Iowa for Different N and Corn Grain Prices
+                 Price           N        Corn Following Soybean                   Corn Following Corn
+                         1                           2                  3
+                 Ratio        Price           Rate             Range                 Rate2           Range3
+                $/lb:$/bu     $/lb N            - - - - - - - - - - - - - lb N/acre - - - - - - - - - - - - -
+                  0.05         0.25            157           143 - 173                217           198 - 240
+                  0.10         0.50            137           126 - 149                190           178 - 201
+                  0.15         0.75            122           113 - 133                175           162 - 185
+                  0.20         1.00            111           101 - 120                156           145 - 167
+            1
+             Price per lb N divided by the expected corn price. For example, N at $0.50/lb N and corn at
+            $5.00/bu is a 0.10 price ratio. Corn held at $5.00/bu for all price ratios.
+            2
+              Rate is the lb N/acre that provides the Maximum Return To N (MRTN). All rates are based on
+            results from the Corn N Rate Calculator as of July 21, 2014
+            (http://extension.agron.iastate.edu/soilfertility/nrate.aspx).
+            3
+             Range is the range of profitable N rates that provides a similar economic return to N (within
+            $1.00/acre of the MRTN).
+
+
+
+
+Table 2. Nitrogen rates derived for different N prices with corn grain set at $3.50/bu.
+                Nitrogen Rate Guidelines in Iowa for Different N and Corn Grain Prices
+                 Price           N        Corn Following Soybean                   Corn Following Corn
+                         1                           2                  3
+                 Ratio        Price           Rate             Range                 Rate2           Range3
+                $/lb:$/bu     $/lb N            - - - - - - - - - - - - - lb N/acre - - - - - - - - - - - - -
+                  0.07         0.25            147           133 - 163                199           185 - 221
+                  0.14         0.50            124           113 - 138                178           163 - 190
+                  0.21         0.75            108            97 - 120                152           140 - 165
+                  0.29         1.00             94            83 - 104                133           121 - 146
+            1
+             Price per lb N divided by the expected corn price. For example, N at $0.35/lb N and corn at
+            $3.50/bu is a 0.10 price ratio. Corn held at $3.50/bu for all price ratios.
+            2
+              Rate is the lb N/acre that provides the Maximum Return To N (MRTN). All rates are based on
+            results from the Corn N Rate Calculator as of July 21, 2014
+            (http://extension.agron.iastate.edu/soilfertility/nrate.aspx).
+            3
+             Range is the range of profitable N rates that provides a similar economic return to N (within
+            $1.00/acre of the MRTN).
+
+
+
+
+Resources for Nitrogen Rate Decisions
+The Corn Nitrogen Rate Calculator Web tool is located at:
+http://extension.agron.iastate.edu/soilfertility/nrate.aspx
+
+
+                                                                                                                            2
+                Copyright © 2014 Agronomy Extension Soil Fertility Web Site
+                          http://www.agronext.iastate.edu/soilfertility/
+

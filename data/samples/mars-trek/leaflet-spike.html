@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Mars Trek spike</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>html,body,#map{height:100%;margin:0}#log{position:absolute;z-index:1000;bottom:0;left:0;background:#000c;color:#0f0;font:12px monospace;padding:6px;max-width:60%}</style>
+</head>
+<body>
+<div id="map"></div><div id="log"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const R = window.__results = {tiles:{}, errors:{}, identify:null, profile:null, path:null};
+const log = m => { document.getElementById('log').textContent = JSON.stringify(R); };
+const T = 'https://trek.nasa.gov/tiles/Mars/EQ/';
+const A = 'https://trek.nasa.gov/mars/trekarcgis/rest/services/';
+const wmts = (id, maxZ, base) => L.tileLayer((base || (T + id + '/1.0.0')) + '/default/default028mm/{z}/{y}/{x}.png',
+  {maxNativeZoom: maxZ, maxZoom: 18, tileSize: 256, noWrap: true, crossOrigin: 'anonymous'});
+const map = L.map('map', {crs: L.CRS.EPSG4326, center: [-4.60, 137.40], zoom: 12});
+const layers = {
+  mola: wmts('mola128_mola64_merge_90Nto90S_SimpleC_clon0', 5),
+  ctx: wmts('curiosity_ctx_mosaic', 10),
+  hirise: wmts('curiosity_hirise_mosaic', 16),
+  themisDay: wmts('THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018', 9),
+  geology: wmts('SIM3292_Global_Geology', 11, A + 'SIM3292_Global_Geology/MapServer/WMTS/tile/1.0.0/SIM3292_Global_Geology'),
+};
+for (const [k, l] of Object.entries(layers)) {
+  R.tiles[k] = 0; R.errors[k] = 0;
+  l.on('tileload', () => { R.tiles[k]++; log(); });
+  l.on('tileerror', () => { R.errors[k]++; log(); });
+}
+layers.mola.addTo(map); layers.ctx.addTo(map); layers.hirise.addTo(map);
+layers.themisDay.setOpacity(0.5).addTo(map); layers.geology.setOpacity(0.4).addTo(map);
+L.control.layers(null, layers).addTo(map);
+
+(async () => {
+  try {
+    const p = await fetch(A + 'Gale_DEM_SMG_1m/ImageServer/identify?geometry=' + encodeURIComponent('{"x":137.40,"y":-4.60}') + '&geometryType=esriGeometryPoint&returnGeometry=false&returnCatalogItems=false&f=json');
+    R.identify = (await p.json()).value;
+  } catch (e) { R.identify = 'ERR ' + e.message; }
+  try {
+    const g = encodeURIComponent('{"paths":[[[137.38,-4.62],[137.42,-4.58]]]}');
+    const p = await fetch(A + 'Gale_DEM_SMG_1m/ImageServer/getSamples?geometry=' + g + '&geometryType=esriGeometryPolyline&sampleCount=50&returnFirstValueOnly=true&f=json');
+    const s = (await p.json()).samples.map(x => +x.value);
+    R.profile = {n: s.length, min: Math.min(...s), max: Math.max(...s)};
+  } catch (e) { R.profile = 'ERR ' + e.message; }
+  try {
+    const p = await fetch(A + 'curiosity_path/MapServer/0/query?where=1%3D1&outFields=*&f=geojson');
+    const gj = await p.json();
+    const lyr = L.geoJSON(gj, {style: {color: '#ff3b30', weight: 3}}).addTo(map);
+    R.path = {features: gj.features.length, points: gj.features[0].geometry.coordinates.length};
+    const w = await (await fetch(A + 'curiosity_waypoints/MapServer/0/query?where=1%3D1&outFields=name&f=geojson')).json();
+    L.geoJSON(w, {pointToLayer: (f, ll) => L.circleMarker(ll, {radius: 5, color: '#ffd60a'}).bindTooltip(f.properties.name)}).addTo(map);
+    R.waypoints = w.features.length;
+    map.fitBounds(lyr.getBounds());
+  } catch (e) { R.path = 'ERR ' + e.message; }
+  R.done = true; log();
+})();
+</script>
+</body>
+</html>

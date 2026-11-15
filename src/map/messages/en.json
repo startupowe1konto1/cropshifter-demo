@@ -1,0 +1,12 @@
+{
+  "map.intro": "Type your field's address, or tap your field on the map.",
+  "map.label": "Map. Tap a spot to add a field there.",
+  "map.hint": "In Poland a tap adds the land register parcel at that spot. Near the Iowa demo field it adds that field's outline, elsewhere a 200 m by 200 m square (4 ha). Tap a field you already added to select it.",
+  "map.field.atPoint": "Field at {lat}, {lon}",
+  "map.fields": "Your fields",
+  "map.fields.empty": "No fields yet.",
+  "map.fields.item": "{name}, {area} ha",
+  "map.tiles.source": "OpenStreetMap map tiles",
+  "map.tiles.reason": "The demo field buttons still work.",
+  "map.source": "The map"
+}

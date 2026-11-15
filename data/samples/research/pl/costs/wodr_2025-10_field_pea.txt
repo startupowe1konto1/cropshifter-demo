@@ -1,0 +1,82 @@
+Source: WODR Poznań (Wielkopolski Ośrodek Doradztwa Rolniczego), crop calculation sheet dated "2025 Październik" (model calculation, not a survey)
+PDF: https://www.wodr.poznan.pl/images/2025/doradztwo/ekonomika/pazdziernik/groch.pdf
+Landing page: not located (PDF opened directly; the URL was found via web search for the wheat file, other crops share the folder)
+Retrieved: 2026-11-14 16:59 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa:  |  Groch jadalny  |  plon:  |  30  |  dt/ha
+  |  2025  |  Październik
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Groch  |  Materiał bazowy "C1"  |  kg  |  260,00  |  3,16  |  821,60
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  3/03  |  15  |  4,87  |  73,02
+Polifoska 6:20:30  |  P  |  3/03  |  50  |  8,25  |  412,75
+  |  K  |  3/03  |  75  |  2,86  |  214,83
+  |  N  |  3/03  |  20  |  5,09  |  101,70
+Saletra amonowa
+
+Wapno nawozowe  |  CaO (1/4 dawki)  |  2/08  |  750  |  0,30  |  78,30
+Razem  |  880,60
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Wing P 462,5 EC  |  Herbicyd  |  3/03  |  3,50  |  233,00  |  815,50
+Fusilade Forte 150 EC  |  Herbicyd  |  3/04  |  0,80  |  110,25  |  88,20
+Amistar 250 S.C.  |  Fungicyd  |  1/06  |  0,80  |  235,76  |  188,61
+Mospilan 20 SP  |  Insektycyd  |  1/06  |  0,10  |  322,88  |  32,29
+Razem  |  1124,60
+  |  Termin  |  Cas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  68,71  |  137,42
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  3/03  |  0,50  |  59,27  |  29,63
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  3/03  |  0,30  |  59,27  |  17,78
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/03  |  1,00  |  73,66  |  73,66
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  3/03  |  1,20  |  77,11  |  92,53
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  3/03  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  3/04  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem + fungicydem  |  1/06  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  3/07  |  0,50  |  67,38  |  33,69
+Razem  |  458,97
+  |  Termin  |  Cas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+rozsiewacz wapna RCW-3  |  Wapnowanie (1/4 kosztu)  |  2/08  |  1,00  |  204,84  |  204,84
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  3/07  |  1,00  |  519,09  |  519,09
+Razem  |  1,00  |  723,93
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Nasiona grochu  |  dt  |  30  |  90,33  |  2709,90
+Dopłaty, subwencje  |  Dopłata do roślin strączkowych  |  ha  |  1  |  879,96  |  879,96
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  4255,25
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  4009,70
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  245,55
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  133,66
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  8,19

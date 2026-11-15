@@ -1,0 +1,50 @@
+Title: Crop yield response to water. FAO Irrigation and Drainage Paper 66 (crop chapters, section 4)
+Authors: Steduto, P., Hsiao, T.C., Fereres, E. & Raes, D. (eds.)
+Publisher/year: FAO, Rome, 2012
+URL: https://www.fao.org/4/i2800e/i2800e.pdf
+Opened: 14 Nov 2026 (curl + PyMuPDF text extraction). Book page = PDF page - 15.
+
+--- Barley chapter, "Growth and Development", book page 136 (PDF 151) ---
+"Winter barley is sown in autumn and requires a cold period (vernalization) during early growth for
+flowering under long days ... This ensures flowering when the risk of late frost is low"
+
+--- Barley chapter, book page 137 (PDF 152) ---
+"The base temperature and upper temperature for barley should be similar to that of wheat, 0 oC and
+around 25 oC, respectively."
+
+--- Barley chapter, book page 139 (PDF 154) ---
+"In most temperate conditions grain filling occurs when the weather is getting hotter. High temperatures
+(above 30-32 ºC) accelerate seed development towards maturity, shortening the grain filling period and
+hence reduces weight per grain at harvest. The effect is noticeable even if periods of high temperature
+are short (even only 3 days)."
+
+--- Barley chapter, "Yield", book page 140 (PDF 155) ---
+"barley yield is more sensitive to changes in growing conditions during the period when grain number is
+set, from stem elongation to just before the onset of grain filling. The cumulative growth during this
+phase is important enough to justify the assumption of some risk of frost at flowering"
+
+--- Soybean chapter, book page 128 (PDF 143) ---
+"Soybean is very sensitive to frost at seed emergence and pod filling"
+
+--- Maize chapter, book page 119 (PDF 134) ---
+"Being a C4 and warm-season crop, maize is sensitive to cold. In AquaCrop ... the base temperature
+(Tbase) for maize is set at 8 °C, and the upper temperature threshold (Tupper) ... is set at 30 °C."
+(Development-rate limits, not damage thresholds.)
+
+--- Potato chapter, book page 187 (PDF 202) ---
+"The temperature for frost or cold stress for potato is considered 1 oC and less, whereas that of heat
+stress is 35 oC or higher."
+
+--- Sugar beet chapter, book page 202 (PDF 217) ---
+"Planting should be done when soil temperature is higher than 4 °C and the risks of frost is nil"
+(No damaging air temperature is given.)
+
+--- Alfalfa chapter, book page 215 (PDF 230) ---
+"After floral initiation, temperature alone drives development through flowering, seed filling and
+maturity. Temperatures above 27 °C, water stress or excessive soil moisture conditions can decrease seed
+yields."  (Seed yield, not hay; not usable for a hay crop.)
+--- Alfalfa chapter, book page 217 (PDF 232) ---
+"At temperatures less than 5 °C or greater than 45 °C, alfalfa development is negligible."
+--- Alfalfa chapter, book page 218 (PDF 233) ---
+"Stands can persist for over 20 years in low rainfall climates that have a distinct winter dormant
+period, provided soils do not freeze and cause plant death."

@@ -1,0 +1,89 @@
+Source: WODR Poznań (Wielkopolski Ośrodek Doradztwa Rolniczego), crop calculation sheet dated "2025 Październik" (model calculation, not a survey)
+PDF: https://www.wodr.poznan.pl/images/2025/doradztwo/ekonomika/pazdziernik/żyto_ozime.pdf
+Landing page: not located (PDF opened directly; the URL was found via web search for the wheat file, other crops share the folder)
+Retrieved: 2026-11-14 16:59 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+
+----- extracted text -----
+--- page 1 ---
+  |  Żyto ozime - dt/ha  |  plon:  |  45  |  dt/ha
+  |  2025  |  Październik
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Żyto ozime  |  Materiał bazowy "B"  |  kg  |  120,00  |  2,40  |  287,54
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  2/09  |  15  |  4,87  |  73,02
+Polifoska 6:20:30  |  P  |  2/09  |  50  |  8,25  |  412,75
+  |  K  |  2/09  |  75  |  2,86  |  214,83
+  |  N  |  2/03  |  50  |  5,09  |  254,25
+Saletra amonowa
+  |  N  |  3/04  |  40  |  5,09  |  203,40
+Razem  |  1158,25
+  |  Termin
+  |  Rodzaj środka (herbicydy,  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  fungicydy, insektycydy, regulatory  |  środka
+  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  wzrostu)  |  (zł/l,kg)
+  |  c)
+Legato Pro 425 S.C.  |  Herbicyd  |  2/09  |  2,25  |  126,25  |  284,06
+Cerone 480 SL  |  Regulator wzrostu  |  2/04  |  1,00  |  90,37  |  90,37
+Kier 450 S.C.  |  Fungicyd  |  1/06  |  1,00  |  162,93  |  162,93
+Razem  |  537,36
+  |  Termin  |  Czas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 80KM+pług 5-skibowy+brona 3-pol.  |  Podorywka z bronowaniem  |  2/08  |  1,50  |  71,61  |  107,42
+Ciągnik 80KM+brona 5-polowa  |  Bronowanie chwastów  |  3/08  |  0,50  |  66,38  |  33,19
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  2/09  |  0,50  |  59,27  |  29,63
+Ciągnik 80KM+pług 4-skibowy  |  Orka siewna  |  2/09  |  2,00  |  68,71  |  137,42
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/09  |  0,70  |  73,66  |  51,56
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  3/09  |  1,20  |  77,11  |  92,53
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  2/09  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  2/03  |  0,30  |  59,27  |  17,78
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk - skracanie źdźbła  |  2/04  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 2 dawka  |  3/04  |  0,30  |  59,27  |  17,78
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  1/06  |  0,40  |  61,87  |  24,75
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  1/08  |  0,50  |  67,38  |  33,69
+Ciągnik 60KM+prasa zwijająca  |  Prasowanie słomy  |  2/08  |  1,20  |  105,07  |  126,08
+Ciągnik 60KM+ładowacz czołowy  |  Załadunek słomy  |  2/08  |  2,00  |  60,27  |  120,55
+Ciągnik 60KM+przyczepa 7t  |  Zwożenie słomy  |  2/08  |  2,00  |  67,38  |  134,76
+Razem  |  13,90  |  976,65
+  |  Termin  |  Czas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  1/08  |  1,20  |  519,09  |  622,91
+Razem  |  1,20  |  622,91
+  |  Cena  |  Wartość
+ Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Prasa do słomy  |  Sznurek  |  szt  |  2  |  57,51  |  115,02
+Razem  |  115,02
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Ziarno żyta  |  dt  |  45  |  54,76  |  2464,20
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  3129,59
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  3697,73
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  -568,14
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  82,17
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  -12,63

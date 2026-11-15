@@ -1,0 +1,13 @@
+Title: Effects of deficit irrigation regimes on the yield and growth of oilseed rape (Brassica napus L.)
+Authors: A. Istanbulluoglu, B. Arslan, E. Gocmen, E. Gezer, C. Pasa
+Year: 2010 (Biosystems Engineering, pp. 388-394)
+URL: https://search.isc.ac/Inventory/10/1267486.htm  (abstract record; full text is paywalled and was NOT opened;
+     the NKU repository record https://acikerisim.nku.edu.tr/items/3965db6f-1dff-470a-8b54-a99b7bb07508 returned 403)
+Date opened: 14 Nov 2026
+Locator: Abstract
+
+"Experiments were carried to determine the effect of deficit irrigation regimes on grain and oil yield, seasonal evapotranspiration, yield response to water, water use efficiency and plant growth of oilseed rape (Brassica napus L.) in the Trakya region of Turkey."
+"the regionally most popular variety of oilseed rape (Bristol) was used."
+"Results showed that oilseed rape was significantly affected by water stress during the sensitive flowering stage."
+"Seasonal irrigation water use and evapotranspiration were 251 and 715 mm, respectively, for the non-stressed treatment. Oilseed grain yield from this treatment was 4.80 t ha−1. The seasonal yield response factor value was 0.87 (coefficient of determination, R2 = 0.71)."
+(Seasonal value only in the abstract; stage-wise values, if any, are in the paywalled full text.)

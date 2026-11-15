@@ -1,0 +1,100 @@
+[
+  {
+    "id": "goals.keepSoil.weights",
+    "value": {
+      "soilHealth": 0.4,
+      "climateResilience": 0.45,
+      "priorities": 0.15
+    },
+    "unit": "weight (sums to 1)",
+    "appliesTo": "total score under the goal 'Keep my soil' (default)",
+    "sourceTitle": "team decision D9",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D9 and SPEC section 7, table 'Total and ranking by goal'",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.improveSoil.weights",
+    "value": {
+      "soilHealth": 0.6,
+      "climateResilience": 0.25,
+      "priorities": 0.15
+    },
+    "unit": "weight (sums to 1)",
+    "appliesTo": "total score under the goal 'Improve my soil'",
+    "sourceTitle": "team decision D9",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D9 and SPEC section 7, table 'Total and ranking by goal'",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.income.weights",
+    "value": {
+      "soilHealth": 0.3,
+      "climateResilience": 0.2,
+      "income": 0.4,
+      "priorities": 0.1
+    },
+    "unit": "weight (sums to 1)",
+    "appliesTo": "total score under the goal 'Income'",
+    "sourceTitle": "team decision D9",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D9 and SPEC section 7, table 'Total and ranking by goal'",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.soilFloor.points",
+    "value": 5,
+    "unit": "soil health points (0-100 scale)",
+    "appliesTo": "goals keepSoil and income: a rotation more than this many points below the current rotation's soil health is not offered",
+    "sourceTitle": "team decision D9",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D9: 'A rotation more than 5 points below the current rotation's soil health is not offered'",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.priorityDoubling.factor",
+    "value": 2,
+    "unit": "multiplier on an indicator weight",
+    "appliesTo": "soil health: a farmer priority for nitrogen, erosion or organic matter doubles that indicator's weight",
+    "sourceTitle": "team rule of thumb",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+    "sourceLocator": "SPEC section 7, 'Soil health = weighted mean of the four indicators'",
+    "checkedBy": "O4, team rule"
+  },
+  {
+    "id": "goals.shownOthers.count",
+    "value": 3,
+    "unit": "rotations",
+    "appliesTo": "each goal shows the current rotation plus this many best others",
+    "sourceTitle": "team decision D20 (a)",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "DECISIONS D20 (a) and SPEC section 8",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.soilIndicator.weights",
+    "value": {
+      "nitrogen": 0.25,
+      "organicMatter": 0.25,
+      "erosion": 0.25,
+      "pestBreak": 0.25
+    },
+    "unit": "weight (sums to 1) before priority doubling",
+    "appliesTo": "soil health = weighted mean of the four indicators",
+    "sourceTitle": "team decision, SPEC section 7",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+    "sourceLocator": "SPEC section 7, Soil health: 'Start with equal weights'",
+    "checkedBy": "O4, team decision"
+  },
+  {
+    "id": "goals.ruleOfThumbRange.share",
+    "value": 0.15,
+    "unit": "share of the score, either side",
+    "appliesTo": "range of a soil indicator whose rule gives a single number and no range; the basis text says 'rule of thumb'",
+    "sourceTitle": "team decision, SPEC section 7",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+    "sourceLocator": "SPEC section 7, Uncertainty and confidence: 'otherwise ±15% and the basis text says rule of thumb'",
+    "checkedBy": "O4, team decision"
+  }
+]

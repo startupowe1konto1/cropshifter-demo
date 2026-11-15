@@ -1,0 +1,15 @@
+Title: Considerations when Overseeding Cover Crops
+Author/publisher: Mark Licht, Zachary Clemens; Iowa State University Extension and Outreach, Integrated Crop Management News
+Year: 2021 (published 13 Jul 2021)
+URL: https://crops.extension.iastate.edu/cropnews/2021/07/considerations-when-overseeding-cover-crops
+Date opened: 14 Nov 2026 (via oc CLI)
+Locator: article body, paragraphs 2-3 after the photo caption
+
+"Timing is everything. Too early and corn and soybean crops shade too much."
+"The time overseeding occurs is when labor needs are not as demanding, which is usually the last week of August through
+that first week of September. This assumes there is rainfall in the forecast or ample soil moisture."
+"If growing degree days conditions continue to accumulate rapidly, the timeframe could be earlier than the end of August."
+"When corn leaves firing up to the ear leaf or the soybean canopy is starting to yellow is a good indication of when to overseed."
+"September brings increased rain probabilities, which may lead to more successful cover crop establishment."
+"Typically, overseeding requires a higher seeding rate – 60 to 70 pounds per acre – than if drill seeding following crop harvest."
+Photo caption: "Cereal rye overseeding into corn when the leaves were firing to the ear leaf in wet fall conditions"

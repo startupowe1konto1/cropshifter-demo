@@ -1,0 +1,13 @@
+Title: How Do High Temperatures Impact My Soybeans?
+Author/publisher: NC State Extension (Soybeans portal), North Carolina State University
+Year: July 2020 (article text: "Now it is July"; 2020 season)
+URL: https://soybeans.ces.ncsu.edu/news/how-do-high-temperatures-impact-my-soybeans/
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: paragraphs 2-4
+
+Quoted text:
+"The ideal temperature for soybean growth is 85℉ . When temperatures exceed this threshold, especially for several subsequent days, heat stress can occur."
+"Temperatures above 86℉ can also reduce nodulation, and ultimately N-fixation in soybeans"
+"High temperatures can result in any of the following in reproductive stage soybeans: aborted flowers, aborted small pods, aborted seeds in larger pods, and production of smaller seeds."
+"Heat stress has the most adverse impact on soybeans in the R5 (beginning seed) growth stage."
+Note: North Carolina, not Iowa. 85°F is described as the optimum above which stress can occur, not a damage threshold.

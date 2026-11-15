@@ -1,0 +1,51 @@
+# Excerpt (pdftotext -layout) of https://www.agronext.iastate.edu/soilfertility/info/ManNitrHighCornYields_2006ICMConf.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 3
+
+=== PDF page 3 ===
+Continuous Corn and Corn in Rotation with Soybean
+The required N fertilization rate is higher when corn follows corn than following soybean. For
+many years this was called the “soybean credit”, implying that soybean plants left unused N in
+the soil. That was a misperception. It is true that the N fertilization rate is less for SC than CC,
+but the reasons are related to amount of residue and N content, timing of residue decomposition,
+and mineralization rate of organic matter. From a soil resource standpoint, soybean actually
+results in a net N removal. While the reasons for the N fertilization rate difference are interesting,
+the bottom line is that more N fertilizer is required with CC than SC.
+
+There are different ways to look at corn fertilization needs in different rotations. First; simply
+determine corn yield increase and economic response to N rate in each rotation, that is, calculate
+the maximum return rate (MRTN) for each rotation. For Iowa, those rates are shown in Figure 1
+and Table 2 for CC and SC. At a 0.10 N:corn price ratio, the MRTN rates are 179 lb N/acre for
+CC and 123 lb N/acre for SC. The rate difference is 56 lb N/acre. The MRTN rates for each
+rotation can be determined for different price ratios using the web based Corn N Rate Calculator.
+Second; determine N responses from split-plot studies that directly compare corn in each
+rotation. Using data from studies conducted at seven ISU farms from 2000-2005 (Figure 4), the
+N fertilization rate difference is 59 lb N/acre. This is basically the same rate difference as
+determined using the database in the Corn N Rate Calculator.
+
+Multiple Years of Corn and Corn Following Various Crops
+This topic will be thoroughly discussed in another Integrated Crop Management Conference
+report by A.P. Mallarino and E. Ortiz-Torres. Data from the Nashua site (Figure 5) show that for
+second and third year corn following soybean (c-C-s; c-C-c-s; c-c-C-s), the N fertilization rate is
+the same as continuous corn (C-C). This means that the rotation effect for soil N supply is gone
+after one corn year. For first year corn following soybean, either soybean every-other-year (C-s),
+or one year of soybean after multiple years of corn (C-c-s; C-c-c-s), or second year corn
+following alfalfa (c-C-a-a), the N rate response is the same as corn in a C-s rotation.
+
+Application Timing and Products
+To receive the full potential yield increase, to obtain the greatest economic return possible, and
+to provide the opportunity for high yields from applied N, fertilizers should be managed to avoid
+losses and to provide adequate available N within the root zone when the plant requires it. This
+means matching products with the appropriate timing and placement. The following information
+gives suggested N fertilizer management for corn based on general Iowa climatic conditions,
+fertilizer properties, placement, and probability for loss through leaching, denitrification, and
+volatilization.
+
+For fall N fertilizer application, the only product suggested is anhydrous ammonia. If that
+application is made, it should be in the late fall after soils have cooled (below 50°F and
+continued cooling), and the colder the better. A nitrification inhibitor can be used to further slow
+nitrification. Products like UAN (28 or 32% urea-ammonium nitrate solution), ammonium
+sulfate, urea, and ammonium nitrate should not be fall applied. Spring preplant, split
+preplant/sidedress, and sidedress applications will provide similar results on many Iowa soils.
+Products containing nitrate should be applied close to planting or sidedress. Coarse textured
+soils, soils underlain with fractured bedrock, and soils with high probability for flooding, poor
+

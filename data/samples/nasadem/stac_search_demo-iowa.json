@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "links": [
+    {
+      "rel": "root",
+      "type": "application/json",
+      "href": "https://planetarycomputer.microsoft.com/api/stac/v1/"
+    },
+    {
+      "rel": "self",
+      "type": "application/geo+json",
+      "href": "https://planetarycomputer.microsoft.com/api/stac/v1/search?collections=nasadem"
+    }
+  ],
+  "features": [
+    {
+      "id": "NASADEM_HGT_n42w094",
+      "bbox": [
+        -94.000139,
+        41.999861,
+        -92.999861,
+        43.000139
+      ],
+      "type": "Feature",
+      "links": [
+        {
+          "rel": "collection",
+          "type": "application/json",
+          "href": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/nasadem"
+        },
+        {
+          "rel": "parent",
+          "type": "application/json",
+          "href": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/nasadem"
+        },
+        {
+          "rel": "root",
+          "type": "application/json",
+          "href": "https://planetarycomputer.microsoft.com/api/stac/v1/"
+        },
+        {
+          "rel": "self",
+          "type": "application/geo+json",
+          "href": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/nasadem/items/NASADEM_HGT_n42w094"
+        },
+        {
+          "rel": "preview",
+          "href": "https://planetarycomputer.microsoft.com/api/data/v1/item/map?collection=nasadem&item=NASADEM_HGT_n42w094",
+          "type": "text/html",
+          "title": "Map of item"
+        }
+      ],
+      "assets": {
+        "tilejson": {
+          "href": "https://planetarycomputer.microsoft.com/api/data/v1/item/tilejson.json?collection=nasadem&item=NASADEM_HGT_n42w094&assets=elevation&colormap_name=terrain&rescale=-100%2C4000",
+          "type": "application/json",
+          "roles": [
+            "tiles"
+          ],
+          "title": "TileJSON with default rendering"
+        },
+        "elevation": {
+          "href": "https://nasademeuwest.blob.core.windows.net/nasadem-cog/v001/NASADEM_HGT_n42w094.tif",
+          "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+          "roles": [
+            "data"
+          ],
+          "title": "Elevation"
+        },
+        "rendered_preview": {
+          "rel": "preview",
+          "href": "https://planetarycomputer.microsoft.com/api/data/v1/item/preview.png?collection=nasadem&item=NASADEM_HGT_n42w094&assets=elevation&colormap_name=terrain&rescale=-100%2C4000",
+          "type": "image/png",
+          "roles": [
+            "overview"
+          ],
+          "title": "Rendered preview"
+        }
+      },
+      "_msft:ts": "2026-10-17T13:26:33.374727Z",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.99986111,
+              41.99986111
+            ],
+            [
+              -92.99986111,
+              43.00013889
+            ],
+            [
+              -94.00013889,
+              43.00013889
+            ],
+            [
+              -94.00013889,
+              41.99986111
+            ],
+            [
+              -92.99986111,
+              41.99986111
+            ]
+          ]
+        ]
+      },
+      "_msft:etag": "83099fcd-7301-47e4-a4f6-a5877b80119a",
+      "collection": "nasadem",
+      "properties": {
+        "datetime": "2000-02-20T00:00:00Z",
+        "proj:bbox": [
+          -94.00013888888888,
+          41.999861111111116,
+          -92.9998611111111,
+          43.00013888888889
+        ],
+        "proj:epsg": 4326,
+        "proj:shape": [
+          3601,
+          3601
+        ],
+        "proj:transform": [
+          0.0002777777777777778,
+          0.0,
+          -94.00013888888888,
+          0.0,
+          -0.0002777777777777778,
+          43.00013888888889,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "stac_extensions": [
+        "https://stac-extensions.github.io/projection/v1.0.0/schema.json"
+      ],
+      "stac_version": "1.0.0"
+    }
+  ],
+  "numberReturned": 1
+}

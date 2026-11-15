@@ -1,0 +1,398 @@
+# Excerpt (pdftotext -layout) of https://www.sare.org/wp-content/uploads/Crop-Rotation-on-Organic-Farms.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. PDF pages 77, 132, 137, 138, 141, 142, 143 (printed pages 70, 125, 130, 131, 134, 135, 136)
+
+=== PDF page 77 ===
+                                                        Filling Out Your Crop Characteristics
+                                                        Worktable
+                        Sidebar 5.3                     4. Write down your desired crop mix for the coming year.
+         Codes for Recording                                Make a list of the crops you grow and how many acres,
+      Planting and Harvest Times                        beds, or square feet you want to grow of each crop to meet
+                                                        your market requirements. Use your copy of the Crop
+     Generally, attempting to target particular         Characteristics Worktable to organize the list by families.
+     planting and harvest dates too carefully will      (Look up the family of your crops in appendix 1, pages
+     prove futile due to the unpredictability of the    101–103, if necessary.)
+     weather. The following codes may be useful for         Next, for each crop family, group crops that you grow
+     tracking when you plant and harvest. If you have   using similar practices and planting and harvest times.
+     a long growing season, you may want to divide      Members of these crop groups are functionally equivalent
+     spring and fall into three categories instead of   with respect to many aspects of crop rotation.
+     two. You can also create your own codes, but be        Fill in the name of each crop you plant down the left-
+     sure to record them somewhere!                     hand column. If you plan to make multiple plantings of a
+           Time                    Code                 crop, enter each planting on a separate line with a unique
+           Early spring            espr
+                                                        name (for example, lettuce 1, lettuce 2, etc.). Separating
+                                                        plantings is useful because each has different planting and
+           Late spring             lspr
+                                                        harvest times and therefore has different cash and cover
+           Early summer            esum
+                                                        crops that can precede or follow it. For crops that remain
+           Midsummer               msum                 in the ground for several years, you may find listing each
+           Late summer             lsum                 crop year useful (for example, strawberry yr 1, strawberry
+           Early fall              efall                yr 2, etc.). Table 5.4 shows the crop mix for Small Valley
+           Late fall               lfall                Farm.
+
+                                                        5. Add crop characteristics to the Crop Characteristics
+                                                            Worktable.
+                                                           Now look at your Crop Characteristics Worktable,
+                                                        and going across the page add column titles in spaces to
+                        Sidebar 5.4                     the right of “Net $/acre” that you think will be useful in
+                                                        deciding either the sequence in which you order crops
+           Minimum Return Time                          or where the crops will be placed on the farm. Crop
+    A minimum return time of four to five years
+    will prevent most soilborne diseases (appen-
+    dix 3, pages 124–137), provided you practice               Table 5.4 Crop mix for Small Valley Farm
+    good sanitation measures (see “Managing
+    Plant Diseases with Crop Rotation,” page
+                                                             Crop                           Acres/year
+    32). A shorter return time can be used for
+    grass family crops, particularly if the rotation          Tofu soybean                   120
+    includes some alternation of corn, small grains,          Corn                           120
+    and forage grasses. Although these different
+    grass family crops share a few diseases (see ap-          Oat/clover/spelt               120
+    pendix 2, pages 104–123), avoiding rapid                  Spelt/hay (1st year)           120
+    return to a particular grass species is usually
+                                                              Hay (2nd year)                 120
+    sufficient to avoid disease problems.
+                                                              Hay (3rd year)/oat cc          120
+
+
+
+70 Crop Rotation on Organic Farms: A Planning Manual
+
+=== PDF page 132 ===
+  APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                                 Wind-
+                                                      Rotation       Seed        blown       Insect
+Disease                    Pathogen Name              (years)1       Borne      Spores2     Vectored    Weed Hosts
+Root-knot nematodes        Meloidogyne hapla,          Y (long);       N           NA          N        wide host range9
+                           M. incognita                 small
+                                                        grains
+White mold                 Sclerotinia                   Y (5)         N        Y (local)      N        wide host range6
+                           sclerotiorum
+Beet
+Cercospora leaf spot       Cercospora beticola           Y (3)         Y        Y (local)      N        several10
+Common scab                Streptomyces spp.            Y (3-4)        N           N           N        no records located
+Phoma leaf spot            Phoma betae                   Y (3)         Y        Y (local,      N        no records located
+                                                                                  rain)
+Pocket rot                 Rhizoctonia solani             Y            Y           N           N        wide host range5
+Seed rot, damping-off,     Pythium ultimum,             Y (3-4)        Y           N           N        wide host range4,5
+root rot                   Rhizoctonia solani
+Sugar beet cyst nematode   Heterodera schachtii         Y (4-5)        N           NA          N        field pennycress, tumble
+                                                                                                        pigweed, common
+                                                                                                        lambsquarters, hairy
+                                                                                                        galinsoga
+Cabbage, broccoli, cauliflower, and Brussels sprouts
+Alternaria leaf spot       Alternaria spp.               Y (3)         Y        Y (local)      N        field pepperweed,
+                                                                                                        Virginia pepperweed, field
+                                                                                                        pennycress
+Black leg, seed decay      Phoma lingam                  Y (4)         Y        Y (local)      N        weeds in the mustard family
+Black rot                  Xanthomonas                   Y (3)         Y           NA          N        mustard, shepherd's purse,
+                           campestris pv.                                                               some other weeds in the
+                           campestris                                                                   mustard family
+Clubroot                   Plasmodiophora                Y (7)         N           NA          N        several11
+                           brassicae
+Downy mildew               Peronospora                   Y (3)         N           Y           N        wild mustard, yellow rocket,
+                           parasitica                                                                   hedge mustard, shepherd's
+                                                                                                        purse, marsh yellowcress,
+                                                                                                        field pennycress suspected;
+                                                                                                        actual hosts might be
+                                                                                                        affected by strain specificity
+Fusarium yellows           Fusarium oxysporum            Y (7)         N           N           N        wide host range3
+Head rot of broccoli       Pseudomonas spp.              Y (2)         N           NA          N        wide host range
+Root-knot nematodes        Meloidogyne hapla,          Y (long);       N           NA          N        wide host range9
+                           M. incognita                 small
+                                                        grains
+Root rot                   Pythium ultimum,              Y (3)         Y           N           N        wide host range4,5
+                           Rhizoctonia solani
+White mold                 Sclerotinia                   Y (5)         N        Y (local)      N        wide host range6
+                           sclerotiorum
+Wirestem                   Rhizoctonia solani           Y (4-5)        Y           N           N        wide host range5
+
+
+
+
+                                             APPENDIX 3 | Sources of Inoculum for Crop Diseases in the Northeastern United States 125
+
+=== PDF page 137 ===
+   APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                         Wind-
+                                                    Rotation    Seed     blown       Insect
+ Disease                     Pathogen Name          (years)1    Borne   Spores2     Vectored      Weed Hosts
+ Parsnip
+ Aster yellows               Aster yellows              NA       N        NA              Y      wide host range12
+                             phytoplasma                                            (leafhopper)
+ Bacterial blight            Pseudomonas                Y        N        NA             N        wide host range
+                             marginalis, P.
+                             viridiflava
+ Pea
+ Ascochyta leaf spot         Ascochyta pisi           Y (3)      Y      Y (local)        N        no records located
+ Bacterial blight            Pseudomonas                NA       Y        NA             N        wide host range
+                             syringae pv. pisi
+ Fusarium wilt               Fusarium oxysporum     Y (long)     N         N             N        no records located
+                             f. sp. pisi
+ Seed decay and root rot     Pythium ultimum         Y (3-4)     Y         N             N        wild-proso millet,
+                                                                                                  shattercane, barnyardgrass,
+                                                                                                  quackgrass
+ White mold                  Sclerotinia              Y (5)      N      Y (local)        N        wide host range6
+                             sclerotiorum
+ Pepper
+ Anthracnose fruit rot       Colletotrichum           Y (2)      Y      Y (local,        N        velvetleaf
+                             gloeosporioides                              rain)
+ Bacterial leaf spot         Xanthomonas                Y        Y        NA             N        mustard, shepherd's purse,
+                             campestris pv.                                                       some other weeds in the
+                             vesicatoria                                                          mustard family
+ Bacterial soft rot          Erwinia carotovora         N        N        NA             Y        no records located
+ Cucumber mosaic virus       Cucumber mosaic            NA       N        NA         Y (aphid)    wide host range8
+ (CMV)                       virus (CMV)
+ Damping-off                 Phytophthora               N        N         N             N        common purslane,
+                             spp., Pythium spp.,                                                  horsenettle, velvetleaf
+                             Rhizoctonia solani                                                   (P. capsici); eastern black
+                                                                                                  nightshade (P. capsici and P.
+                                                                                                  infestans)4,5
+ Phytophthora blight         Phytophthora capsici    Y (>3)      Y      Y (local,        N        field pepperweed,
+                                                                          rain)                   Virginia pepperweed, field
+                                                                                                  pennycress
+ Root-knot nematodes         Meloidogyne hapla,     Y (long);    N        NA             Y        wide host range9
+                             M. incognita            small
+                                                     grains
+ Southern blight             Sclerotium rolfsii     Y (long)     N         N             N        no records located
+ Tomato spotted wilt virus   Tomato spotted wilt        NA       N        NA         Y (thrips)   wide host range15
+ (TSWV)                      virus (TSWV)
+ Verticillium wilt           Verticillium albo-     Y (long)     N         N             N        wide host range14
+                             atrum, V. dahliae
+
+
+
+
+130 Crop Rotation on Organic Farms: A Planning Manual
+
+=== PDF page 138 ===
+  APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                              Wind-
+                                                   Rotation      Seed         blown       Insect
+Disease                  Pathogen Name             (years)1      Borne       Spores2     Vectored    Weed Hosts
+Potato
+Bacterial ring rot       Clavibacter                   NA        Y (seed       NA           N        no records located
+                         michiganensis subsp.     (regulated;    tubers)
+                         sepedonicum                    0
+                                                   tolerance)
+Bacterial soft rot       Erwinia spp.                  N            N          NA           N        no records located
+Black dot root rot       Colletotrichum              Y (2)       Y (seed        N           N        eastern black nightshade,
+                         coccodes                                tubers)                             velvetleaf
+Botrytis vine rot        Botrytis cinerea              N            N           Y           N        common sunflower
+Canker and black scurf   Rhizoctonia solani         Y (3-4)      Y (seed        N           N        wide host range5
+                                                                 tubers)
+Common scab              Streptomyces spp.          Y (3-4)         N           N           N        no records located
+Early blight             Alternaria solani, A.       Y (2)          N        Y (local)      N        redroot pigweed, eastern
+                         tomatophila                                                                 black nightshade,
+                                                                                                     jimsonweed (A. solani),
+                                                                                                     Virginia copperleaf (A. sp.)
+Fusarium dry rot         Fusarium solani, F.        Y (long)     Y (seed        N           N        green foxtail (F. solani)
+                         sambucinum                              tubers)
+Fusarium wilt            Fusarium spp.              Y (long)     Y (seed        N           N        wide host range3
+                                                                 tubers)
+Golden nematode,         Globodera                  Y (5-9)      Y (seed       NA           N        no records located
+Potato cyst nematode     rostochiensis                           tubers)
+(quarantined, NY only)
+Late blight              Phytophthora                  N         Y (seed        Y           N        eastern black nightshade
+                         infestans                               tubers)
+Leak                     Pythium spp.               N (>4 if        N           N           N        several weed hosts4
+                                                    severe)
+Lesion nematodes         Pratylenchus spp.          Y (long)        Y          NA           N        wide host range
+Pink rot                 Phytophthora               N (>4 if     Y (seed        N           N        no records located
+                         erythroseptica             severe)      tubers)
+Powdery scab             Spongospora                Y (3-10)     Y (seed        N           N        no records located
+                         subterranea                             tubers)
+Root-knot nematodes      Meloidogyne hapla,        Y (long);        N          NA           N        wide host range9
+                         M. incognita               small
+                                                    grains
+Silver scurf             Helminthosporium           Y (>3?)      Y (seed        N           N        no records located
+                         solani                                  tubers)
+Verticillium wilt        Verticillium albo-         Y (long)        N           N           N        wide host range14
+                         atrum, V. dahliae
+White mold               Sclerotinia                 Y (5)          N        Y (local)      N        wide host range6
+                         sclerotiorum
+Spinach
+Anthracnose              Colletotrichum              Y (3+)         Y        Y (local,      N        no records located
+                         spinaciae                                             rain)
+Cucumber mosaic virus    Cucumber mosaic              NA            N          NA        Y (aphid)   wide host range8
+(CMV)                    virus (CMV)
+
+
+
+                                          APPENDIX 3 | Sources of Inoculum for Crop Diseases in the Northeastern United States 131
+
+=== PDF page 141 ===
+   APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                                 Wind-
+                                                          Rotation      Seed     blown       Insect
+ Disease                        Pathogen Name             (years)1      Borne   Spores2     Vectored      Weed Hosts
+ FIELD CROPS
+ Alfalfa
+ Anthracnose                    Colletotrichum trifolii     Y (2-3)      Y      Y (local,       N         no records located
+                                                                                  rain)
+ Aphanomyces root rot           Aphanomyces                 Y (2-3)      N         N            N         legumes
+                                euteiches
+ Bacterial wilt                 Clavibacter                   N          Y        NA            N         no records located
+                                michiganensis subsp.
+                                insidiosus
+ Brown root rot                 Phoma sclerotioides       Y (3); non-    Y         N            N         wide host range
+                                                           legumes
+ Crown and root rot             Fusarium spp.,             Y (long)      Y         N            N         wide host range3,4,5
+ complex                        Phoma medicaginis,
+                                Pythium spp.,
+                                Rhizoctonia solani
+ Fusarium wilt                  Fusarium oxysporum         Y (long)      Y         N            N         no records located
+                                f. sp. medicaginis
+ Lepto leaf spot                Leptosphaerulina              N          N      Y (local)       N         medics, soybean
+                                trifolii
+ Lesion nematodes               Pratylenchus spp.             N          N        NA            N         wide host range
+ Phytophthora root rot          Phytophthora               Y (very       N         N            N         no records located
+                                medicaginis, P.             long)
+                                megasperma f. sp.
+                                medicaginis
+ Sclerotinia crown and          Sclerotinia                 Y (3-4)      Y      Y (local)       N         wide host range6
+ stem blight                    trifoliorum, S.
+                                sclerotiorum
+ Spring black stem and leaf     Phoma medicaginis           Y (2-3)      Y      Y (local,       N         legumes
+ spot                                                                             rain)
+ Summer black stem and          Cercospora                  Y (2-3)      Y      Y (local,       N         legumes
+ leaf spot                      medicaginis                                       rain)
+ Verticillium wilt              Verticillium                 Y (3)       Y         N        Y (several)   wide host range14
+                                albo-atrum
+ Corn
+ Anthracnose leaf blight        Colletotrichum               Y (2)       N      Y (local,       N         several grasses13
+ and stalk rot                  graminicola                                       rain)
+ Barley yellow dwarf virus      Barley yellow dwarf          NA          N        NA         Y (aphid)    witchgrass, Italian ryegrass,
+                                luteovirus                                                                annual bluegrass
+                                (BYDV-PAV)
+ Common rust                    Puccinia sorghi               N          N         Y            N         yellow woodsorrel
+ Common smut                    Ustilago maydis            Y (long)      Y      Y (local)         Y      no records located
+                                                                                            (leafhopper)
+ Diplodia ear rot, stalk rot,   Stenocarpella maydis        Y (2-3);     N         Y            N         no records located
+ seed rot and seedling          (Diplodia maydis)          worst in
+ blight                                                     no-till
+                                                          continuous
+                                                             corn
+
+
+
+134 Crop Rotation on Organic Farms: A Planning Manual
+
+=== PDF page 142 ===
+  APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                                 Wind-
+                                                      Rotation       Seed        blown       Insect
+Disease                      Pathogen Name            (years)1       Borne      Spores2     Vectored     Weed Hosts
+Diplodia leaf spot,          Stenocarpella             Y (2-3)         N           Y            N        no records located
+Diplodia leaf streak         macrospora (Diplodia
+                             macrospora)
+Eyespot                      Aureobasidium zeae        Y; worst        N        Y (local,       N        no records located
+                                                       in no-till                 rain)
+                                                      continuous
+                                                         corn
+Fusarium stalk and ear rot   Fusarium moniliforme     Y; worst         Y        Y (local)       Y       grasses
+                                                      in no-till                            (European
+                                                     continuous                             corn borer,
+                                                        corn                                ear worm)
+Gibberella stalk and ear     Fusarium spp.             Y (2-3);        Y        Y (local)       N        wide host range3
+rot16                                                 worst in
+                                                       no-till
+                                                     continuous
+                                                        corn
+Gray leaf spot, Cercospora   Cercospora sorghi         Y (1-2);        N        Y (local)       N        a few grasses
+leaf spot                                             worst in
+                                                       no-till
+                                                     continuous
+                                                        corn
+Leaf blight                  Erwinia stewartii            N            Y           NA       Y (corn flea a few grasses
+                                                                                              beetle)
+Lesion nematodes             Pratylenchus spp.            N            N           NA           N        wide host range
+Maize dwarf mosaic virus     Maize dwarf mosaic           N            N           NA        Y (aphid)   witchgrass, johnsongrass,
+(MDMV)                       virus (MDMV)                                                                barnyardgrass, goosegrass
+Northern corn leaf blight    Exserohilum turcicum      Y (2-3)         N           Y            N        johnsongrass, green foxtail,
+                                                                                                         wild-proso millet
+Seed rots                    Fusarium spp.,               N            N           N            Y        wide host range3
+                             Diplodia spp., etc
+Soybean
+Asian soybean rust           Pakospora pachyrhizi        NA            N           Y            N        kudzu, clover, lupin
+Brown spot                   Septoria glycines            Y            Y           Y            N        no records located
+Brown stem rot               Phialophora gregata       Y (2-3)         N           N            N        unknown; likely
+                             (Cephalosporium
+                             gregatum)
+Damping-off, stem rot        Rhizoctonia spp.,         Y (long)        N           N            N        wide host range3,4,5
+                             Fusarium spp.,
+                             Phytophthora sojae,
+                             Pythium spp.
+Diaporthe stem canker        Diaporthe                    Y            Y        Y (local,       N        no records located
+                             phaseolorum                                          rain)
+                             (Phomopsis phaseoli)
+Green stem/soybean           Bean pod mottle             NA          Y (low        NA        Y (bean     no records located
+viruses                      virus                                   levels)                   leaf
+                                                                                             beetle)
+Phomoposis seed rot          Phomopsis spp.               Y            Y        Y (local,       N        velvetleaf
+                                                                                  rain)
+
+
+
+                                             APPENDIX 3 | Sources of Inoculum for Crop Diseases in the Northeastern United States 135
+
+=== PDF page 143 ===
+   APPENDIX 3 Sources of Inoculum for Crop Diseases in the Northeastern United States (continued)
+
+                                                                               Wind-
+                                                    Rotation      Seed         blown       Insect
+ Disease                   Pathogen Name            (years)1      Borne       Spores2     Vectored    Weed Hosts
+ Phytophthora root rot     Phytophthora sojae       Y (long)        N            N            N       unknown; likely
+ Sclerotinia white mold,   Sclerotinia              Y (long)        Y         Y (local)       N       wide host range6
+ sclerotinia stem rot      sclerotiorum
+ Soybean cyst nematode     Heterodera glycines       Y (3+)      Y (in soil     NA            N       many
+                                                                with seed)
+ Sudden death syndrome     Fusarium solani f. sp.     Y (3)         N            N            N       no records located
+                           glycines
+ Wheat
+ Barley yellow dwarf       Barley yellow dwarf          NA          N           NA        Y (aphid)   witchgrass, Italian ryegrass,
+ luteovirus (BYDV-PAV)     luteovirus (BYDV-                                                          annual bluegrass etc. (about
+                           PAV)                                                                       105 grass species)
+ Cephalosporium stripe     Hymenula cerealis         Y (2-3)        N            N            N       perennial grasses
+                           (Cephalosporium
+                           gramineum)
+ Common bunt, stinking     Tilletia tritici             NA          Y           NA            N       no records located
+ smut
+ Common root rot           Bipolaris sorokiniana     Y (3-6);       Y            Y            N       grasses
+                           (Cochliobolus sativus)   avoid oat
+ Eyespot foot rot          Pseudocercosporella       Y (2+)         N         Y (local,       N       likely grass weeds (esp.
+                           herpotrichoides                                      rain)                 quackgrass)
+ Foot rot                  Fusarium spp.             Y (2-3)        Y         Y (local,       N       wide host range3
+                                                                                rain)
+ Fusarium scab, head       Fusarium spp.             Y (2-3)       NA         Y (local,       N       wide host range3
+ blight16                                                                       rain)
+ Leaf rust, brown rust     Puccinia triticina           Y           N            Y            N       no records located
+ Lesion nematodes          Pratylenchus spp.         Y (2-3)        N           NA           NA       wide host range
+ Loose smut                Ustilago tritici             NA          Y         Y (local)       N       no records located
+ Powdery mildew            Blumeria gramini          Y (1-2)        N            Y            N       annual bluegrass
+                           (Erysiphe graminis f.
+                           sp. tritici)
+ Septoria leaf blotch      Septoria tritici          Y (1-2)        N         Y (local,       N       a few grasses
+                           (Mycosphaerella                                      rain)
+                           graminicola)
+ Stagonospora leaf and     Stagonospora              Y (1-2)        Y         Y (local,       N       annual bluegrass
+ glume blotch              nodorum                                              rain)
+ Take-all                  Gaeumannomyces            Y (2-3);       N           NA            N       annual bluegrass,
+                           graminis var. tritici      avoid                                           quackgrass
+                                                     barley
+ Tan spot                  Pyrenophora tritici-      Y (2-3)        Y            Y            N       a few grasses
+                           repentis
+ Wheat spindle streak      Wheat spindle streak      Y (3 or        N           NA             N     unknown; likely
+ mosaic                    mosaic bymovirus          more)                                (soilborne
+                           (WSSM)                                                         protozoan)
+
+
+
+
+136 Crop Rotation on Organic Farms: A Planning Manual
+

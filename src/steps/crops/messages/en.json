@@ -1,0 +1,20 @@
+{
+  "steps.crops.noField": "Pick a field first.",
+  "steps.crops.loadingSource": "Crop history",
+  "steps.crops.cropsSource": "Crop list",
+  "steps.crops.proposed": "Satellite crop maps suggest this history. Is this right?",
+  "steps.crops.listLabel": "Crops on this field by year",
+  "steps.crops.change": "Change {year}",
+  "steps.crops.changeShort": "Change",
+  "steps.crops.done": "Done",
+  "steps.crops.confirm": "Yes, use these crops",
+  "steps.crops.byFarmer": "your answer",
+  "steps.crops.pickTitle": "Which crops grew here in the last three seasons?",
+  "steps.crops.pickHint": "Pick the main crop of each season. Your answer always wins over the satellite maps.",
+  "steps.crops.pickerLabel": "Main crop in {year}",
+  "steps.crops.needTwo": "Pick at least two years to continue.",
+  "steps.crops.saved": "Saved {n} years of crops.",
+  "steps.crops.otherCountry": "Crop lists exist for the USA and Poland only, so there is nothing to pick here.",
+  "steps.crops.saved.one": "Saved 1 year of crops.",
+  "steps.crops.showEarlier": "Show {n} earlier years"
+}

@@ -1,0 +1,17 @@
+Title: Terminating cover crops ahead of corn
+Author/publisher: Alison Robertson, Mark Licht; Iowa State University Extension and Outreach, Integrated Crop Management blog
+Year: 2026 (published 22 Apr 2026)
+URL: https://crops.extension.iastate.edu/post/terminating-cover-crops-ahead-corn
+Date opened: 14 Nov 2026 (via oc CLI)
+Locator: intro paragraph; Figure 1 caption; "Corn seedling disease" paragraph; "Recommendations" section
+
+"We normally recommend terminating CCs with a herbicide application at least 10 days before planting corn"
+Fig. 1: "winter cereal rye (WCR) terminated with glyphosate at >14 days before planting (planting brown), 3-7 days before
+planting (planting yellow-brown) and 0-3 days after planting corn (planting green)."
+"In 2021, 2022 and 2023, the relative yield of corn planted green was lower than the yield of corn planted brown at 10 of 13,
+11 of 14, and 10 of 12 locations"
+"If no host, like corn, is present, the population [Pythium] decreases to endemic levels within 7 to 10 days. However, if corn
+is planted within 10 days of applying herbicide to WCR to terminate the cover crop, it is at greater risk for seedling disease"
+"We recommended terminating a CC at least 10 days before planting corn. However, if this cannot be done, planting into warm
+soils (>60°F) will encourage rapid emergence and reduce the risk of infection by seedling pathogens."
+EN note: 60 °F = 15.5 °C.

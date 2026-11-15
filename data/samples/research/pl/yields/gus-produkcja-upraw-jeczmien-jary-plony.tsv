@@ -1,0 +1,39 @@
+# GUS, 'Produkcja upraw rolnych i ogrodniczych w <rok>' (final estimates, XLSX tables by voivodeship). Retrieved 2026-11-14.
+# Columns as in GUS sheet: excel_row | Wyszczególnienie | Powierzchnia (ha; 2020 edition: tys. ha) | Plony z 1 ha w dt | Zbiory (dt; 2020: tys. t) | ... ; t/ha = dt/ha / 10
+# Rows: first occurrence (section 'OGÓŁEM / TOTAL') of 'P o l s k a' and 'Wielkopolskie'.
+
+## 2020 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2020-roku,9,19.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/19/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2020produkcja_upraw_rolnych_i_ogrodniczych_w_2020.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+2	Wyszczególnienie	Powierzchnia  w tys. ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	406.7	40	16278472	54.2	124.6	67.599999999999994
+20	Wielkopolskie 	53.1	40.4	2145977	47.2	140.80000000000001	66.5
+
+## 2021 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2021-roku,9,20.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/20/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2021_r.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	426257	37.799999999999997	16112280	104.5	94.5	98.7
+20	Wielkopolskie 	48054	37.799999999999997	1816441	90.2	93.6	84.4
+
+## 2022 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2022-roku,9,21.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/21/1/publikacja_2022_2.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	331517	39.5	13097005	77.8	104.5	81.3
+20	Wielkopolskie 	40009	39.1	1563443	83.3	103.4	86.1
+
+## 2023 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2023-roku,9,22.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/22/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2023_2.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	295282	37.9	11203837	89.1	95.9	85.5
+22	Wielkopolskie 	35396	37.799999999999997	1339303	88.5	96.7	85.7
+
+## 2024 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2024-r-,9,23.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/23/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2024.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	275257	38.4	10556349	93.2	101.3	94.2
+22	Wielkopolskie 	32050	40.200000000000003	1287960	90.5	106.3	96.2
+
+## 2025 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2025-r-,9,24.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/24/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2025.xlsx | sheet 'Tabl. 10'
+1	TABL. 10. POWIERZCHNIA, PLONY I ZBIORY JĘCZMIENIA JAREGO
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	201032	42.6	8564511	73	110.9	81.099999999999994
+22	Wielkopolskie 	22577	44.3	999544	70.400000000000006	110.2	77.599999999999994

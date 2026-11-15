@@ -1,0 +1,78 @@
+SOURCE: ARiMR practice pages, campaign 2026 (one file, one section per page)
+RETRIEVED: 2026-11-14
+
+===== URL: https://www.gov.pl/web/arimr/miedzyplony-ozime-lub-wsiewki-srodplonowe-2026
+Międzyplony ozime lub wsiewki śródplonowe
+Praktyka Międzyplony ozime lub wsiewki śródplonowe polega na:
+dokonaniu siewu międzyplonów ozimych w terminie od dnia 1 lipca do dnia 1 października i utrzymaniu ich co najmniej do dnia 15 lutego roku następującego po roku, w którym został złożony wniosek o przyznanie płatności, przy czym po dniu 15 listopada dopuszcza się ich mulczowanie albo
+utrzymaniu wsiewki co najmniej do wysiewu kolejnej uprawy w plonie głównym lub przez co najmniej 8 tygodni od dnia zbioru uprawy w plonie głównym w roku, w którym został złożony wniosek o przyznanie płatności.
+W przypadku praktyki Międzyplony ozime lub wsiewki śródplonowe, punkty są przyznawane do powierzchni gruntów ornych, na których:
+po plonie głównym lub po ugorowaniu są uprawiane międzyplony ozime, które nie są uprawą w plonie głównym w roku następującym po wysiewie tego międzyplonu, lub
+wykonano wsiewkę śródplonową w uprawę w plonie głównym – jeżeli rolnik wysieje wsiewkę roślin bobowatych drobnonasiennych lub mieszankę z udziałem roślin bobowatych drobnonasiennych w uprawę w plonie głównym.
+Międzyplon ozimy w formie mieszanki musi być utworzony z co najmniej 2 gatunków roślin w formie jarej lub ozimej z następujących grup: 
+a) zboża,
+b) oleiste,
+c) pastewne,
+
+===== URL: https://www.gov.pl/web/arimr/zroznicowana-struktura-upraw-2026
+Zróżnicowana struktura upraw
+W przypadku praktyki Zróżnicowana struktura upraw, punkty są przyznawane, jeżeli rolnik na gruntach ornych w gospodarstwie  uprawia co najmniej trzy różne uprawy, w tym co najmniej jedną uprawę mającą pozytywny wpływ na bilans glebowej materii organicznej.
+Za uprawę uznaje się: 
+1) rodzaj roślin 
+2) formę jarą i ozimą tego samego rodzaju roślin
+3) gatunek roślin z rodzin 
+a) kapustowatych (Brassicaceae) 
+b) psiankowatych (Solanaceae),
+c) dyniowatych (Cucurbitaceae) 
+4) grunt ugorowany 
+5) trawy lub inne zielne rośliny pastewne.
+Wymagana struktura zasiewów na gruntach będących w posiadaniu rolnika - udział:
+uprawy, która zajmuje największą powierzchnię gruntów ornych w gospodarstwie, nie przekracza 65%,
+najmniejszej uprawy, nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie – w przypadku uprawiania trzech upraw,
+pozostałych upraw łącznie, innych niż dwie największe uprawy, nie może być mniejszy niż 10% powierzchni wszystkich gruntów ornych w gospodarstwie – w  przypadku uprawiania więcej niż trzech upraw.
+upraw mających pozytywny wpływ na bilans glebowej materii organicznej stanowi co najmniej 20% powierzchni gruntów ornych w gospodarstwie, przy czym w przypadku mieszanek bobowatych ze zbożami, zboża nie są dominujące w tych mieszankach.
+zbóż nie przekracza 65% powierzchni gruntów ornych w gospodarstwie.
+upraw mających ujemny wpływ na bilans glebowej materii organicznej nie przekracza 30% powierzchni gruntów ornych w gospodarstwie.
+[crop lists (78 positive-SOM crops incl. legumes; cereals; negative-SOM crops) omitted, see page]
+
+===== URL: https://www.gov.pl/web/arimr/opracowanie-i-przestrzeganie-planu-nawozenia--wariant-podstawowy-i-wariant-z-wapnowaniem-2026
+Opracowanie i przestrzeganie planu nawożenia - wariant podstawowy i wariant z wapnowaniem
+Praktyka Opracowanie i przestrzeganie planu nawożenia składa się z dwóch wariantów: wariantu podstawowego (bez wapnowania) i wariantu z wapnowaniem.
+W przypadku praktyki Opracowanie i przestrzeganie planu nawożenia – wariant podstawowy, punkty są przyznawane do powierzchni gruntów ornych i trwałych użytków zielonych, z wyłączeniem powierzchni gruntów, do których rolnik ubiega się o przyznanie:
+płatności do obszarów z roślinami miododajnymi, jeżeli praktyka ta została zrealizowana przed dniem 31 sierpnia roku, w którym został złożony wniosek o przyznanie płatności, albo
+płatności do integrowanej produkcji roślin, albo
+płatności do gruntów wyłączonych z produkcji, jeżeli praktyka ta została zrealizowana przed dniem 31 lipca roku, w którym został złożony wniosek o przyznanie płatności.
+Praktyki Opracowanie i przestrzeganie planu nawożenia – wariant z wapnowaniem, nie stosuje się na  gruntach ornych i trwałych użytkach zielonych objętych normą GAEC 2 - Ochrona terenów podmokłych i torfowisk.
+Punkty są przyznawane, jeżeli rolnik posiada plan nawozowy, opracowany w terminie:
+25 dni od dnia, w którym upływa termin składania wniosków o przyznanie płatności, albo
+do dnia 30 września roku, w którym został złożony wniosek o przyznanie płatności - w przypadku upraw ozimych wysiewanych w roku złożenia tego wniosku
+W przypadku praktyki Opracowanie i przestrzeganie planu nawożenia – wariant z wapnowaniem, punkty są przyznawane do powierzchni działki rolnej raz na 4 lata, jeżeli rolnik:
+
+===== URL: https://www.gov.pl/web/arimr/uproszczone-systemy-uprawy-2026
+Uproszczone systemy uprawy
+W ramach praktyki Uproszczone systemy uprawy rolnik ma obowiązek prowadzenia upraw w systemie uproszczonym przez cały rok kalendarzowy na powierzchni zgłoszonej do tej praktyki.
+Wymogiem dla tej praktyki jest prowadzenie na gruntach ornych uprawy roślin w formie uprawy konserwującej bezorkowej lub uprawy pasowej (strip – till), poprzez:
+wykonywanie zabiegów uprawowych z odstąpieniem od uprawy płużnej w zespole uprawek pożniwnych i przedsiewnych,
+pozostawienie na polu po zbiorze uprawy głównej, całości resztek pożniwnych w formie mulczu.
+W kontekście pozostawienia na polu po zbiorze uprawy w plonie głównym całości resztek pożniwnych w formie mulczu, kryterium to zostanie również spełnione w przypadku częściowego wymieszania resztek pożniwnych z powierzchniową warstwą gleby.
+Wymogiem dla praktyki jest prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej.
+W przypadku praktyki punkty są przyznawane do powierzchni gruntów ornych, z wyjątkiem gruntów ornych, na których jest prowadzona uprawa zerowa lub na których są uprawiane trawy wieloletnie lub inne zielne rośliny pastewne.
+
+
+===== URL: https://www.gov.pl/web/arimr/wymieszanie-obornika-na-gruntach-ornych-w-ciagu-12-godzin-od-jego-aplikacji-2026
+Wymieszanie obornika na gruntach ornych w ciągu 12 godzin od jego aplikacji
+W przypadku praktyki Wymieszanie obornika na gruntach ornych w ciągu 12 godzin od jego aplikacji, punkty są przyznawane do powierzchni gruntów ornych.
+Punkty są przyznawane, jeżeli rolnik wymiesza obornik, odchody drobiu z bezściółkowego systemu utrzymywania zwierząt gospodarskich, tzw. pomiot ptasi, lub produkt pofermentacyjny, z glebą w ciągu 12 godzin od jego aplikacji. Zabieg przyorania obornika, pomiotu ptasiego lub produktu pofermentacyjnego uznaje się za równoważny z ich wymieszaniem z glebą.
+
+===== URL: https://www.gov.pl/web/arimr/stosowanie-nawozow-naturalnych-plynnych-innymi-metodami-niz-rozbryzgowo-2026
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo
+W przypadku praktyki Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo punkty są przyznawane do powierzchni gruntów ornych oraz trwałych użytków zielonych.
+Punkty są przyznawane, jeżeli rolnik stosuje nawóz naturalny płynny lub produkt pofermentacyjny.
+
+===== URL: https://www.gov.pl/web/arimr/wymieszanie-slomy-z-gleba-2026
+Wymieszanie słomy z glebą
+W przypadku praktyki Wymieszanie słomy z glebą, punkty są przyznawane do powierzchni gruntów ornych, z wyłączeniem powierzchni gruntów ornych, na których jest prowadzona uprawa rzepaku w ramach praktyki Zróżnicowana struktura upraw, jeżeli rolnik rozdrobni całą słomę po zbiorze plonu głównego i wymiesza ją z glebą lub ją przyorze.
+Za słomę uznaje się pozostałe po oddzieleniu ziarna lub nasion suche źdźbła, łodygi, liście, plewy, łuszczyny i strączyny dojrzałych roślin uprawnych zbożowych, w tym kukurydzy, a także zbóż rzekomych, w tym gryki, szarłatu i komosy, oraz dojrzałych roślin uprawnych oleistych, bobowatych, facelii i traw nasiennych.
+Wymogiem dla praktyki jest prowadzenie rejestru zabiegów agrotechnicznych na formularzu opracowanym przez Agencję i udostępnionym na jej stronie internetowej, który zawiera numer działki ewidencyjnej, oznaczenie działki rolnej, powierzchnię i rodzaj uprawy, datę i rodzaj wykonanych zabiegów agrotechnicznych oraz inne informacje niezbędne do potwierdzenia wykonania czynności w ramach realizacji tej praktyki, lub posiadanie dokumentów w postaci papierowej lub elektronicznej zawierających te informacje.
+
+

@@ -1,0 +1,88 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/rzepak_ozimy.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Rzepak ozimy - dt/ha  |  plon:  |  40  |  dt/ha
+  |  2026  |  Luty
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Rzepak ozimy  |  K1  |  kg  |  3  |  195,46  |  586,39
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  2/08  |  30  |  4,81  |  144,19
+Polifoska 6:20:30  |  P  |  2/08  |  100  |  8,12  |  812,11
+  |  K  |  2/08  |  150  |  2,77  |  415,10
+Sól potasowa  |  K  |  2/08  |  50  |  2,96  |  148,05
+Siarczan amonu (21 % N)  |  N  |  2/03  |  84  |  7,00  |  588,00
+Saletra amonowa  |  N  |  2/04  |  85  |  5,14  |  437,12
+Razem  |  2544,56
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Butisan Star MAX 500 SE  |  Herbicyd  |  3/08  |  2,25  |  234,25  |  527,06
+Agil-S 100 EC  |  Herbicyd  |  3/08  |  0,60  |  131,11  |  78,67
+Fusilade Forte 150 EC  |  Herbicyd  |  3/03  |  1,20  |  108,93  |  130,72
+Caryx 240 SL  |  Fungicyd  |  3/09  |  1,00  |  254,21  |  254,21
+Decis Mega 50 EW  |  Insektycyd  |  3/03-1/04  |  0,15  |  171,35  |  25,70
+Tarcza Łan Extra 250 EW  |  fungicyd  |  3/04 - 2/05  |  1,25  |  61,29  |  76,61
+Cyperkil Max 500 EC  |  Insektycyd  |  2/05  |  0,05  |  219,44  |  10,97
+Razem  |  1103,94
+  |  Termin  |  Cas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 80KM+pług 5-skibowy+brona 3-pol.  |  Podorywka z bronowaniem  |  2/07  |  1,50  |  70,59  |  105,89
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK+sól potasowa  |  2/08  |  0,50  |  58,40  |  29,20
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  2/03  |  0,30  |  58,40  |  17,52
+Ciągnik 80KM+pług 4-skibowy  |  Orka siewna z wałem Campbella  |  2/08  |  2,00  |  78,05  |  156,11
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/08  |  1,00  |  72,64  |  72,64
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  3/08  |  1,50  |  76,24  |  114,36
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty 2 x  |  3/08  |  0,80  |  61,01  |  48,81
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 2 dawka  |  2/04  |  0,30  |  58,40  |  17,52
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty jednoliścienne  |  3/03  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  3/09  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  3/03-1/04  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  3/04 - 2/05  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  2/05  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  1/07  |  0,50  |  66,52  |  33,26
+Razem  |  10,00  |  717,32
+  |  Termin  |  Cas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  1/07  |  1,20  |  510,21  |  612,25
+Razem  |  1,20  |  612,25
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Nasiona rzepaku  |  dt  |  40  |  209,62  |  8384,80
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  9050,19
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  5564,47
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  3485,72
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  139,11
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  87,14

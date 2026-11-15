@@ -1,0 +1,12 @@
+Title: Will Late Spring Low Temperatures Affect Small Grains?
+Author/publisher: Heidi Reed (and co-authors listed on page), Penn State Extension
+Year: page updated April 7, 2026
+URL: https://extension.psu.edu/will-late-spring-low-temperatures-affect-small-grains
+Date opened: 14 Nov 2026
+Locator: paragraph on general crop cold hardiness; Table 1 "Freeze Injury in Wheat" (adapted from University of Kentucky)
+
+Quoted text:
+"we can generalize that the average cereal rye is cold hardier than all other small grains. Next in cold hardiness is triticale, followed by wheat, then barley, which is most susceptible."
+"At Feekes stage 10.5, or flowering (anthers visible), temperatures need only reach 30 degrees for 2 hours for injury to occur."
+Table 1 (wheat, approximate injurious temp, 2 hours): Tillering (1-5) 12°F; Jointing (6-7) 24°F; Boot (10) 28°F; Heading (10.1-.5) 30°F; Flowering (10.51-.54) 30°F; Milk (11.1) 28°F; Dough (11.2) 28°F.
+Note: no barley- or rye-specific temperatures are given; only the ranking above.

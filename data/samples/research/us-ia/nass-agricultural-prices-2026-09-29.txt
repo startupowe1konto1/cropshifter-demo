@@ -1,0 +1,216 @@
+# Excerpt of https://esmis.nal.usda.gov/sites/default/release-files/796084/agpr0926.pdf (NASS Agricultural Prices, released September 29, 2026)
+# Downloaded Sat 14 Nov 2026 for R9 (O1 lane). Text rebuilt from PDF word positions with PyMuPDF. Pages: 1 18 25 27 29
+
+=== PDF page 1 ===
+Agricultural Prices
+ISSN: 1937-4216
+Released September 29, 2026, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States
+Department of Agriculture (USDA).
+August Prices Received Index Up 1.9 Percent
+The August Prices Received Index 2011 Base (Agricultural Production), at 135.5, increased 1.9 percent from July but
+decreased 2.0 percent from August 2025. At 113.2, the Crop Production Index was up 5.8 percent from last month and
+6.2 percent from the previous year. The Livestock Production Index, at 153.7, decreased 2.2 percent from July and
+8.5 percent from August last year. Producers received higher prices during August for strawberries, corn, soybeans, and
+lettuce but lower prices for cattle, grapes, milk, and calves. In addition to prices, the volume change of commodities
+marketed also influences the indexes. In August, there was increased monthly movement for cattle, grapes, calves, and
+broilers and decreased marketing of wheat, corn, soybeans, and strawberries.
+August Prices Paid Index Down 1.2 Percent
+The August Prices Paid Index for Commodities and Services, Interest, Taxes, and Farm Wage Rates (PPITW), at 159.8, is
+down 1.2 percent from July 2026 but up 5.3 percent from August 2025. Lower prices in August for feeder cattle, nitrogen,
+feeder pigs, and mixed fertilizer more than offset higher prices for diesel, hay and forages, other services, and complete
+feeds.
+Prices Received, Prices Paid, and Ratio of Prices Received to Prices Paid Indexes 2011 Base –
+United States: August 2026 with Comparisons
+August July August
+Index Group
+2025 2026 2026
+(percent) (percent) (percent)
+Prices received by farmers ......................................................................... 138.3 133.0 135.5
+Prices paid by farmers ................................................................................ 151.8 161.8 159.8
+Ratio of prices received to prices paid ........................................................ 91 82 85
+
+=== PDF page 18 ===
+Prices Received for Hay by Type – States and United States: August 2026 with Comparisons
+All hay Alfalfa hay Other hay
+State
+August July August August July August August July August
+2025 2026 2026 2025 2026 2026 2025 2026 2026
+(dollars per (dollars per (dollars per (dollars per (dollars per (dollars per (dollars per (dollars per (dollars per
+ton) ton) ton) ton) ton) ton) ton) ton) ton)
+Arizona ........................... 170.00 210.00 210.00 170.00 210.00 210.00 150.00 180.00 180.00
+California ........................ 220.00 230.00 226.00 230.00 235.00 235.00 180.00 205.00 200.00
+Colorado ......................... 154.00 222.00 231.00 155.00 225.00 235.00 140.00 175.00 180.00
+Idaho ............................... 157.00 202.00 208.00 155.00 205.00 210.00 180.00 180.00 185.00
+Illinois .............................. 140.00 147.00 149.00 160.00 175.00 175.00 110.00 105.00 100.00
+Iowa ................................ 100.00 115.00 126.00 103.00 121.00 131.00 90.00 106.00 109.00
+Kansas ............................ 114.00 123.00 123.00 121.00 126.00 127.00 102.00 105.00 105.00
+Kentucky ......................... 204.00 234.00 231.00 235.00 255.00 260.00 180.00 205.00 205.00
+Michigan ......................... 152.00 167.00 162.00 160.00 175.00 170.00 130.00 145.00 145.00
+Minnesota ....................... 89.00 108.00 113.00 97.00 133.00 145.00 81.00 83.00 81.00
+Missouri .......................... 118.00 110.00 107.00 170.00 180.00 180.00 110.00 100.00 95.00
+Montana .......................... 147.00 205.00 215.00 150.00 210.00 220.00 130.00 180.00 190.00
+Nebraska ........................ 97.00 98.00 99.00 101.00 103.00 104.00 87.00 87.00 88.00
+Nevada ........................... 165.00 181.00 177.00 165.00 180.00 175.00 170.00 205.00 200.00
+New Mexico .................... 236.00 271.00 275.00 245.00 280.00 285.00 190.00 220.00 220.00
+New York ........................ 197.00 220.00 206.00 240.00 270.00 260.00 175.00 203.00 193.00
+North Dakota ................... 86.00 91.00 89.00 92.00 97.00 96.00 69.00 68.00 69.00
+Ohio ................................ 179.00 180.00 188.00 190.00 195.00 205.00 160.00 160.00 170.00
+Oklahoma ....................... 94.00 105.00 112.00 163.00 188.00 193.00 86.00 96.00 101.00
+Oregon ............................ 195.00 198.00 195.00 190.00 185.00 185.00 205.00 210.00 210.00
+Pennsylvania .................. 192.00 235.00 227.00 245.00 290.00 280.00 175.00 220.00 210.00
+South Dakota .................. 91.00 98.00 99.00 93.00 100.00 101.00 86.00 90.00 90.00
+Texas .............................. 164.00 153.00 144.00 224.00 230.00 230.00 145.00 120.00 120.00
+Utah ................................ 179.00 234.00 239.00 180.00 235.00 240.00 130.00 170.00 180.00
+Washington ..................... 179.00 194.00 197.00 165.00 180.00 185.00 210.00 220.00 225.00
+Wisconsin ....................... 108.00 128.00 136.00 120.00 143.00 151.00 74.00 91.00 96.00
+Wyoming ......................... 154.00 209.00 216.00 160.00 220.00 230.00 135.00 175.00 175.00
+United States .................. 161.00 184.00 190.00 171.00 203.00 206.00 136.00 143.00 152.00
+Prices Received for Premium and Supreme Alfalfa Hay – States and 5-State Total: August 2026
+State August 2025 July 2026 August 2026
+(dollars per ton) (dollars per ton) (dollars per ton)
+California ........................................ 275.00 265.00 265.00
+Idaho ............................................... 175.00 220.00 225.00
+Michigan ......................................... 190.00 205.00 200.00
+Minnesota ....................................... 190.00 208.00 200.00
+New York ........................................ 342.00 335.00 335.00
+Pennsylvania .................................. 380.00 360.00 360.00
+Texas .............................................. 255.00 240.00 240.00
+Wisconsin ....................................... 200.00 223.00 231.00
+5-State Total 1 2 ............................... 222.00 242.00 243.00
+1 5-State total represents a weighted (hay purchases) average price for the five largest milk producing States (based on the pounds of milk produced
+during the previous month).
+2
+For August 2025, includes California, Idaho, New York, Texas, and Wisconsin. For July 2026, includes California, Idaho, New York, Texas, and
+Wisconsin. For August 2026, includes California, Idaho, New York, Texas, and Wisconsin.
+18 Agricultural Prices (September 2026)
+USDA, National Agricultural Statistics Service
+
+=== PDF page 25 ===
+Marketing Year for Specified Commodities
+Apples: July 1 to June 30 for United States.
+Chickpeas: September 1 to August 31 for United States and all States.
+Corn for grain: September 1 to August 31 for United States, Arizona, California, Delaware, Illinois, Indiana, Iowa,
+Kansas, Kentucky, Maryland, Missouri, Nebraska, New Mexico, Ohio, Pennsylvania, South Dakota, Virginia, and West
+Virginia; July 1 to June 30 for Texas; August 1 to July 31 for Alabama, Arkansas, Florida, Georgia, Louisiana,
+Mississippi, North Carolina, Oklahoma, South Carolina, and Tennessee; October 1 to September 30 for Colorado,
+Connecticut, Idaho, Maine, Massachusetts, Michigan, Minnesota, Montana, Nevada, New Hampshire, New Jersey, New
+York, North Dakota, Oregon, Rhode Island, Utah, Vermont, Washington, Wisconsin, and Wyoming.
+Cotton: August 1 to July 31 for United States and all States.
+Cottonseed: August 1 to February 28 for United States and all States.
+Dry Edible Beans: September 1 to August 31 for United States and all States.
+Grapes: May 1 to April 30 for United States.
+Peaches: May 1 to October 31 for United States.
+Pears: July 1 to June 30 for United States.
+Sorghum for grain: September 1 to August 31 for United States, Arizona, Colorado, Illinois, Kansas, Missouri,
+Nebraska, New Mexico, and South Dakota; June 1 to May 31 for Texas; August 1 to July 31 for Arkansas, Georgia,
+Louisiana, Mississippi, and Oklahoma.
+Soybeans: September 1 to August 31 for United States and all States except Louisiana, Mississippi, and Texas; July 1 to
+June 30 for Texas; August 1 to July 31 for Louisiana and Mississippi.
+Sunflower: September 1 to August 31 for United States; July 1 to June 30 for Texas; September 1 to August 31 for all
+other States.
+Agricultural Prices (September 2026) 25
+USDA, National Agricultural Statistics Service
+
+=== PDF page 27 ===
+Market Year Average Prices Received for Mustard Seed - United States: Marketing Years
+2024 and 2025
+Oilseed 2024 2025
+(dollars per cwt) (dollars per cwt)
+Mustard Seed 1 ................................................... 44.90 30.90
+1 Mustard seed program States include Idaho, Montana, North Dakota, Oregon, and Washington.
+Sorghum Grain Market Year Average Prices Received – States and United States: Marketing Years
+2024 and 2025
+State 2024 2025
+(dollars per cwt) (dollars per cwt)
+Colorado ............................................................. 7.22 6.05
+Kansas ............................................................... 7.15 6.02
+Nebraska ............................................................ 7.06 6.02
+Oklahoma ........................................................... 7.23 6.07
+South Dakota ...................................................... 6.56 5.61
+Texas ................................................................. 8.49 7.12
+United States ...................................................... 7.27 6.56
+Soybean Market Year Average Prices Received – States and United States: Marketing Years
+2024 and 2025
+State 2024 2025
+(dollars per bushel) (dollars per bushel)
+Alabama ............................................................. 10.20 11.10
+Arkansas ............................................................ 10.00 10.80
+Delaware ............................................................ 9.80 10.10
+Georgia .............................................................. 10.50 11.10
+Illinois ................................................................. 10.20 10.70
+Indiana ............................................................... 10.40 10.70
+Iowa .................................................................... 9.95 10.50
+Kansas ............................................................... 9.65 10.10
+Kentucky ............................................................. 10.50 11.00
+Louisiana ............................................................ 10.20 10.00
+Maryland ............................................................. 9.80 10.10
+Michigan ............................................................. 10.50 10.90
+Minnesota ........................................................... 9.85 10.20
+Mississippi .......................................................... 10.10 10.70
+Missouri .............................................................. 10.10 10.70
+Nebraska ............................................................ 9.79 10.10
+New Jersey ......................................................... 10.00 10.10
+New York ............................................................ 9.60 11.30
+North Carolina .................................................... 10.20 10.70
+North Dakota ...................................................... 9.53 9.79
+Ohio .................................................................... 10.30 11.00
+Oklahoma ........................................................... 9.45 10.30
+Pennsylvania ...................................................... 10.00 10.90
+South Carolina .................................................... 10.80 10.80
+South Dakota ...................................................... 9.67 9.80
+Tennessee .......................................................... 10.20 10.70
+Texas ................................................................. 9.55 9.65
+Virginia ............................................................... 10.10 10.70
+Wisconsin ........................................................... 9.95 10.00
+United States ...................................................... 10.00 10.50
+Agricultural Prices (September 2026) 27
+USDA, National Agricultural Statistics Service
+
+=== PDF page 29 ===
+Corn Prices Received and Marketing Percentages by Month – United States: Marketing Years
+2024-2025 and 2025-2026
+[Marketing year average (MYA) prices are weighted average prices for the United States marketing year of September - August. Monthly farm
+marketings, based on a sample survey, as percent of total used for calculating MYA prices]
+Prices received Marketing percentages
+Month
+2024-2025 2025-2026 2024-2025 2025-2026
+(dollars per bushel) (dollars per bushel) (percent) (percent)
+September ........................... 3.97 4.00 7.6 5.7
+October ............................... 3.99 3.93 16.2 12.9
+November ............................ 4.07 3.98 10.9 11.1
+December ............................ 4.23 4.10 10.4 9.6
+1
+January ............................. 4.29 4.12 15.8 11.4
+February .............................. 4.58 4.12 6.9 9.0
+March .................................. 4.57 4.27 5.6 8.0
+April ..................................... 4.62 4.31 5.4 6.1
+May ..................................... 4.64 4.48 3.8 5.1
+June .................................... 4.47 4.28 5.0 5.8
+July ...................................... 4.29 4.26 5.8 7.8
+August ................................. 3.96 4.45 6.6 7.5
+MYA .................................... 4.24 4.16 100.0 100.0
+1 Second year.
+Prices Received and Marketing Percentages for All Chickpeas (Garbanzo) by Month – United States:
+Marketing Years 2024-2025 and 2025-2026
+[Marketing year average (MYA) prices are weighted average prices for the United States marketing year of September - August. Monthly farm
+marketings are based on a sample survey and used as a percent of total for calculating MYA prices]
+Prices received Marketing percentages
+Month
+2024-2025 2025-2026 2024-2025 2025-2026
+(dollars per cwt) (dollars per cwt) (percent) (percent)
+September ........................... 32.70 31.30 26.4 11.2
+October ............................... 31.20 26.90 34.4 28.7
+November ............................ 31.90 24.50 6.9 2.9
+December ............................ 33.10 29.00 13.8 5.6
+January 1 ............................. 28.20 18.00 4.0 4.2
+February .............................. 28.10 19.40 2.6 8.2
+March .................................. 31.10 16.80 4.3 8.3
+April ..................................... 31.00 19.10 2.3 8.1
+May ..................................... 27.20 15.10 1.5 7.6
+June .................................... 27.60 20.20 0.8 6.1
+July ...................................... 30.50 18.90 1.1 4.9
+August ................................. 24.90 20.20 1.9 4.2
+MYA .................................... 31.50 23.00 100.0 100.0
+1 Second year.
+Agricultural Prices (September 2026) 29
+USDA, National Agricultural Statistics Service

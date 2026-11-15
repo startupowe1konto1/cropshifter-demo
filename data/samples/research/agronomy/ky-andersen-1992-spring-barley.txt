@@ -1,0 +1,20 @@
+Title: Interaction of potassium and drought in barley - Yield, water-use efficiency and growth
+Authors: M.N. Andersen, C.R. Jensen, R. Lösch
+Year: 1994 (IPI Research Topics/Review, Subject 6 Cereals, No. 1/1994; abbreviated version of a paper in Acta Agric. Scand., Sect. B, Soil and Plant Sci. 42: 34-44, 1992)
+URL: https://www.ipipotash.org/uploads/pdf/review/11_1994_6.pdf
+     (live URL now shows an IPI closure page; PDF read from Internet Archive snapshot
+      http://web.archive.org/web/20190412092525/https://www.ipipotash.org/uploads/pdf/review/11_1994_6.pdf)
+Date opened: 14 Nov 2026
+Locator: PDF p. 2-3 (site, treatments), p. 4 (eqn 2), p. 7 (yield), p. 10 Table 5
+
+Site: "Our field experiment with spring barley on a coarse textured sandy soil" ... "The soil of the Government Research Station, Jyndevad, S. Jutland" ... "The experiment was planted with spring barley (cv. Gunnar) for 3 years (1985-'87)"
+Treatments: "(a) irrigated at 30 mm water deficit (fully irrigated); (b) a 50 mm water deficit imposed by polythene shelters during early grain-filling; (c) irrigation at 50 mm deficit if reached naturally."
+Eqn 2 (Doorenbos and Kassam, 1979): "1- Ya/Ym = ky(P) x (1 - ETa/ETm) ... relates relative yield decrease ... to relative evapotranspiration deficit ... in the growth phase (P) by the drought sensitivity factor ky."
+Yield: "In 1986 drought during the flowering period (irrigation level c) decreased grain yield by about 35%"; "There was no yield depression by drought in 1987."
+
+Table 5. Drought sensitivity factors of grain and dry matter yield according to eqn. (2) for individual growth phases [ky(P)]; the total growth period [ky(PT)]; and eqn. (3) for individual growth stages [ky(S)]
+Year | Irrigation | Grain ky(P) | Grain ky(PT) | Grain ky(S) | DM ky(P) | DM ky(PT) | DM ky(S)
+1985 | b | 0.16±0.06 | 0.38±0.15 | 0.005±0.002 | 0.14±0.06 | 0.34±0.14 | 0.005±0.002
+1986 | b | 0.61±0.03 | 1.48±0.07 | 0.022±0.001 | 0.36±0.03 | 0.88±0.07 | 0.013±0.001
+1986 | c | 0.42±0.02 | 1.50±0.06 | 0.023±0.001 | 0.37±0.02 | 1.33±0.07 | 0.020±0.001
+(ky(S) uses stress days, eqn 3, and is not on the FAO Ky scale.)

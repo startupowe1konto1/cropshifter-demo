@@ -1,0 +1,10 @@
+Title: Pea yield formation in warming temperatures - phenological mechanisms (research project summary)
+Author/publisher: Dr. Rosalind Bueckert, University of Saskatchewan, Dept. of Plant Sciences; page by Saskatchewan Pulse Growers
+Year: project 2011 to spring 2016 (page date not shown)
+URL: https://saskpulse.com/research/listing/pea-yield-formation-in-warming-temperatures-phenological-mechanisms/
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: "Project Description" and "Outcome" sections
+
+Quoted text:
+"Pea crops are sensitive to heat stress. A few days of heat above 29°C in the field causes flower and young pod abortion and lowers yield."
+"We found that pea varieties were all heat sensitive, but some performed better than others. About 20% of the PAM varieties could flower and set pods in 40°C heat."

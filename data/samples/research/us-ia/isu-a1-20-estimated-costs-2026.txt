@@ -1,0 +1,140 @@
+# Excerpt of https://www.extension.iastate.edu/agdm/crops/pdf/a1-20.pdf
+# Iowa State University Extension and Outreach, Ag Decision Maker File A1-20 "Estimated Costs of Crop Production in Iowa - 2026" (FM 1712 Revised January 2026), Chad Hart.
+# Landing page https://www.extension.iastate.edu/agdm/crops/html/a1-20.html says "Updated January, 2026". PDF Last-Modified header: Wed, 04 Feb 2026.
+# Opened Sat 14 Nov 2026 in the in-app browser (the site sits behind a browser check, so curl gets 403).
+# Text rebuilt from the PDF's own text operators, one line per baseline. Pages: 2, 3, 5, 9, 10, 13. Column order on pages 2-5:
+# low / middle / high yield, each split into Fixed and Variable.
+
+=== PDF page 2 ===
+Corn Following Corn
+174 bushels 193 bushels 212 bushels
+per acre per acre per acre
+Estimate Fixed Variable Fixed Variable Fixed Variable
+Preharvest Machinery $41.20 $30.10 $41.20 $30.10 $41.20 $30.10
+Seed, $3.79 per 1,000 kernels 28,000 $106.12 30,000 $113.70 35,000 $132.65
+Nitrogen, $0.53 per pound 167 88.51 194 102.82 218 115.54
+Phosphate, $0.72 per pound 65 46.80 72 51.84 80 57.60
+Potash, $0.39 per pound 52 20.28 58 22.62 64 24.96
+Lime (yearly cost) 3.72 3.72 3.72
+Herbicide 56.00 56.00 56.00
+Insecticide 25.00 25.00 25.00
+Crop insurance 15.50 17.10 18.50
+Miscellaneous 12.30 13.70 14.90
+Interest on preharvest variable costs (8 months at 7.47%) 20.14 21.74 23.85
+Total $394.37 $428.24 $472.72
+Harvest Machinery
+Combine $23.00 $9.50 $23.00 $9.50 $23.00 $9.50
+Grain cart 11.10 4.10 11.10 4.10 11.10 4.10
+Haul 13.40 9.05 14.86 10.04 16.32 11.02
+Dry (LP gas, $1.54 per gallon) 8.70 32.16 9.65 35.67 10.60 39.18
+Handle (auger) 5.50 4.82 6.10 5.35 6.70 5.87
+Total $61.70 $59.62 $64.71 $64.65 $67.72 $69.67
+Labor 2.80 hours, $20.40 per hour $57.12 $57.12 $57.12
+Land Cash rent equivalent $232.00 $274.00 $318.00
+Total fixed, variable Per acre $392.02 $484.09 $437.03 $522.99 $484.04 $572.50
+Per bushel $2.25 $2.78 $2.26 $2.71 $2.28 $2.70
+Total cost per acre $876.11 $960.02 $1,056.54
+Total cost per bushel $5.04 $4.97 $4.98
+
+=== PDF page 3 ===
+Corn Following Soybeans
+190 bushels 211 bushels 232 bushels
+per acre per acre per acre
+Estimate Fixed Variable Fixed Variable Fixed Variable
+Preharvest Machinery $34.80 $24.60 $34.80 $24.60 $34.80 $24.60
+Seed, $3.79 per 1,000 kernels 28,000 $106.12 30,000 $113.70 35,000 $132.65
+Nitrogen, $0.53 per pound 117 62.01 159 84.27 174 92.22
+Phosphate, $0.72 per pound 71 51.12 79 56.88 87 62.64
+Potash, $0.39 per pound 57 22.23 63 24.57 70 27.30
+Lime (yearly cost) 3.72 3.72 3.72
+Herbicide 56.00 56.00 56.00
+Crop insurance 15.50 17.10 18.50
+Miscellaneous 12.30 13.70 14.90
+Interest on preharvest variable costs (8 months at 7.47%) 17.61 19.65 21.54
+Total $346.61 $389.59 $429.47
+Harvest Machinery
+Combine $23.00 $9.50 $23.00 $9.50 $23.00 $9.50
+Grain cart 11.10 4.10 11.10 4.10 11.10 4.10
+Haul 14.63 9.88 16.25 10.97 17.86 12.06
+Dry (LP gas, $1.54 per gallon) 9.50 35.11 10.55 38.99 11.60 42.87
+Handle (auger) 6.00 5.26 6.67 5.84 7.33 6.43
+Total $64.23 $63.86 $67.56 $69.41 $70.90 $74.96
+Labor 2.55 hours, $20.40 per hour $52.02 $52.02 $52.02
+Land Cash rent equivalent $232.00 $274.00 $318.00
+Total fixed, variable Per acre $383.05 $435.06 $428.38 $483.60 $475.72 $529.03
+Per bushel $2.02 $2.29 $2.03 $2.29 $2.05 $2.28
+Total cost per acre $818.12 $911.98 $1,004.75
+Total cost per bushel $4.31 $4.32 $4.33
+
+=== PDF page 5 ===
+Herbicide Tolerant Soybeans Following Corn
+55 bushels 61 bushels 67 bushels
+per acre per acre per acre
+Estimate Fixed Variable Fixed Variable Fixed Variable
+Preharvest Machinery $37.60 $26.60 $37.60 $26.60 $37.60 $26.60
+Seed, $63.10 per 140,000 kernels 140,000 $63.10 140,000 $63.10 140,000 $63.10
+Phosphate, $0.72 per pound 44 31.68 49 35.28 54 38.88
+Potash, $0.39 per pound 83 32.37 92 35.88 101 39.39
+Lime (yearly cost) 3.72 3.72 3.72
+Herbicide 2/ 75.00 75.00 75.00
+Crop insurance 8.10 9.10 10.10
+Miscellaneous 12.30 13.70 14.90
+Interest on preharvest variable costs (8 months at 7.47%) 12.59 13.07 13.53
+Total $238.86 $248.85 $258.62
+Harvest Machinery
+Combine $14.70 $5.80 $14.70 $5.80 $14.70 $5.80
+Grain cart 11.10 4.10 11.10 4.10 11.10 4.10
+Haul 4.24 2.86 4.70 3.17 5.16 3.48
+Handle (auger) 1.74 1.52 1.93 1.69 2.12 1.86
+Total $31.77 $14.28 $32.42 $14.76 $33.08 $15.24
+Labor 2.20 hours, $20.40 per hour $44.88 $44.88 $44.88
+Land Cash rent equivalent $232.00 $274.00 $318.00
+Total fixed, variable Per acre $346.25 $279.75 $388.90 $290.21 $433.56 $300.46
+Per bushel $6.30 $5.09 $6.38 $4.76 $6.47 $4.48
+Total cost per acre $626.00 $679.11 $734.02
+Total cost per bushel $11.38 $11.13 $10.96
+2/ Estimates do not include any insecticide or fungicide costs.
+
+=== PDF page 9 ===
+Oats and Hay Production-Seeding Year Costs
+Alfalfa-Grass Seeded with Oat Companion Crop | Alfalfa Seeded with Herbicide
+Establishment Costs Fixed Variable Fixed Variable
+Total preharvest machinery $31.30 $19.80 $35.30 $22.60
+Seed: Oats 2 bushels $35.18; Alfalfa 8 pounds 35.52 | 15 pounds $66.60; Bromegrass 6 pounds 25.92; Orchardgrass 3 pounds 13.47
+Total seed cost $110.09 $66.60
+Herbicide $31.10
+Lime (total cost for hay lifetime) $40.00 40.00
+Labor, $20.40 per hour 1 hour $20.40 1 hour $20.40
+Total establishment costs $51.70 $169.89 $55.70 $160.30
+Annual Costs: One-third of Establishment Costs (for establishment year) $17.23 $56.63 $18.57 $53.43
+Fertilizer: Nitrogen 60 pounds $31.80; Phosphorus 45 pounds 32.40 | 35 pounds $25.20; Potash 130 pounds 50.70 | 125 pounds 48.75
+Total fertilizer $114.90 $73.95
+Insurance, oats $4.10
+Labor, $20.40 per hour 4 hours $81.60 | 3 hours $61.20
+Land: Cash rent equivalent $150.00 $150.00
+Harvest: Oats: combine and haul grain $19.46 $8.46; rake, bale, and haul straw 21.62 13.19; Alfalfa: mower-conditioner, rake, bale, and haul hay 32.85 20.27 | $67.38 $42.63
+Total harvest cost $73.93 $41.92 $67.38 $42.63
+Total fixed and variable costs $322.77 $217.55 $297.15 $170.01
+Total cost per acre $540.32 $467.16
+
+=== PDF page 10 ===
+Annual Production Costs for Established Alfalfa or Alfalfa-Grass Hay
+Hay Production Level: 4 tons per acre | 6 tons per acre (Fixed Variable | Fixed Variable)
+One-third of establishment costs (machinery, seed, lime, labor, and herbicide) $17.23 $56.63 $18.57 $53.43
+Annual fertilizer 0-13-50 pounds per ton removed plus spreading and insurance $3.50 $120.94 $7.00 $182.51
+Harvesting Costs: Large Round Bales - Mower-conditioner, rake, baling, and hauling $101.91 $64.99 $138.12 $89.43
+Labor costs: 1.33 hours per cutting, $20.40 per hour $81.60 $108.80
+Land: Cash rent equivalent $150.00 $206.00
+Total fixed and variable cost using large round bales per acre $354.24 $242.56 $478.48 $325.38
+Fixed, variable cost per ton $88.56 $60.64 $79.75 $54.23
+Total cost per acre $596.80 $803.86
+Total cost per ton $149.20 $133.98
+
+=== PDF page 13 ===
+Estimated Crop Production Costs in Iowa, 2017-2026 (columns 2017 ... 2026; last two shown here)
+Corn Following Corn: Total cost per acre 2025 926.75, 2026 960.02; Assumed yield 192 bu., 193 bu.
+Corn Following Soybeans: Total cost per acre 2025 881.03, 2026 911.98; Land 286.00, 274.00; Assumed yield 209 bu., 211 bu.
+Soybeans Following Corn: Total cost per acre 2025 668.90, 2026 679.11; Assumed yield 60 bu., 61 bu.
+Alfalfa Hay, annual production, 6 ton per acre, large round bales: Total cost per acre 2025 758.52, 2026 803.86
+3/ Soybean estimates are for herbicide tolerant varieties.
+Starting in 2026, nitrogen fertilizer rates are adjusted N-FACT, n-fact.ag.

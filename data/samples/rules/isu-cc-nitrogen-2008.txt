@@ -1,0 +1,63 @@
+# Excerpt (pdftotext -layout) of https://www.agronext.iastate.edu/soilfertility/currenttopics/CC_Nitrogen_3-19-08.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 1
+
+=== PDF page 1 ===
+Soil Fertility: Current Topic                                                                March 19, 2008
+
+
+Nitrogen Fertilization for Corn Following Corn
+John Sawyer, Associate Professor, Department of Agronomy, Iowa State University
+
+Introduction
+Increasing demand for corn grain to meet ethanol production in Iowa has continued interest in
+growing corn following corn. What is the nitrogen (N) fertilization rate for continuous corn
+(CC), how does it compare to rates with corn following soybean (SC), and what rates are needed
+for second (CCS) or third-year corn (CCCS) in rotation with soybean?
+
+Nitrogen Application Rate
+Soybean in the cropping rotation results in a soil system that supplies greater crop-available N.
+There are several reasons, but mainly is due to amount of crop residue, residue N content and
+time of return to soil, and soil microbial mineralization rate. Results of research in Iowa indicate
+that the N fertilizer rate requirement is approximately 45 to 60 lb N/acre higher with CC than SC
+(Figure 1). The emphasis today is not on determining a “soybean credit”, which is really a
+misnomer, and trying to equate a N rate for SC from CC, but instead the emphasis is on
+determining the N rate required for corn in a specific rotation.
+
+Figure 1. Corn grain yield response to fertilizer N application rate with continuous corn (CC) and
+       corn following soybean (SC) at seven ISU research farms in 2000 to 2007 (EONR is the
+       economic optimum N rate, determined at a 0.10 price ratio).
+                             Seven N Rate by Crop Rotation Sites (46 Site-Years)
+                                      2000-2007 SC and CC Rotations
+
+                       180
+                       160
+                                 SC
+ Corn Yield, bu/acre
+
+
+
+
+                       140
+                       120
+                       100                            SC Yield at EONR: 175 bu/acre
+                        80                            SC EONR: 134 lb N/acre
+                                  CC                  CC Yield at EONR: 150 bu/acre
+                        60                            CC EONR: 178 lb N/acre
+                        40
+                                                      CC 14 % Lower Yield
+                        20                            CC 44 lb N/acre Greater N Need
+                         0
+                             0         40    80       120       160       200          240
+                                             Nitrogen Rate, lb N/acre
+
+
+In recent years there has been a wide fluctuation in both N fertilizer and corn prices. The most
+economical application rate is influenced by the ratio of these prices (i.e., the $/lb N:$/bu corn
+grain price ratio). To aid in determination of suggested N rates, the Corn Nitrogen Rate
+Calculator web based tool was developed so that different N and corn prices, as well as crop
+rotation, could be used in choosing a N application rate (see the web address listed below for the
+
+                                                                                                              1
+                                 Copyright © 2008 Agronomy Extension Soil Fertility Web Site
+                                           http://www.agronext.iastate.edu/soilfertility/
+

@@ -1,0 +1,5 @@
+{
+  "context.no-crop-history": "Dla tego pola nie mamy historii upraw. Podaj ostatnie uprawy ręcznie.",
+  "context.crop-history-demo-only": "W tej wersji historia upraw z USDA CropScape wczytuje się tylko dla pola przykładowego. Podaj ostatnie uprawy ręcznie.",
+  "context.crop-history-error": "USDA CropScape nie odpowiada, więc nie mamy jeszcze historii upraw. Podaj ostatnie uprawy ręcznie albo spróbuj ponownie później."
+}

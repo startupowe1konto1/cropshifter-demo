@@ -1,0 +1,22 @@
+# NRCS Payment Schedules web page https://www.nrcs.usda.gov/getting-assistance/payment-schedules
+# Opened Sat 14 Nov 2026 in a browser: Cost list report, State = Iowa, County = Story (19169), Payment Schedule Name = "Iowa CStwP-1" (the CSP list).
+# Results heading on the page: "Iowa: Iowa CStwP-1 Payment Schedule Results". The page does not print a fiscal year.
+# Rows for practice codes 340 and 328 copied from the results table (1,492 rows in total). No E340*/E328* enhancement codes appear in this list. SU = CSP supplemental payment.
+State Name	Cost List Name	Practice Code	Practice Name	Component	Unit	Unit Cost
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Add Crop Organic System	Ac	$83.38
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Basic, Multiple Annual Crops	Ac	$36.84
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	SU_Improved Resource Conserving Crop Rotation	Ac	$106.91
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Irrigated to Dryland	Ac	$180.50
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Pasture, Enhanced	Ac	$135.45
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Perennial, Short-Term	Ac	$53.45
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Range, Enhanced	Ac	$19.48
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	SU_Resource Conserving Crop Rotation	Ac	$95.57
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Specialty Crop, Small	kSqFt	$30.92
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Specialty Crops	Ac	$44.33
+Iowa	Iowa CStwP-1	328	Conservation Crop Rotation	Winter or Spring Annual	Ac	$47.78
+Iowa	Iowa CStwP-1	340	Cover Crop	Adaptive Management	No	$3,877.90
+Iowa	Iowa CStwP-1	340	Cover Crop	Any Species	Ac	$124.59
+Iowa	Iowa CStwP-1	340	Cover Crop	Any Species, Organic	Ac	$166.37
+Iowa	Iowa CStwP-1	340	Cover Crop	Biomass	Ac	$184.21
+Iowa	Iowa CStwP-1	340	Cover Crop	Islands, Any Species	Ac	$379.28
+Iowa	Iowa CStwP-1	340	Cover Crop	Islands, Legume	Ac	$72.18

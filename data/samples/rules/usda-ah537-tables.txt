@@ -1,0 +1,694 @@
+# Excerpt (pdftotext -layout) of https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 18 24 26 28 29 30 32
+
+=== PDF page 18 ===
+12     UNITED STATES DEPARTMENT OF AGRICULTURE, AGRICULTURE HANDBOOK NUMBER 537
+
+
+                                            TOPOGRAPHIC FACTOR (LS)
+   Both the length and the steepness of the land                             loss equation by L and S, respectively. In field
+slope substantially affect the rate of :;oil erosion by                      applications, however, considering the two as a
+water. The two effects have been evaluated sep-                              single topographic factor, LS, is more convenient.
+arately in research and are represented in the soil
+
+                                                          Slope-Effect Chart
+   LS is the expected ratio of soil loss per unit area                              LS= (A/72.6)m        (65.41 sin' 0   + 4.56 sin 0 + 0.065)   (4)
+from a field slope to that from a 72.6-ft length of
+uniform 9-percent slope under otherwise identical
+                                                                             where)..       =
+                                                                                          slope length in feet;
+
+conditions. This ratio for specified combinations of
+                                                                             6  = angle of slope; and
+
+field slope length and uniform gradient may be
+                                                                             m  =  0.5 if the percent slope is 5 or more, 0.4 on
+                                                                             slopes of 3.5 to 4.5 percent, 0.3 on slopes of 1 to
+obtained directly from the slope-effect chart (fig.
+                                                                             3 percent, and 0.2 on uniform gradients of less
+4). Enter on the horizontal axis with the field slope
+                                                                             than 1 percent.
+length, move vertically to the appropriate percent-
+slope curve, and read LS on the scale at the left.                              The basis for this equation is given in the sub-
+For example, the LS factor for a 300-ft length of                            section discussing the individual effects of slope
+10-percent slope is 2.4. Those who prefer a table                            length and steepness. However, the relationships
+may use table 3 and interpolate between listed                               expressed by the equation were derived from data
+values.                                                                      obtained on cropland, under natural rainfall, on
+   To compute soil loss from slopes that are ap-                             slopes ranging from 3 to 18 percent in steepness
+preciably convex, concave, or complex, the chart                             and about 30 to 300 ft in length. How far beyond
+LS values need to be adjusted as indicated in the                            these ranges in slope characteristics the relation-
+section LS Values for Irregular Slopes. Figure 4                             ships derived from the data continue to be accu-
+and table 3 assume slopes that have essentially                              rate has not been determinecf by direct soil loss
+uniform gradient. The chart and table were de-                               measurements.
+rived by the equation                                                           The Palouse Region of the Northwest represents
+
+
+              TABLE 3.-Values of the topographic factor, LS, for specific combinations of slope length
+                                                and steepness 1
+                                                                          Slope length (feet)
+              Percent
+               slope               25      50        75    100     150       200      300        400     500     600      800     1,000
+
+               0.2               0.060   0.069    0.075   0.080   0.086     0.092   0.099       0.105   0.110   0.114    0.121    0.126
+               0.5                .073    .083     .090    .096    .104      .110     119        .126    .132    .137     .145     .152
+               0.8                .086    .098     .107    .113    .123      .130    .141        .149    .156    .162     .171     .179
+                 2                .133    .163     .185    .201    .227      .248    .280        .305    .326    .344     .376     .402
+                 3                .190    .233     .264    .287    .325      .354    .400        .437    .466    .492     .536     .573
+                 4                .230    .30:l    .357    .400    .471      .528    .621        .697    .762    .820     .920     1.01
+                 5                .268    .379     .464    .536    .656      .758    .928        1.07    1.20    1.31     1.52     1.69
+                 6                .336    .476     .583    .673    .824      .952    1.17        1.35    1.50    1.65     1.90     2.13
+                 8                .496    .701     .859    .992    1.21      1.41    1.72        1.98    2.22    2.43     2.81     3.14
+                10                .685    .968     1.19    1.37    1.68      1.94    2.37        2.74    3.06    3.36     3.87     4.33
+                12                .903    1.28     1.56    1.80    2.21      2.55    3.13        3.61    4.04    4.42     5.11     5.71
+                14                1.15    1.62     1.99    2.30    2.81      3.25    3.98        4.59    5.13    5.62     6.49     7.26
+                16                1.42    2.01     2.46    2.84    3.48      4.01    4.92        5.68    6.35    6.95     8.03     8.98
+                18                1.72    2.43     2.97    3.43    4.21      3.86    5.95        6.87    7.68    8.41     9.71     10.9
+                20                2.04    2.88     3.53    4.08    5.00      5.77    7.07        8.16    9.12    10.0      11.5    12.9
+                1
+                    LS = (),j72.6)m (65.41 sin 2 0   +
+                                                     4.56 sin 0    +
+                                                                  0.065) where A = slope length in feeti m = 0.2 for
+              gradients   < 1 percent, 0.3 for 1 to 3 percent slopes, 0.4 for 3.5 to 4.5 percent slopes, 0.5 for 5 percent
+              slopes and steeper; and 0 = angle of slope. (For other combinations of length and gradient, interpolate
+              between adjacent values or see fig. 4.)
+
+=== PDF page 24 ===
+18        UNITED STATES DEPARTMENT OF AGRICULTURE, AGRICULTURE HANDBOOK NUMBER 537
+
+how much erosion control protection the growing           that reflect effects of crops and management in
+plants, crop residues, and selected management            successive segments of a rotation cycle. The crop-
+practices will provide at the time when erosive           ping and weather data needed for this purpose
+rains are most likely to occur. A procedure is pre-       appear in reference form in the subsections en-
+sented for deriving local values of C on the basis        titled, Soil Loss Ratios and Erosion Index Distribu-
+of available weather records and research data            tion Data.
+
+                                                Cropstage Periods
+   The change in effectiveness of plant cover with-       tion for computation of C were evaluated for six
+in the crop year is gradual. For practical purposes,      cropstage periods defined as follows:
+the year is divided into a series of cropstage peri-      Period F (rough fallow)-lnversion plowing to sec-
+ods defined so that cover and management effects               ondary tillage.
+may be considered approximately uniform within            Period SB (seedbed)-Secondary tillage for seedbed
+each period.                                                   preparation until the crop has developed 10
+   Initially, five periods were used, with the seed-           percent canopy cover.
+ling and establishment periods defined as the first       Period 1 (establishment)-End of SB until crop has
+and second months after crop seeding (50). Be-                 developed a 50 percent canopy cover. (Ex-
+cause of the existing ranges in soil fertility, row            ception: period 1 for cotton ends at 35 percent
+spacing, plant population, and general growing                 canopy cover.)
+conditions, however, soil loss prediction accuracy        Period 2 (development)-End of period 1 until can-
+is improved when the cropstage periods are de-                 opy cover reaches 75 percent. (60 percent for
+fined according to percentage of canopy cover                  cotton.)
+rather than for uniform time periods. The lengths         Period 3 (maturing crop)-End of period 2 until crop
+of the respective periods will then vary with crop,            harvest. This period was evaluated for three
+climate, and management and will be determined                 levels of final crop canopy.
+by conditions in a particular geographic area.            Period 4 (residue or stubble)-Harvest to plowing
+   The soil loss ratios presented in the next subsec-          or new seeding.
+
+                             Quantitative Evaluations of Crop and Management Effects
+   More than 10,000 plot-years of runoff and soil         reductions to be expected from conditions not di-
+loss data from natural rain,5 and additional data         rectly represented in the overall plot studies.
+from a large number of erosion studies under simu-           The value of C on a particular field is determined
+lated rainfall, were analyzed to obtain empirical         by many variables, one of which is weather. Ma-
+measurements of the effects of cropping system            jor variables that can be influenced by manage-
+and management on soil loss at successive stages          ment decisions include crop canopy, residue mulch,
+of crop establishment and development. Soil losses        incorporated residues, tillage, land use residual,
+measured on the cropped plots were compared               and their interactions. Each of these effects may be
+with corresponding losses from clean-tilled, con-         treated as a subfactor whose numerical value is
+tinuous fallow to determine the soil loss reductions      the ratio of soil loss with the effect to correspond-
+ascribable to effects of the crop system and man-         ing loss without it (57). C is the product of all the
+agement. The reductions were then analyzed to             pertinent subfactors.
+identify and evaluate influential subfactors, inter-
+actions, and correlations. Mathematical relation-
+                                                                             Crop Canopy
+ships observed for one crop or geographic region             Leaves and branches that do not directly con-
+were tested against data from other research sites        tact the soil have little effect on amount and ve-
+for consistency. Those found compatible with all          locity of runoff from prolonged rains, but they re-
+the relevant data were used to compute soil loss          duce the effective rainfall energy by intercepting
+                                                          falling raindrops. Waterdrops falling from the
+                                                          canopy may regain appreciable velocity but usu-
+ 5
+     See footnote 3, p. 2.                                ally less than the terminal velocities of free-falling
+
+=== PDF page 26 ===
+20     UNITED STATES DEPARTMENT OF AGRICULTURE, AGRICULTURE HANDBOOK NUMBER 537
+
+priate percent-canopy curve, and read at the left        ing them or removing them from the land. After
+the soil loss ratio from cover effect. This ratio is a   several years of turning the crop residues under
+subfactor that may be combined with other perti-         with a moldboard plow before row crop seeding
+nent subfactors to account for the cropstage soil        in plot studies under natural rainfall, both runoff
+loss of table 5 or to estimate others.                   and soil loss from the row crops were much less
+                                                         than from similar plots from which cornstalks and
+               Incorporated Residues
+                                                         grain straw were removed at harvesttimes (52, 54,
+   The plot data indicate that, at least during the      59).
+seedbed and establishment periods, the erosion-              Short periods of rough fallow in a rotation will
+reducing effectivensss of residues mixed into the        usually lose much less soil than the basic, clean-
+upper few inches of soil by shallow tillage is ap-
+preciably greater than the residual effect of long-
+                                                         tilled, continuous fallow conditions for which C  =
+                                                         1. This is largely because of residual effects and
+term annual incorporation with a moldboard plow.
+                                                         is also partly because of the roughness and cloddi-
+However, the incorporated residues are less effec-       ness.
+tive than if left on the surface.                            The most pronounced residual effect is that from
+                       Tillage                           long-term sod or forest. The effect of a grass-and-
+   The type, frequency, and timing of tillage opera-     legume rotation meadow turned under diminishes
+tions influence porosity, roughness, cloddiness,         gradually over about 2 years. In general, the ero-
+compaction, and microtopography. These, in turn,         sion-reducing effectiveness of sod residual (from
+affect water intake, surface storage, runoff ve-         grass or grass-and-legume meadows) in the plot
+locity, and soil detachability, all of which are fac-    studies was directly proportional to hay yields. Site
+tors in potential erosion. These effects are highly      values of the subfactor for sod residuals in rota-
+correlated with cropland residual effects.               tions can be obtained from soil loss ratio table 5-D.
+                                                         The effectiveness of virgin sod and of long periods
+                Land Use Residuals                       of alfalfa in whic_h grass became well established
+   These include effects of plant roots; long-term       was longer lasting. Mixtures of grasses and legumes
+residue incorporation by plowing; changes in soil        were more effective than legumes alone.
+structure, detachability, density, organic matter            Residual effectiveness of winter cover crops
+content, and biological activity; and probably           plowed under in spring depends largely on the
+other factors. The residual effects are most appar-      type and quality of the crop and its development
+ent during seedbed and establishment periods.            stage at the time it is plowed under. The effective-
+   Some residual effect will be apparent on nearly       ness of grass-and-legume catch crops turned under
+any cropland, but the magnitude of its erosion-          in spring was less and of shorter duration than
+reducing effectiveness will differ substantially with    that of full-year rotation meadows. Covers such
+crops and practices. Tillage and land use residuals      as vetch and ryegrass seeded between corn or
+are influenced by so many factor interrelations          cotton rows before harvest and turned under in
+that development of charts like those for canopy         April were effective in reducing erosion during the
+and mulch has not been feasible. However, ap-            winter and showed some residual effect in the fol-
+parent values of these subfactors for some situa-         lowing seedbed and establishment periods. Small
+tions were derived from the data and used for ex-        grain seeded alone in corn or cotton residues
+pansion of the soil loss ratio table to include con-     showed no residual effect under the next crop.
+ditions somewhat different from those directly rep-      Small grain or vetch on fall-plowed seedbed and
+resented in the plot studies.                            turned at spring planting time lost more soil than
+   Plowing residues down is far less effective than      adjacent plots with undisturbed cotton residues on
+leaving them on the surface but better than burn-        the surface.
+
+                                               Soil Loss Ratios
+  Factor C is usually given in terms of its average      system, management, and rainfall pattern. To de-
+annual value for a particular combination of crop        rive site values of C, soil loss ratios for the indi-
+
+=== PDF page 28 ===
+                                                                                                                                                                                                                                 t,.)
+                                           TABLE 5.-Ratio of soil loss from cropland to corresponding loss from continuous fallow                                                                                                t,.)
+
+
+                                                   Cover           Soi I loss ratio 4 for cropstage                                                              Cover           Soil loss ratio·l for cropstage
+Line      Cover, crop sequence,          Spring                      period and canopy cover5                 Line      Cover, crop sequence,        Spring                           period and canopy cover 5
+                                                    after                                                                                                         after                                                          C
+No.        and management 1             residue2                                                              No.        and management 1           residue 2
+                                                   plant"    F    SB     1     2    3:80   90    96    4L 6                                                      plant"    F    SB       1    2    3:80    90      96     4L 6   z
+                                                                                                                                                                                                                                 ::::j
+                                    Lb              Pct     Pct   Pct   Pct   Pct   Pct    Pct   Pct   Pel                                        Lb              Pct     Pct   Pct    Pct   Pct   Pct     Pct     Pct    Pct    m
+       CORN AFTER C, GS, G OR COT                                                                                    CORN AFTER WC OF RYEGRASS                                                                                   0
+        IN MEADOWLESS SYSTEMS                                                                                           OR WHEAT SEEDED IN                                                                                       en
+                                                                                                                                                                                                                                 -j
+       Moldboard plow, conv till:                                                                                              C STUBBLE                                                                                         )>
+  1      RdL, sprg TP             4,500                     31    55    48    38                 20    23            WC reaches stemming stage:                                                                                  -j
+  2                               3,400                     36    60    52    41    --     24    20    30      79      No-till pl in killed WC  4,000                            7       7     7            7        6    (13)   m
+                                                                                                                                                                                                                                 en
+  3                               2,600                     43    64    56    43    32     25    21    37      80                               3,000                           11      11    11    11      9        7
+  4                               2,000                     51    68    60    45    33     26    22    47      81                               2,000                           15      15    14    14     11        9           0
+                                                                                                                                                                                                                                 m
+  5      RdL, fall TP                       HP2             44    65    53    38                 20    -       82                               1,500                           20      19    18    18     14       11           -0
+                                                                                                                                                                                                                                 )>
+  6                                         GP              49    70    57    41           24    20    --·             Strip till one-fourth row space                                                                           ;,c,
+  7                                          FP             57    74    61    43    32     25    21            83        Rows U/ D slope              4,000                     13      12   11            11        9    (")    -j
+
+  8                                          LP             65    78    65    45    32     26    22    ---·    84                                     3,000                     18      17   16    16      13       10           ~
+                                                                                                                                                                                                                                 m
+  9      RdR, sprg TP                       HP              66    74    65    47                 22    '56     85
+                                                                                                               86
+                                                                                                                                                      2,000
+                                                                                                                                                      1,500
+                                                                                                                                                                                23
+                                                                                                                                                                                28
+                                                                                                                                                                                        22
+                                                                                                                                                                                        26
+                                                                                                                                                                                             20
+                                                                                                                                                                                             24
+                                                                                                                                                                                                   19
+                                                                                                                                                                                                   22
+                                                                                                                                                                                                           15
+                                                                                                                                                                                                           17
+                                                                                                                                                                                                                    12
+                                                                                                                                                                                                                    14
+                                                                                                                                                                                                                                 z
+                                                                                                                                                                                                                                 -j
+ 10                                         GP              67    75    66    47           27    23     62
+ 11
+ 12
+                                            FP
+                                            LP
+                                                            68
+                                                            69
+                                                                  76
+                                                                  77
+                                                                        67
+                                                                        68
+                                                                              48
+                                                                              49
+                                                                                    35
+                                                                                    35
+                                                                                           27           69
+                                                                                                        74
+                                                                                                              87
+                                                                                                              88
+                                                                                                                         Rows on contour 11              4,000
+                                                                                                                                                         3,000
+                                                                                                                                                                                10
+                                                                                                                                                                                15
+                                                                                                                                                                                        10
+                                                                                                                                                                                        15
+                                                                                                                                                                                             10
+                                                                                                                                                                                             15    15
+                                                                                                                                                                                                           10
+                                                                                                                                                                                                           12
+                                                                                                                                                                                                                     8
+                                                                                                                                                                                                                     9
+                                                                                                                                                                                                                          ("i
+                                                                                                                                                                                                                                 .,,0
+ 13      RdR, fall TP                       HP      ---     76    82    70    49           ---   22    -      89                                         2,000                  20      20   19    19      15       12           )>
+ 14                                         GP      -       77    83    71    50           27    23           90                                         1,500                  25      24   23    22      17       14           G)
+ 15                                         FP              78          72                                                                                                                                                       ;,c,
+                                                                  85          51    35     27                                                                             36            52   41            24
+ 16                                          LP             79    86    73    52    35
+                                                                                                              91
+                                                                                                              92
+                                                                                                                       TP, conv seedbed                  4,000
+                                                                                                                                                         3,000            43
+                                                                                                                                                                                60
+                                                                                                                                                                                64      56   43    31      25
+                                                                                                                                                                                                                   20
+                                                                                                                                                                                                                   21
+                                                                                                                                                                                                                          (")
+                                                                                                                                                                                                                                 n
+                                                                                                                                                                                                                                 C
+17     Whee/track pl, RdL, TP8            4,500                   31    27    25                 18    23     93                                         2,000            51    68      60   45    33      26      22            r-
+                                                                                                                                                                                                                                 -j
+18                                        3,400                   36    32    30           22    18    30     94                                         1,500            61    73      64   47    35      27      23
+                                                                                                                                                                                                                                 C
+19                                        2,600     --      --    43    36    32    29     23    19    37            WC succulent blades only:                                                                                   ;,c,
+20                                        2,000             --·   51    43    36    31     24    20    47     95      No-till pl in killed WC            3,000            --    11      11   17    23      18      16     (")    !"
+21     Deep off-set disk or               4,500      10     --    45    38    34                 20    23     96                                         2,000                  15      15   20    25      20      17
+                                                                                                                                                                                                                                 )>
+22         disk plow                      3,400      10     --    52    43    37           24    20    30     97                                         1,500                  20      20   23    26      21      18            G)
+23                                        2,600       5           57    48    40    32     25    21    37     98                                         1,000                  26      26   27    27      22      19            ;,c,
+24                                        2,000                   61    51    42    33     26    22    47      99
+                                                                                                              100
+                                                                                                                       Strip till one-fourth row space 3,000
+                                                                                                                                                       2,000
+                                                                                                                                                                                18
+                                                                                                                                                                                23
+                                                                                                                                                                                        18
+                                                                                                                                                                                        23
+                                                                                                                                                                                             21
+                                                                                                                                                                                             25
+                                                                                                                                                                                                   25
+                                                                                                                                                                                                   27
+                                                                                                                                                                                                           20
+                                                                                                                                                                                                           21
+                                                                                                                                                                                                                   17
+                                                                                                                                                                                                                   18
+                                                                                                                                                                                                                          (")    nC
+25     No-till plant in crop residue•     6,000     95             2     2     2    -             2    14                                                                                                                        r-
+26                                        6,000     90      --     3     3     3                  3    14     101                                      1,500                    28      28   28    28      22      19            -j
+
+27                                        4,500     80      -      5     5     5           --     5    15     102                                      1,000      -       --    33      33   31    29      23      20            C
+                                                                                                                                                                                                                                 ;,c,
+28                                        3,400     70             8     8     8    -       8     6    19            CORN IN SOD-BASED SYSTEMS                                                                                   m
+29                                        3,400     60      ---   12    12    12    12      9     8    23            No-till pl in killed sod:                                                                                   :I:
+30                                        3,400     50            15    15    14    14     11     9    27     103      3 to 5 tons hay yld                                       1       1    1                1     1      1    )>
+31                                        2,600     40      -     21    20    18    17     13    11    30     104      1 to 2 tons hay yld                                       2       2    2        2       2     2      2    z
+32                                        2,600     30      --    26    24    22    21     17    14    36            Strip till, 3-5 ton M:                                                                                      0
+                                                                                                                                                                                                                                 c:,
+       Chisel, shallow disk, or                                                                               105      50 percent cover, tilled strips                           2       2    2                2     2      4    0
+           fld cult, as only tillage:                                                                         106      20 percent cover, tilled strips                    -·-    3       3    3                3     3      5    0
+33
+34
+35
+         On moderate slopes               6,000     70
+                                                    60
+                                                    50
+                                                                   8
+                                                                  10
+                                                                  13
+                                                                         8
+                                                                         9
+                                                                        11
+                                                                               7
+                                                                               8
+                                                                              10
+                                                                                                  7
+                                                                                                  8
+                                                                                                  9
+                                                                                                       17
+                                                                                                       17
+                                                                                                       18
+                                                                                                              107
+                                                                                                                     Strip till, 1-2 ton M:
+                                                                                                                       40 percent cover, tilled strips                           4       4    4        4       4     4      6
+                                                                                                                                                                                                                                 ""z
+                                                                                                              108      20 percent cover, tilled strips                           5       5    5        5       5     5      7    C
+36                                                  40            15    13    11                 10    19
+                                                                                                                     Other tillage after sod:                             (")   (")    (")   (")   (")     (")     ('')   (")    ~
+37                                                  30      --    18    15    13                 12    20                                                                                                                        c:,
+38                                                  20            23    20    18                 16    21               CORN AFTER SOYBEANS                                                                                      m
+                                                                                                                                                                                                                                 ;,c,
+39               Do.                      4,500     70             9     8     7                  7    18     109    Sprg TP, conv till                   HP              40    72      60   48                    25     29
+                                                                                                                                                                                                                                 c.,,
+40                                                  60            12    10     9                  8    18     110                                         GP              47    78      65   51    -       30      25     37     c.,
+41                                                  50            14    13    11                  9    19     111                                         FP              56    83      70   54    40      31      26     44     .....
+42                                                  40            17    15    13                 10    20     112    Fall TP, conv till                   HP              47    75      60   48            -       25
+43                                                  30            21    18    15    --           13    21     113                                         GP              53    81      65   51    -       30      25
+44                                                  20      --    25    22    19    -            16    22     114                                          FP             62    86      70   54    40      31      26
+
+=== PDF page 29 ===
+45                 Do.                  3,400    60        13    11    10          10     8    20    115   Fall & sprg chisel or cult     HP     1030          40     35     29                    23      29
+46                                               50        16    13    12          12     9    24    116                                  GP       25          45     39     33             27     23      37
+47                                               40    -   19    17    16          14    11    25    117                                  GP       20          51     44     39      34     27     23      37
+48                                               30        23    21    19    -     17    14    26    118                                  FP       15          58     51     44      36     28     23      44
+49                                               20        29    25    23          21    16    27    119                                  LP       10          67     59     48      36     28     23      54
+50                                               10        36    32    29          24    20    30    120   No-till pl in crop res'd       HP     "40    -      25     20     19     -       14      11     26
+51                 Do.                  2,600                                                        121                                                              29     25     22      18                    -0
+                                                 50        17    16    15    15    13    10    29                                         GP      30           33                                   14     33     ;,g
+52                                               40    -   21    20    19    19    15    12    30    122                                  FP      20           44     38     32     27      23      18     40     m
+53                                               30        25    23    22    22    18    14    32                                                                                                                 0
+54                                               20        32    29    28    27    22    17    34    123
+                                                                                                                BEANS AFTER CORN
+                                                                                                           Sprg TP, RdL, conv till        HP            33     60     52     38             20      17     (16)   n
+                                                                                                                                                                                                                  -I
+55                                               10    -   41    36    34    32    25    21    37
+56                 Do.                  2,000    40        23    21    20    20    15    12    37
+                                                                                                     124
+                                                                                                     125
+                                                                                                                                          GP
+                                                                                                                                          FP
+                                                                                                                                                        39
+                                                                                                                                                        45
+                                                                                                                                                               64
+                                                                                                                                                               68
+                                                                                                                                                                      56
+                                                                                                                                                                      60
+                                                                                                                                                                             41
+                                                                                                                                                                             43      29
+                                                                                                                                                                                            21
+                                                                                                                                                                                            22     -
+                                                                                                                                                                                                    18            z
+                                                                                                                                                                                                                  G')
+57                                               30        27    25    24    23    19    15    39    126   Fall TP, RdL, conv till        HP            45     69     57      38    -       20     17      ('•)   ;,g
+58                                               20    -   35    32    30    28    22    18    42    127                                  GP            52     73     61      41            21     18             )>
+59                                               10        46    42    38    33    26    22    47    128                                  FP            59     n      65      43    29      22     -
+       On slopes > 12 percent.                                                                                                                                 (11)          (11)
+                                                                                                                                                                                                                  z.,,
+                                                                                                           Chisel or Rd cult:                           (")           (")           (")     (")    (")     ('")
+60         Lines 33-59 times factor of: -                  1.3   1.3   1.1   1.0   1.0   1.0   1.0                                                                                                                )>
+                                                                                                                 BEANS AFTER     BEANS                  ('•)   (")    ('•)   (18)   (18)    (18)   (18)    (lG)   r-
+     Disk or harrow after spring                                                                                                                                                                                  r-
+          chisel or Rd cult:                                                                               GRAIN AFTER C, G, GS, COT19
+                                                                                                     129   In disked residues:         4,500      70           12     12     11         7     4        2   (20)   m
+       Lines 33-59 times factor of:                                                                                                                                                                               ;,g
+61             On moderate slopes                          1.1   1.1   1.1   1.0   1.0   1.0   1.0   130                               3,400      60           16     14     12         7     4        2          0
+                                                                                                                                                                                                                  (ll
+62             On slopes > 12 percent                      1.4   1.4   1.2   1.0   1.0   1.0   1.0   131                                          50           22     18     14         8     5        3
+     Ridge plant: 10
+                                                                                                     132                                          40    -      27     21     16       9       5        3          0
+       lines 33-59 times factor of:
+                                                                                                     133                                          30           32     25     18       9       6        3          z
+                                                                                                     134                                          20    -      38     30     21      10       6        3          r-
+63        Rows on contour11              -                  .7    .7    .7    .7    .7    .7    .7
+64       Rows U/D slope < 12 percent ~-                     .7    .7   1.0   1.0   1.0   1.0   1.0   135             Do.                 2,600    40           29      24    19       9       6        3   ('°)   0
+                                                                                                                                                                                                                  (ll
+65       Rows U/D slope > 12 percent -                      .9    .9   1.0   1.0   1.0   1.0   1.0   136                                          20           43      34    24      11       7        4          (ll
+                                                                                                                                                                                                                  m
+
+66
+     Till plant:
+       Lines 33-59 times factor of:
+          Rows on contour 11                                .7    .85 1.0    1.0   1.0   1.0   1.0
+                                                                                                     137
+                                                                                                     138
+                                                                                                     139
+                                                                                                                     Do.                 2,000
+                                                                                                                                                  10
+                                                                                                                                                  30
+                                                                                                                                                  20
+                                                                                                                                                        -      52
+                                                                                                                                                               38
+                                                                                                                                                               46
+                                                                                                                                                                       39
+                                                                                                                                                                      30
+                                                                                                                                                                      36
+                                                                                                                                                                             27
+                                                                                                                                                                             23
+                                                                                                                                                                             26
+                                                                                                                                                                                     12
+                                                                                                                                                                                     11
+                                                                                                                                                                                     12
+                                                                                                                                                                                              7
+                                                                                                                                                                                              7
+                                                                                                                                                                                              7
+                                                                                                                                                                                                       4
+                                                                                                                                                                                                       4
+                                                                                                                                                                                                       4
+                                                                                                                                                                                                           (20)   r
+                                                                                                                                                                                                                  )>
+67        Rows U/D slope < 7 percent     -             -   1.0   1.0 1.0     1.0   1.0   1.0   1.0   140                                          10           56     43     30      13       8        5          G')
+     Strip till one-fourth of row spacing:                                                           141   In disked stubble, RdR                              79      62    42      17      11        6   ('°)   C:
+68        Rows on contour 11           4,500    1260       12    10     9          -      8    23    142   Winter G after fall TP, RdL    HP            31      55     48     31     12       7        5   (2")   0
+                                                                                                                                                                                                                  m
+69                                     3,400     50        16    14    12          11    10    27    143                                  GP            36      60     52     33     13       8        5
+70                                     2,600     40    -   22    19    17    17    14    12    30    144                                  FP      -     43      64     56     36     14       9        5          -I
+71                                     2,000     30        27    23    21    20    16    13    36    145                                  LP      -     53      68     60     38     15      10        6
+                                                                                                                                                                                                                  0
+72        Rows U/D slope                4,500   1260
+                                                       -   16    13    11          -      9    23          GRAIN AFTER SUMMER FALLOW                                                                              n
+73                                      3,400    50        20    17    14    -     12    11    27    146   With grain residues             200    10           70     55     43      18      13     11     (")    0
+74                                      2,600    40        26    22    19    17    14    12    30    147                                   500    30           43     34     23      13      10      8
+                                                                                                                                                                                                                  z
+                                                                                                                                                                                                                  (ll
+75                                      2,000    30    -   31    26    23    20    16    13    36    148                                   750    40           34     27     18      10       7      7            m
+                                                                                                                                                                                                                  ;,g
+                                                                                                     149                                 1,000    50           26     21     15       8       7      6
+                                                                                                                                                                                                                  ~
+     Vari-fill:
+76       Rows on contour11              3,400    40    -   13    12    11                11    22    150                                 1,500    60    -      20     16     12       7       5      5
+n                                                                                                    151                                 2,000    70           14     11       9      7       5      5            -I
+                                        3,400    30    -   16    15    14    14    13    12    26
+78                                      2,600    20    -   21    19    19    19    16    14    34    152   With row crop residues          300     5    -      82     65     44      19     14     12      (")    0
+                                                                                                     153                                   500    15           62     49     35      17     13     11             z
+                                                                                                     154                                   750    23           50     40     29      14     11         9          -0
+                                                                                                                                                                                                                  r-
+                                                                                                     155                                 1,000    30    -      40     31     24      13     10         8          )>
+                                                                                                     156                                 1,500    45    -      31     24     18      10      8         7          z
+                                                                                                     157                                 2,000    55    -      23     19     14       8      7         5          z
+                                                                                                     158
+                                                                                                                    POTATOES
+                                                                                                                                         2,500    65           17     14     12       7      5         4          z
+                                                                                                                                                                                                                  G')
+                                                                                                     159   Rows with slope                              43     64     56     36     26      19     16
+                                                                                                           Contoured rows, ridged when
+                                                                                                               canopy cover is about
+                                                                                                     160      50 percent11                              43     64     56      18    13      10         8
+                                                                                                                                                                                                                  i..:,
+                                                                                                       See footnotes, p. 24.                                                                                      w
+
+=== PDF page 30 ===
+                                                                                                                                                                                               t,J
+                                                                                                                                                                                               .i:,..
+
+
+
+
+                                                                                                                                                                                               C
+                                                                                                                                                                                               z
+                                                                                                                                                                                               =i
+                                                                                                                                                                                               m
+                                                                                                                                                                                               0
+                                                                                                                                                                                               V,
+                                                                                                                                                                                               -t
+                                                                                                                                                                                               )>
+                                                                                                                                                                                               -t
+                                                                                                                                                                                               m
+  Footnotes for toble 5.                                                                                                                                                                       V,
+
+
+                                                                                                                                                                                               .,)>m0
+                                                                                                                                                                                               ;:o
+                                                                                                                                                                                               g
+  1
+    Symbols: B, soybeans; C, earn; conv till, plow, disk and harrow for seedbed; col, cotton;      'Inversion plowed, no secondary tillage. For this practice, residues must be left and
+F, rough fallow; fld cult, field cultivator; G, small grain; GS, grain sorghum; M, grass and    incorporated.
+                                                                                                                                                                                               m
+legume meadow, al least 1 full year; pl, plant; Rdl, crop residues left on field; RdR, crop        "Soil surface and chopped residues of matured preceding crop undisturbed except in          z-t
+residues removed; SB, seedbed period; sprg, spring; TP, plowed with moldboard; WC,              narrow slots in which seeds are planted.
+winter cover crop; - , insignificant or an unlikely combination of variables.
+                                                                                                   10
+                                                                                                      Top of old row ridge sliced off, throwing residues and some soil into furrow areas.      0
+                                                                                                                                                                                               ...,
+   ' Dry weight per acre after winter loss and reductions by grazing or partial removal:        Reridging assumed lo occur near end of cropstage 1.
+                                                                                                   11
+                                                                                                                                                                                               )>
+4,500 lbs represents 100 lo 125 bu corn; 3,400 lbs, 75 to 99 bu; 2,600 lbs, 60 to 74 bu;              Where lower soil loss ratios are listed for rows on the contour, this reduction is in    G>
+and 2,000 lbs, 40 lo 59 bu; with normal JO-percent winter loss. For RdR or fall-plow            addition lo the standard field contouring credit. The P value for contouring is used with      ;:o
+
+practices, these four productivity levels are indicated by HP, GP, FP and LP, respectively      these reduced loss ratios.                                                                     n
+(high, good, fair, and low productivity). In lines 79 lo 102, this column indicates dry
+                                                                                                   12
+                                                                                                      Field-average percent cover; probably about three-fourths of percent cover on un-
+                                                                                                                                                                                               ,....
+                                                                                                                                                                                               C
+                                                                                                                                                                                               -t
+weight of the winter-cover crop.                                                                disturbed strips.                                                                              C
+                                                                                                                                                                                               ;:o
+   'Percentage of soil surface covered by plant residue mulch after crop seeding. The              "' If again seeded lo WC crop in corn stubble, evaluate winier period as a winier           !"
+difference between spring residue and that on the surface after crop seeding is reflected       grain seeding (lines 132 to 148). Otherwise, see table 5-C.
+                                                                                                   14
+                                                                                                                                                                                               )>
+in the soil loss ratios as residues mixed with the topsoil.                                           Select the appropriate line for the crop, tillage, and productivity level and multiply   G>
+   'The soil loss ratios, given as percentages, assume that the indicated crop sequence         the listed soil loss ratios by sod residual factors from table 5-D.                            ;:o
+and practices are followed consistently. One-year deviations from normal practices do not          15
+                                                                                                      Spring residue may include carryover from prior corn crop.                               n
+have the effect of a permanent change. linear interpolation between lines is recommended
+                                                                                                   16
+                                                                                                      See table 5-C.
+                                                                                                                                                                                               ,....
+                                                                                                                                                                                               C
+                                                                                                                                                                                               -t
+                                                                                                   17
+when justified by field conditions.                         '                                         Use values from lines 33 to 62 with appropriate dates and lengths of cropslage           C
+                                                                                                                                                                                               ;:o
+   'Cropstage periods ore as defined on p. 18. The three columns for cropstage 3 are far        periods for beans in the locality.                                                             m
+                                                                                                   18
+80, 90, and 96 lo 100 percent canopy cover at maturity.                                               Values in lines 109 lo 122 are best available estimates, but planting dates and          :c
+   6
+                                                                                                lengths of cropstages may differ.                                                              )>
+     Column 4l is for all residues left on field. Corn stalks partially standing as left by
+some mechanical pickers. If stalks are shredded and spread by picker, select ratio from
+                                                                                                   19
+                                                                                                      When meadow is seeded with the grain, its effect will be reflected through higher
+                                                                                                                                                                                               z
+                                                                                                                                                                                               0
+table 5-C. When residues are reduced by grazing, take ratio from lower spring-residue           percentages of cover in cropstages 3 and 4.                                                    DJ
+                                                                                                                                                                                               0
+line.                                                                                             '° Ratio depends on percent cover. See table 5-C.                                            0
+   7
+     Period 4 values in lines 9 to 12 are for corn stubble (stover removed).
+                                                                                                  21
+                                                                                                      See item 12, table 5-B.
+                                                                                                                                                                                               "'z
+                                                                                                                                                                                               C
+                                                                                                                                                                                               ~
+                                                                                                                                                                                               DJ
+                                                                                                                                                                                               m
+                                                                                                                                                                                               ;:o
+                                                                                                                                                                                               0,
+                                                                                                                                                                                               w
+                                                                                                                                                                                               ....,
+
+=== PDF page 32 ===
+26       UNITED STATES DEPARTMENT OF AGRICULTURE, AGRICULTURE HANDBOOK NUMBER 537
+
+TABLE 5-B.-Soi/ loss ratios for conditions not evaluated                  TABLE 5-C.-Soi/ loss ratios (percent) for cropstage 4
+                               in table 5                                       when stalks are chopped and distributed without soil
+COTTON:                                                                         tillage
+  See table 5-A.
+                                                                                             Corn or Sorghum               Soybeans
+CROPSTAGE 4 FOR ROWCROPS:
+  Stalks broken and partially standing: Use col. 4L.                      Mulch               Tilled                   Tilled     No-till in       Grain
+  Stalks standing after hand picking: Col. 4L times 1.15.                 cover1            seedbed2     No-till      seedbed 2   corn rd 3       Stubble•
+  Stalks shredded without soil tillage: See table 5-C.
+                                                                           20                  48          34             60          42              48
+  Fall chisel: Select values from lines 33-62, seedbed column.
+                                                                           30                  37          26             46          32              37
+CROPSTAGE 4 FOR SMALL GRAIN:
+                                                                           40                  30          21             38          26              30
+  See table 5-C.
+                                                                           50                  22          15             28          19              22
+DOUBLE CROPPING:
+                                                                           60                  17          12             21          16              17
+  Derive annual C value by selecting from table 5 the soil loss per-
+                                                                           70                  12           8             15          10              12
+      centages for the successive cropstage periods of each crop.
+ESTABLISHED MEADOW, FULL-YEAR PERCENTAGES:
+                                                                           80
+                                                                           90
+                                                                                                7
+                                                                                                4
+                                                                                                            5
+                                                                                                            3
+                                                                                                                           9           6              7
+                                                                                                                                                      4
+                                                                                                                                                                 I
+  Grass and legume mix, 3 to 5 t hay               0.4                     95                   3           2                                         3
+           Do.            2 to 3 t hay              .6
+                                                                            1
+           Do.            1 t hay                  1.0                         Part of a field surface directly covered by pieces of residue mulch.
+                                                                            2 This  column applies for all systems other than no-till.
+  Sericea, after second year                       1.0
+                                                                            3
+  Red clover                                       1.5                         Cover after bean harvest may include an appreciable number of
+  Alfalfa, lespedeza, and second-year sericea      2.0                    stalks carried over from the prior corn crop.
+  Sweetclover                                      2.5                       • For grain with meadow seeding, include meadow growth in percent
+MEADOW SEEDING WITHOUT NURSE CROP:                                        cover and limit grain period 4 to 2 mo. Thereafter, classify as estab-
+  Determine appropriate lengths of cropstage periods SB, l, and 2 and     lished meadow.
+       apply values given for small grain seeding.
+PEANUTS:
+  Comparison with soybeans is suggested.
+PINEAPPLES:                                                               abstracted from the published El distribution
+  Direct data not available. Tentative values derived analytically are
+      available from the SCS in Hawaii or the Western Technical Ser-
+                                                                          curves.
+       vice Center at Portland, Oreg. (Reference 5).                         The percentage of the annual erosion index that
+SORGHUM:
+  Select values given for corn, on the basis of expected crop residues
+                                                                          is to be expected within each cropstage period
+       and canopy cover.                                                  may be obtained by reading from the appropriate
+SUGARBEETS:
+  Direct data not available. Probably most nearly comparable to po•
+                                                                          line of table 6, the values for the last and first
+       tatoes, without the ridging credit.                                date of the period, and subtracting. Interpolate
+SUGARCANE:
+  Tentative values available from sources given for pineapples.
+SUMMER FALLOW IN LOW-RAINFALL AREAS, USE GRAIN OR ROW
+    CROP RESIDUES:                                                        TABLE 5-D.-Factors to credit residual effects of turned
+  The approximate soil loss percentage after each successive tillage
+      operation may be obtained from the following tabulation by esti-                           sod 1
+      mating the percent surface cover after that tillage and selecting
+                                                                                                                    Factor for cropstage period:
+      the column for the appropriate amount of initial residue. The                  Crop              Hay yield _ _ _S_B_a_n_d_1__2_ _ _3
+                                                                                                                                         _ _ _4_
+      given values credit benefits of the residue mulch, residues mixed
+      with soil by tillage, and the crop system residual.
+                                                                                                         Tons
+                                 Initial residue (lbs/A)                  First year after mead:
+              Percent cover                                                                                                                            0.60
+                                                                             Row crop or grain ...       3-5       0.25   0.40     0.45        0.50
+                by mulch      >4,000   3,000   2,000   1,500                                                                                            .65
+                                                                                                         2-3        .30    .45      .50         .55
+                                                                                                         1-2        .35    .50       .55        .60     .70
+                   90            4
+                   80            8      '8                                Second year after mead:
+                                                                            Row crop                     3.5        .70    .80       .85        .90        .95
+                   70           12      13      114                                         ••••••••••   2-3        .75    .85       .90        .95        1.0
+                   60           16      17      1 18   1 19
+
+                   50           20      22      24     125                                               1-2        .80    .90       .95        1.0        1.0
+                   40           25      27                                  Spring grain                 3-5               .75       .80        .85        .95
+                                                30         32
+                   30           29      33      37                                                       2-3               .80       .85        .90        1.0
+                                                           39
+                   20           35      39       44        48                                            1-2                .as      .90        .95        1.0
+                   10           47      55       63        68               Winter grain      ........   3-5                .60      .70        .85        .95
+                                                                                                         2-3                .65      .75        .90        1.0
+              1 For   grain residue only.                                                                1-2                .70      .85        .95        1.0
+                                                                            1 These factors are to be multiplied by the appropriate soil loss per-
+WINTER COVER SEEDING IN ROW CROP STUBBLE OR RESIDUES:
+  Define cropstage periods based on the cover seeding date and apply      centages selected from table 5. They are directly applicable for sod-
+       values from lines 129 to 145.                                      forming meadows of at least 1 full year duration, plowed not more
+                                                                          than l month before final seedbed preparation.
+                                                                              When sod is fall plowed for spring planting, the listed values for all
+                                                                          cropstage periods are increased by adding 0.02 for each additional
+                                                                          month by which the plowing precedes spring seedbed preparation. For
+                                                                          example, September plowing would precede May disking by 8 months
+                                                                          and 0.02(8-1), or 0.14, would be added to each value in the table. For
+                                                                          nonsod-forming meadows, like sweetclover or lespedeza, multiply the
+                                                                          factors by 1.2. When the computed value is greater than 1.0, use as 1.0.
+

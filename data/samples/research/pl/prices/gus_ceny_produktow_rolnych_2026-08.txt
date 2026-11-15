@@ -1,0 +1,32 @@
+Source: GUS (Statistics Poland), "Ceny produktów rolnych w sierpniu 2026 r." (xlsx), published 22.09.2026
+Page: https://publikacje.new.stat.gov.pl/portal-publikacje/ceny-produktow-rolnych-w-sierpniu-2026-r
+File: https://publikacje.new.stat.gov.pl/sites/default/files/2026-09/ceny_produkt%C3%B3w_rolnych_w_sierpniu_2026.xlsx
+Retrieved: 2026-11-14 (curl). Locator: sheets Tabl_1 (national) and Tabl_2 (by voivodeship, rows POLAND and Wielkopolskie).
+Units: zł per 1 dt (100 kg), excluding VAT.
+== sheet Tabl_1
+('Tablica 1. Ceny produktów rolnych (bez VAT) w sierpniu 2026 r.',)
+('WYSZCZEGÓLNIENIE', 'Ceny skupu', 'Ceny targowiskowe')
+('w złotych', '07 2026=100', '08 2025=100', 'w złotych', '07 2026=100', '08 2025=100')
+('Ziarno zbóża – za 1 dt',)
+('Pszenica', 82.84, 102.6, 106.9, 101.64, 98.3, 90.4)
+('Żyto', 61.8, 99.3, 98.7, 77.53, 99.9, 89.7)
+('Jęczmień', 68.94, 102.9, 90.2, 97.23, 99, 91.4)
+('Pszenżyto', 70.22, 100, 99.4, 88.22, 100, 91.2)
+('Owies', 50.2, 99.5, 74.8, 83.55, 99.1, 85.9)
+('Kukurydza', 91.44, 102.4, 98.2, 120.19, 99.1, 95.7)
+('Ziemniakib – za 1 dt', 62.88, 61, 94.2, 199.94, 127.1, 97.6)
+('Żywiec rzeźny – za 1 kg',)
+('Bydło (bez cieląt)c', 13.87, 107.9, 93.9, 12.16, 99.9, 102.4)
+('Trzoda chlewna ', 5.77, 116.1, 85.4, '.', '.', '.')
+('Drób', 6.1, 93.4, 91.5, '.', '.', '.')
+('Mleko – za 1 hl', 176.52, 102.5, 78.5, '.', '.', '.')
+('a Ceny skupu – bez ziarna siewnego.  b Ceny skupu – ogółem (jadalne wczesne; sadzeniaki; jadalne późne; przemysłowe, w tym skrobiowe). Ceny targowiskowe – jadalne bez wczesnych. c Ceny targowiskowe – średnia ważona cena bydła rzeźnego obliczona przy przyjęciu struktury ilości skupu młodego bydła i krów rzeźnych.',)
+('Wskaźniki cen skupu oraz cen uzyskiwanych przez rolników na targowiskach obliczono na podstawie danych bezwzględnych wyrażonych z większą dokładnością niż podano w tablicach.',)
+== sheet Tabl_2
+('Tablica 2. Przeciętne ceny skupu produktów rolnych według województw (bez VAT)  w sierpniu 2026 r.',)
+('WOJEWÓDZTWA', 'Ziarno zbóż (bez siewnego)', 'Ziemniaki ', 'Żywiec rzeźny', 'Mleko    krowie')
+('pszenica', 'żyto', 'jęczmień', 'pszenżyto', 'owies', 'kukurydza', 'bydło (bez cieląt)', 'trzoda    chlewna', 'drób')
+('w zł/1dt ', 'w zł/1kg wagi żywej', 'w zł/1hl')
+('POLAND', 82.84, 61.8, 68.94, 70.22, 50.2, 91.44, 62.88, 13.87, 5.77, 6.1, 176.52)
+('Wielkopolskie', 82.56, 60.85, 69.3, 70.83, 51.77, 92.07, 70.03, 'b', 13.81, 5.78, 6.06, 170.95)
+('a Jadalne późne w przeważającej części. b Jadalne wczesne w przeważającej części. c Przemysłowe w przeważającej części. d Odbiór bezpośrednio od producenta. e Wysoka jakość.',)

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "retrievedAt": "2026-11-14",
+    "script": "scripts/nasadem_slope.py",
+    "sourceUrl": "https://planetarycomputer.microsoft.com/dataset/nasadem"
+  },
+  "datasetId": "nasadem",
+  "method": "meanSlopePct = slope of the least-squares plane through the NASADEM pixels inside the polygon",
+  "fields": {
+    "demo-iowa": {
+      "centroid": {
+        "lat": 42.0305,
+        "lon": -93.497
+      },
+      "meanSlopePct": 0.49,
+      "pixelMeanSlopePct": 5.27,
+      "residualStdM": 1.96,
+      "pixelCount": 338,
+      "tile": "NASADEM_HGT_n42w094"
+    },
+    "demo-poznan": {
+      "centroid": {
+        "lat": 52.45,
+        "lon": 17.1
+      },
+      "meanSlopePct": 1.91,
+      "pixelMeanSlopePct": 4.13,
+      "residualStdM": 1.59,
+      "pixelCount": 147,
+      "tile": "NASADEM_HGT_n52e017"
+    }
+  }
+}

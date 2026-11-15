@@ -1,0 +1,246 @@
+[
+  {
+    "id": "erosion.slr.bare",
+    "value": 100,
+    "unit": "percent of the soil loss from continuous tilled fallow (C = 1)",
+    "appliesTo": "a month the calendar shows as bare soil",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "p. 20: 'the basic, clean-tilled, continuous fallow conditions for which C = 1'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.maize.conventional",
+    "value": {
+      "roughFallow": 43,
+      "seedbed": 64,
+      "establishment": 56,
+      "development": 43,
+      "maturing80": 32,
+      "maturing90": 25,
+      "maturing96": 21,
+      "residue": 37
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "maize after maize, small grain or soybean-like crops, moldboard plow, residues left, spring plowing, 2,600 lb/acre spring residue",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, line 3 ('CORN AFTER C, GS, G OR COT IN MEADOWLESS SYSTEMS', 'Moldboard plow, conv till', 'RdL, sprg TP', 2,600 lb), pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.maize.noTill",
+    "value": {
+      "seedbed": 15,
+      "establishment": 15,
+      "development": 14,
+      "maturing80": 14,
+      "maturing90": 11,
+      "maturing96": 9,
+      "residue": 27
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "maize planted no-till into crop residue covering 50% of the surface after planting (3,400 lb/acre)",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, line 30 ('No-till plant in crop residue', 3,400 lb, 50% cover after plant), pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.maize.noTillInRyeCover",
+    "value": {
+      "seedbed": 11,
+      "establishment": 11,
+      "development": 11,
+      "maturing80": 11,
+      "maturing90": 9,
+      "maturing96": 7
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "maize planted no-till into a killed winter cover (rye or wheat, reached stemming stage, 3,000 lb/acre); crop ids cereal-rye -> maize",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, right column block 'CORN AFTER WC OF RYEGRASS OR WHEAT SEEDED IN C STUBBLE', 'No-till pl in killed WC', 3,000 lb row, pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.soybean.conventional",
+    "value": {
+      "roughFallow": 33,
+      "seedbed": 60,
+      "establishment": 52,
+      "development": 38,
+      "maturing90": 20,
+      "maturing96": 17
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "soybean after maize, spring plowing, residues left, conventional tillage, high productivity; residue period: use erosion.slr.residueCover.soybean",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, line 123 ('BEANS AFTER CORN', 'Sprg TP, RdL, conv till', HP), pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.smallGrain.conventional",
+    "value": {
+      "roughFallow": 31,
+      "seedbed": 55,
+      "establishment": 48,
+      "development": 31,
+      "maturing80": 12,
+      "maturing90": 7,
+      "maturing96": 5
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "winter small grain (winter-wheat, rye, winter-rapeseed as nearest) after fall plowing, residues left, high productivity; spring grain (oats, spring-barley) may use it as the nearest row",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, line 142 ('GRAIN AFTER C, G, GS, COT', 'Winter G after fall TP, RdL', HP), pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.potato",
+    "value": {
+      "roughFallow": 43,
+      "seedbed": 64,
+      "establishment": 56,
+      "development": 36,
+      "maturing80": 26,
+      "maturing90": 19,
+      "maturing96": 16
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "potato, rows running with the slope (no ridging credit)",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5, line 159 ('POTATOES', 'Rows with slope'), pp. 22-24",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.sugar-beet",
+    "value": {
+      "roughFallow": 43,
+      "seedbed": 64,
+      "establishment": 56,
+      "development": 36,
+      "maturing80": 26,
+      "maturing90": 19,
+      "maturing96": 16
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the same period (soil loss ratio; /100 = cover-management C for that period). Cropstage keys (p. 18): roughFallow = plowing to seedbed tillage; seedbed = until 10% canopy; establishment = until 50% canopy; development = until 75% canopy; maturing80/90/96 = until harvest, by final canopy cover %; residue = harvest to next tillage",
+    "appliesTo": "sugar beet: the handbook has no direct data and points to potatoes without the ridging credit, so this is Table 5 line 159",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5-B 'SUGARBEETS: Direct data not available. Probably most nearly comparable to potatoes, without the ridging credit' (p. 26), values from Table 5 line 159",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.meadow",
+    "value": {
+      "grassLegume3to5tHay": 0.4,
+      "grassLegume2to3tHay": 0.6,
+      "grassLegume1tHay": 1.0,
+      "redClover": 1.5,
+      "alfalfa": 2.0,
+      "sweetclover": 2.5
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow, full-year value for an established meadow",
+    "appliesTo": "established perennial forage (alfalfa, red-clover in its full year)",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5-B, 'ESTABLISHED MEADOW, FULL-YEAR PERCENTAGES', p. 26",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.residueCover.maize",
+    "value": {
+      "tilled20": 48,
+      "tilled30": 37,
+      "tilled40": 30,
+      "tilled50": 22,
+      "tilled60": 17,
+      "tilled70": 12,
+      "noTill20": 34,
+      "noTill30": 26,
+      "noTill40": 21,
+      "noTill50": 15,
+      "noTill60": 12,
+      "noTill70": 8
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the residue period (cropstage 4); key = tilled seedbed or no-till + percent of surface covered by residue",
+    "appliesTo": "months between maize harvest and the next tillage or seeding (calendar 'residue' state)",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5-C 'Soil loss ratios (percent) for cropstage 4 when stalks are chopped and distributed without soil tillage', columns 'Corn or Sorghum', mulch cover 20-70%, p. 26 (rows 80-95% left out: the extracted text of those rows is not clear)",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.slr.residueCover.soybean",
+    "value": {
+      "tilled20": 60,
+      "tilled30": 46,
+      "tilled40": 38,
+      "tilled50": 28,
+      "tilled60": 21,
+      "tilled70": 15,
+      "noTillInCornResidue20": 42,
+      "noTillInCornResidue30": 32,
+      "noTillInCornResidue40": 26,
+      "noTillInCornResidue50": 19,
+      "noTillInCornResidue60": 16,
+      "noTillInCornResidue70": 10
+    },
+    "unit": "percent of the soil loss from continuous tilled fallow in the residue period (cropstage 4); key = tillage + percent residue cover",
+    "appliesTo": "months between soybean harvest and the next tillage or seeding",
+    "sourceTitle": "Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 5-C, columns 'Soybeans' (tilled seedbed; no-till in corn residue), mulch cover 20-70%, p. 26",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.ls.slopeLength75ft",
+    "value": {
+      "0.2": 0.075,
+      "0.5": 0.09,
+      "0.8": 0.107,
+      "2": 0.185,
+      "3": 0.264,
+      "4": 0.357,
+      "5": 0.464,
+      "6": 0.583,
+      "8": 0.859,
+      "10": 1.19,
+      "12": 1.56,
+      "14": 1.99,
+      "16": 2.46,
+      "18": 2.97,
+      "20": 3.53
+    },
+    "unit": "topographic factor LS (dimensionless, 1.0 = 72.6 ft unit plot at 9% slope); key = slope percent",
+    "appliesTo": "slope weighting of the erosion indicator; the app does not know slope length, so the team uses the 75 ft column (closest to the unit plot) - a team choice, interpolate between keys",
+    "sourceTitle": "team choice of the 75 ft slope-length column from Wischmeier, W.H. and Smith, D.D. (1978). Predicting Rainfall Erosion Losses: A Guide to Conservation Planning. USDA Agriculture Handbook 537",
+    "sourceUrl": "https://www.ars.usda.gov/ARSUserFiles/60600505/RUSLE/AH_537%20Predicting%20Rainfall%20Soil%20Losses.pdf",
+    "sourceLocator": "Table 3 'Values of the topographic factor, LS, for specific combinations of slope length and steepness', column 'Slope length 75 feet', p. 12",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "erosion.cAnnual.field-pea.pl",
+    "value": 0.15,
+    "unit": "RUSLE/USLE cover-management factor C for the whole year (dimensionless, 1 = bare fallow); one value per crop group, not by crop stage",
+    "appliesTo": "Poland: field pea (crop id field-pea) as a main crop, from the IUNG-PIB group 'Strączkowe' (grain legumes) used in the Poland-wide USLE erosion model; an annual value, not split by crop stage like the erosion.slr.* rows of USDA AH 537",
+    "sourceTitle": "Łopatka A., Koza P., Jadczyszyn J., Stuczyński T. (2011). Ocena ryzyka zagrożenia erozją wodną w Polsce na podstawie modelu USLE. Studia i Raporty IUNG-PIB 27(1), doi:10.26114/sir.iung.2011.27.13",
+    "sourceUrl": "https://iung.pl/sir/zeszyt27_13.pdf",
+    "sourceLocator": "PDF page 5 (printed p. 155), Tabela 1 'Przyjęte wartości współczynnika C', row 'Strączkowe 0,15'; excerpt in data/samples/rules/iung-lopatka-2011-usle-c.txt",
+    "checkedBy": "O4, source opened Sun 15 Nov 2026"
+  },
+  {
+    "id": "erosion.cAnnual.winter-rapeseed.pl",
+    "value": 0.15,
+    "unit": "RUSLE/USLE cover-management factor C for the whole year (dimensionless, 1 = bare fallow); one value per crop group, not by crop stage",
+    "appliesTo": "Poland: winter rapeseed (crop id winter-rapeseed) as a main crop, from the IUNG-PIB group 'Zboża ozime, rzepak ozimy' (winter cereals and winter rapeseed share one value) used in the Poland-wide USLE erosion model; an annual value, not split by crop stage like the erosion.slr.* rows of USDA AH 537",
+    "sourceTitle": "Łopatka A., Koza P., Jadczyszyn J., Stuczyński T. (2011). Ocena ryzyka zagrożenia erozją wodną w Polsce na podstawie modelu USLE. Studia i Raporty IUNG-PIB 27(1), doi:10.26114/sir.iung.2011.27.13",
+    "sourceUrl": "https://iung.pl/sir/zeszyt27_13.pdf",
+    "sourceLocator": "PDF page 5 (printed p. 155), Tabela 1 'Przyjęte wartości współczynnika C', row 'Zboża ozime, rzepak ozimy 0,15'; excerpt in data/samples/rules/iung-lopatka-2011-usle-c.txt",
+    "checkedBy": "O4, source opened Sun 15 Nov 2026"
+  }
+]

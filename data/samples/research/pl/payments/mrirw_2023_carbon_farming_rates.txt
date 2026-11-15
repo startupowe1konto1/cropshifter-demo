@@ -1,0 +1,17 @@
+SOURCE: MRiRW, 'Stawki płatności w ramach ekoschematów obszarowych' (21.02.2024) - rates for campaign 2023 (historic; shows the earlier point allocation)
+URL: https://www.gov.pl/web/rolnictwo/stawki-platnosci-w-ramach-ekoschematow-obszarowych
+RETRIEVED: 2026-11-14
+LOCATOR: section 'Stawki płatności w ramach ekoschematu Rolnictwo węglowe...'
+
+Stawki płatności w ramach ekoschematu „Rolnictwo węglowe i zarządzanie składnikami odżywczymi”
+W przypadku ekoschematu „Rolnictwo węglowe i zarządzanie składnikami odżywczymi” wartość jednego punktu wynosi 103,56 zł.
+Stawki płatności za realizację poszczególnych praktyk w ramach tego ekoschematu zależą od liczby punków na hektar powierzchni obszaru zatwierdzonego do wsparcia i wynoszą, w zależności od praktyki:
+Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt: 5 punktów; 517,80 zł/ha;
+Międzyplony ozime lub wsiewki śródplonowe: 5 punktów; 517,80 zł/ha;
+Opracowanie i przestrzeganie planu nawożenia – wariant podstawowy: 1 punkt; 103,56 zł/ha.
+Opracowanie i przestrzeganie planu nawożenia – wariant z wapnowaniem: 3 punkty; 310,68 zł/ha;
+Zróżnicowana struktura upraw: 3 punkty; 310,68 zł/ha;
+Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji: 2 punkty; 207,12 zł/ha;
+Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo: 3 punkty; 310,68 zł/ha;
+Uproszczone systemy uprawy: 4 punkty; 414,24 zł/ha; 
+Wymieszanie słomy z glebą: 2 punkty; 207,12 zł/ha.

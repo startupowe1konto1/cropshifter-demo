@@ -1,0 +1,12 @@
+Title: What impact will the heat and dry weather have on pollination 2020?
+Author/publisher: Mark Licht, Sotirios Archontoulis; Iowa State University Extension and Outreach, Integrated Crop Management (ICM) blog
+Year: July 8, 2020
+URL: https://crops.extension.iastate.edu/post/what-impact-will-heat-and-dry-weather-have-pollination-2020
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: paragraphs [7]-[8] (oc numbering), first and second paragraphs
+
+Quoted text:
+"Since July 1 high humidity and temperatures have been scorching Iowa."
+"Heat and dry weather are not desired weather conditions in the 2 weeks before or after pollination. This four-week time period is finalizing the kernel number per ear."
+"Heat stress alone typically requires temperature of greater than 95 oF in the absence of moisture stress. Temperature greater than 95 oF along with low relative humidity can cause silk desiccation. Pollen is not killed until temperatures reach above 100 oF, however, the pollen is likely damaged with temperature above the mid-90s."
+"From June 25 to July 7, temperatures in Iowa have not been greater than 95 oF."

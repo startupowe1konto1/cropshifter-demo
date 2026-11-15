@@ -1,0 +1,25 @@
+accession	acronym	title_60	project_type	flight_platform	sub_research_area	doi	license	experimental_tables	modeling_tables	publications	total_size_GB	restricted	release_date
+PSI-10	ACME/Flame Design	Advanced Combustion via Microgravity Experiments / Flame Des	Microgravity Investigation	International Space Station (ISS)	Flames of Gaseous Fuels	10.60555/w4zy-bt45		2	0	33	2180.44	False	20-Nov-2025
+PSI-20	ACME BRE	Advanced Combustion via Microgravity Experiments - Burning R	Microgravity Investigation	International Space Station (ISS)	Flames of Gaseous Fuels	10.60555/vb93-3y72	CC0-1.0	1	0	16	2035.57	False	15-Sep-2022
+PSI-21	ACME CLD Flame	Advanced Combustion via Microgravity Experiments / Coflow La	Microgravity Investigation	International Space Station (ISS)	Flames of gaseous fuel	10.60555/23e1-9950	CC0-1.0	1	0	18	2005.54	False	15-Sep-2023
+PSI-22	ACME E-FIELD Flames	Advanced Combustion via Microgravity Experiments Electric-Fi	Microgravity Investigation	International Space Station (ISS)	Laminar Flames	10.60555/se5a-8c73	CC0-1.0	1	0	25	950.21	False	15-Apr-2019
+PSI-23	ACME s-Flame	Advanced Combustion via Microgravity Experiments-Structure a	Microgravity Investigation	International Space Station (ISS)	Flames of gaseous fuels	10.60555/k57n-p030	CC0-1.0	1	0	44	782.17	False	05-Apr-2018
+PSI-25	BASS-II	Burning and Suppression of Solids - II	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/4qc4-de67	CC0-1.0	1	0	17	274.63	False	31-Dec-2022
+PSI-26	BASS	Burning and Suppression of Solids	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/58h4-dy80	CC0-1.0	1	0	10	163.55	False	30-Jun-2013
+PSI-39	CFI	Cool Flames Investigation	Microgravity Investigation	International Space Station (ISS)	Droplets	10.60555/m6pj-a914	CC0-1.0	1	0	7	718.89	False	18-Sep-2024
+PSI-47	DAFT / DAFT-2	Dust and Aerosol Measurement Feasibility Test / Dust and Aer	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/ztgj-d202	CC0-1.0	1	0	2	0.04	False	01-Jun-2009
+PSI-60		Computational and Experimental Analysis of SPICE Data Sets	Ground Investigation		Gaseous	10.60555/mzjm-yv57	CC0-1.0	0	0	1	0.0	False	30-Sep-2025
+PSI-62		Concurrent Flame Spread Modeling using Flamelet Generated Ma	Ground Investigation		Spacecraft Fire Safety	10.60555/e9xp-ex83	CC0-1.0	0	0	4	0.0	False	14-Nov-2025
+PSI-68	FLEX-2	Flame Extinguishment Experiment - 2	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/byp8-h018	CC0-1.0	1	0	48	1224.75	False	30-Sep-2019
+PSI-69	FLEX	Flame Extinguishment Experiment	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/mbq8-0451	CC0-1.0	1	0	51	923.83	False	31-Jul-2016
+PSI-98	SAFFIRE-I	Spacecraft Fire Safety Experiment-I	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire, Smoke Distribution	10.60555/0t15-1z43	CC0-1.0	1	0	6	12.25	False	18-Sep-2024
+PSI-99	SAFFIRE-II	Spacecraft Fire Experiment-II	Microgravity Investigation	Cygnus Spacecraft	Surface Combustion	10.60555/2chp-m469	CC0-1.0	1	0	7	16.93	False	18-Sep-2024
+PSI-100	SAFFIRE-III	Spacecraft Fire Experiment-III	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/040q-4h36	CC0-1.0	1	0	3	35.21	False	18-Sep-2024
+PSI-101	SAME-R	Smoke Aerosol Measurement Experiment-Reflight	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/2np7-jv14	CC0-1.0	1	0	6	6.31	False	18-Sep-2024
+PSI-102	SAME	Smoke and Aerosol Measurement Experiment	Microgravity Investigation	International Space Station (ISS)	Spacecraft Fire Safety	10.60555/gd4k-8h62	CC0-1.0	1	0	16	0.66	False	18-Sep-2024
+PSI-106	SLICE	Structure and Liftoff In Combustion Experiment	Microgravity Investigation	International Space Station (ISS)		10.60555/pm12-rg61	CC0-1.0	1	0	5	72.91	False	18-Sep-2024
+PSI-107	SPICE	Smoke Point In Co-flow Experiment	Microgravity Investigation	International Space Station (ISS)	Fire Safety	10.60555/9kbh-e962	CC0-1.0	1	0	9	6.95	False	18-Sep-2024
+PSI-115		Utilization of the Smoke Aerosol Measurement Experiment Data	Ground Investigation	Not Applicable	Smoke Aerosol, Combustion Simulation	10.60555/q0v5-1v28	CC0-1.0	0	0	0	0.26	False	18-Sep-2024
+PSI-117		Effect of External Thermo-Convective Perturbation on Cool Fl	Ground Investigation		Droplet	10.60555/gz0q-b577	CC0-1.0	0	0	10	0.07	False	10-Jun-2026
+PSI-142		Quantitative Studies of Cool Flame Transitions at Radiation 	Ground Investigation	Not Applicable	Spacecraft Fire Safety	10.60555/80qf-vj95	CC0-1.0	1	0	12	0.0	False	18-Sep-2024
+PSI-159	ACME CFI-G	Advanced Combustion via Microgravity Experiments / Cool Flam	Microgravity Investigation	International Space Station (ISS)	Flames of Gaseous Fuels	10.60555/cyt1-kh64	CC0-1.0	2	0	2	2085.59	False	20-Nov-2025

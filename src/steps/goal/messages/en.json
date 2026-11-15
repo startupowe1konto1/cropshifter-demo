@@ -1,0 +1,10 @@
+{
+  "steps.goal.question": "What matters most to you?",
+  "steps.goal.keepSoil": "Keep my soil",
+  "steps.goal.keepSoil.hint": "Stay close to what you grow now and do not run the soil down.",
+  "steps.goal.improveSoil": "Improve my soil",
+  "steps.goal.improveSoil.hint": "Build organic matter, hold nitrogen and cut erosion.",
+  "steps.goal.income": "Income",
+  "steps.goal.income.hint": "Rank by what the rotation would have earned on this field, without running the soil down.",
+  "steps.goal.income.noMoney": "Price data not loaded yet. Until it is, rotations are ranked on keeping the soil."
+}

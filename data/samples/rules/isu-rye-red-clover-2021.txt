@@ -1,0 +1,10 @@
+Title: Integrating Rye Seed Production and Red Clover into Corn Systems and Nitrogen Management. Final report to the Leopold Center for Sustainable Agriculture
+Authors: J. Lundvall, C. Martins, J. Sawyer, Iowa State University, 30 June 2021
+URL: https://www.agronext.iastate.edu/soilfertility/info/Final%20Report%20Corn%20N%20with%20Rye-Red%20Clover-ForSFWebSite.pdf
+Opened: 14 Nov 2026 by O3 (PDF read through the session's fetch tool; the shell proxy refuses agronext.iastate.edu, so no raw copy). Used for nitrogen.credit.red-clover.us-ia.
+
+--- p. 7, Corn Phase (see Figure 4) ---
+"The difference in AONR was used to determine N supplied by the clover, at approximately 50 lb N/acre, which reduced the corn optimal N fertilization requirement."
+
+--- p. 9, Conclusions ---
+"supplying an average 50 lb N/acre fertilizer equivalent with minimal to no impact on grain yield of the corn crop."

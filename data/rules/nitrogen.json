@@ -1,0 +1,170 @@
+[
+  {
+    "id": "nitrogen.cornRate.afterSoybean.us-ia",
+    "value": {
+      "mid": 137,
+      "low": 126,
+      "high": 149
+    },
+    "unit": "lb N/acre (x 1.121 = kg N/ha); mid = maximum return to N (MRTN), low-high = profitable range within $1/acre of MRTN, price ratio 0.10 ($0.50/lb N : $5.00/bu corn)",
+    "appliesTo": "Iowa: total N fertilizer for first-year maize after soybean; already includes the soybean effect, so do not subtract a credit from it",
+    "sourceTitle": "Sawyer, J. (2014). Nitrogen Fertilization Rates for Corn Production. ISU Agronomy Extension Soil Fertility, Current Topic, 14 Oct 2014",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/currenttopics/NitrogenFertilizationRates_10-14-2014.pdf",
+    "sourceLocator": "Table 1, row price ratio 0.10, columns 'Corn Following Soybean' Rate 137, Range 126-149 (Corn N Rate Calculator as of 21 Jul 2014), p. 2",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.cornRate.afterCorn.us-ia",
+    "value": {
+      "mid": 190,
+      "low": 178,
+      "high": 201
+    },
+    "unit": "lb N/acre (x 1.121 = kg N/ha); mid = MRTN, low-high = profitable range, price ratio 0.10",
+    "appliesTo": "Iowa: total N fertilizer for maize after maize (continuous corn); the reference against which legume credits are measured",
+    "sourceTitle": "Sawyer, J. (2014). Nitrogen Fertilization Rates for Corn Production. ISU Agronomy Extension Soil Fertility, Current Topic, 14 Oct 2014",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/currenttopics/NitrogenFertilizationRates_10-14-2014.pdf",
+    "sourceLocator": "Table 1, row price ratio 0.10, columns 'Corn Following Corn' Rate 190, Range 178-201, p. 2",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.soybean.us-ia",
+    "value": {
+      "low": 45,
+      "high": 60
+    },
+    "unit": "lb N/acre less N fertilizer needed by maize after soybean than by maize after maize (x 1.121 = kg N/ha)",
+    "appliesTo": "Iowa: nitrogen benefit of soybean to the following maize crop (crop ids: soybean -> maize)",
+    "sourceTitle": "Sawyer, J. (2008). Nitrogen Fertilization for Corn Following Corn. ISU Agronomy Extension Soil Fertility, Current Topic, 19 Mar 2008",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/currenttopics/CC_Nitrogen_3-19-08.pdf",
+    "sourceLocator": "p. 1, Introduction: 'the N fertilizer rate requirement is approximately 45 to 60 lb N/acre higher with CC than SC'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.red-clover.us-ia",
+    "value": 50,
+    "unit": "lb N/acre less N fertilizer needed by the following maize, fertilizer equivalent (x 1.121 = kg N/ha)",
+    "appliesTo": "Iowa: nitrogen supplied by a red clover cover crop to the following maize crop (crop ids: red-clover cover -> maize). Measured in ISU trials where red clover was interseeded into winter rye grown for seed, then maize; the source gives one approximate value, no range",
+    "sourceTitle": "Lundvall, J., Martins, C., Sawyer, J. (2021). Integrating Rye Seed Production and Red Clover into Corn Systems and Nitrogen Management. Final report to the Leopold Center for Sustainable Agriculture, Iowa State University, 30 Jun 2021",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/info/Final%20Report%20Corn%20N%20with%20Rye-Red%20Clover-ForSFWebSite.pdf",
+    "sourceLocator": "p. 7, Corn Phase (Figure 4): 'The difference in AONR was used to determine N supplied by the clover, at approximately 50 lb N/acre, which reduced the corn optimal N fertilization requirement'; p. 9, Conclusions: 'supplying an average 50 lb N/acre fertilizer equivalent'; excerpt in data/samples/rules/isu-rye-red-clover-2021.txt",
+    "checkedBy": "O3, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.creditYears.soybean.us-ia",
+    "value": 1,
+    "unit": "years of maize that receive the soybean benefit",
+    "appliesTo": "Iowa: the soybean benefit applies to the first maize year only; second and third maize years after soybean need the continuous-corn rate",
+    "sourceTitle": "Sawyer, J.E. (2006). Managing Nitrogen for High Corn Yields. Integrated Crop Management Conference, Iowa State University",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/info/ManNitrHighCornYields_2006ICMConf.pdf",
+    "sourceLocator": "p. 3, 'Multiple Years of Corn and Corn Following Various Crops': 'the rotation effect for soil N supply is gone after one corn year'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.cornNeed.afterAlfalfa.us-ia",
+    "value": {
+      "low": 0,
+      "high": 25
+    },
+    "unit": "lb N/acre economic optimum N rate for first-year maize after a forage legume (Iowa studies)",
+    "appliesTo": "Iowa: N fertilizer need of first-year maize after alfalfa (crop ids: alfalfa -> maize)",
+    "sourceTitle": "Sawyer, J.E. (2004). With high fertilizer prices is it business as usual or should fertilization practices change? 2004 Integrated Crop Management Conference, Iowa State University",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/info/highfertilizerprices04icm.pdf",
+    "sourceLocator": "Table 2 'Influence of previous forage legume on subsequent corn N fertilization need', rows Iowa (Voss and Shrader, 1981) optimum 0 lb/acre, 11 site-years, and Iowa (Morris et al., 1993) optimum 25 lb/acre, 29 site-years, p. 172",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.alfalfa.us-ia",
+    "value": {
+      "low": 145,
+      "high": 170
+    },
+    "unit": "lb N/acre less N fertilizer needed by first-year maize after alfalfa than by continuous maize; our subtraction of two numbers in the same paper",
+    "appliesTo": "Iowa: nitrogen benefit of alfalfa to the first following maize crop (crop ids: alfalfa -> maize)",
+    "sourceTitle": "team calculation from Sawyer, J.E. (2004). With high fertilizer prices is it business as usual or should fertilization practices change? 2004 Integrated Crop Management Conference, Iowa State University",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/info/highfertilizerprices04icm.pdf",
+    "sourceLocator": "p. 165: continuous corn 'highest return to N occurs at 170 lb N/acre'; minus first-year corn after alfalfa optimum 0-25 lb N/acre (Table 2, p. 172) = 145-170",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.alfalfaSecondYear.us-ia",
+    "value": {
+      "low": 45,
+      "high": 60
+    },
+    "unit": "lb N/acre, same benefit as soybean gives to first-year maize",
+    "appliesTo": "Iowa: second maize year after alfalfa (c-C-a-a) responds to N like maize after soybean, so it takes the soybean credit row's values",
+    "sourceTitle": "team calculation from Sawyer, J.E. (2006). Managing Nitrogen for High Corn Yields. Integrated Crop Management Conference, Iowa State University",
+    "sourceUrl": "https://www.agronext.iastate.edu/soilfertility/info/ManNitrHighCornYields_2006ICMConf.pdf",
+    "sourceLocator": "p. 3: 'second year corn following alfalfa (c-C-a-a), the N rate response is the same as corn in a C-s rotation'; values from nitrogen.credit.soybean.us-ia",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.field-pea.pl",
+    "value": 25,
+    "unit": "kg N/ha of plant-available N left for the next crop",
+    "appliesTo": "Poland: legume grown alone as a main crop (field pea, crop id field-pea), crop residues ploughed in; subtracted from the next crop's N dose",
+    "sourceTitle": "Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w sprawie \"Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych\" (Dz.U. 2023 poz. 244)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf",
+    "sourceLocator": "Załącznik nr 8, Tabela 13 'Ilość azotu działającego pozostającego po uprawie roślin bobowatych', Dz.U. page 121 (annex page 120); IUNG-PIB IU251 p. 6 names this term Nb in its N dose formula, column 'Bobowate w czystym siewie, plon główny', row 'Przyorane resztki pożniwne' = 25 kg",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.legumeMainCropGreenManure.pl",
+    "value": 50,
+    "unit": "kg N/ha of plant-available N left for the next crop",
+    "appliesTo": "Poland: legume grown alone as a main crop and ploughed in whole as green manure",
+    "sourceTitle": "Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w sprawie \"Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych\" (Dz.U. 2023 poz. 244)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf",
+    "sourceLocator": "Załącznik nr 8, Tabela 13 'Ilość azotu działającego pozostającego po uprawie roślin bobowatych', Dz.U. page 121 (annex page 120); IUNG-PIB IU251 p. 6 names this term Nb in its N dose formula, column 'Bobowate w czystym siewie, plon główny', row 'Przyorane całe rośliny na zielony nawóz' = 50 kg",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.legumeCatchCrop.pl",
+    "value": {
+      "residues": 15,
+      "wholePlant": 20
+    },
+    "unit": "kg N/ha of plant-available N left for the next crop; residues = only crop residues ploughed in, wholePlant = whole catch crop ploughed in as green manure",
+    "appliesTo": "Poland: legume grown alone as a catch crop (międzyplon), e.g. a clover cover crop",
+    "sourceTitle": "Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w sprawie \"Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych\" (Dz.U. 2023 poz. 244)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf",
+    "sourceLocator": "Załącznik nr 8, Tabela 13 'Ilość azotu działającego pozostającego po uprawie roślin bobowatych', Dz.U. page 121 (annex page 120); IUNG-PIB IU251 p. 6 names this term Nb in its N dose formula, column 'Bobowate w czystym siewie, międzyplon': residues 15 kg, whole plants 20 kg",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.legumeMix.pl",
+    "value": {
+      "mainCropResidues": 15,
+      "mainCropWholePlant": 30,
+      "catchCropResidues": 10,
+      "catchCropWholePlant": 15
+    },
+    "unit": "kg N/ha of plant-available N left for the next crop",
+    "appliesTo": "Poland: legumes in a mixture with grasses or cereals, as a main crop or a catch crop",
+    "sourceTitle": "Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w sprawie \"Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych\" (Dz.U. 2023 poz. 244)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf",
+    "sourceLocator": "Załącznik nr 8, Tabela 13 'Ilość azotu działającego pozostającego po uprawie roślin bobowatych', Dz.U. page 121 (annex page 120); IUNG-PIB IU251 p. 6 names this term Nb in its N dose formula, columns 'Bobowate w mieszankach z trawami lub zbożami': plon główny 15 / 30 kg, międzyplon 10 / 15 kg (residues / whole plants)",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.credit.sugar-beet-leaves.pl",
+    "value": 25,
+    "unit": "kg N/ha of plant-available N left for the next crop",
+    "appliesTo": "Poland: sugar beet (crop id sugar-beet) when its leaves are ploughed in",
+    "sourceTitle": "Rozporządzenie Rady Ministrów z dnia 31 stycznia 2023 r. w sprawie \"Programu działań mających na celu zmniejszenie zanieczyszczenia wód azotanami pochodzącymi ze źródeł rolniczych\" (Dz.U. 2023 poz. 244)",
+    "sourceUrl": "https://api.sejm.gov.pl/eli/acts/DU/2023/244/text.pdf",
+    "sourceLocator": "Załącznik nr 8, Tabela 13 'Ilość azotu działającego pozostającego po uprawie roślin bobowatych', Dz.U. page 121 (annex page 120); IUNG-PIB IU251 p. 6 names this term Nb in its N dose formula, column 'Przyorane liście roślin korzeniowych', row 'Przyorane resztki pożniwne' = 25 kg",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "nitrogen.mineralFertilizerUse.pl",
+    "value": 0.7,
+    "unit": "share (0-1) of mineral fertilizer N used by the crop on arable land",
+    "appliesTo": "Poland: divisor in the N dose formula Nnm = [yield x N uptake - (Ndorg + Ng + Nb)] / 0.7; Nb is the legume credit above",
+    "sourceTitle": "Jadczyszyn T., Lipiński W., Kowalczyk J. (2025). Nawożenie na gruntach ornych i trwałych użytkach zielonych. IUNG-PIB / KSChR, IU251",
+    "sourceUrl": "https://www.iung.pl/wp-content/uploads/2025/04/IU251.pdf",
+    "sourceLocator": "p. 6, formula for Nnm and the note 'wartość 0,7 - wykorzystanie azotu z nawozów mineralnych na gruntach ornych'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  }
+]

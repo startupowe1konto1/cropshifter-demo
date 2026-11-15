@@ -1,0 +1,11 @@
+Title: Frost Damage to Soybeans
+Author/publisher: Charles R. Hurburgh, Rebecca Vittetoe, Meaghan Anderson; Iowa State University Extension and Outreach, Integrated Crop Management (ICM) blog
+Year: October 17, 2019
+URL: https://crops.extension.iastate.edu/post/frost-damage-soybeans
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: paragraphs 1-3 of the article
+
+Quoted text:
+"Temperatures fell into the low 30's and upper 20's in most of Iowa over the weekend of October 11-13. Because of the very late planting season, some crops were immature enough to be injured by the freezing temperatures."
+"Temperatures below 32°F can damage soybean leaves, and temperatures below 30°F for an extended time periods can damage the stems, pods, and seeds. A killing freeze is considered to be 28°F for soybeans."
+"Soybean fields with at least one mature pod on the main stem of each plant (R7 growth stage) are likely to be minimally affected by frost. Soybean plants with green pods will be more affected by frost."

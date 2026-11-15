@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "retrievedAt": "2026-11-14",
+    "script": "scripts/cropscape_history.py",
+    "sourceUrl": "https://nassgeodata.gmu.edu/axis2/services/CDLService/GetCDLValue"
+  },
+  "datasetId": "usda-cropscape",
+  "fields": {
+    "demo-iowa": {
+      "centroid": {
+        "lat": 42.0305,
+        "lon": -93.497
+      },
+      "x5070": 205798.8,
+      "y5070": 2117034.5,
+      "years": [
+        {
+          "year": 2016,
+          "crop": "maize",
+          "cdlCode": 1,
+          "cdlName": "Corn",
+          "source": "cropscape"
+        },
+        {
+          "year": 2017,
+          "crop": "soybean",
+          "cdlCode": 5,
+          "cdlName": "Soybeans",
+          "source": "cropscape"
+        },
+        {
+          "year": 2018,
+          "crop": "maize",
+          "cdlCode": 1,
+          "cdlName": "Corn",
+          "source": "cropscape"
+        },
+        {
+          "year": 2019,
+          "crop": "soybean",
+          "cdlCode": 5,
+          "cdlName": "Soybeans",
+          "source": "cropscape"
+        },
+        {
+          "year": 2020,
+          "crop": "maize",
+          "cdlCode": 1,
+          "cdlName": "Corn",
+          "source": "cropscape"
+        },
+        {
+          "year": 2021,
+          "crop": "soybean",
+          "cdlCode": 5,
+          "cdlName": "Soybeans",
+          "source": "cropscape"
+        },
+        {
+          "year": 2022,
+          "crop": "maize",
+          "cdlCode": 1,
+          "cdlName": "Corn",
+          "source": "cropscape"
+        },
+        {
+          "year": 2023,
+          "crop": "soybean",
+          "cdlCode": 5,
+          "cdlName": "Soybeans",
+          "source": "cropscape"
+        },
+        {
+          "year": 2024,
+          "crop": "maize",
+          "cdlCode": 1,
+          "cdlName": "Corn",
+          "source": "cropscape"
+        },
+        {
+          "year": 2025,
+          "crop": "soybean",
+          "cdlCode": 5,
+          "cdlName": "Soybeans",
+          "source": "cropscape"
+        }
+      ]
+    }
+  }
+}

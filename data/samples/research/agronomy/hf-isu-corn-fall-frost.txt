@@ -1,0 +1,11 @@
+Title: Harvest consideration for frost killed corn
+Author/publisher: Mark Licht, Charles R. Hurburgh; Iowa State University Extension and Outreach, Integrated Crop Management (ICM) blog
+Year: October 7, 2019
+URL: https://crops.extension.iastate.edu/post/harvest-consideration-frost-killed-corn
+Date opened: 14 Nov 2026 (read with the oc CLI)
+Locator: paragraphs [7] and [9] (oc numbering), first and third paragraphs of the body
+
+Quoted text:
+"A portion of Iowa's corn crop is likely to experience a frost before naturally reaching maturity as a result of cool temperatures later this week. Natural maturity is often determined when a black layer is formed at the kernel tip. At this timeframe grain moisture is typically 28-35% moisture."
+"A light frost of greater than 28 oF for only a couple hours may kill some leaves, especially in the upper canopy. A freeze of 28 oF or less for a couple hours will result in whole plant death."
+"Grain yield decreases more the earlier a killing frost occurs (ranges from 12% in late dent up to 41% at beginning dent stage). Yield losses are also less when only leaves are killed (ranges from 6% in late dent up to 27% at beginning dent stage)."

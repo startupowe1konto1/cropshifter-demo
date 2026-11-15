@@ -1,0 +1,52 @@
+# Excerpt (pdftotext -layout) of https://www.iung.pl/wp-content/uploads/2025/04/IU251.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 7
+
+=== PDF page 7 ===
+          Nnm (kg/ha) = [plon (t/ha) x pobranie N (kg/t) – (Ndorg + Ng + Nb)]/0,7
+
+gdzie:
+ • Nnm – dawka N w nawozach mineralnych;
+ • Ndorg – ilość N działającego w nawozach naturalnych i organicznych;
+ • Ng – ilość N mineralnego działającego w glebie;
+ • Nb – ilość N działającego pozostawionego po przedplonach bobowatych;
+ • wartość 0,7- wykorzystanie azotu z nawozów mineralnych na gruntach ornych
+      (na trwałych użytkach zielonych przyjmuje się wartość 0,8).
+    W gospodarstwach o mniejszej skali produkcji (do 100 ha UR i do 60 DJP
+średniorocznie) nie ma obowiązku opracowania planu nawożenia w sposób omówiony
+powyżej, ale nawozy zawierające azot muszą być stosowane w taki sposób, aby
+całkowita ilość wnoszonego składnika nie przekroczyła maksymalnej ilości dla
+danego gatunku (tab. 3). Ilości azotu zamieszczone w tabeli 3 nie oznaczają dawek
+nawozów mineralnych azotowych. Należy je pomniejszyć o ilość składnika działającego
+w zastosowanych nawozach naturalnych i organicznych, przedplonach bobowatych
+i z gleby.
+    Z uwagi na brak niektórych gatunków roślin w tabeli 3, przy ustalaniu dawek
+N, należy wykorzystać wartości podane dla roślin o podobnych wymaganiach
+nawozowych.
+
+    Tabela 3. Maksymalne ilości azotu działającego ze wszystkich źródeł dla upraw w plonie
+     głównym (N w kg/ha) dla plonów uzyskiwanych w warunkach uregulowanego odczynu
+              gleby, zbilansowanego nawożenia azotem, fosforem i potasem (NPK)
+                             i stosowania integrowanej ochron roślin
+                                                     Maksymalne ilości azotu działającego
+    Rodzaj uprawy
+                                                       ze wszystkich źródeł (N kg/ha)
+                                             Zboża
+    Gryka                                                            100
+    Jęczmień jary browarny                                           80
+    Jęczmień jary pastewny                                           140
+    Jęczmień ozimy                                                   140
+    Kukurydza na ziarno                                              240
+    Mieszanki zbożowe na ziarno                                      140
+    Mieszanki zbożowo-strączkowe na ziarno                           100
+    Owies                                                            120
+    Pszenica jara                                                    160
+    Pszenica ozima                                                   200
+    Pszenżyto                                                        180
+    Żyto populacyjne                                                 120
+    Żyto mieszańcowe                                                 150
+
+
+
+
+6
+

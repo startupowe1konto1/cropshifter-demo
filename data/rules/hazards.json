@@ -1,0 +1,111 @@
+[
+  {
+    "id": "hazards.drought.percentile",
+    "value": 20,
+    "unit": "percentile of the field's own root-zone wetness (NASA POWER GWETROOT) for the same calendar month, all years of the record (D42)",
+    "appliesTo": "drought check for every crop in its sensitive months; a month below this percentile counts as drought",
+    "sourceTitle": "borrowed from U.S. Drought Monitor, Drought Classification",
+    "sourceUrl": "https://droughtmonitor.unl.edu/About/AbouttheData/DroughtClassification.aspx",
+    "sourceLocator": "table 'Percentile Range for Most Indicators': D1 Moderate Drought = 10.01 to 20.00, listed next to SPI/SPEI values. The Drought Monitor applies percentiles to its own indicators; applying the D1 bound to NASA POWER root-zone wetness (GWETROOT) is our mapping. Same calendar month (D42): WMO SPI User Guide (WMO-No. 1090, 2012), PDF p. 13, 'a 1-month SPI at the end of November compares ... November in that particular year with the November precipitation totals of all the years on record'; excerpt in data/samples/rules/wmo-spi-user-guide-2012.txt",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.drought.indicator",
+    "value": "GWETROOT",
+    "unit": "NASA POWER parameter id",
+    "appliesTo": "drought check",
+    "sourceTitle": "NASA POWER parameter dictionary (community AG, monthly)",
+    "sourceUrl": "https://power.larc.nasa.gov/api/system/manager/parameters?community=AG&parameters=FROST_DAYS,T2M_MAX,GWETROOT&temporal=monthly",
+    "sourceLocator": "GWETROOT 'Root Zone Soil Wetness': proportion of water in the upper 1 m of soil, 0 dry to 1 saturated",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.heat.indicator",
+    "value": "T2M_MAX",
+    "unit": "NASA POWER parameter id, °C, read daily",
+    "appliesTo": "heat check against each crop's own threshold in data/crops: days of the month whose daily maximum is above the threshold are counted (D43, hazards.heat.minDays)",
+    "sourceTitle": "NASA POWER parameter dictionary (community AG, daily)",
+    "sourceUrl": "https://power.larc.nasa.gov/api/system/manager/parameters?community=AG&parameters=T2M_MAX&temporal=daily",
+    "sourceLocator": "T2M_MAX 'Temperature at 2 Meters Maximum', units C, temporal DAILY: 'The maximum hourly air (dry bulb) temperature at 2 meters above the surface of the earth in the period of interest' (data/samples/power/parameters-tmax-daily.json); the daily point API returns one value per day (data/samples/power/point-daily-tmax-2023-2024-ag.json)",
+    "checkedBy": "O1, sample saved Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.heat.minDays",
+    "value": 3,
+    "unit": "days per month with daily T2M_MAX above the crop's heat threshold",
+    "appliesTo": "heat check for every crop and the field summary: a month counts as a heat month when at least this many days pass the threshold (D43)",
+    "sourceTitle": "Steduto et al. (eds.), Crop yield response to water, FAO Irrigation and Drainage Paper 66, FAO 2012 (barley chapter)",
+    "sourceUrl": "https://www.fao.org/4/i2800e/i2800e.pdf",
+    "sourceLocator": "book p. 139 (PDF p. 154): high temperatures above 30-32 °C shorten grain filling; 'The effect is noticeable even if periods of high temperature are short (even only 3 days).' Second source for field pea: Saskatchewan Pulse Growers, 'A few days of heat above 29°C in the field causes flower and young pod abortion'. Team rule: one value for all crops (D43); excerpts in data/samples/research/agronomy/hf-fao66-crop-chapters.txt and hf-saskpulse-pea-heat.txt",
+    "checkedBy": "O1, team rule on the saved excerpts, Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.frost.indicator",
+    "value": "FROST_DAYS",
+    "unit": "NASA POWER parameter id, days per month",
+    "appliesTo": "frost check against each crop's own threshold in data/crops",
+    "sourceTitle": "NASA POWER parameter dictionary (community AG, monthly)",
+    "sourceUrl": "https://power.larc.nasa.gov/api/system/manager/parameters?community=AG&parameters=FROST_DAYS,T2M_MAX,GWETROOT&temporal=monthly",
+    "sourceLocator": "FROST_DAYS 'Frost Days': 2 m temperature cools to the dew point and both are below 0 °C",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.calendar.markShare",
+    "value": 0.2,
+    "unit": "share of years (0-1)",
+    "appliesTo": "calendar strip: a month cell gets a hazard mark when the crop in the ground is sensitive and the hazard occurred in more than this share of years",
+    "sourceTitle": "team rule of thumb",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/SPEC.md",
+    "sourceLocator": "SPEC section 8, calendar strip; value set by the team, shown on screen as a rule of thumb",
+    "checkedBy": "O4, team rule"
+  },
+  {
+    "id": "hazards.gaez.notSuitableBelowSI",
+    "value": 10,
+    "unit": "GAEZ v4 crop suitability index (SI), scale 0-100; the check is \"at or below\"",
+    "appliesTo": "crops with SI at or below this value at the field (classes 'Very marginal', 'Not suitable', 'No cultivation') are excluded before scoring; the id keeps 'Below' because the engine reads it",
+    "sourceTitle": "FAO GAEZ v4 res05 ImageServer legend, renderer 'Crop Suitability Index in Classes - All Land in Grid Cell'",
+    "sourceUrl": "https://gaez-services.fao.org/server/rest/services/res05/ImageServer/legend?f=json",
+    "sourceLocator": "legend classes: 'SI > 10 : Marginal', 'SI > 0 : Very marginal', 'Not suitable'; SPEC section 7 excludes below 'Marginal'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.gaez.classes",
+    "value": {
+      "veryHigh": 75,
+      "high": 63,
+      "good": 50,
+      "medium": 35,
+      "moderate": 20,
+      "marginal": 10,
+      "veryMarginal": 0,
+      "notSuitable": 0
+    },
+    "unit": "lower SI bound per GAEZ class, scale 0-100, exclusive ('SI > bound'); notSuitable means SI = 0. Labels: veryHigh 'Very high', high 'High', good 'Good', medium 'Medium', moderate 'Moderate', marginal 'Marginal', veryMarginal 'Very marginal', notSuitable 'Not suitable'",
+    "appliesTo": "labels for GAEZ suitability on cards and in gaps. Where GAEZ ships a class raster (data/precomputed/gaez.json suitabilityClass), that class wins: it comes from the suitability distribution in the grid cell (GAEZ v4 Model Documentation, Table 7-4) and can differ from these bounds applied to the average index",
+    "sourceTitle": "FAO GAEZ v4 res05 ImageServer legend, renderer 'Crop Suitability Index in Classes - All Land in Grid Cell'",
+    "sourceUrl": "https://gaez-services.fao.org/server/rest/services/res05/ImageServer/legend?f=json",
+    "sourceLocator": "legend labels 'SI > 75 : Very high' ... 'SI > 0 : Very marginal'",
+    "checkedBy": "O4, source opened Sat 14 Nov 2026"
+  },
+  {
+    "id": "hazards.heat.generalThresholdC",
+    "value": 35,
+    "unit": "°C, daily maximum 2 m air temperature (NASA POWER daily T2M_MAX); a month with at least hazards.heat.minDays days above this counts as a heat month",
+    "appliesTo": "field summary and calendar for months without a crop-specific threshold; crops in data/crops carry their own thresholds, which win",
+    "sourceTitle": "team rule of thumb",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D26: one crop-independent value, team rule of thumb. Matches the crop thresholds already sourced in data/crops (maize, soybean, potato 35 °C; winter wheat 34 °C)",
+    "checkedBy": "O4, team rule"
+  },
+  {
+    "id": "hazards.frost.generalThresholdDays",
+    "value": 10,
+    "unit": "frost days per month (NASA POWER FROST_DAYS); a month with more than this counts as a frost month",
+    "appliesTo": "field summary and calendar for months without a crop-specific threshold; crops in data/crops carry their own thresholds, which win",
+    "sourceTitle": "team rule of thumb",
+    "sourceUrl": "https://github.com/startupowe1konto1/nasa-space-apps-hackathon/blob/main/docs/DECISIONS.md",
+    "sourceLocator": "D26 and #79 item 7: one crop-independent value, team rule of thumb. 0 marked every April in Iowa as a frost month (NASA POWER, Ames 1981-2025: April has frost days in 45 of 45 years). More than 10 frost days (a third of the month) separates frosty springs: April in 14 of 45 years at Ames and 6 of 45 at the Poznań field; March stays a frost month in most years at both. Crop rows in data/crops keep their own stage limits (R10), which win",
+    "checkedBy": "O4, team rule"
+  }
+]

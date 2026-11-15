@@ -1,0 +1,25 @@
+Title: Rzepak / Rapeseed. Przewodnik Rolnictwa Regeneratywnego / CEE Regenerative Agriculture Guidebook (PL/EN)
+Author/publisher: dr Marcin Markowicz; dr hab. Anna Tratwal, prof. IOR-PIB; Fundacja Terra Nostra, EIT Food
+Year: 2023 (imprint "Poznań 2023")
+URL: https://assets.eitfood.eu/files/1-RZEPAK-RAPESEED_Przewodnik-Rolnictwa-Regeneratywnego_EIT_FUNDACJA-TERRANOSTRA_RZEPAK-RAPESEED-PL-EN-A4-2.pdf
+Date opened: 14 Nov 2026
+Locator: PDF page 7 (Polish text, section on thermal requirements); PDF page 29 (English version of the same paragraph)
+Note: NGO/EIT guide co-authored by an IOR-PIB professor; cites Muśnicki 2003. Not an IUNG/COBORU primary document.
+
+--- PDF page 7 (PL) ---
+"Optymalna temperatura powietrza do wschodów rzepaku ozimego mieści się w granicach 16-18 °C."
+"Odpowiednio zahartowane rośliny rzepaku bez większych strat przechodzą okres zimowego spoczynku
+z temperaturami powietrza do - 15°C bez okrywy śnieżnej. Jeżeli warstwa śniegu wynosi 5-10 cm,
+to rośliny rzepaku przetrzymują temperatury do -20 °C. Odporność roślin na niskie temperatury
+wzrasta do połowy stycznia, po czym powoli maleje. Wrażliwość roślin zwiększa się wówczas, gdy zimą
+okres mrozów przerywany jest nawrotami ciepła, rośliny rozhartowują się i łatwo przemarzają po
+ponownym wystąpieniu mrozów."
+"Tylko siew rzepaku ozimego w agrotechnicznie optymalnym terminie pozwala na [...] prawidłowe
+wykształcenie rozety liściowej, która jest warunkiem koniecznym do właściwego przebiegu procesu hartowania."
+EN gloss: hardened plants survive -15 °C air without snow, -20 °C under 5-10 cm snow; hardiness rises until mid-January then declines; thaws de-harden plants.
+
+--- PDF page 29 (EN) ---
+"Properly hardened rapeseed plants go through the period of winter dormancy without major losses
+when temperatures are down to -15°C and there is no snow cover. If the snow layer is 5-10 cm,
+rapeseed plants withstand temperatures down to -20°C. Their resistance to low temperatures increases
+until mid-January, and then slowly decreases."

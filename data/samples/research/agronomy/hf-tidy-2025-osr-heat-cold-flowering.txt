@@ -1,0 +1,15 @@
+Title: Large scale phenotyping on the effect of heat and cold stress on Brassica napus during floral development
+Author/publisher: Tidy A.C., Siles-Suarez L., Jacott C., Wells R., Kurup S., Wilson Z.A.; Plant Stress 17, 100957 (Elsevier, CC BY), via Rothamsted Repository
+Year: 2025
+URL: https://repository.rothamsted.ac.uk/id/eprint/33546/1/Tidy%20et%20al%202025%20Plant%20Stress.pdf
+Date opened: 14 Nov 2026
+Locator: PDF page 3, Introduction (paragraphs on chilling and heat stress); Fig. 1 caption
+Note: peer-reviewed, open access. Thresholds are literature summary (Angadi et al. 2000; Elferjani & Soolanayakanahally 2018; Lohani et al. 2022), not a Polish recommendation. No frost-at-flowering number in °C.
+
+"Chilling stress during flowering can induce flower abortion, pollen and ovule infertility [...] leading to lower yields"
+"Early morning frosts and cold snaps can damage both vegetative and reproductive OSR organs"
+"OSR is also extremely sensitive to heat stress, particularly during the reproductive stages"
+"every 1 ◦C temperature increase from the optimum causes a 10 % yield reduction in OSR (Nuttall et al., 1992)"
+"Various studies have indicated that high-temperature stress can occur at >25 ◦C in OSR, with >29 ◦C leading to
+>50 % reduction in seed yield (Angadi et al., 2000; Elferjani and Soolanayakanahally, 2018; Lohani et al., 2022)."
+Fig. 1 caption: "Flowering (GS6) plants were subjected to a 3 day control, heat (35 ◦C) or cold stress (6 ◦C)"

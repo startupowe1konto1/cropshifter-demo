@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "retrievedAt": "2026-11-14",
+    "script": "scripts/soil_point.py",
+    "sourceUrl": "https://sdmdataaccess.sc.egov.usda.gov/Tabular/post.rest"
+  },
+  "fields": {
+    "demo-iowa": {
+      "centroid": {
+        "lat": 42.0305,
+        "lon": -93.497
+      },
+      "datasetId": "usda-ssurgo",
+      "depthCm": "0-30",
+      "mapUnit": {
+        "mukey": "2922031",
+        "name": "Canisteo clay loam, Bemis moraine, 0 to 2 percent slopes",
+        "components": [
+          {
+            "name": "Canisteo",
+            "pct": 85.0
+          },
+          {
+            "name": "Okoboji",
+            "pct": 8.0
+          },
+          {
+            "name": "Webster",
+            "pct": 5.0
+          },
+          {
+            "name": "Harps",
+            "pct": 2.0
+          }
+        ]
+      },
+      "sandPct": {
+        "value": 27.0,
+        "low": 16.4,
+        "high": 36.1
+      },
+      "clayPct": {
+        "value": 30.0,
+        "low": 27.2,
+        "high": 35.7
+      },
+      "organicCarbonPct": {
+        "value": 3.75,
+        "low": 1.96,
+        "high": 5.12
+      },
+      "ph": {
+        "value": 7.5,
+        "low": 7.2,
+        "high": 7.7
+      },
+      "rangeBasis": "SSURGO low and high columns (_l, _h), aggregated like the representative value",
+      "organicCarbonNote": "SSURGO organic matter divided by 1.724",
+      "sourceUrl": "https://sdmdataaccess.sc.egov.usda.gov/Tabular/post.rest"
+    },
+    "demo-poznan": {
+      "centroid": {
+        "lat": 52.45,
+        "lon": 17.1
+      },
+      "datasetId": "isric-soilgrids",
+      "depthCm": "0-30",
+      "sandPct": {
+        "value": 71.4,
+        "low": 50.3,
+        "high": 88.8
+      },
+      "clayPct": {
+        "value": 10.0,
+        "low": 1.3,
+        "high": 27.5
+      },
+      "organicCarbonPct": {
+        "value": 2.67,
+        "low": 0.38,
+        "high": 7.95
+      },
+      "ph": {
+        "value": 6.0,
+        "low": 4.1,
+        "high": 7.9
+      },
+      "rangeBasis": "SoilGrids 5% and 95% quantiles, depth-weighted like the mean (an approximation of the 0-30 cm interval)",
+      "sourceUrl": "https://rest.isric.org/soilgrids/v2.0/properties/query"
+    }
+  }
+}

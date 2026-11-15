@@ -1,0 +1,65 @@
+# Excerpt (pdftotext -layout) of https://iung.pl/wp-content/uploads/2013/01/1.5-PIB-2014.pdf
+# Downloaded Sat 14 Nov 2026 by O4 for data/rules. Pages: 4 5
+
+=== PDF page 4 ===
+Przegląd danych literaturowych dotyczących bilansu i akumulacji glebowej materii
+                                  organicznej
+
+   Współczynniki reprodukcji i degradacji glebowej substancji organicznej
+                [Kodeks Dobrej Praktyki Rolniczej, 2004]
+
+                                                Współczynniki reprodukcji (+)
+            Roślina,
+                                                  lub degradacji (-) dla gleb
+           nawożenie       Jednostka
+                                                                                czarne
+           organiczne                  lekkie        średnie          ciężkie
+                                                                                ziemie
+            Okopowe          1ha       -1,26          -1,40           -1,54     -1,02
+           Kukurydza         1ha       -1,12          -1,15           -1,22     -0,91
+          Zboża, oleiste     1ha       -0,49          -0,53           -0,56     -0,38
+           Strączkowe        1ha       +0,32          +0,35           +0,38     +0,38
+          Trawy w polu       1ha       +0,95          +1,05           +1,16     +1,16
+           Motylkowe,
+                             1ha       +1,89          +1,96           +2,10     +2,10
+           mieszanki
+            Obornik          10 t                             +0,70
+           Gnojowica         10 t                             +0,28
+             Słoma           10 t                             +1,80
+
+=== PDF page 5 ===
+ Przeliczniki dla zmian zapasów glebowej materii organicznej w kg C próchnicy/ha/rok dla
+różnych upraw wg VDLUFA (za Pikuła. 2013. Aktualne trendy w gospodarowaniu glebową
+                     materią organiczną, SiR IUNG-PIB, z. 34: 91-106)
+Gatunki roślin                                              kg C próchnicy ·h-1                Grupa 1. Kalafiory, brokuły, kapusta
+                                                           (-) strata lub (+) zysk          chińska, ogórki, seler naciowy, dynia, pory,
+                                                   Dolne wartości          Górne wartości                 rabarbar, kapusta
+Buraki pastewne i cukrowe                              - 700                    - 1300        czerwona, pomidory palikowe, kapusta
+Ziemniaki i 1 grupa warzyw*                            - 760                    - 1000                  biała, cukinia, melony
+Kukurydza na ziarno i silos, 2 grupa warzyw,           -560                      - 800        Grupa 2. Cykoria korzeniowa, czosnek,
+przyprawy, rośliny lecznicze                                                                rzepa, marchew, chrzan, papryka, pasternak
+                                                                                                              skorzonera,
+Zboża łącznie z roślinami oleistymi i                  - 280                  - 400
+                                                                                                  słonecznik, kukurydza cukrowa
+włóknistymi, słonecznik i 3 grupa warzyw, ziół i
+                                                                                             Grupa 3. Pietruszka, fasola, koper, sałata
+roślin leczniczych
+                                                                                             endywia, sałata lodowa, estragon, groszek,
+Strączkowe na ziarno                                    +160                  +240                       chmiel, dziurawiec,
+Trawy w uprawie polowej, motylkowate w                                                          kalarepa, kminek, majeranek, rośliny
+czystym siewie lub z trawami, nasienne plantacje                                               oleiste, mięta, rzodkiew i rzodkiewka,
+i 4 grupa warzyw                                                                                      chrzan, buraki ćwikłowe ,
+- w głównym roku użytkowania                            +600                  +800             szpinak, tytoń, pietruszka korzeniowa,
+-przy wysiewie wiosennym                                +400                  +500                          melisa, cebula.
+- jako poplon                                           +300                  +400               Grupa 4. Różne gatunki koniczyny
+-jako wsiewka                                           +200                  +300
+-przy wysiewie letnim                                   +100                  +150
+Rośliny poplonowe
+Poplony ozime                                           +120                  +160
+Mieszanki jare                                          +80                   +120
+ugory                                                   +200                  +300
+Wsiewki pozostawione: jesienią                          +180                  +180
+Wiosną                                                  +80                   +80
+Obsiew jako ugór na 2 lata                              +700                  +700
+Obsiew jako ugór na 1 rok                               +400                  +400
+

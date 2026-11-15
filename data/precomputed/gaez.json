@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "retrievedAt": "2026-11-14",
+    "script": "scripts/gaez_suitability.py",
+    "sourceUrl": "https://gaez-services.fao.org/server/rest/services/res05/ImageServer"
+  },
+  "datasetId": "fao-gaez-v4",
+  "variant": "rain-fed, high input; 1981-2010 baseline climate; future periods with CO2 fertilization",
+  "classNote": "suitabilityClass is the GAEZ class raster (si, from the suitability distribution in the grid cell); suitabilityIndex is the average index of the grid cell (sx). They can disagree with the legend bounds.",
+  "fields": {
+    "demo-iowa": {
+      "centroid": {
+        "lat": 42.0305,
+        "lon": -93.497
+      },
+      "crops": {
+        "maize": {
+          "gaezCrop": "Maize",
+          "period": "1981-2010",
+          "suitabilityIndex": 100.0,
+          "suitabilityClass": "Very high",
+          "classCode": 1,
+          "attainableYieldKgHa": 10912,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "soybean": {
+          "gaezCrop": "Soybean",
+          "period": "1981-2010",
+          "suitabilityIndex": 100.0,
+          "suitabilityClass": "Very high",
+          "classCode": 1,
+          "attainableYieldKgHa": 5578,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "oats": {
+          "gaezCrop": "Oat",
+          "period": "1981-2010",
+          "suitabilityIndex": 100.0,
+          "suitabilityClass": "Very high",
+          "classCode": 1,
+          "attainableYieldKgHa": 4678,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "winter-wheat": {
+          "gaezCrop": "Wheat",
+          "period": "1981-2010",
+          "suitabilityIndex": 100.0,
+          "suitabilityClass": "Very high",
+          "classCode": 1,
+          "attainableYieldKgHa": 9647,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "alfalfa": {
+          "gaezCrop": "Alfalfa",
+          "period": "1981-2010",
+          "suitabilityIndex": 77.8,
+          "suitabilityClass": "High",
+          "classCode": 2,
+          "attainableYieldKgHa": 18710,
+          "attainableYieldUnit": "kg DW/ha (GAEZ gives 10 kg DW/ha; multiplied by 10)"
+        },
+        "cereal-rye": {
+          "gaezCrop": "Rye",
+          "period": "1981-2010",
+          "suitabilityIndex": 100.0,
+          "suitabilityClass": "Very high",
+          "classCode": 1,
+          "attainableYieldKgHa": 5897,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "red-clover": {
+          "gaezCrop": null,
+          "period": "1981-2010",
+          "suitabilityIndex": null,
+          "suitabilityClass": null,
+          "classCode": null,
+          "attainableYieldKgHa": null,
+          "missingReason": "GAEZ v4 has no crop for red clover"
+        }
+      },
+      "future": {
+        "2041-2070 RCP4.5": {
+          "maize": {
+            "gaezCrop": "Maize",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 96.9,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 11322,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "soybean": {
+            "gaezCrop": "Soybean",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 5340,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "oats": {
+            "gaezCrop": "Oat",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 5067,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "winter-wheat": {
+            "gaezCrop": "Wheat",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 9438,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "alfalfa": {
+            "gaezCrop": "Alfalfa",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 96.9,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 20620,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha (GAEZ gives 10 kg DW/ha; multiplied by 10)"
+          },
+          "cereal-rye": {
+            "gaezCrop": "Rye",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 6112,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "red-clover": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for red clover"
+          }
+        },
+        "2041-2070 RCP8.5": {
+          "maize": {
+            "gaezCrop": "Maize",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 92.4,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 10697,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "soybean": {
+            "gaezCrop": "Soybean",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 5449,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "oats": {
+            "gaezCrop": "Oat",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 5102,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "winter-wheat": {
+            "gaezCrop": "Wheat",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 95.5,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 8873,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "alfalfa": {
+            "gaezCrop": "Alfalfa",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 20740,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha (GAEZ gives 10 kg DW/ha; multiplied by 10)"
+          },
+          "cereal-rye": {
+            "gaezCrop": "Rye",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 100.0,
+            "suitabilityClass": "Very high",
+            "classCode": 1,
+            "attainableYieldKgHa": 5789,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "red-clover": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for red clover"
+          }
+        }
+      }
+    },
+    "demo-poznan": {
+      "centroid": {
+        "lat": 52.45,
+        "lon": 17.1
+      },
+      "crops": {
+        "winter-wheat": {
+          "gaezCrop": "Wheat",
+          "period": "1981-2010",
+          "suitabilityIndex": 67.2,
+          "suitabilityClass": "Good",
+          "classCode": 3,
+          "attainableYieldKgHa": 4260,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "winter-rapeseed": {
+          "gaezCrop": "Rapeseed",
+          "period": "1981-2010",
+          "suitabilityIndex": 60.0,
+          "suitabilityClass": "Good",
+          "classCode": 3,
+          "attainableYieldKgHa": 2450,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "maize": {
+          "gaezCrop": "Maize",
+          "period": "1981-2010",
+          "suitabilityIndex": 46.3,
+          "suitabilityClass": "Medium",
+          "classCode": 4,
+          "attainableYieldKgHa": 3764,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "spring-barley": {
+          "gaezCrop": "Barley",
+          "period": "1981-2010",
+          "suitabilityIndex": 51.1,
+          "suitabilityClass": "Medium",
+          "classCode": 4,
+          "attainableYieldKgHa": 3992,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "rye": {
+          "gaezCrop": "Rye",
+          "period": "1981-2010",
+          "suitabilityIndex": 61.3,
+          "suitabilityClass": "Good",
+          "classCode": 3,
+          "attainableYieldKgHa": 3394,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "field-pea": {
+          "gaezCrop": "Dry pea",
+          "period": "1981-2010",
+          "suitabilityIndex": 64.9,
+          "suitabilityClass": "Good",
+          "classCode": 3,
+          "attainableYieldKgHa": 1835,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "sugar-beet": {
+          "gaezCrop": "Sugarbeet",
+          "period": "1981-2010",
+          "suitabilityIndex": 40.6,
+          "suitabilityClass": "Medium",
+          "classCode": 4,
+          "attainableYieldKgHa": 4306,
+          "attainableYieldUnit": "kg sugar/ha"
+        },
+        "potato": {
+          "gaezCrop": "White potato",
+          "period": "1981-2010",
+          "suitabilityIndex": 64.3,
+          "suitabilityClass": "Good",
+          "classCode": 3,
+          "attainableYieldKgHa": 8226,
+          "attainableYieldUnit": "kg DW/ha"
+        },
+        "white-mustard": {
+          "gaezCrop": null,
+          "period": "1981-2010",
+          "suitabilityIndex": null,
+          "suitabilityClass": null,
+          "classCode": null,
+          "attainableYieldKgHa": null,
+          "missingReason": "GAEZ v4 has no crop for white mustard"
+        },
+        "phacelia": {
+          "gaezCrop": null,
+          "period": "1981-2010",
+          "suitabilityIndex": null,
+          "suitabilityClass": null,
+          "classCode": null,
+          "attainableYieldKgHa": null,
+          "missingReason": "GAEZ v4 has no crop for phacelia"
+        }
+      },
+      "future": {
+        "2041-2070 RCP4.5": {
+          "winter-wheat": {
+            "gaezCrop": "Wheat",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 50.3,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 5178,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "winter-rapeseed": {
+            "gaezCrop": "Rapeseed",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 73.7,
+            "suitabilityClass": "High",
+            "classCode": 2,
+            "attainableYieldKgHa": 2393,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "maize": {
+            "gaezCrop": "Maize",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 42.7,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 5866,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "spring-barley": {
+            "gaezCrop": "Barley",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 46.1,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 4171,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "rye": {
+            "gaezCrop": "Rye",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 63.1,
+            "suitabilityClass": "High",
+            "classCode": 2,
+            "attainableYieldKgHa": 3281,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "field-pea": {
+            "gaezCrop": "Dry pea",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 58.6,
+            "suitabilityClass": "Good",
+            "classCode": 3,
+            "attainableYieldKgHa": 1818,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "sugar-beet": {
+            "gaezCrop": "Sugarbeet",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 50.7,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 6111,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg sugar/ha"
+          },
+          "potato": {
+            "gaezCrop": "White potato",
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": 54.6,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 8588,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "white-mustard": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for white mustard"
+          },
+          "phacelia": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP4.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for phacelia"
+          }
+        },
+        "2041-2070 RCP8.5": {
+          "winter-wheat": {
+            "gaezCrop": "Wheat",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 54.1,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 5369,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "winter-rapeseed": {
+            "gaezCrop": "Rapeseed",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 65.2,
+            "suitabilityClass": "Good",
+            "classCode": 3,
+            "attainableYieldKgHa": 2590,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "maize": {
+            "gaezCrop": "Maize",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 45.2,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 5150,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "spring-barley": {
+            "gaezCrop": "Barley",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 43.4,
+            "suitabilityClass": "Medium",
+            "classCode": 4,
+            "attainableYieldKgHa": 4437,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "rye": {
+            "gaezCrop": "Rye",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 63.7,
+            "suitabilityClass": "High",
+            "classCode": 2,
+            "attainableYieldKgHa": 3512,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "field-pea": {
+            "gaezCrop": "Dry pea",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 57.9,
+            "suitabilityClass": "Good",
+            "classCode": 3,
+            "attainableYieldKgHa": 1777,
+            "ensemble": "mean of 5 GCMs (our calculation)",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "sugar-beet": {
+            "gaezCrop": "Sugarbeet",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 55.7,
+            "suitabilityClass": "Good",
+            "classCode": 3,
+            "attainableYieldKgHa": 6520,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg sugar/ha"
+          },
+          "potato": {
+            "gaezCrop": "White potato",
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": 60.3,
+            "suitabilityClass": "Good",
+            "classCode": 3,
+            "attainableYieldKgHa": 8556,
+            "ensemble": "GAEZ ENSEMBLE",
+            "attainableYieldUnit": "kg DW/ha"
+          },
+          "white-mustard": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for white mustard"
+          },
+          "phacelia": {
+            "gaezCrop": null,
+            "period": "2041-2070 RCP8.5",
+            "suitabilityIndex": null,
+            "suitabilityClass": null,
+            "classCode": null,
+            "attainableYieldKgHa": null,
+            "missingReason": "GAEZ v4 has no crop for phacelia"
+          }
+        }
+      }
+    }
+  }
+}

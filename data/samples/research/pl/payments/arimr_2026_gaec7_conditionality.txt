@@ -1,0 +1,60 @@
+SOURCE: ARiMR, 'Warunkowość' (campaign 2026) and 'Zmiany w zasadach przyznawania płatności w stosunku do roku 2025'
+URL: https://www.gov.pl/web/arimr/warunkowosc-2026 ; https://www.gov.pl/web/arimr/zmiany-w-zasadach-przyznawania-platnosci-w-stosunku-do-roku-2025
+RETRIEVED: 2026-11-14
+LOCATOR: section 'GAEC 7 - Zmianowanie i dywersyfikacja upraw na gruntach ornych'; small-farm exemption paragraph; changes page section 'GAEC 7'
+
+Zgodnie z art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2025/2649 rolnicy, których obszar kwalifikujący się do płatności zgłoszony we wniosku geoprzestrzennym nie przekracza 10 ha są zwolnieni z kontroli warunkowości oraz kar administracyjnych (kar o których mowa w art. 84 ust. 1 rozporządzenia 2021/2116). Ponadto, zgodnie z powyższym rozporządzeniem rolnicy, których maksymalna wielkość gospodarstwa nie przekracza 30 hektarów zadeklarowanych użytków rolnych są zwolnieni z kontroli i kar w odniesieniu do wymogów normy GAEC 7.
+
+GAEC 7 - Zmianowanie i dywersyfikacja upraw na gruntach ornych.
+Od 2026 r. rolnicy, których maksymalna wielkość gospodarstwa nie przekracza 30 hektarów użytków rolnych zadeklarowanych we wniosku o przyznanie płatności są zwolnieni z kontroli i kar w zakresie normy GAEC 7.
+1. Zmianowanie
+W przypadku gdy grunty orne w gospodarstwie obejmują powierzchnię powyżej 10 ha, na tych gruntach uprawy prowadzi się w taki sposób, aby na powierzchni: 
+co najmniej 40% gruntów ornych była prowadzona inna uprawa w plonie głównym niż uprawa prowadzona w tym plonie w roku poprzednim;
+wszystkich gruntów ornych w gospodarstwie, taka sama uprawa w plonie głównym nie była prowadzona dłużej niż 3 lata, przy czym do ustalenia spełnienia tego warunku bierze się pod uwagę uprawę w plonie głównym prowadzoną nie wcześniej niż w 2023 r.
+Powyższy warunek zmianowania upraw uznaje się za spełniony również wtedy, gdy:
+1) na danej powierzchni:
+w uprawę w plonie głównym zostanie wprowadzona wsiewka i ta wsiewka będzie utrzymywana co najmniej do wysiewu kolejnej uprawy w plonie głównym lub co najmniej przez 8 tygodni od dnia zbioru uprawy w plonie głównym wskazanego w rejestrze lub w innych dokumentach, lub
+po zbiorze uprawy w plonie głównym zostanie wprowadzony: 
+międzyplon ozimy utworzony przez wysiew co najmniej jednego gatunku roślin, który tworzy okrywę roślinną co najmniej od dnia 1 listopada danego roku do dnia 15 lutego kolejnego roku, przy czym po dniu 15 listopada dopuszcza się mulczowanie tych międzyplonów, lub
+międzyplon ścierniskowy: 
+utworzony przez wysiew co najmniej jednego gatunku roślin w okresie od dnia 1 lipca do dnia 20 sierpnia,
+utrzymywany co najmniej do dnia 15 października lub co najmniej przez 8 tygodni od dnia tego wysiewu, wskazanego w rejestrze lub w innych dokumentach
+2) rolnik:
+a) prowadzi na formularzu opracowanym przez Agencję Restrukturyzacji i Modernizacji Rolnictwa i udostępnionym na jej stronie internetowej rejestr zabiegów agrotechnicznych, zwany dalej „rejestrem”, który zawiera numer działki ewidencyjnej, oznaczenie działki rolnej,  powierzchnię i rodzaj uprawy,  datę i rodzaj wykonanych zabiegów agrotechnicznych, datę zbioru uprawy w plonie głównym oraz informacje niezbędne do potwierdzenia wykonania czynności dotyczących wprowadzenia wsiewki w uprawę plonie głównym lub wprowadzenia międzyplonu po zbiorze uprawy w plonie głównym, lub
+b) posiada dokumenty w postaci papierowej lub elektronicznej zawierające powyższe informacje, zwane dalej „innymi dokumentami”
+– przechowywane przez okres niezbędny do ustalenia spełnienia tego warunku; 
+Powyższe zasady nie obowiązują w przypadku upraw korzystnie wpływających na poprawę i zachowanie potencjału gleby, takich jak: rośliny bobowate, trawy lub inne zielne rośliny pastewne, mieszanki roślin bobowatych drobnonasiennych z trawami, uprawy wieloletnie oraz plantacje nasienne kukurydzy. 
+lub
+2. Dywersyfikacja upraw:
+w gospodarstwach o powierzchni gruntów ornych powyżej 10 ha i nie więcej niż 30 ha - na tych gruntach prowadzi się co najmniej dwie różne uprawy, przy czym uprawa o największej powierzchni nie może zajmować więcej niż 75% gruntów ornych;
+w gospodarstwach o powierzchni gruntów ornych powyżej 30 ha - na tych gruntach prowadzi się co najmniej trzy różne uprawy, przy czym uprawa o największej powierzchni nie może zajmować więcej niż 75% gruntów ornych, a dwie uprawy o największej powierzchni nie mogą łącznie zajmować więcej niż 95% gruntów ornych. 
+Za odrębną uprawę uznaje się:
+rodzaj roślin;
+formę jarą i ozimą tego samego rodzaju roślin;
+gatunek roślin z rodzin: kapustowatych (Brassicaceae), psiankowatych (Solanaceae) i dyniowatych (Cucurbitaceae);
+grunt ugorowany;
+trawy lub inne zielne rośliny pastewne.
+Na obszarze, na którym jednocześnie prowadzi się co najmniej dwie uprawy w oddzielnych rzędach, każdą z tych upraw uznaje się za oddzielną, jeżeli pokrywa ona co najmniej 25% tego obszaru, przy czym powierzchnię obszaru pokrytego oddzielnymi uprawami oblicza się, dzieląc powierzchnię tego obszaru przez liczbę upraw pokrywających co najmniej 25% tego obszaru, niezależnie od udziału danej uprawy na tym obszarze.
+Obszary, na których w uprawę w plonie głównym wsiewa się drugą uprawę, uznaje się za obszary zajęte jedynie pod uprawę w plonie głównym.
+Obszary, na których wysiewa się mieszankę nasion, uznaje się za oddzielne uprawy, jeżeli można ustalić, że gatunki roślin z różnych mieszanek nasion różnią się od siebie, a te różne mieszanki nasion nie są stosowane do uprawy traw lub innych zielnych roślin pastewnych.
+Obszary, na których obok siebie są prowadzone odrębne uprawy, a każda z tych upraw zajmuje obszar o powierzchni mniejszej niż 0,1 ha, uznaje się za obszary objęte jedną uprawą
+Z wdrażania normy wyłączone są gospodarstwa, w których:
+więcej niż 75% gruntów ornych jest wykorzystywanych do: produkcji traw lub innych zielnych roślin pastewnych lub uprawy roślin bobowatych lub ugorowanych, lub
+więcej niż 75% użytków rolnych stanowi TUZ lub jest wykorzystywanych do produkcji traw lub innych zielnych roślin pastewnych, lub
+jest prowadzona produkcja ekologiczna (wyłączenie dotyczy gruntów, na których jest prowadzona taka produkcja; wyłączenie jest prawem rolnika, a nie obowiązkiem).
+Realizacja normy w formie zmianowania jest kontrolowana od 2024 r., oznacza to, że:
+od 2024 r. na powierzchni co najmniej 40% gruntów ornych w gospodarstwie, w porównaniu z rokiem poprzednim, prowadzona powinna być inna uprawa w plonie głównym,
+od 2026 r. taka sama uprawa w plonie głównym na tej samej powierzchni w ramach całego gospodarstwa nie może się powtórzyć po raz czwarty.
+
+--- changes page ---
+GAEC 7: Zmianowanie lub dywersyfikacja upraw na gruntach ornych
+Od 2026 r. rolnik może realizować normę GAEC 7 wybierając jedną z dwóch form:
+Dywersyfikację upraw – kontrolowaną i rozliczaną w ujęciu rocznym na poziomie całego gospodarstwa
+lub
+Zmianowanie upraw – w tym przypadku sprawdzamy, czy ta sama uprawa w plonie głównym nie występuje na tej samej powierzchni po raz czwarty z rzędu.
+Dodatkowo od 2026 r. wprowadzono zwolnienie dla mniejszych gospodarstw:
+gospodarstwa do 30 ha użytków rolnych są zwolnione z kontroli i kar w zakresie realizacji normy GAEC 7.
+Ekoschemat Rolnictwo węglowe i zarządzanie składnikami odżywczymi
+Zmiana dotyczy praktyki „Opracowanie i przestrzeganie planu nawożenia – wariant z wapnowaniem”.
+Od 2026 r. punkty w ramach tej praktyki nie będą przyznawane do powierzchni gruntów ornych oraz trwałych użytków zielonych położonych na obszarach objętych normą GAEC 2 – Ochrona torfowisk i terenów podmokłych.
+Zmiana wynika z obowiązującego na tych obszarach zakazu stosowania wapnowania, określonego w wymaganiach normy GAEC 2.

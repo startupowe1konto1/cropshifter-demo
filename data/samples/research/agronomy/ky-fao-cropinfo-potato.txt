@@ -1,0 +1,17 @@
+Title: Potato (FAO Land & Water, Crop Information / crop water information page)
+Authors: FAO Land and Water Division (page text based on Doorenbos & Kassam 1979, FAO Irrigation and Drainage Paper 33)
+Year: page undated; snapshot 24 Jun 2026
+URL: https://www.fao.org/land-water/databases-and-software/crop-information/potato/en/
+     (live URL returned 404 on 14 Nov 2026; text read from Internet Archive snapshot
+      http://web.archive.org/web/20260624043347/https://www.fao.org/land-water/databases-and-software/crop-information/potato/en/)
+Date opened: 14 Nov 2026
+Locator: crop-stage table under "Stages of Development"
+Note: HTML table flattened; one cell per value, in column order.
+
+Columns: Crop characteristic | Initial | Crop Development | Mid-season | Late | Total
+Stage length, days | 25 25 30 45 30 | 30 30 35 30 35 | 30/45 45 50 70 50 | 30 30 30 20 25 | 115/130 130 145 165 140
+Region | (Semi)Arid Climate, Continental Climate, Europe, Idaho USA, Calif. Desert USA
+Yield Response Factor, Ky | 0.2 | 0.8 | - | 1.0 | 0.85
+
+Quote: "irrigation scheduling should be based on avoiding water deficit during the period of stolonization and tuber initiation (1b) and yield formation (3)"
+Caveat: the raw HTML row has exactly five cells in this order (0.2, 0.8, -, 1.0, 0.85) under the five columns above, so Mid-season is "-" and Late is 1.0, and Total is 0.85 (FAO-33 seasonal is 1.1 per FAO Paper 66 Table 1). This looks inconsistent with the page text (sensitive at tuber initiation and yield formation); treat with care.

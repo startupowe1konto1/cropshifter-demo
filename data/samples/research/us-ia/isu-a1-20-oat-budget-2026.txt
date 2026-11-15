@@ -1,0 +1,18 @@
+# Excerpt of https://www.extension.iastate.edu/agdm/crops/xls/a1-15-20oatsmallgrainbudget.xlsx
+# ISU Ag Decision Maker worksheet "Production Costs for Oat Crop or Other Small Grain", labelled "Ag Decision Maker A1-20", Version 2.0_12026,
+# linked from https://www.extension.iastate.edu/agdm/crops/html/a1-20.html as "Oat or other small grain budget". Last-Modified: Fri, 16 Jan 2026.
+# Opened Sat 14 Nov 2026 in the in-app browser; cell values read from sheet1 (the filled-in example). Columns: Fixed | Variable | Total per acre.
+
+Crop: Oats | Field Name: Example | Expected Grain Yield 80 bu./acre | Straw Production 1 tons/acre
+Preharvest machinery: Tandem disk (2 times) 16.2 | 9.8 | 26; Spread fertilizer 3.5 | 2.2 | 5.7; Harrow 3.6 | 2.1 | 5.7; Seed (drill) 8 | 5.7 | 13.7
+Total per acre 31.3 | 19.8 | 51.1
+Seed 17.59 price per unit x 2 units per acre = 35.18
+Nitrogen 0.53 price per pound x 60 = 31.8; Phosphate 0.72 x 45 = 32.4; Potash 0.39 x 130 = 50.7
+Lime (annual cost) 40; Herbicide 0; Crop insurance 4.1; Miscellaneous 0
+Total (seed, fertilizer, etc.) 194.18
+Labor: Operator 20.4 rate per hour x 1 hour = 20.4
+Land: Cash rent equivalent 150
+Harvest machinery: Combine 13.3 | 4.3 | 17.6; Haul 6.16 | 4.16 | 10.32; Rake 5.6 | 2.8 | 8.4; Small square baler 12.4 | 5.9 | 18.3; Haul Straw 3.62 | 4.49 | 8.11
+Total per acre 41.08 | 21.65 | 62.73
+Total fixed, variable and all costs, Per acre: 242.78 | 235.63 | 478.41
+Note: "Machinery: Fixed machinery costs include depreciation, return on investment in machinery (interest), insurance, and housing. Variable machinery costs include fuel, oil, and repairs."

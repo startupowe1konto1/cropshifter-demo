@@ -1,0 +1,22 @@
+Title: Wyniki ekologicznych doświadczeń odmianowych (WEDO) nr 190. Bobowate grubonasienne i soja (groch siewny, łubin wąskolistny, soja). Lata zbioru 2022, 2021
+Author/publisher: COBORU, Słupia Wielka
+Year: 2023
+URL: https://coboru.gov.pl/Publikacje_COBORU/Wyniki_PDO/WEDO_Bobowate_2022.pdf
+Date opened: 14 Nov 2026
+Locator: PDF p. 9, Tabela 4 "GROCH SIEWNY. Daty siewu, zbioru i obserwowanych faz rozwojowych"; PDF p. 28, Tabela 4 "SOJA. Daty siewu, zbioru i obserwowanych faz rozwojowych", column "Śrem" 2022 (1st column). Dates dzień/miesiąc. Organic trials.
+
+Quoted rows:
+GROCH SIEWNY (2022 and 2021 sites: Radostowo, Krzyżewo, Tarnów, Pawłowice, Przecław, Grabów, Osiny, Szepietowo, Tarnów, Węgrzce, Skołoszów, Grabów, Kępa, Szepietowo; no Wielkopolska site):
+"Siew |data |24.03 |29.03 |25.03 |23.03 |24.03 |29.03 |13.04 |25.03 |30.03 |2.04 |1.04 |21.04 |2.04 |2.04"
+"Wschody |data |23.04 |28.04 |20.04 |16.04 |25.04 |21.04 |2.05 |12.04 |29.04 |26.04 |23.04 |11.05 |24.04 |21.04"
+"Początek kwitnienia |data |12.06 |11.06 |6.06 |3.06 |4.06 |1.06 |– |8.06 |13.06 |11.06 |13.06 |9.06 |– |16.06"
+"Zbiór |data |4.08 |21.07 |25.07 |18.07 |13.07 |20.07 |20.07 |25.07 |31.07 |14.08 |2.08 |30.07 |30.07 |2.08"
+
+SOJA (columns: Śrem | Wójtostwo | Tarnów | Węgrzce [2022] | Cicibór Duży | Przecław | Tarnów | Węgrzce [2021]):
+"Siew |data |5.05 |6.05 |9.05 |13.05 |2.05 |27.04 |5.05 |7.05"
+"Wschody |data |14.05 |17.05 |25.05 |30.05 |16.05 |20.05 |17.05 |22.05"
+"Początek kwitnienia |data |23.06 |21.06 |7.07 |4.07 |22.06 |20.06 |21.06 |24.06"
+"Koniec kwitnienia |data |18.07 |14.07 |20.07 |31.07 |20.07 |21.07 |1.07 |22.07"
+"Dojrzałość żniwna |data |22.09 |18.09 |30.09 |27.09 |6.09 |18.09 |13.09 |20.09"
+"Zbiór |data |9.10 |8.10 |30.09 |30.09 |9.09 |3.10 |13.09 |28.09"
+-> Śrem 2022 soybean: sowing 5.05, emergence 14.05, flowering 23.06-18.07, harvest maturity 22.09, harvest 9.10.

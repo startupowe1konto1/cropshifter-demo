@@ -1,0 +1,30 @@
+Title: Międzyplony i ich znaczenie w produkcji rolniczej (Doskonalenie uprawy międzyplonów jako praktyki rolnictwa węglowego), presentation
+Author/publisher: prof. dr hab. Janusz Podleśny, dr hab. Danuta Leszczyńska (prof. IUNG-PIB); IUNG-PIB Puławy
+Year: 2025 (file "Prezentacja-miedzyplony-2025", uploaded 2026/03)
+URL: https://www.iung.pl/wp-content/uploads/2026/03/Prezentacja-miedzyplony-2025.pdf
+Date opened: 14 Nov 2026
+Locator: slide 2 (Rodzaje międzyplonów); slide 5 (Wymagania ARiMR w zakresie międzyplonów); slide 30 (Zalecany termin siewu do 15 sierpnia); slide 31 (yield vs sowing date, source Wilczewski 2023)
+
+--- slide 5 ---
+"Międzyplony ścierniskowe – zgodnie z wymaganiami ARiMR, aby rolnik mógł uzyskać dopłatę należy je wysiewać
+od 1 lipca do 20 sierpnia i utrzymywać na polu do 15 października lub 8 tygodni od wysiewu. Muszą to być mieszanki,
+które powinny składać się z co najmniej dwóch gatunków roślin [...] (nie mogą być mieszanki składające się tylko z roślin zbożowych)."
+"Międzyplony ozime – powinny być wysiane w terminie od 1 lipca do 1 października. A następnie utrzymywanych co najmniej
+do 15 lutego następnego roku; dozwolone jest mulczowanie międzyplonu ozimego dopiero po 15 listopada."
+"Za realizację tej praktyki przewidziano przyznanie maksymalnie 5 punktów, co odpowiada płatności przekraczającej 500 zł/ha."
+EN gloss: ARiMR payment rule: stubble catch crop sown 1 Jul-20 Aug, kept to 15 Oct or 8 weeks from sowing, must be a mixture of >=2 species (not cereals only); winter catch crop sown 1 Jul-1 Oct, kept to 15 Feb, mulching only after 15 Nov; max 5 points (> 500 zł/ha).
+
+--- slide 2 ---
+"Międzyplony ścierniskowe – wysiewane po zbiorze wczesnego plonu głównego, najczęściej w lipcu i sierpniu a użytkowane
+w okresie sierpień-październik z możliwością przedłużenia tego okresu do przejścia roślin w okres spoczynku zimowego."
+EN gloss: stubble catch crops are sown mostly Jul-Aug and used Aug-Oct, possibly until winter dormancy.
+
+--- slide 30: "Zalecany termin siewu do 15 sierpnia" (recommended sowing by 15 Aug), kg/ha ---
+"Gorczyca 20" / "Facelia 10" / "Rzepak 10" / "Słonecznik 35" / "Gorczyca + facelia 15 + 5" / "Gorczyca + rzepak 10 + 5"
+EN gloss: pure white mustard (20 kg/ha), pure phacelia (10 kg/ha) and mustard+phacelia (15+5) listed under "sow by 15 August".
+--- slide 29: "Zalecany termin siewu do 10 sierpnia" includes "Łubin żółty + facelia 80 + 4", "Facelia + seradela 5 + 30", "Facelia + wyka ozima 6 + 40".
+
+--- slide 31: "Plon suchej masy międzyplonu w zależności od terminu siewu" (source: Wilczewski, 2023) ---
+Legend: "wczesny - 10 sierpnia" / "opóźniony - 20 sierpnia"; species: gorczyca biała, gryka zwyczajna, wyka siewna, średnia.
+Values in chart order: 1,34 0,91 0,94 0,47 1,11 0,56 1,13 0,65 (t/ha)
+EN gloss: DM yield by sowing date, early 10 Aug vs late 20 Aug. Read as pairs, white mustard 1.34 vs 0.91 t/ha; mean 1.13 vs 0.65 t/ha. (Pairing inferred from chart text order; check the slide image.)

@@ -1,0 +1,12 @@
+Title: Reakcja soi zwyczajnej (Glycine max (L.) Merr.) na wybrane stresy abiotyczne
+Author/publisher: Mariola Staniak, Anna Stępień, Katarzyna Czopek; IUNG-PIB Puławy, Studia i Raporty IUNG-PIB, Zeszyt 57(11): 63-74
+Year: 2018
+URL: https://iung.pl/sir/zeszyt57_5.pdf
+Date opened: 14 Nov 2026
+Locator: p. 65 (section on low temperature stress)
+
+Quoted text (Polish original):
+"spadek temperatury poniżej 10ºC może spowodować, że soja nie wejdzie w fazę kwitnienia."
+"w okresie wegetacji soi występują 2 okresy krytyczne związane z wrażliwością roślin na niskie temperatury. Pierwszy okres przypada od siewu do pełni wschodów"
+"Drugi okres krytyczny występuje w fazie kwitnienia, gdzie za biologiczne minimum temperatury powietrza uważa się przedział 17-18oC, zaś za optimum 22-25oC."
+Note: these are chilling (not frost) values, cited by the authors from Swiss work (Gass et al.).

@@ -1,0 +1,11 @@
+{
+  "search.title": "Znajdź adres lub miejsce",
+  "search.label": "Adres lub miejsce",
+  "search.button": "Szukaj",
+  "search.results": "Znalezione miejsca",
+  "search.none": "Nie znaleziono miejsca dla tego tekstu. Dopisz miejscowość lub kod pocztowy albo sprawdź pisownię.",
+  "search.moved": "Znaleziono: {label}. Pole w tym miejscu pojawi się na mapie; sprawdź jego obrys, zanim przejdziesz dalej.",
+  "search.error.format": "Nie da się odczytać odpowiedzi z {source}.",
+  "search.error.http": "Odpowiedź z {source}: kod HTTP {status}.",
+  "search.attribution": "Wyszukiwanie: OpenStreetMap Nominatim"
+}

@@ -1,0 +1,20 @@
+Title: Standardized Precipitation Index User Guide (WMO-No. 1090)
+Author/publisher: World Meteorological Organization, 2012
+URL: https://www.droughtmanagement.info/literature/WMO_standardized_precipitation_index_user_guide_en_2012.pdf
+Opened: 14 Nov 2026 by O1 (curl + PyMuPDF text extraction). Used for D42: drought compared with the same calendar month.
+
+--- PDF page 13, "1-month SPI" ---
+"For example, a 1-month SPI at the end of November compares the 1-month precipitation total for November in
+that particular year with the November precipitation totals of all the years on record."
+"Because the 1-month SPI reflects short-term conditions, its application can be related closely to
+meteorological types of drought along with short-term soil moisture and crop stress, especially during the
+growing season."
+
+--- PDF page 13, "3-month SPI" ---
+"The 3-month SPI provides a comparison of the precipitation over a specific 3-month period with the
+precipitation totals from the same 3-month period for all the years included in the historical record."
+
+--- U.S. Drought Monitor, Drought Classification (https://droughtmonitor.unl.edu/About/AbouttheData/DroughtClassification.aspx), opened 14 Nov 2026 ---
+The classification table lists, for each category, a "Percentile Range for Most Indicators" next to
+"Values for Standard Precipitation Index and Standardized Precipitation-Evapotranspiration Index"
+(D1 Moderate Drought: percentile 10.01 to 20.00).

@@ -1,0 +1,45 @@
+# NRCS Payment Schedules web page https://www.nrcs.usda.gov/getting-assistance/payment-schedules
+# Opened Sat 14 Nov 2026 in a browser: Cost list report, State = Iowa, County = Story (19169), Payment Schedule Name = "Iowa EQIP-1".
+# Results heading on the page: "Iowa: Iowa EQIP-1 Payment Schedule Results". The page does not print a fiscal year.
+# Rows for practice codes 340 and 328 copied from the results table; other practices omitted. HU = Historically Underserved, WP = Source Water Protection (legend on the same page).
+State Name	Cost List Name	Practice Code	Practice Name	Component	Unit	Unit Cost
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Add Crop Organic System	Ac	$83.38
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Add Crop Organic System	Ac	$100.06
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Add Crop Organic System	Ac	$100.06
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Basic, Multiple Annual Crops	Ac	$36.84
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Basic, Multiple Annual Crops	Ac	$44.21
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Basic, Multiple Annual Crops	Ac	$44.21
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Irrigated to Dryland	Ac	$181.66
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Irrigated to Dryland	Ac	$180.50
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Irrigated to Dryland	Ac	$181.66
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Perennial, Short-Term	Ac	$64.15
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Perennial, Short-Term	Ac	$53.45
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Perennial, Short-Term	Ac	$64.15
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Range, Intensive	Ac	$19.48
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Specialty Crop, Small	kSqFt	$37.10
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Specialty Crop, Small	kSqFt	$30.92
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Specialty Crop, Small	kSqFt	$37.10
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Specialty Crops	Ac	$53.20
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Specialty Crops	Ac	$44.33
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Specialty Crops	Ac	$53.20
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	HU-Winter or Spring Annual	Ac	$57.34
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	Winter or Spring Annual	Ac	$47.78
+Iowa	Iowa EQIP-1	328	Conservation Crop Rotation	WP-Winter or Spring Annual	Ac	$57.34
+Iowa	Iowa EQIP-1	340	Cover Crop	Adaptive Management	No	$2,326.74
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Adaptive Management	No	$2,792.09
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Adaptive Management	No	$2,792.09
+Iowa	Iowa EQIP-1	340	Cover Crop	Any Species	Ac	$74.75
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Any Species	Ac	$89.70
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Any Species	Ac	$89.70
+Iowa	Iowa EQIP-1	340	Cover Crop	Any Species, Organic	Ac	$99.82
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Any Species, Organic	Ac	$119.79
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Any Species, Organic	Ac	$119.79
+Iowa	Iowa EQIP-1	340	Cover Crop	Biomass	Ac	$110.52
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Biomass	Ac	$132.63
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Biomass	Ac	$132.63
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Islands, Any Species	Ac	$273.08
+Iowa	Iowa EQIP-1	340	Cover Crop	Islands, Any Species	Ac	$227.57
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Islands, Any Species	Ac	$273.08
+Iowa	Iowa EQIP-1	340	Cover Crop	HU-Islands, Legume	Ac	$51.97
+Iowa	Iowa EQIP-1	340	Cover Crop	Islands, Legume	Ac	$43.31
+Iowa	Iowa EQIP-1	340	Cover Crop	WP-Islands, Legume	Ac	$51.97

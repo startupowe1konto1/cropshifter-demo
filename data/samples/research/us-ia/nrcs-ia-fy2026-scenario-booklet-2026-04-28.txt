@@ -1,0 +1,240 @@
+# Excerpt of https://www.nrcs.usda.gov/sites/default/files/2026-04/FY26%20FA%20Program%20Scenario%20Booklet_April%2028%202026.pdf (Iowa Financial Assistance Program Scenario Booklet FY2026, April 28, 2026)
+# Downloaded Sat 14 Nov 2026 for R9 (O1 lane). Text rebuilt from PDF word positions with PyMuPDF. Pages: 1 2 32 33 38 39
+
+=== PDF page 1 ===
+Iowa Financial Assistance Program Scenario Booklet
+List of Eligible Practices, Limitations and Payment Scenario Guidance
+FY2026
+April 28, 2026
+Scenario Booklet Glossary
+Practice Code Table - The table of Practices are in alphabetical order. The practice code for each has a hot link to the individual Practice Code
+Scenario Descriptions.
+Limitations
+- This area will list any limitations a conservation practice may have related to EQIP, CSP, and RCPP18, i.e., payment limitations,
+planning considerations, practice requirements, etc.
+Maintenance - This is the Conservation Practice Lifespan.
+Payment Schedule Headers:
+ID - This is a numeric identifier for internal tracking purposes.
+Scenario Name - Unique name for each scenario.
+Scenario Description - For each Conservation Practice Scenario Name this column provides the Scenario Description.
+Scenario Unit - Unit of measure for the scenario.
+PAYMENT RATE – The payment rate is the amount of financial assistance ($/unit) available through EQIP and RCPP18.
+Regular Rate – Payment rate is based on 75% of the estimated incurred costs and foregone income (if applicable)
+associated with practice implementation.
+HU, Wp, Pr Rate – Payment rate is based on 90% of the estimated incurred costs and foregone income (if applicable)
+associated with practice implementation.
+HU = Historically Underserved: Includes, Beginning Farmers/Ranchers, Limited Resource Farmers/Ranchers, Socially Disadvantaged
+Farmers/Ranchers, Tribal Farmers/Ranchers and Veteran Farmers/Ranchers. The payment rate is higher for HU producers on most
+practices.
+Page 1 of 392
+
+=== PDF page 2 ===
+GENERAL INFORMATION:
+Management practices (Practices with a 1-year Lifespan) allow up to 5 years of Financial Assistance. The up to 5 years of Practice
+•
+implementation is tied to the land not to the participant.
+Full Payment Scenario Descriptions used to support the Payment Scenario are located on the State Payment Schedules website (nationally
+•
+maintained). Some scenario descriptions are very lengthy and were abbreviated down in this document. If you see [Abbrev; Full Descriptions
+found online], use the link to review the full scenario descriptions and additional information.
+There are 10 high priority conservation practices where the EQIP Payment Rate is 90% for local sub accounts. These include: 314
+•
+Brush Management, 327 Conservation Cover, 656 Constructed Wetland, 605 Denitrifying Bioreactor, 604 Saturated Buffer, 381
+Silvopasture, 612 Tree/Shrub Establishment,658 Wetland Creation, 659 Wetland Enhancement, 657 Wetland Restoration. These
+payment rates are reflected in the FY2026 Cost List.
+Payment Rate Codes:
+•
+HU – Historically Underserved Practice Rate
+•
+• Pr – High Priority Practice Rate*
+Wp – Source Water Priority Practice Rate*
+•
+• SU – CSP Supplemental Rate
+* In Iowa, Pr and Wp rates will match HU rates at 90% financial assistance.
+SUMMARY OF CHANGES TO FY2026 IOWA PAYMENT SCHEDULES
+Practices and associated scenarios have undergone significant revisions. Make sure to carefully review all available scenarios to ensure you select the
+one that most accurately reflects the conditions of your project. In some cases, scenarios have been realigned or moved to different practices.
+Page 2 of 392
+
+=== PDF page 32 ===
+32
+Table of Contents
+CONSERVATION CROP ROTATION
+Practice Code 328
+Limitations:
+• Scenario 328-104 Add Crop Organic System - Crop Type Examples: CSG (wheat, oats); CSB (camelina, radish); CSB Legumes (peas, lentils, clover);
+WSG (corn, sorghum, millet); WSB (sunflowers, buckwheat); WSB Legumes (soybeans, sunnhemp)
+• Scenario 328-1 Basic, Two Crop Types - Minimum two different crop types are required, No foregone income is included.
+• Scenario 328-138 Perennial, Short-Term - Short-term perennial must be grown for minimum 2 years.
+• Scenario 328-5 & Scenario 328-84 Specialty Crops - Specialty crops are typically rotated by plant family. Specialty crops include: vegetables, including
+sweet corn and popcorn; fruit; tree fruit/nuts; herbs; other horticulture and nursery crops, including cut flowers. (i.e. crops other than grain corn,
+soybeans, hay/alfalfa, oilseeds, cereal/small grains, dry beans, sugarbeets). The planned sequence may or may not allow for successional
+plantings. Applicable to organic and non-organic production.
+o Scenario 328-5 Specialty crops with a minimum of two different crops on the same ground over time. Typically multiple acres of mechanized,
+commercial production.
+o Scenario 328-84 Small scale or diversified small farm, growing specialty crops, with a minimum of two different specialty crop types.
+• Scenario 328-139 Winter or Spring Annual - Must Add Winter or Spring Annuals or small grain to a crop rotation, minimum two crop types are required.
+• The Conservation Crop Rotation practice may be paid annually for up to 5 consecutive years. The new crop rotation must be applied during the contract
+period.
+Maintenance: Practice will be maintained for a lifespan of 1 year.
+Payment Schedule:
+ID Scenario Name Scenario Description Regular HU, Pr, Wp
+Unit Type
+Rate Rate
+Planning of an annual crop rotation with a minimum of two
+Basic, Two Crop different crop types. Payment is provided to the producer and
+328-1 Ac 11.53 13.84
+Types includes the time needed to plan and implement the logistics of
+changing the rotation to effectively implement a conservation
+crop rotation.
+Development of an annual crop rotation of specialty crops
+(herbaceous fruits and vegetables), with a minimum of two different
+328-5 Specialty Crops crops on the same ground over time. Typical crop rotation includes Ac 30.76 36.91
+multiple plantings of annual crops during the growing season and
+within the current crop year.
+Development of a crop rotation for a small scale or diversified small
+farm growing specialty crops, with a minimum of two different
+specialty crop types. The planned sequence allows for multiple
+Specialty Crop, plantings of specialty crops on the same ground in one crop year.
+328-84 kSqFt 29.45 35.34
+Small Payment includes the costs associated with acquiring the technical
+knowledge and skills necessary to effectively implement a
+conservation crop rotation on a typical specialty crop farm. The cost
+represents typical situations for organic and non-organic producers.
+Page 32 of 392
+
+=== PDF page 33 ===
+33
+ID Scenario Name Scenario Description Regular HU, Pr, Wp
+Unit Type
+Rate Rate
+Addition of new crop types to the conservation crop rotation to
+facilitate building soil organic matter, capturing nitrogen, breaking
+pest cycles, or other purposes that maintain or enhance natural
+Add Crop Organic resources. The producer is changing to organic production, with the
+328-104 Ac 81.33 97.59
+System existing crop rotation being conventional, non-organic, and has at
+least two different crop types. Payment includes the labor of the
+supervisor/decision maker and costs associated with acquiring
+knowledge about new crop types.
+SU-Improved
+392-106 Resource Improve crop rotation that already includes at least one resource
+Ac 125.49 -
+CSP Conserving Crop conserving crop by adding a perennial.
+Rotation
+SU-Resource
+382-107 Establish a crop rotation with at least one State designated resource
+Conserving Crop Ac 154.22 -
+CSP conserving crop.
+Rotation
+Conversion of an irrigated cropping system to a dryland cropping
+system to improve water use efficiency. The cost represents typical
+Irrigated to
+328-137 situations for conventional (non-organic) producers converting from Ac 178.27 179.42
+Dryland
+irrigated cropping to dryland farming. Foregone income is included
+and based on standard crop rotation of corn and soybean.
+Addition of a short-term perennial (e.g. alfalfa or intermediate
+wheatgrass) into a crop rotation that currently includes a minimum of
+two different crops to effectively implement a conservation crop
+rotation. The short-term perennial can be for forage, grain, or dual-
+Perennial, Short-
+328-138 purpose use in the cropping system while the crop is intended to be Ac 51.40 61.68
+Term
+harvested and must be grown for a minimum of two years after
+planting. Payment includes the time needed to plan and implement
+the logistics of adding a short-term perennial. The cost represents
+typical situations for conventional and organic producers.
+Addition of a winter annual or small grain to a crop rotation that
+includes at least two different crop types. Payment includes the time
+Winter or Spring needed to plan and implement the logistics of adding a winter annual
+328-139 Ac 45.34 54.41
+Annual or spring-planted small grain into the crop rotation to effectively
+implement a conservation crop rotation. The cost represents typical
+situations for conventional and organic producers.
+Page 33 of 392
+
+=== PDF page 38 ===
+38
+Table of Contents
+COVER CROP
+Practice 340
+Limitations:
+• Conservation Practice 340 Cover Crops is a management practice (One-year lifespan) and may be scheduled for up to 5 years on the same land unit.
+• After cover crops are implemented, full-width tillage is not allowed until before planting of the next cash crop.
+• For Scenario 6 - Adaptive Management, refer to Agronomy Technical Note No. 10: Adaptive Management for Conservation Practices and Adaptive Mgt 340
+Guide Sheet 2014. All Adaptive Management proposals must be approved by Iowa NRCS State Soil Health Specialist prior to obligation.
+• Scenario 340-74 Mechanical Termination - This scenario is most applicable to small-scale production. Termination methods may vary, but are labor
+intensive, done at a human-scale (using hands, hand tools, garden implements). This scenario could apply to chemical termination when the spraying is
+done by hand/backpack and when subsequent residue management is being done by hand, hand tools, or garden implements.
+This is typically not appropriate for large fields >2 acres or where machinery will be used.
+• Multi-Species - Must contain ≥2 Species,
+• Single Species, Organic - May be used for organic or transitioning acres.
+Maintenance: Cover Crop will be maintained for a lifespan of 1 year.
+Payment Schedule: CSP rates are italicized.
+Regular HU, Pr, Wp
+Scenario Name
+ID Unit Type
+Scenario Description Rate Rate
+Typically a small grain or legume (may also use forage sorghum,
+radishes, turnips, buckwheat, etc.) will be planted as a cover
+crop immediately after harvest of a row crop, and will be
+followed by a row crop that will utilize the residue as a mulch. 74.34
+340-1 Single Species Ac 89.20
+This scenario assumes that seed will be planted with a drill. The 123.89
+cover crop should be allowed to generate as much biomass as
+possible, without delaying planting of the following crop. The
+cover crop will be terminated prior to planting the subsequent
+crop.
+The practice scenario is for the implementation of cover crops in
+small, replicated plots to allow the producer to learn how to manage
+Adaptive cover crops on their operation. Scenario includes implementing 4,801.86
+340-6 Ea 5,762.23
+Management replicated strip trials on a field plot to evaluate, identify and implement 8,003.10
+a particular cover crop management strategy. Follow the guidance in
+the NRCS Technical Note 10 - Adaptive Management.
+Page 38 of 392
+
+=== PDF page 39 ===
+39
+Scenario Name Regular HU, Pr, Wp
+Unit Type
+ID
+Scenario Description
+Rate Rate
+Typically, the multi-species cover crop (two or more species) mix
+includes a small grain, a legume, and may include other species such
+as forage sorghum, radishes, turnips, buckwheat, etc. Typically, the
+cover crop is seeded immediately after harvest of a row crop but may
+be inter-seeded into a row crop using a broadcast seeder, drill, or 77.54
+340-11 Multi-Species Ac 93.05
+similar device. The cover crop will be followed by another row crop 129.24
+and will utilize the residue as a mulch. The cover crop should be
+allowed to generate as much biomass as possible without delaying
+planting of the following crop. The cover crop will be terminated prior
+to planting the subsequent crop.
+Typically, a small grain or legume (may also use forage sorghum,
+radishes, turnips, buckwheat, etc.) will be planted as a cover crop
+immediately after harvest of a row crop and will be followed by a row
+crop that will utilize the residue as a mulch. This scenario assumes
+that seed will be planted with a drill. The cover crop should be
+allowed to generate as much biomass as possible, without delaying
+Single Species, 99.45
+340-29 planting of the following crop. The cover crop will be terminated prior Ac 119.34
+Organic 165.75
+to planting the subsequent crop. Generate as much biomass as
+possible, without delaying planting of the following crop. The cover
+crop will be terminated using a mechanical kill method (mowing,
+rolling, undercutting, etc.), within weeks prior to planting the
+subsequent crop. This scenario requires use of Certified Organic
+Seed.
+A legume will be planted as a cover crop immediately after harvest of
+a row crop, and will be followed by a row crop that will utilize fixed
+nitrogen and cover crop biomass as a mulch, provide erosion
+Mechanical reduction, improve water quality, and soil health. This scenario 22.88
+340-74 kSqFt 27.45
+Termination assumes that seed will be planted with a drill. Legume seeds must be 38.10
+inoculated with the proper inoculant prior to planting. The cover crop
+should be allowed to reach early to mid-bloom before it is terminated,
+using an approved herbicide, in order to maximize nitrogen fixation.
+Page 39 of 392

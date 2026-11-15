@@ -1,0 +1,15 @@
+Title: Sugarbeet (FAO Land & Water, Crop Information / crop water information page)
+Authors: FAO Land and Water Division (page text based on Doorenbos & Kassam 1979, FAO Irrigation and Drainage Paper 33)
+Year: page undated; snapshot 4 Jun 2026
+URL: https://www.fao.org/land-water/databases-and-software/crop-information/sugarbeet/en/
+     (live URL returned 404 on 14 Nov 2026; text read from Internet Archive snapshot
+      http://web.archive.org/web/20260604080900/https://www.fao.org/land-water/databases-and-software/crop-information/sugarbeet/en/)
+Date opened: 14 Nov 2026
+Locator: crop-stage table under "Stages of Development"; section "Water Supply And Crop Yield"
+
+Columns: Crop characteristic | Initial | Crop Development | Mid-season | Late | Total
+Yield Response Factor, Ky (Root Yield / Sugar Yield) | - - | - - | - - | - - | 1.1 1.0
+=> no stage-wise Ky on this page; seasonal only (root 1.1, sugar 1.0).
+
+Stage quote: "Sugarbeet is particularly sensitive to water deficits at the time of crop emergence and a period of about a month after emergence (0)."
+Quote: "Thus, except during emergence and early growth periods, it appears that the crop is less sensitive to moderate water deficits."

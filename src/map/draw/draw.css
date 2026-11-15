@@ -1,0 +1,28 @@
+/* Geoman's toolbar is sized for a mouse (30 px). Make the three tools and their Finish/Cancel actions 44 px, so a
+   thumb can hit them on a phone outdoors. */
+.leaflet-pm-toolbar .button-container a.leaflet-buttons-control-button {
+  width: 44px;
+  height: 44px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.leaflet-pm-toolbar .control-icon {
+  background-size: 26px 26px;
+}
+
+.button-container .leaflet-pm-actions-container .leaflet-pm-action {
+  height: 44px;
+  line-height: 44px;
+  padding: 0 14px;
+  font-size: 15px;
+}
+
+/* Corner handles in edit mode: bigger touch targets than Geoman's 14 px squares. */
+.leaflet-touch .marker-icon,
+.leaflet-touch .marker-icon-middle {
+  width: 22px !important;
+  height: 22px !important;
+  margin-left: -11px !important;
+  margin-top: -11px !important;
+}

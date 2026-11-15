@@ -1,0 +1,39 @@
+# GUS, 'Produkcja upraw rolnych i ogrodniczych w <rok>' (final estimates, XLSX tables by voivodeship). Retrieved 2026-11-14.
+# Columns as in GUS sheet: excel_row | Wyszczególnienie | Powierzchnia (ha; 2020 edition: tys. ha) | Plony z 1 ha w dt | Zbiory (dt; 2020: tys. t) | ... ; t/ha = dt/ha / 10
+# Rows: first occurrence (section 'OGÓŁEM / TOTAL') of 'P o l s k a' and 'Wielkopolskie'.
+
+## 2020 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2020-roku,9,19.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/19/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2020produkcja_upraw_rolnych_i_ogrodniczych_w_2020.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+2	Wyszczególnienie	Powierzchnia  w tys. ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	2218	54.2	120206194	108.6	116.8	126.7
+20	Wielkopolskie 	219.5	55.7	12236579	108	129.19999999999999	139.6
+
+## 2021 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2021-roku,9,20.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/20/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2021_r.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	2173167	51.8	112588102	97.2	95.7	93
+20	Wielkopolskie 	219401	54.3	11913474	99.6	97.5	97.1
+
+## 2022 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2022-roku,9,21.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/21/1/publikacja_2022_2.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+2	Wyszczególnienie	Powierzchnia  w ha	Plony  z 1 ha  w dt	Zbiory  w dt	Powierzchnia	Plony	Zbiory
+5	P o l s k a 	2315014	54.4	125824317	106.5	105	111.8
+20	Wielkopolskie 	237277	56.1	13301292	108.1	103.3	111.6
+
+## 2023 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2023-roku,9,22.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/22/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2023_2.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	2285981	54.8	125174510	98.7	100.7	99.5
+22	Wielkopolskie 	230432	57.7	13300827	97.1	102.9	100
+
+## 2024 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2024-r-,9,23.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/23/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2024.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	2215753	52.9	117205021	96.9	96.5	93.6
+22	Wielkopolskie 	219055	57.3	12550405	95.1	99.3	94.4
+
+## 2025 | page: https://stat.gov.pl/obszary-tematyczne/rolnictwo-lesnictwo/uprawy-rolne-i-ogrodnicze/produkcja-upraw-rolnych-i-ogrodniczych-w-2025-r-,9,24.html | file: https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5509/9/24/1/produkcja_upraw_rolnych_i_ogrodniczych_w_2025.xlsx | sheet 'Tabl. 5'
+1	TABL. 5. POWIERZCHNIA, PLONY I ZBIORY PSZENICY OZIMEJ
+4	Wyszczególnienie Specification	Powierzchnia  w ha Area in ha	Plony  z 1 ha  w dt Crops from 1 ha in dt	Zbiory  w dt Harvest in dt	Powierzchnia Area	Plony Yields	Zbiory Harvest	Powrót do spisu tablic Return to list of tables
+7	P o l s k a 	2314047	56.5	130708347	104.4	106.8	111.5
+22	Wielkopolskie 	238524	59.5	14193618	108.9	103.8	113.1

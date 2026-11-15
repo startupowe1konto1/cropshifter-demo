@@ -1,0 +1,13 @@
+SOURCE: ARiMR, 'Stawki płatności bezpośrednich oraz przejściowego wsparcia krajowego za rok 2025'
+URL: https://www.gov.pl/web/arimr/stawki-platnosci-bezposrednich-oraz-przejsciowego-wsparcia-krajowego-za-rok-2025
+RETRIEVED: 2026-11-14
+LOCATOR: table 'Rodzaj płatności / praktyki / wariantu w ramach ekoschematów obszarowych | Wysokość stawki za rok 2025 [zł/ha]'; row 'Płatność do roślin strączkowych na nasiona'; closing EUR rate sentence
+
+Płatność do roślin strączkowych na nasiona  879,96 zł/ha 
+Kurs euro ogłoszony przez Europejski Bank Centralny, według którego obliczone zostały stawki płatności bezpośrednich za rok 2025 wynosi 4,2698 zł za 1 EUR.
+
+--- eco-scheme table (carbon farming rows) ---
+Rodzaj płatności / praktyki / wariantu w ramach ekoschematów obszarowych Wysokość stawki za rok 2025 [zł/ha] Rolnictwo węglowe i zarządzanie składnikami odżywczymi, w tym praktyki: Ekstensywne użytkowanie trwałych użytków zielonych z obsadą zwierząt 437,60 Międzyplony ozime lub wsiewki śródplonowe 437,60 Opracowanie i przestrzeganie planu nawożenia - wariant podstawowy 87,52 Opracowanie i przestrzeganie planu nawożenia - wariant z wapnowaniem 262,56 Zróżnicowana struktura upraw 233,13 Wymieszanie obornika na gruntach ornych w terminie 12 godzin od jego aplikacji 175,04 Stosowanie nawozów naturalnych płynnych innymi metodami niż rozbryzgowo 262,56 Uproszczone systemy uprawy 262,56 Wymieszanie słomy z glebą 87,52
+
+--- seed material rows ---
+Materiał siewny kategorii elitarny lub materiał siewny kategorii kwalifikowany, w tym: zboża 104,15 rośliny strączkowe 168,93 ziemniaki 436,76

@@ -1,0 +1,84 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/kukurydza_na_ziarno.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Kukurydza na ziarno -
+  |  Uprawa:  |  plon:  |  85  |  dt/ha
+  |  dt/ha
+  |  2026  |  Luty
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Kukurydza na ziarno  |  Materiał bazowy "C1"  |  j.s.  |  1,80  |  491,46  |  884,63
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+Mocznik  |  N  |  2/04  |  160  |  5,11  |  817,55
+Superfosfat wzbogacony  |  P  |  2/04  |  80  |  6,63  |  530,74
+Sól potasowa  |  K  |  2/04  |  150  |  2,96  |  444,15
+Insol K  |  dolistny  |  1/06  |  2  |  13,95  |  27,90
+Razem  |  1820,34
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Maister Power 42,5 OD  |  Herbicyd  |  1/05  |  0,75  |  212,86  |  159,65
+Maister Power 42,5 OD  |  Herbicyd  |  2/05  |  0,75  |  212,86  |  159,65
+Innovate 240 SC  |  Herbicyd  |  2/05  |  0,2  |  236,00  |  47,20
+Atpolan 80 EC  |  Adiuwant  |  2/05  |  1,5  |  56,18  |  84,27
+Razem  |  450,76
+  |  Termin  |  Czas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+brona talerzowa 2,1 m  |  Talerzowanie  |  2/10  |  1,00  |  59,97  |  59,97
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  67,69  |  135,39
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  2/04  |  1,50  |  58,40  |  87,60
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/04  |  1,00  |  72,64  |  72,64
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty 3 x  |  1/05  |  1,20  |  61,01  |  73,21
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Dokarmianie dolistne  |  1/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  2/10  |  0,50  |  66,52  |  33,26
+Razem  |  6,80  |  486,47
+  |  Termin  |  Czas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 60KM+siewnik pneumatyczny  |  Siew  |  3/04  |  1,00  |  227,69  |  227,69
+Kombajn Bizon Rekord Z 058/8  |  Zbiór  |  2/10  |  2,00  |  510,21  |  1020,42
+Razem  |  3,00  |  1248,10
+  |  Cena  |  Wartość
+  Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Dosuszenie ziarna z 30% na 14%  |  Suszenie  |  %  |  85  |  25  |  2125,00
+Razem  |  2125,00
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Ziarno kukurydzy  |  dt  |  85  |  74,57  |  6338,57
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  7003,96
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  7015,30
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  -11,34
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  82,53
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  -0,13

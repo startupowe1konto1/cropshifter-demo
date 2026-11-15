@@ -1,0 +1,21 @@
+# Excerpt of https://esmis.nal.usda.gov/sites/default/release-files/795725/cropan26.pdf (NASS Crop Production 2025 Summary, January 2026)
+# Downloaded Sat 14 Nov 2026 for R9. Used only to cross-check bushel-to-metric conversion. Pages: 95 97 (rows for corn, soybeans, oats, alfalfa)
+
+=== PDF page 95 ===
+Crop Area Planted and Harvested, Yield, and Production in Domestic Units – United States:
+Yield per acre Production
+Corn for grain ...................................................................... bushels 179.3 186.5 14,891,756 17,020,549
+Alfalfa .................................................................................. tons 3.41 3.42 49,840 50,213
+Oats .................................................................................... bushels 76.4 73.8 68,335 69,626
+Soybeans for beans ............................................................ bushels 50.7 53.0 4,374,228 4,261,858
+Crop Production 2025 Summary (January 2026) 95
+
+=== PDF page 97 ===
+Crop Area Planted and Harvested, Yield, and Production in Metric Units – United States:
+Yield per hectare Production
+(metric tons) (metric tons) (metric tons) (metric tons)
+Corn for grain ................................................................................... 11.26 11.71 378,268,030 432,341,860
+Alfalfa .......................................................................................... 7.65 7.67 45,214,090 45,552,470
+Oats ................................................................................................. 2.74 2.65 991,880 1,010,620
+Soybeans for beans ......................................................................... 3.41 3.56 119,046,980 115,988,770
+Crop Production 2025 Summary (January 2026) 97

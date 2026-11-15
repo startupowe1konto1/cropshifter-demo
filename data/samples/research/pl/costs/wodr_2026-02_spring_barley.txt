@@ -1,0 +1,89 @@
+Source: WODR Poznań, "Kalkulacje rolnicze produkcji roślinnej oraz zwierzęcej, luty 2026" (model calculation sheet, not a survey)
+Page: https://www.wodr.poznan.pl/doradztwo/ekonomika/kalkulacje-rolnicze-produkcji-roslinnej-oraz-zwierzecej-luty-2026
+PDF: https://www.wodr.poznan.pl/images/2026/doradztwo/ekonomika/kalkulacje/luty/jęczmień_jary.pdf
+Retrieved: 2026-11-14 16:56 CET
+Locator: PDF page 1 (single page), full text extracted with PyMuPDF get_text(sort=True)
+Page intro (quoted): Przedstawiamy kalkulacje dotyczące produktów roślinnych oraz produkcji zwierzęcej, które obejmują między innymi materiał siewny, rodzaj nawozu, koszty maszyn oraz usługi. Zestawienie dotyczy miesiąca lutego 2026 roku.
+
+----- extracted text -----
+--- page 1 ---
+  |  Uprawa: Jęczmień jary  |  plon:  |  45  |  dt/ha
+  |  2026  |  Luty
+  |  Cena  |  Wartość
+  |  Materiał siewny  |  Stopień kwalifikacji  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Jęczmień  |  Materiał bazowy "C1"  |  kg  |  140,00  |  2,57  |  359,10
+  |  Termin
+  |  Cena
+  |  zabiegu  |  Dawka  |  Wartość
+  |  Nawozy mineralne  |  Rodzaj nawozu  |  składnika
+  |  (dekada/m-  |  (kg/ha)  |  (zł/ha)
+  |  (zł/kg)
+  |  c)
+  |  N  |  3/03  |  15  |  4,81  |  72,09
+Polifoska 6:20:30  |  P  |  3/03  |  50  |  8,12  |  406,05
+  |  K  |  3/03  |  75  |  2,77  |  207,55
+  |  N  |  3/03  |  40  |  5,14  |  205,70
+Saletra amonowa
+  |  N  |  1/05  |  40  |  5,14  |  205,70
+Razem  |  1097,10
+  |  Termin
+  |  Cena
+  |  Rodzaj środka (herbicydy, fungicydy,  |  zabiegu  |  Dawka  |  Wartość
+  |  Środki ochrony roślin  |  środka
+  |  insektycydy, regulatory wzrostu)  |  (dekada/m-  (l,kg/ha)  |  (zł/ha)
+  |  (zł/l,kg)
+  |  c)
+Biathlon 4 D  |  Herbicyd  |  2/04  |  0,06  |  701,33  |  42,08
+Cyperkil Max 500 EC  |  Insektycyd  |  3/05  |  0,05  |  217,15  |  10,86
+Delaro 325 S.C.  |  Fungicyd  |  1/06  |  1,00  |  216,48  |  216,48
+Razem  |  269,42
+  |  Termin  |  Cas
+  |  Koszt
+ Zmienne koszty maszynowe - praca maszyn  |  zabiegu  |  trwania  |  Wartość
+  |  Rodzaj działania agrotechnicznego  |  zabiegu
+  |  własnych  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Ciągnik 80KM+pług 4-skibowy  |  Orka zimowa  |  3/10  |  2,00  |  67,69  |  135,39
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew NPK  |  3/03  |  0,50  |  58,40  |  29,20
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 1 dawka  |  3/03  |  0,30  |  58,40  |  17,52
+Ciągnik 80KM+agregat uprawowy 2,8m  |  Uprawa przedsiewna  |  3/03  |  1,00  |  72,64  |  72,64
+Ciągnik 60KM+siewnik zbożowy 3m  |  Siew  |  3/03  |  1,20  |  76,24  |  91,49
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk na chwasty  |  2/04  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+rozsiewacz nawozów 300kg  |  Wysiew N - 2 dawka  |  1/05  |  0,30  |  58,40  |  17,52
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk insektycydem  |  3/05  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  1/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+opryskiwacz polowy 12m  |  Oprysk fungicydem  |  2/06  |  0,40  |  61,01  |  24,40
+Ciągnik 60KM+przyczepa 7t  |  Transport ziarna do gospodarstwa  |  3/08  |  0,50  |  66,52  |  33,26
+Ciągnik 60KM+prasa zwijająca  |  Prasowanie słomy  |  3/08  |  1,20  |  104,20  |  125,04
+Ciągnik 60KM+ładowacz czołowy  |  Załadunek słomy  |  3/08  |  2,00  |  59,41  |  118,82
+Ciągnik 60KM+przyczepa 7t  |  Zwożenie słomy  |  3/08  |  2,00  |  66,52  |  133,03
+Razem  |  12,20  |  871,52
+  |  Termin  |  Cas
+  |  Koszt
+  |  zabiegu  |  trwania  |  Wartość
+  |  Usługi z zewnątrz  |  Rodzaj usługi  |  zabiegu
+  |  (dekada/m-  zabiegu  |  (zł/ha)
+  |  (zł/godz)
+  |  c)  |  (godz/ha)
+Kombajn Bizon Rekord Z 058/5  |  Zbiór  |  3/08  |  1,00  |  510,21  |  510,21
+Razem  |  1,00  |  510,21
+  |  Cena  |  Wartość
+ Inne koszty zmienne (w tym praca najemna)  |  Rodzaj kosztu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Prasa do słomy  |  Sznurek  |  szt  |  1  |  54,81  |  54,81
+Razem  |  54,81
+
+  |  Cena  |  Wartość
+  |  Przychód  |  Rodzaj przychodu  |  j.m.  |  Ilość
+  |  (zł/j.m.)  |  (zł/ha)
+Produkt główny  |  Ziarno jęczmienia  |  dt  |  45  |  63,89  |  2874,94
+Dopłaty, subwencje  |  Razem JPO+dodatkowa  |  ha  |  1  |  665,39  |  665,39
+WARTOŚĆ PRODUKCJI RAZEM (zł/ha)  |  3540,33
+KOSZTY BEZPOŚREDNIE RAZEM (zł/ha)  |  3162,16
+NADWYŻKA BEZPOŚREDNIA (zł/ha)  |  378,17
+
+
+KOSZTY BEZPOŚREDNIE RAZEM (zł/dt)  |  70,27
+NADWYŻKA BEZPOŚREDNIA (zł/dt)  |  8,40
