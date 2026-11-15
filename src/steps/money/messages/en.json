@@ -51,5 +51,6 @@
   "steps.money.noReference": "Your rotation has no income estimate, so the options show their own margin only.",
   "steps.money.col.diff": "Difference from your rotation, average year",
   "steps.money.best": "Best option",
-  "steps.money.compareTitle": "This option next to your rotation: soil, climate and income"
+  "steps.money.compareTitle": "This option next to your rotation: soil, climate and income",
+  "steps.money.demoNote": "This is a demo. Some of the data here are placeholders for illustration, so treat the numbers as an example, not as advice for a real field."
 }

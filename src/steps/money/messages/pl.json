@@ -51,5 +51,6 @@
   "steps.money.noReference": "Twój płodozmian nie ma szacunku dochodu, więc opcje pokazują tylko własną nadwyżkę.",
   "steps.money.col.diff": "Różnica względem twojego płodozmianu, przeciętny rok",
   "steps.money.best": "Najlepsza opcja",
-  "steps.money.compareTitle": "Ta opcja obok twojego płodozmianu: gleba, klimat i dochód"
+  "steps.money.compareTitle": "Ta opcja obok twojego płodozmianu: gleba, klimat i dochód",
+  "steps.money.demoNote": "To jest wersja demo. Część danych to przykładowe wartości poglądowe, więc traktuj liczby jako przykład, a nie jako poradę dla prawdziwego pola."
 }

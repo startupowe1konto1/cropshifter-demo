@@ -36,7 +36,7 @@ function Delta({ n }: { n: number }) {
   const up = n > 0;
   return (
     <span
-      className={`ml-auto inline-flex h-7 shrink-0 items-center gap-1 rounded-full px-2.5 text-sm font-bold ${
+      className={`ml-auto inline-flex h-8 shrink-0 items-center gap-1 rounded-full px-3 text-base font-bold ${
         up ? 'bg-emerald-50 text-emerald-800' : 'bg-zinc-100 text-zinc-900'
       }`}
     >
@@ -65,7 +65,7 @@ function confirmedSum(row: MoneyRow): { sum: Sourced; names: string[] } | null {
   };
 }
 
-const cell = 'h-[76px] px-4 align-middle sm:px-5';
+const cell = 'h-[88px] px-4 py-3 align-middle sm:px-6';
 
 export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analysis: Analysis; goal: GoalId }) {
   const options = rows.filter((r) => !r.isCurrent);
@@ -98,12 +98,12 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
 
   const income = (row: MoneyRow, diff?: number | null) =>
     row.status === 'ready' ? (
-      <span className="flex items-center gap-2 text-xl font-extrabold tracking-tight text-zinc-950 sm:text-2xl">
+      <span className="flex items-center gap-2 text-2xl font-extrabold tracking-tight text-zinc-950 sm:text-[28px]">
         <SourcedNumber value={average(row)} datasets={analysis.datasets} decimals={0} />
         {diff !== undefined && diff !== null && diff !== 0 ? (
           // On a phone the verdict above already says the difference, so the pill would only crowd the cell.
           <span
-            className={`ml-auto hidden h-7 shrink-0 items-center gap-1 rounded-full px-2.5 text-sm font-bold sm:inline-flex ${
+            className={`ml-auto hidden h-8 shrink-0 items-center gap-1 rounded-full px-3 text-base font-bold sm:inline-flex ${
               diff > 0 ? 'bg-emerald-50 text-emerald-800' : 'bg-zinc-100 text-zinc-900'
             }`}
           >
@@ -164,7 +164,7 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
       <h3 id="switch-compare-title" className="mt-4 border-t border-zinc-200 pt-5 text-lg font-semibold text-zinc-950">
         {t('steps.money.compareTitle')}
       </h3>
-      <div className="overflow-hidden rounded-[20px] border border-zinc-200 bg-white">
+      <div className="mt-1 overflow-hidden rounded-[20px] border border-zinc-200 bg-white shadow-sm sm:mx-2">
         <table aria-label={t('steps.money.compare')} className="w-full table-fixed border-collapse">
           <colgroup>
             <col className="w-[27%] sm:w-[26%]" />
@@ -173,25 +173,25 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
           </colgroup>
           <thead>
             <tr>
-              <td className="h-24" />
-              <th scope="col" className="h-24 border-l border-zinc-200 px-4 text-left align-middle font-normal sm:px-5">
+              <td className="h-28" />
+              <th scope="col" className="h-28 border-l border-zinc-200 px-4 text-left align-middle font-normal sm:px-5">
                 <span className="grid justify-items-start gap-1.5">
                   {n === 1 ? (
-                    <span className="inline-flex min-h-[26px] items-center rounded-lg bg-lime-300 px-2.5 py-0.5 text-[13px] leading-tight font-bold text-zinc-950">
+                    <span className="inline-flex min-h-[26px] items-center rounded-lg bg-lime-300 px-2.5 py-0.5 text-xs leading-tight font-bold sm:text-sm text-zinc-950">
                       {t('steps.money.bestFor', { goal: t(`steps.goal.${goal}`) })}
                     </span>
                   ) : (
-                    <span className="inline-flex h-[26px] items-center text-[13px] font-bold uppercase tracking-wide text-zinc-600">{optionName}</span>
+                    <span className="inline-flex h-[26px] items-center text-xs font-bold uppercase sm:text-sm tracking-wide text-zinc-600">{optionName}</span>
                   )}
-                  <span className="line-clamp-2 text-base font-bold leading-tight text-zinc-950">{picked.title}</span>
+                  <span className="line-clamp-3 text-base font-bold leading-snug sm:text-lg text-zinc-950">{picked.title}</span>
                 </span>
               </th>
-              <th scope="col" className="h-24 border-l border-zinc-200 bg-zinc-50 px-4 text-left align-middle font-normal sm:px-5">
+              <th scope="col" className="h-28 border-l border-zinc-200 bg-zinc-50 px-4 text-left align-middle font-normal sm:px-5">
                 <span className="grid justify-items-start gap-1.5">
-                  <span className="inline-flex min-h-[26px] items-center rounded-lg bg-zinc-800 px-2.5 py-0.5 text-[13px] leading-tight font-bold text-white">
+                  <span className="inline-flex min-h-[26px] items-center rounded-lg bg-zinc-800 px-2.5 py-0.5 text-xs leading-tight font-bold sm:text-sm text-white">
                     {t('steps.money.current')}
                   </span>
-                  <span className="line-clamp-2 text-base font-bold leading-tight text-zinc-950">{current.title}</span>
+                  <span className="line-clamp-3 text-base font-bold leading-snug sm:text-lg text-zinc-950">{current.title}</span>
                 </span>
               </th>
             </tr>
@@ -202,22 +202,22 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
               { label: t('steps.rotations.climate'), mine: a.climateResilience.value, theirs: b.climateResilience.value, diff: climateDiff },
             ].map((r) => (
               <tr key={r.label} className="border-t border-zinc-200">
-                <th scope="row" className={`${cell} text-left text-[15px] font-medium text-zinc-600`}>
+                <th scope="row" className={`${cell} text-left text-base font-semibold text-zinc-700 sm:text-lg`}>
                   {r.label}
                 </th>
                 <td className={`${cell} border-l border-zinc-200`}>
                   <span className="flex items-center gap-2">
-                    <span className="text-[26px] font-extrabold tabular-nums tracking-tight text-zinc-950">{Math.round(r.mine)}</span>
+                    <span className="text-[28px] font-extrabold sm:text-[32px] tabular-nums tracking-tight text-zinc-950">{Math.round(r.mine)}</span>
                     <Delta n={r.diff} />
                   </span>
                 </td>
                 <td className={`${cell} border-l border-zinc-200 bg-zinc-50`}>
-                  <span className="text-[26px] font-extrabold tabular-nums tracking-tight text-zinc-950">{Math.round(r.theirs)}</span>
+                  <span className="text-[28px] font-extrabold sm:text-[32px] tabular-nums tracking-tight text-zinc-950">{Math.round(r.theirs)}</span>
                 </td>
               </tr>
             ))}
             <tr className="border-t border-zinc-200">
-              <th scope="row" className={`${cell} text-left text-[15px] font-medium text-zinc-600`}>
+              <th scope="row" className={`${cell} text-left text-base font-semibold text-zinc-700 sm:text-lg`}>
                 {t('steps.money.incomeRow')}
               </th>
               <td className={`${cell} border-l border-zinc-200`}>{income(picked, moneyDiff)}</td>
@@ -226,6 +226,9 @@ export function SwitchOrStay({ rows, analysis, goal }: { rows: MoneyRow[]; analy
           </tbody>
         </table>
       </div>
+      <p data-testid="demo-data-note" className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm leading-snug text-amber-950 sm:mx-2">
+        {t('steps.money.demoNote')}
+      </p>
 
       {picked.status === 'ready' ? (
         <div data-testid="money-payments" className="grid min-h-16 gap-1.5 rounded-[20px] border border-zinc-200 bg-white px-5 py-4 text-[15px] text-zinc-800">
