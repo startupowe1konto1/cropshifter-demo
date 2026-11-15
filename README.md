@@ -1,6 +1,6 @@
 # CropShifter
 
-CropShifter helps a farmer pick a crop rotation that keeps the soil healthy and copes with the local climate, using NASA data (NASA POWER, SMAP via GIBS) together with soil, crop-history and price data. Built by team Vibecodersi for the NASA Space Apps Challenge 2026, challenge "Field Shift: Adapting Farms with NASA Data".
+CropShifter helps a farmer pick a crop rotation that keeps the soil healthy and copes with the local climate, using NASA data (NASA POWER climate records and NASADEM slope) together with soil, crop-history and price data. Built by team Vibecodersi for the NASA Space Apps Challenge 2026, challenge "Field Shift: Adapting Farms with NASA Data".
 
 This repository holds only the web app, ready to deploy on Vercel.
 
