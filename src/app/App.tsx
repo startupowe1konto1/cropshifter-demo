@@ -48,6 +48,15 @@ export function App() {
     return () => document.removeEventListener('keydown', onKey);
   }, [glossaryOpen]);
 
+  // A new step opens at its top, whether reached by Next, Back or the start button, not where the last one was scrolled.
+  useEffect(() => {
+    try {
+      window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    } catch {
+      // jsdom and very old browsers: nothing to scroll.
+    }
+  }, [state.step]);
+
   // Steps with a map or with cards side by side get the wide layout; the question steps stay narrow and easy to read.
   const wide = key === 'rotations' || key === 'money' || key === 'field';
   const width = wide ? 'max-w-7xl' : key ? 'max-w-3xl' : 'max-w-6xl';
