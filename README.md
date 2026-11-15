@@ -1,6 +1,6 @@
 # CropShifter
 
-CropShifter helps a farmer pick a crop rotation that keeps the soil healthy and copes with the local climate, using NASA data (NASA POWER, SMAP via GIBS) together with soil, crop-history and price data. Built by team Vibecodersi for the NASA Space Apps Challenge 2026, challenge "Field Shift: Adapting Farms with NASA Data".
+CropShifter helps a farmer pick a crop rotation that keeps the soil healthy and copes with the local climate, using NASA data (NASA POWER climate records and NASADEM slope) together with soil, crop-history and price data. Built by team Vibecodersi for the NASA Space Apps Challenge 2026, challenge "Field Shift: Adapting Farms with NASA Data".
 
 This repository holds only the web app, ready to deploy on Vercel.
 
@@ -15,6 +15,10 @@ A link can open straight on a demo field: `/?demo=poznan` or `/?demo=iowa` (add 
 
 You can still search for any address or tap the map, but soil, slope and crop-history data are precomputed only for these two fields.
 
+## Pitch deck
+
+The 7-slide pitch deck: https://cropshifter-demo.vercel.app/pitch/deck.pdf (PDF) and https://cropshifter-demo.vercel.app/pitch/ (animated, on a laptop; right arrow or space to advance).
+
 ## Run locally
 
 ```bash
@@ -26,7 +30,7 @@ npm run build      # output in dist/
 
 ## Deploy on Vercel
 
-Import this repository in Vercel. `vercel.json` sets the framework (Vite), the build command (`npm run build`) and the output folder (`dist`). No environment variables are needed. `api/cropscape.ts` becomes a serverless function that forwards one request type to USDA CropScape.
+Import this repository in Vercel. `vercel.json` sets the framework (Vite), the build command and the output folder (`dist`). The build command runs `vite build`, installs the pitch deck's dependencies and runs `scripts/build-pitch.mjs`, which copies the deck in `pitch/deck/` to `/pitch/` and its PDF (`pitch/out/deck.pdf`) to `/pitch/deck.pdf`. No environment variables are needed. `api/cropscape.ts` becomes a serverless function that forwards one request type to USDA CropScape.
 
 ## Notes
 
